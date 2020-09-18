@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.121048900000005
 longitude: 13.499826500000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Martin-Luther-Straße"
 housenumber: 22

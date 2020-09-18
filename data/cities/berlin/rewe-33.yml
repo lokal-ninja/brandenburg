@@ -1,12 +1,12 @@
-id: 1336738281
+id: 1349696696
 type: node
 shop: Supermarkt
-latitude: 52.49942720000001
-longitude: 13.4187092
-postcode: 10999
+latitude: 52.520534100000006
+longitude: 13.388433000000001
+postcode: "10117"
 city: Berlin
-street: "Skalitzer Straße"
-housenumber: 135
+street: "Friedrichstraße"
+housenumber: 100
 phone: ""
-opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-23:30"
+opening_hours: "Mo-Sa 07:00-23:30"
 website: ""

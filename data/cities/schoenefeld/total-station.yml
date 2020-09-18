@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3704155
 longitude: 13.527206900000001
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Elly-Beinhorn-Ring"
 housenumber: 2

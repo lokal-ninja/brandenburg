@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.5351495
 longitude: 13.422842900000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Marienburger Straße"
 housenumber: 2

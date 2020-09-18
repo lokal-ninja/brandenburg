@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.9255891
 longitude: 12.806049000000002
-postcode: 16816
+postcode: "16816"
 city: Neuruppin
 street: "Karl-Marx-Straße"
 housenumber: 29

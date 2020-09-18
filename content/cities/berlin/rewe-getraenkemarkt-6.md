@@ -1,4 +1,4 @@
 ---
-title: "Rewe Getränkemarkt"
+title: "REWE Getränkemarkt"
 url: /berlin/rewe-getraenkemarkt-6/
 ---

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.443023600000004
 longitude: 13.3837349
-postcode: 12105
+postcode: "12105"
 city: Berlin
 street: "Prühßstraße"
 housenumber: 34

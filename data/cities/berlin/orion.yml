@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 52.5358267
 longitude: 13.275793700000001
-postcode: 13629
+postcode: "13629"
 city: Berlin
 street: "Siemensdamm"
 housenumber: 43-44

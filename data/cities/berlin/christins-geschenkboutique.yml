@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.4206877
 longitude: 13.495798700000002
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Prierosser Straße"
 housenumber: 39

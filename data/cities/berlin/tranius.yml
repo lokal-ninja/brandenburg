@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.488806700000005
 longitude: 13.4287633
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Reuterstraße"
 housenumber: 55

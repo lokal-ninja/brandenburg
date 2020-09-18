@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.5027398
 longitude: 13.3293706
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Meinekestraße"
 housenumber: 27

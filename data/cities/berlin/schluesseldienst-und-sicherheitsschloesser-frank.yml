@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.4461705
 longitude: 13.2941236
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Unter den Eichen"
 housenumber: 62

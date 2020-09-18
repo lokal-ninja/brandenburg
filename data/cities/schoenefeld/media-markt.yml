@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.3701949
 longitude: 13.5593506
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Am Rondell"
 housenumber: 3

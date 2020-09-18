@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.52688070000001
 longitude: 13.306718700000001
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Lise-Meitner-Straße"
 housenumber: 2

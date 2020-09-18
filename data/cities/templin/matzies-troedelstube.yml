@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 53.093137500000005
 longitude: 13.4591048
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Dorfstraße"
 housenumber: 23

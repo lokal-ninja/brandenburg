@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.675354000000006
 longitude: 13.579048700000001
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Heinersdorfer Straße"
 housenumber: 28

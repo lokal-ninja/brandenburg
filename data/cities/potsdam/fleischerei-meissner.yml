@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.393134100000005
 longitude: 13.0918132
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Karl-Liebknecht-Straße"
 housenumber: 131

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.581909700000004
 longitude: 12.3354613
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Am Hafen"
 housenumber: 4

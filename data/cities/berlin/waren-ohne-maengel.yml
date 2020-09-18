@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.4833233
 longitude: 13.3541719
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Feurigstraße"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.4772278
 longitude: 13.289133900000001
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Reichenhaller Straße"
 housenumber: 1

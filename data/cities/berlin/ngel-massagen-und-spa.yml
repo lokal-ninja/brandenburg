@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.5109634
 longitude: 13.3008044
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Bismarckstraße"
 housenumber: 74/75

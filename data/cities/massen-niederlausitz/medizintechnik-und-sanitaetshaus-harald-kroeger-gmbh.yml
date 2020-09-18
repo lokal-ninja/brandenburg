@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.6346458
 longitude: 13.737492300000001
-postcode: 03238
+postcode: "03238"
 city: Massen-Niederlausitz
 street: "Hertzstraße"
 housenumber: 8

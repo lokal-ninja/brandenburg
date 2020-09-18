@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4896541
 longitude: 13.3109978
-postcode: 10713
+postcode: "10713"
 city: Berlin
 street: "Hohenzollerndamm"
 housenumber: 53 a

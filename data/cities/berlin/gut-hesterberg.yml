@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.449159
 longitude: 13.352065600000001
-postcode: 12169
+postcode: "12169"
 city: Berlin
 street: "Steglitzer Damm"
 housenumber: 80

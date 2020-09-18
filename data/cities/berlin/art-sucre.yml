@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 52.5327708
 longitude: 13.3333793
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Siemensstraße"
 housenumber: 14

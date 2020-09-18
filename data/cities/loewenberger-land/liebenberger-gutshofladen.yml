@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.892813800000006
 longitude: 13.2580995
-postcode: 16775
+postcode: "16775"
 city: Löwenberger Land
 street: "Parkweg"
 housenumber: 4

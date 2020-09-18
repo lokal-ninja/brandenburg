@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.859991900000004
 longitude: 13.9525144
-postcode: 03222
+postcode: "03222"
 city: Lübbenau/Spreewald
 street: "Roter Platz"
 housenumber: 1

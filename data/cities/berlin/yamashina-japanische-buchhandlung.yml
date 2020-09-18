@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 52.507817
 longitude: 13.3034946
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Pestalozzistraße"
 housenumber: 67
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
 website: ""

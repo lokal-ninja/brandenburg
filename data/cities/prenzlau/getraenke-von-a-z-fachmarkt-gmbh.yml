@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.3217105
 longitude: 13.8767258
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Brüssower Allee"
 housenumber: 50

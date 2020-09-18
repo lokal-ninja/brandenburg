@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.1810709
 longitude: 13.144669500000001
-postcode: 16798
+postcode: "16798"
 city: Fürstenberg/Havel
 street: "Zehdenicker Straße"
 housenumber: 1

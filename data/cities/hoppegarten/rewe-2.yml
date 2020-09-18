@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.516553
 longitude: 13.6483903
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Neuer Hönower Weg"
 housenumber: 1d

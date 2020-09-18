@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.5647287
 longitude: 13.5064559
-postcode: 13051
+postcode: "13051"
 city: Berlin
 street: "Prerower Platz"
 housenumber: 1

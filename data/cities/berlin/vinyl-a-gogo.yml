@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.510151400000005
 longitude: 13.4601454
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Krossener Straße"
 housenumber: 24

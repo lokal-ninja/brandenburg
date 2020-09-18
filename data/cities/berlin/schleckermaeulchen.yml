@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5087252
 longitude: 13.319866800000002
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Grolmanstraße"
 housenumber: 

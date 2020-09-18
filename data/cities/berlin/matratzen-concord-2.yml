@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.5350539
 longitude: 13.431281100000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 194

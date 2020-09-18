@@ -1,12 +1,12 @@
-id: 24754887
-type: way
+id: 6808350137
+type: node
 shop: Supermarkt
-latitude: 52.6184128
-longitude: 13.239479000000001
-postcode: 13503
+latitude: 52.52732760000001
+longitude: 13.3729712
+postcode: "10557"
 city: Berlin
-street: "Ruppiner Chaussee"
-housenumber: 301
-phone: "+49 30 43662800"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-tozlu-ruppiner-chaussee-301/index.jsp"
+street: "Invalidenstraße"
+housenumber: 74
+phone: ""
+opening_hours: "Mo-Sa 07:00-21:00; Mo-Sa 07:00-22:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.1239007
 longitude: 13.4876483
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Neuplachter Weg"
 housenumber: 6

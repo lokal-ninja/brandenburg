@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 52.4871221
 longitude: 13.358996800000002
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Crellestraße"
 housenumber: 7

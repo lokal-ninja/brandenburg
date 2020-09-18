@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.6127538
 longitude: 12.881899200000001
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Dammstraße"
 housenumber: 24

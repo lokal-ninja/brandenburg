@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.569826500000005
 longitude: 13.2509651
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Hauptstraße"
 housenumber: 27

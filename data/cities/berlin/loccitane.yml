@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5024546
 longitude: 13.326118000000001
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 214

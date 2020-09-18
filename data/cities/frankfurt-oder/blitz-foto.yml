@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.357733200000006
 longitude: 14.530848400000002
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Perleberger Straße"
 housenumber: 2

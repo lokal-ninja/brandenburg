@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.5824307
 longitude: 13.403960600000001
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Dietzgenstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.52782680000001
 longitude: 13.3917759
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Torstraße"
 housenumber: 206

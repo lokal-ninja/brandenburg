@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.4448439
 longitude: 13.5751582
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Grünstraße"
 housenumber: 22

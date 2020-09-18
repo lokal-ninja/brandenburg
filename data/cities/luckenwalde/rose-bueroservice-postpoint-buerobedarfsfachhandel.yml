@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.08886570000001
 longitude: 13.1628491
-postcode: 14943
+postcode: "14943"
 city: Luckenwalde
 street: "Käthe-Kollwitz-Straße"
 housenumber: 57

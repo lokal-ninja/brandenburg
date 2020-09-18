@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.6385956
 longitude: 13.702981000000001
-postcode: 03238
+postcode: "03238"
 city: Finsterwalde
 street: "Sonnewalder Straße"
 housenumber: 49

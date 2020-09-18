@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4882937
 longitude: 13.330580800000002
-postcode: 10717
+postcode: "10717"
 city: Berlin
 street: "Bundesallee"
 housenumber: 38

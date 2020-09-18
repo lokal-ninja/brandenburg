@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.358988200000006
 longitude: 14.062634300000001
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Rathausstraße"
 housenumber: 

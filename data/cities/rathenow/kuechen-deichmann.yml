@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.6093964
 longitude: 12.333055400000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Jederitzer Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.388992800000004
 longitude: 13.092931400000001
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Großbeerenstraße"
 housenumber: 25

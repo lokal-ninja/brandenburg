@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4987585
 longitude: 13.347975600000002
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Kalckreuthstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.456276800000005
 longitude: 13.511380500000001
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Spreestraße"
 housenumber: 1

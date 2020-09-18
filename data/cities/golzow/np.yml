@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2830008
 longitude: 12.6017045
-postcode: 14778
+postcode: "14778"
 city: Golzow
 street: "Brandenburger Straße"
 housenumber: 82c

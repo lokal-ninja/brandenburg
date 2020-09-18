@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 52.3824004
 longitude: 13.124763000000002
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Großbeerenstraße"
 housenumber: 213

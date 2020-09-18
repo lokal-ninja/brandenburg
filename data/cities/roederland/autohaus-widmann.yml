@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.4855754
 longitude: 13.4849349
-postcode: 04932
+postcode: "04932"
 city: Röderland
 street: "Heideweg"
 housenumber: 3

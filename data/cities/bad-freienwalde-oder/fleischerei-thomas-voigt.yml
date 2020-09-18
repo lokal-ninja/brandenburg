@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.8379119
 longitude: 14.1185185
-postcode: 16259
+postcode: "16259"
 city: Bad Freienwalde (Oder)
 street: "Oderstraße"
 housenumber: 39

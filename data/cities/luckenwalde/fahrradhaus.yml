@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.0851776
 longitude: 13.1631508
-postcode: 14943
+postcode: "14943"
 city: Luckenwalde
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 124

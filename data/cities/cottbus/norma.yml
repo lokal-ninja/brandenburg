@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7220882
 longitude: 14.3251188
-postcode: 03050
+postcode: "03050"
 city: Cottbus
 street: "Schopenhauerstraße"
 housenumber: 5

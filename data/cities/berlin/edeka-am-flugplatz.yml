@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4718815
 longitude: 13.1252387
-postcode: 14089
+postcode: "14089"
 city: Berlin
 street: "Am Flugplatz Gatow"
 housenumber: 10

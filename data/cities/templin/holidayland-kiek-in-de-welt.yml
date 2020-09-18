@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.1202277
 longitude: 13.4986177
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Martin-Luther-Straße"
 housenumber: 5a

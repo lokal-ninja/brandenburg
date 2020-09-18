@@ -1,12 +1,12 @@
-id: 2337463160
+id: 2625367381
 type: node
 shop: Getränke
-latitude: 52.4417387
-longitude: 13.5527613
-postcode: 12489
+latitude: 52.556009
+longitude: 13.4872426
+postcode: "13088"
 city: Berlin
-street: "Waldstraße"
-housenumber: 16
-phone: "+49 30 671 00 44"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"
-website: "https://www.getraenke-hoffmann.de/"
+street: "Hansastraße"
+housenumber: 188
+phone: ""
+opening_hours: ""
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5079264
 longitude: 13.322439200000002
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Knesebeckstraße"
 housenumber: 17

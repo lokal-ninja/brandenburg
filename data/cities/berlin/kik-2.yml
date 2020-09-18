@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.526821000000005
 longitude: 13.3314383
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 68

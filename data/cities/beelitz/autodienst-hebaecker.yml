@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2829132
 longitude: 12.887481500000002
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Berliner Allee"
 housenumber: 138

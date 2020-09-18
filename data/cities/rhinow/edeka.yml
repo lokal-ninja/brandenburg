@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.7462244
 longitude: 12.331594500000001
-postcode: 14728
+postcode: "14728"
 city: Rhinow
 street: "Werner-Seelenbinder-Straße"
-housenumber: 
+housenumber: 12
 phone: ""
 opening_hours: ""
 website: ""

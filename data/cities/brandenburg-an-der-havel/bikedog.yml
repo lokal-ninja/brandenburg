@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4136475
 longitude: 12.5554108
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Bäckerstraße"
 housenumber: 38

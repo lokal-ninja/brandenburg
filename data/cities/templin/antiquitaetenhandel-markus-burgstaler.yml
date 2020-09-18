@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 53.1114295
 longitude: 13.517925400000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Blumenstraße"
 housenumber: 2

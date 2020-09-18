@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.49889640000001
 longitude: 13.362768500000001
-postcode: 10783
+postcode: "10783"
 city: Berlin
 street: "Potsdamer Straße"
 housenumber: 117

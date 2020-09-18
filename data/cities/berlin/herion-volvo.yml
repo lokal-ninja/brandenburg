@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.4431133
 longitude: 13.3048341
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Viktoriastraße"
 housenumber: 6a

@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.619307400000004
 longitude: 12.342309400000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Semliner Straße"
 housenumber: 200

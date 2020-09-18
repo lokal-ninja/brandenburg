@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.5270255
 longitude: 13.391713800000002
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Linienstraße"
 housenumber: 147

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.400094800000005
 longitude: 13.057906500000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Friedrich-Ebert-Straße"
 housenumber: 10

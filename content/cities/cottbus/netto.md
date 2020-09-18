@@ -1,4 +1,4 @@
 ---
-title: "NETTO"
+title: "Netto"
 url: /cottbus/netto/
 ---

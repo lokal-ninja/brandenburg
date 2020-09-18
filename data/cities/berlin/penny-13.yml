@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.406305
 longitude: 13.406243000000002
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Lichtenrader Damm"
 housenumber: 83

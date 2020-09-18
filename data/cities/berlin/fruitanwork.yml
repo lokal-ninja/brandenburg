@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.469211
 longitude: 13.450943700000002
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Mittelbuschweg"
 housenumber: 6

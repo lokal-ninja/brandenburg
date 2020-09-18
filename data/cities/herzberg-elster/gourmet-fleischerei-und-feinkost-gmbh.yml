@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6903519
 longitude: 13.247007400000001
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Am Anger"
 housenumber: 8

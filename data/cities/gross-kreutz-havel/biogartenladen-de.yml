@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.403738600000004
 longitude: 12.713986700000001
-postcode: 14550
+postcode: "14550"
 city: Groß Kreutz (Havel)
 street: "Göhlsdorfer Straße"
 housenumber: 45

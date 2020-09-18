@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5332802
 longitude: 13.206474100000001
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Stresowplatz"
 housenumber: 16A

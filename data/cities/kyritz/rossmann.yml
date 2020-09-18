@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.9430969
 longitude: 12.399174100000002
-postcode: 16866
+postcode: "16866"
 city: Kyritz
 street: "Maxim-Gorki-Straße"
 housenumber: 38

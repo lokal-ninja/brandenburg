@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.3951148
 longitude: 13.049852900000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Kiezstraße"
 housenumber: 23

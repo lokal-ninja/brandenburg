@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.49302410000001
 longitude: 13.3667934
-postcode: 10783
+postcode: "10783"
 city: Berlin
 street: "Mansteinstraße"
 housenumber: 1

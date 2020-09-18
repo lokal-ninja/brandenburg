@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4928898
 longitude: 13.382046
-postcode: 
+postcode: ""
 city: Berlin
 street: "Yorckstraße"
 housenumber: 75

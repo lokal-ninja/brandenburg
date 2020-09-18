@@ -1,12 +1,12 @@
-id: 5179159425
-type: node
+id: 147486419
+type: way
 shop: Autohaus
-latitude: 52.1006689
-longitude: 13.130932600000001
-postcode: 14943
+latitude: 52.100804800000006
+longitude: 13.130416
+postcode: "14943"
 city: Luckenwalde
 street: "Frankenfelder Chaussee"
 housenumber: 4
-phone: "+493371 406629 0"
-opening_hours: ""
-website: "https://www.renault-koenig.de/filialen/luckenwalde/"
+phone: ""
+opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-16:00"
+website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.5270802
 longitude: 13.193760900000001
-postcode: 13595
+postcode: "13595"
 city: Berlin
 street: "Wilhelmstraße"
 housenumber: 8

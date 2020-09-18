@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.537188400000005
 longitude: 13.396493300000001
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Brunnenstraße"
 housenumber: 145

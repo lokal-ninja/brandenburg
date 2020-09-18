@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.606260600000006
 longitude: 13.324234400000002
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Oraniendamm"
 housenumber: 70-71

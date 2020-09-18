@@ -1,12 +1,12 @@
 id: 3264389933
 type: node
 shop: Feinkost
-latitude: 52.5546018
-longitude: 13.3441881
-postcode: 13349
+latitude: 52.5546547
+longitude: 13.344130300000002
+postcode: "13349"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 118
 phone: ""
 opening_hours: "Mo-We,Fr 09:00-18:30; Th 09:00-22:00; Sa 09:00-14:30"
-website: "http://www.mercatino-berlin.de/"
+website: ""

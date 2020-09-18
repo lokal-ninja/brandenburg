@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 53.179434400000005
 longitude: 13.416572700000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Küstrinchener Weg"
 housenumber: 3

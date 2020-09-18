@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4980205
 longitude: 13.465295200000002
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Markgrafendamm"
 housenumber: 3

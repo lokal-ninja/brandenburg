@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 51.483420100000004
 longitude: 13.8404322
-postcode: 01987
+postcode: "01987"
 city: Schwarzheide
 street: "Ruhlander Straße"
 housenumber: 150

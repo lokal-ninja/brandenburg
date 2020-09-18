@@ -1,12 +1,12 @@
-id: 42500533
-type: way
+id: 6273394389
+type: node
 shop: Drogerie
-latitude: 52.5297265
-longitude: 13.5950108
-postcode: 12619
+latitude: 52.520844100000005
+longitude: 13.413888700000001
+postcode: "10178"
 city: Berlin
-street: "Neue Grottkauer Straße"
-housenumber: 23
+street: ""
+housenumber: 2
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
 website: ""

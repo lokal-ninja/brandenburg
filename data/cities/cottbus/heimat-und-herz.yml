@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7597809
 longitude: 14.333351
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Mühlenstraße"
 housenumber: 7

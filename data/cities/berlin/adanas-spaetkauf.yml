@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.553167300000005
 longitude: 13.387030600000001
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Bellermannstraße"
 housenumber: 83A

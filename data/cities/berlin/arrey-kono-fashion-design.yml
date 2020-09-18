@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.529469600000006
 longitude: 13.3896426
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Borsigstraße"
 housenumber: 28

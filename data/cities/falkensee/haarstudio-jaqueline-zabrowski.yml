@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 52.5555267
 longitude: 13.0766179
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Elsterstraße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00;Th 09:00-21:00;Sa nur nach Terminvereinbarung"
+opening_hours: "Mo-Fr 09:00-20:00;Th 09:00-21:00;Sa nur nach Terminvereinbarung; PH off"
 website: ""

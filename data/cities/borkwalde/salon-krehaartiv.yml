@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.2534033
 longitude: 12.836216700000001
-postcode: 14822
+postcode: "14822"
 city: Borkwalde
 street: "Astrid-Lindgren-Platz"
 housenumber: 5

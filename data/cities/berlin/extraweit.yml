@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.501980800000005
 longitude: 13.3337088
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Augsburger Straße"
 housenumber: 35

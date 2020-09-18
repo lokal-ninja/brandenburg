@@ -3,10 +3,10 @@ type: way
 shop: Töpferei
 latitude: 52.699358200000006
 longitude: 14.411755600000001
-postcode: 15324
+postcode: "15324"
 city: Letschin
 street: "Alte Dorfstraße"
 housenumber: 2
 phone: "+49033478-38668"
-opening_hours: ""
+opening_hours: "Sa,Su 11:00-16:00"
 website: "http://www.diebrauntoepferei.de/"

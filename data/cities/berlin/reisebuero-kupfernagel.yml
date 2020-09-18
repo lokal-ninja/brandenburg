@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3865179
 longitude: 13.3994978
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 

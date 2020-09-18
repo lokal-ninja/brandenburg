@@ -1,12 +1,12 @@
-id: 3506086153
+id: 427043045
 type: node
 shop: Supermarkt
-latitude: 52.558259400000004
-longitude: 13.3742829
-postcode: 13359
+latitude: 52.5586866
+longitude: 13.3749078
+postcode: "13359"
 city: Berlin
-street: "Tromsöer Straße"
-housenumber: 6
-phone: "+493049301241"
+street: "Drontheimer Straße"
+housenumber: 32-32a
+phone: "+49 30 49301241"
 opening_hours: ""
 website: ""

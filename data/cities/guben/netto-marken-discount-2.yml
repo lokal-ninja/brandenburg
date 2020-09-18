@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.953288500000006
 longitude: 14.686163200000001
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Klaus-Herrmann-Straße"
 housenumber: 28

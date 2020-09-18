@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.0642134
 longitude: 11.837704700000002
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "Schwarzer Weg"
 housenumber: 9

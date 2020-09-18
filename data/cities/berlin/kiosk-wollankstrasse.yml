@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.5645126
 longitude: 13.392809900000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 

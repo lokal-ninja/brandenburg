@@ -3,7 +3,7 @@ type: way
 shop: Kaffee
 latitude: 52.419604500000005
 longitude: 13.7551734
-postcode: 15537
+postcode: "15537"
 city: Erkner
 street: "Fürstenwalder Straße"
 housenumber: 2

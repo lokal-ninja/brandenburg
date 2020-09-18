@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.53711860000001
 longitude: 13.428512600000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Winsstraße"
 housenumber: 34

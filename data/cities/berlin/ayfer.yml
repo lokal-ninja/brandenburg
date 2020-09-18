@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.552793300000005
 longitude: 13.348281
-postcode: 13349
+postcode: "13349"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 51

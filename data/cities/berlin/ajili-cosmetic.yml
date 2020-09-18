@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5724523
 longitude: 13.418919
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Damerowstraße"
 housenumber: 14

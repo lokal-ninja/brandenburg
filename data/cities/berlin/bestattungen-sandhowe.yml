@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.4770301
 longitude: 13.2877495
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Kösener Straße"
 housenumber: 7

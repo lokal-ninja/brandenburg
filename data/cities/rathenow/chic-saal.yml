@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.6055854
 longitude: 12.3408276
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Berliner Straße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-18:00"
 website: ""

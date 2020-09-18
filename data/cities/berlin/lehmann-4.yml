@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.421392600000004
 longitude: 13.4269806
-postcode: 12349
+postcode: "12349"
 city: Berlin
 street: "Rufacher Weg"
 housenumber: 66

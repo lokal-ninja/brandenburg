@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.172415300000004
 longitude: 14.246693500000001
-postcode: 15848
+postcode: "15848"
 city: Beeskow
 street: "Berliner Straße"
 housenumber: 28

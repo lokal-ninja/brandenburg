@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 52.5835202
 longitude: 13.893045
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Philipp-Müller-Straße"
 housenumber: 
-phone: "03341 2069844"
+phone: ""
 opening_hours: ""
 website: ""

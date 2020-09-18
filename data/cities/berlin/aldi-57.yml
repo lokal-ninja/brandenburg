@@ -1,12 +1,12 @@
-id: 71283930
+id: 50556814
 type: way
 shop: Supermarkt
-latitude: 52.5178881
-longitude: 13.1787375
-postcode: 13593
+latitude: 52.4520744
+longitude: 13.362043100000001
+postcode: "12105"
 city: Berlin
-street: "Heerstraße"
-housenumber: 332
+street: "Röblingstraße"
+housenumber: 120-124
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.727453700000005
 longitude: 14.647476200000002
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Triebeler Straße"
 housenumber: 106

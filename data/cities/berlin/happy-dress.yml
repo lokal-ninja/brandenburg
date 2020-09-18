@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.5359064
 longitude: 13.431472900000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Chodowieckistraße"
 housenumber: 2

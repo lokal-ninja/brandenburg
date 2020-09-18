@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.380590100000006
 longitude: 13.131073800000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Großbeerenstraße"
 housenumber: 265

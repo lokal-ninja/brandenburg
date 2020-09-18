@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.1141778
 longitude: 13.5008575
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Gartenstraße"
 housenumber: 4

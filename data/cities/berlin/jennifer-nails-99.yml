@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5010083
 longitude: 13.3641448
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Potsdamer Straße"
 housenumber: 99

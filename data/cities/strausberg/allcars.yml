@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5581369
 longitude: 13.870261800000002
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Herrenseeallee"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.509818900000006
 longitude: 13.4073729
-postcode: 10179
+postcode: "10179"
 city: Berlin
 street: "Alte Jakobstraße"
 housenumber: 83

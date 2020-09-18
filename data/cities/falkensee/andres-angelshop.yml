@@ -3,10 +3,10 @@ type: way
 shop: Angeln
 latitude: 52.560178900000004
 longitude: 13.1294363
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Spandauer Straße"
 housenumber: 122
 phone: "+49 3322 209866"
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; PH off"
 website: "http://andres-angelshop.de/"

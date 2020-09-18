@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.421900400000006
 longitude: 13.2991366
-postcode: 12207
+postcode: "12207"
 city: Berlin
 street: "Wismarer Straße"
 housenumber: 42

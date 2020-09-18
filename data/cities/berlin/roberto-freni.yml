@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4976508
 longitude: 13.3561504
-postcode: 10783
+postcode: "10783"
 city: Berlin
 street: "Zietenstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.532284700000005
 longitude: 13.4352557
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Bötzowstraße"
 housenumber: 36

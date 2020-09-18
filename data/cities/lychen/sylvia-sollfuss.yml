@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.209416600000004
 longitude: 13.316103600000002
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Am Markt"
 housenumber: 2

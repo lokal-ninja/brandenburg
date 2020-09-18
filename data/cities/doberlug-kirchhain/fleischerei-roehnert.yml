@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.6414509
 longitude: 13.568852900000001
-postcode: 03253
+postcode: "03253"
 city: Doberlug-Kirchhain
 street: "Luckauer Straße"
 housenumber: 58

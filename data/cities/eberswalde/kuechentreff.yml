@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.8342414
 longitude: 13.822038200000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Kreuzstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: way
 shop: Mieten
 latitude: 52.57849220000001
 longitude: 12.996447700000001
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Wustermarker Allee"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.550518000000004
 longitude: 13.418591000000001
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Rodenbergstraße"
 housenumber: 33

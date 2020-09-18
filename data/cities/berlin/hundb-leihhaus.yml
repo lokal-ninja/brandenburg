@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 52.5533974
 longitude: 13.4148642
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 90

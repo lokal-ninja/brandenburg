@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.5176801
 longitude: 13.453806
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Petersburger Straße"
 housenumber: 89
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-13:00"
+opening_hours: "Tu-Fr 06:30-18:00; Sa 07:00-13:00"
 website: ""

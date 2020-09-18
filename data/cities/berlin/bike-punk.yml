@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4916957
 longitude: 13.3821568
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Hagelberger Straße"
 housenumber: 18

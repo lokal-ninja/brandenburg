@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.49028130000001
 longitude: 13.4571018
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Am Treptower Park"
 housenumber: 14

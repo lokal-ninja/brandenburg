@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.83378750000001
 longitude: 13.806273200000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Eisenbahnstraße"
 housenumber: 72

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.5654083
 longitude: 13.407178900000002
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Florastraße"
 housenumber: 35a

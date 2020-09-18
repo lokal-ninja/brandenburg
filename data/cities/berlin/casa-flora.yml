@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.6348445
 longitude: 13.495822100000002
-postcode: 13125
+postcode: "13125"
 city: Berlin
 street: "Wiltbergstraße"
 housenumber: 3

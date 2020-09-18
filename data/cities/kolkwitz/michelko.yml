@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.718991800000005
 longitude: 14.292464800000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Drebkauer Straße"
 housenumber: 67

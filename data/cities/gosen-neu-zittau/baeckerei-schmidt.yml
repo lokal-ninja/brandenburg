@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3897544
 longitude: 13.7384996
-postcode: 15537
+postcode: "15537"
 city: Gosen-Neu Zittau
 street: "Berliner Straße"
 housenumber: 22

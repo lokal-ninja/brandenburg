@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.5760942
 longitude: 13.432276700000001
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Idunastraße"
 housenumber: 2

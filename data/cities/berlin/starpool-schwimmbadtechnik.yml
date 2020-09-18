@@ -3,7 +3,7 @@ type: node
 shop: Pool
 latitude: 52.4263612
 longitude: 13.329493500000002
-postcode: 12209
+postcode: "12209"
 city: Berlin
 street: "Ferdinandstraße"
 housenumber: 25

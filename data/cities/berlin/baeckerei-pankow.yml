@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5036769
 longitude: 13.4532234
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Lehmbruckstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.786112300000006
 longitude: 14.0663312
-postcode: 03226
+postcode: "03226"
 city: Vetschau/Spreewald
 street: "Berliner Straße"
 housenumber: 23

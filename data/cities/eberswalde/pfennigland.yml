@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.8336729
 longitude: 13.8192579
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 53.0065472
 longitude: 13.1752417
-postcode: 16775
+postcode: "16775"
 city: Gransee
 street: "Am Gewerbepark"
 housenumber: 7

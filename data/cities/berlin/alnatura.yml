@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.55171360000001
 longitude: 13.4136956
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 108

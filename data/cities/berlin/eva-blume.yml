@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.49306850000001
 longitude: 13.4175766
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Graefestraße"
 housenumber: 16

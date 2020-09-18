@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5196266
 longitude: 13.3039629
-postcode: 10587
+postcode: "10587"
 city: Berlin
 street: "Eosanderstraße"
 housenumber: 31

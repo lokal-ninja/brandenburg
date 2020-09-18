@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.4134437
 longitude: 13.224203300000001
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "Karl-Marx-Straße"
 housenumber: 64

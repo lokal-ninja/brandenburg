@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.428808000000004
 longitude: 13.3761843
-postcode: 12277
+postcode: "12277"
 city: Berlin
 street: "Großbeerenstraße"
 housenumber: 169-171

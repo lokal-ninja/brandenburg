@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.5652556
 longitude: 13.406062
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Florastraße"
 housenumber: 34b

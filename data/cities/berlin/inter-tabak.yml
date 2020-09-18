@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.543897300000005
 longitude: 13.3920171
-postcode: 13355
+postcode: "13355"
 city: Berlin
 street: "Brunnenstraße"
 housenumber: 84

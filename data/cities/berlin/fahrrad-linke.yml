@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.539452700000005
 longitude: 13.4103869
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Kastanienallee"
 housenumber: 10

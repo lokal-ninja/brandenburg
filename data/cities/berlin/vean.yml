@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.5165571
 longitude: 13.461142800000001
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Proskauer Straße"
 housenumber: 8

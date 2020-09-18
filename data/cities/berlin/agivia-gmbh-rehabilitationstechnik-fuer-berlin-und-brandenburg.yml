@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.50498940000001
 longitude: 13.6231551
-postcode: 12623
+postcode: "12623"
 city: Berlin
 street: "Landsberger Straße"
 housenumber: 250

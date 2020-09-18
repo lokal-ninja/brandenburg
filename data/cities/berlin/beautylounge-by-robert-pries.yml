@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5499164
 longitude: 13.355043
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Amsterdamer Straße"
 housenumber: 4

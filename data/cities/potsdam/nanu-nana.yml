@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.3998828
 longitude: 13.051210300000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 13

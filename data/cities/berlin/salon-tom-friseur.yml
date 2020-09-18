@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.417541
 longitude: 13.5286644
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Wegedornstraße"
 housenumber: 105

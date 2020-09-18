@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 51.743464700000004
 longitude: 14.3309747
-postcode: 03050
+postcode: "03050"
 city: Cottbus
 street: "Drebkauer Straße"
 housenumber: 6

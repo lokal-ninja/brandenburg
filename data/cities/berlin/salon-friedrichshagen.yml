@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4534992
 longitude: 13.6253048
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 50

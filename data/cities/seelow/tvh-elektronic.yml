@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.5323184
 longitude: 14.381008900000001
-postcode: 15306
+postcode: "15306"
 city: Seelow
 street: "Breite Straße"
 housenumber: 11

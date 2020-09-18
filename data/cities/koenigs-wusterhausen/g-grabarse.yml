@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.29501380000001
 longitude: 13.590724600000001
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
 street: "Chausseestraße"
 housenumber: 53

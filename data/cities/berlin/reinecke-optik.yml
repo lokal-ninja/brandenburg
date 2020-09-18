@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5006423
 longitude: 13.3638632
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Potsdamer Straße"
 housenumber: 101

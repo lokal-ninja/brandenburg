@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.146677200000006
 longitude: 14.6487999
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Oderlandstraße"
 housenumber: 22

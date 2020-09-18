@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.983434
 longitude: 13.7716145
-postcode: 15910
+postcode: "15910"
 city: Schönwald
 street: "Bahnhofstraße"
 housenumber: 89

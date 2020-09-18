@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.458641300000004
 longitude: 13.423596400000001
-postcode: 12347
+postcode: "12347"
 city: Berlin
 street: "Tempelhofer Weg"
 housenumber: 9

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2688884
 longitude: 14.068004100000001
-postcode: 15526
+postcode: "15526"
 city: Bad Saarow
 street: "Dorfstraße"
 housenumber: 14-16

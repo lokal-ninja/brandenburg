@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.492823900000005
 longitude: 13.417856
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Graefestraße"
 housenumber: 76

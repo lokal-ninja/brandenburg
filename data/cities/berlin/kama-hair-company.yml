@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.50245700000001
 longitude: 13.3036592
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Dahlmannstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5453702
 longitude: 13.3579705
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Luxemburger Straße"
 housenumber: 30

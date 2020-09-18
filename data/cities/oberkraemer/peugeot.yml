@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.708716100000004
 longitude: 13.135715900000001
-postcode: 16727
+postcode: "16727"
 city: Oberkrämer
 street: "Bahnweg"
 housenumber: 4

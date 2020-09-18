@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.433085600000005
 longitude: 13.3595228
-postcode: 12249
+postcode: "12249"
 city: Berlin
 street: "Brieger Straße"
 housenumber: 1

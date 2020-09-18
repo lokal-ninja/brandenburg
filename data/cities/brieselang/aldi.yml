@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5825146
 longitude: 12.9985254
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Hans-Klakow-Straße"
 housenumber: 4

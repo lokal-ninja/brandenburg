@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3989709
 longitude: 13.0522027
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Kleine Gasse"
 housenumber: 2-3

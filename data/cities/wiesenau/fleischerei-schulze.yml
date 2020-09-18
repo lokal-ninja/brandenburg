@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2323455
 longitude: 14.588960700000001
-postcode: 15295
+postcode: "15295"
 city: Wiesenau
 street: "Hauptstraße"
 housenumber: 97

@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 52.389855600000004
 longitude: 14.108811000000001
-postcode: 15518
+postcode: "15518"
 city: Steinhöfel
 street: "Kräuterweg"
 housenumber: 3

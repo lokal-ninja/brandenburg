@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.4518372
 longitude: 13.6245428
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 104

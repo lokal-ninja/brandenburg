@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5230012
 longitude: 13.464515100000002
-postcode: 
+postcode: ""
 city: Berlin
 street: "Hermann-Blankenstein-Straße"
 housenumber: 40

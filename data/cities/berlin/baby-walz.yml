@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 52.50076850000001
 longitude: 13.3219329
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Knesebeckstraße"
 housenumber: 59-61

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3577695
 longitude: 14.063151300000001
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Mühlenstraße"
 housenumber: 5D

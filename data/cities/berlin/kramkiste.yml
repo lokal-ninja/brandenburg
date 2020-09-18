@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.5424446
 longitude: 13.425165000000002
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Hiddenseer Straße"
 housenumber: 12

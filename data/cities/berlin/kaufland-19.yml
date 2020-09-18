@@ -1,12 +1,12 @@
-id: 46549327
+id: 40916785
 type: way
 shop: Supermarkt
-latitude: 52.422803300000005
-longitude: 13.312581900000001
-postcode: 12207
+latitude: 52.603495300000006
+longitude: 13.334763
+postcode: "13435"
 city: Berlin
-street: "Ostpreußendamm"
-housenumber: 60
-phone: "+49 30 754447780"
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
-website: "https://www.kaufland.de/"
+street: "Eichhorster Weg"
+housenumber: 96
+phone: ""
+opening_hours: ""
+website: ""

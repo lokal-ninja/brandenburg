@@ -3,7 +3,7 @@ type: way
 shop: Jalousien
 latitude: 52.5678714
 longitude: 13.4400528
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Romain-Rolland-Straße"
 housenumber: 62

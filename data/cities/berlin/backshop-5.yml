@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4700257
 longitude: 13.4413166
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 224

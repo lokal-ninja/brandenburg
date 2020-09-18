@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5429662
 longitude: 13.489899900000001
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Konrad-Wolf-Straße"
 housenumber: 29

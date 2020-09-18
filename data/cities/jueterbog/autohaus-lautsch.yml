@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.984272700000005
 longitude: 13.0649382
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Dennewitzer Straße"
 housenumber: 44

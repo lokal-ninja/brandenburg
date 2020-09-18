@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.091950700000005
 longitude: 13.173035400000002
-postcode: 14943
+postcode: "14943"
 city: Luckenwalde
 street: "Beelitzer Straße"
 housenumber: 15-19

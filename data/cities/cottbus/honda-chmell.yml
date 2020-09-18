@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.754944
 longitude: 14.3243679
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Schillerstraße"
 housenumber: 38

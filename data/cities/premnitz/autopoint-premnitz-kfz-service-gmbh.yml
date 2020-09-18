@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5249687
 longitude: 12.3585705
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "An der B102"
 housenumber: 1

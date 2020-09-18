@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.504687600000004
 longitude: 13.4763072
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Pfarrstraße"
 housenumber: 120

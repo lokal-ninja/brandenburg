@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5675748
 longitude: 13.3141964
-postcode: 13405
+postcode: "13405"
 city: Berlin
 street: "Scharnweberstraße"
 housenumber: 55a

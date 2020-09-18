@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4916836
 longitude: 13.4169394
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Graefestraße"
 housenumber: 69

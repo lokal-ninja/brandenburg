@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.6548371
 longitude: 13.5417976
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Schönower Straße"
 housenumber: 72

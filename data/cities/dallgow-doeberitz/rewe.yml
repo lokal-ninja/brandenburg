@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5353245
 longitude: 13.061619700000001
-postcode: 14624
+postcode: "14624"
 city: Dallgow-Döberitz
 street: "Hamburger Chaussee"
 housenumber: 184 A

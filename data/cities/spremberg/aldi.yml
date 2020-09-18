@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.562954000000005
 longitude: 14.372452800000001
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Grünstraße"
 housenumber: 3

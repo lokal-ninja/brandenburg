@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.723584200000005
 longitude: 14.133946700000001
-postcode: 16269
+postcode: "16269"
 city: Wriezen
-street: "Heinrich-Lehmphul-Straße"
-housenumber: 25
+street: "Heinrich-Lehmpuhl-Straße"
+housenumber: 25A
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00; Su off"
 website: ""

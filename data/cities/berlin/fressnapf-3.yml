@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.503123300000006
 longitude: 13.384377700000002
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Stresemannstraße"
 housenumber: 68

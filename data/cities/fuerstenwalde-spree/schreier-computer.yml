@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 52.3351875
 longitude: 14.0709426
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "An der Autobahn"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.3688585
 longitude: 13.5582635
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Am Rondell"
 housenumber: 6

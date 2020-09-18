@@ -1,12 +1,12 @@
-id: 288219500
+id: 225886103
 type: way
 shop: Supermarkt
-latitude: 52.6121398
-longitude: 13.434015800000001
-postcode: 
+latitude: 52.627228
+longitude: 13.2251474
+postcode: "13503"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 37
+street: "Hennigsdorfer Straße"
+housenumber: 167
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.aldi-nord.de/"

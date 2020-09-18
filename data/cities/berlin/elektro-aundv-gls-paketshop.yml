@@ -3,10 +3,10 @@ type: node
 shop: Elektronik
 latitude: 52.4633094
 longitude: 13.513719900000002
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Edisonstraße"
 housenumber: 59
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-11:00"
 website: ""

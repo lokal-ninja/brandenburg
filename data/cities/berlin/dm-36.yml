@@ -1,12 +1,12 @@
-id: 5255259069
+id: 4988508595
 type: node
 shop: Drogerie
-latitude: 52.5289731
-longitude: 13.4564275
-postcode: 10407
+latitude: 52.514806500000006
+longitude: 13.466133600000001
+postcode: "10247"
 city: Berlin
-street: "Landsberger Allee"
-housenumber: 117
+street: "Frankfurter Allee"
+housenumber: 57
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00, Sa 09:00-21:00"
+opening_hours: "Mo-Sa 08:00-21:00"
 website: ""

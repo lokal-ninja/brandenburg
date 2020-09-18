@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.4138979
 longitude: 12.555241400000002
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Bäckerstraße"
 housenumber: 11

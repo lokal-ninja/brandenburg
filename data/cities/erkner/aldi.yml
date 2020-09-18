@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4301625
 longitude: 13.753137700000002
-postcode: 15537
+postcode: "15537"
 city: Erkner
 street: "Julius-Rütgers-Straße"
 housenumber: 1

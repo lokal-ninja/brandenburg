@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 53.212357700000005
 longitude: 13.288215600000001
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Fontanestraße"
 housenumber: 7

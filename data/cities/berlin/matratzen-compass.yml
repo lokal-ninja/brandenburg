@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.5527036
 longitude: 13.4297894
-postcode: 13189
+postcode: "13189"
 city: Berlin
 street: "Prenzlauer Promenade"
 housenumber: 187

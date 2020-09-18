@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.4522891
 longitude: 13.332597600000001
-postcode: 12167
+postcode: "12167"
 city: Berlin
 street: "Albrechtstraße"
 housenumber: 34

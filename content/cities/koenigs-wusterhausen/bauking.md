@@ -1,4 +1,4 @@
 ---
-title: "BAUKING"
+title: "Bauking"
 url: /koenigs-wusterhausen/bauking/
 ---

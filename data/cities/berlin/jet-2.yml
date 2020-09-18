@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.4962291
 longitude: 13.5627434
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Köpenicker Straße"
 housenumber: 108

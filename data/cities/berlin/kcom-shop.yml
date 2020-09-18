@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.481555500000006
 longitude: 13.432200300000002
-postcode: 12053
+postcode: "12053"
 city: Berlin
 street: "Flughafenstraße"
 housenumber: 13

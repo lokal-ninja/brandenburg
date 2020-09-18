@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.347694600000004
 longitude: 12.901891
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Klaistower Straße"
 housenumber: 38

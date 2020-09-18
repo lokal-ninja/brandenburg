@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4324354
 longitude: 13.433545500000001
-postcode: 12349
+postcode: "12349"
 city: Berlin
 street: "Buckower Damm"
 housenumber: 128

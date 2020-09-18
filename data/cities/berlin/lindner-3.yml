@@ -1,12 +1,12 @@
-id: 2433717992
+id: 2361562304
 type: node
 shop: Feinkost
-latitude: 52.508174000000004
-longitude: 13.374633000000001
-postcode: 10785
+latitude: 52.4838224
+longitude: 13.383235800000001
+postcode: "12101"
 city: Berlin
-street: "Alte Potsdamer Straße"
-housenumber: 7
+street: "Manfred-von-Richthofen-Straße"
+housenumber: 12
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.lindner-esskultur.de"
+opening_hours: "Mo-Fr 07:30-18:00; Sa 07:30-13:00"
+website: ""

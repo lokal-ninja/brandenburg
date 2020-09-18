@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.519908
 longitude: 13.438084100000001
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Friedenstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3802047
 longitude: 13.4452341
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Zum Herthateich"
 housenumber: 3

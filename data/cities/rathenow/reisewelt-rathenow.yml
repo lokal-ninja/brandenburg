@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.6182979
 longitude: 12.341631300000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Semliner Straße"
 housenumber: 207

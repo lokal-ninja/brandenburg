@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.5468959
 longitude: 13.3753744
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Wiesenstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7543718
 longitude: 13.672210300000001
-postcode: 16359
+postcode: "16359"
 city: Biesenthal
 street: "Bahnhofstraße"
 housenumber: 77

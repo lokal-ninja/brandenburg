@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4919026
 longitude: 13.446538700000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 62

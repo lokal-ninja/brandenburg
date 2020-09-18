@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4620259
 longitude: 13.3226001
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schildhornstraße"
 housenumber: 96

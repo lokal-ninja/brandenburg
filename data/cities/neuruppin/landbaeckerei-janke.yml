@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.927787
 longitude: 12.809534500000002
-postcode: 16816
+postcode: "16816"
 city: Neuruppin
 street: "Karl-Marx-Straße"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.3975122
 longitude: 13.062056
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Am Kanal"
 housenumber: 51

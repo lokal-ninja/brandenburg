@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.474034800000005
 longitude: 13.4402106
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 184

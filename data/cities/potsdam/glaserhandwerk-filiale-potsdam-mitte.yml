@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 52.4011064
 longitude: 13.0534663
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 11

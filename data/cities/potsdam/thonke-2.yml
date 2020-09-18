@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.427038200000005
 longitude: 13.0550923
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Fritz-von-der-Lancken-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5138071
 longitude: 13.278813900000001
-postcode: 14050
+postcode: "14050"
 city: Berlin
 street: "Haeselerstraße"
 housenumber: 20

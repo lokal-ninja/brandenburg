@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.5367577
 longitude: 13.6031843
-postcode: 12627
+postcode: "12627"
 city: Berlin
 street: "Fritz-Lang-Straße"
 housenumber: 2

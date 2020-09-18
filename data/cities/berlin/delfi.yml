@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 52.5018162
 longitude: 13.319181400000002
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 46

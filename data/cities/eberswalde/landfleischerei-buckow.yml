@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.833627400000005
 longitude: 13.8155707
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 7

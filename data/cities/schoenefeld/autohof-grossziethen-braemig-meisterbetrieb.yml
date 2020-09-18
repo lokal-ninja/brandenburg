@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.399104900000005
 longitude: 13.4508354
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Alt Großziethen"
 housenumber: 76

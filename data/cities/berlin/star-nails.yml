@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5274488
 longitude: 13.330088700000001
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 56

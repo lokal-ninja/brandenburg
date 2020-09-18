@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.3939236
 longitude: 13.092993000000002
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Karl-Liebknecht-Straße"
 housenumber: 21-22

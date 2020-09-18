@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.6076199
 longitude: 13.3261903
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Oraniendamm"
 housenumber: 6-10

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.159739200000004
 longitude: 13.654233300000001
-postcode: 15746
+postcode: "15746"
 city: Groß Köris
 street: "Seebadstraße"
 housenumber: 1

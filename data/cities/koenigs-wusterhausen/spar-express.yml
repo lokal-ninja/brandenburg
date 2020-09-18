@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.302906400000005
 longitude: 13.6013731
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
 street: "Darwinbogen"
 housenumber: 2

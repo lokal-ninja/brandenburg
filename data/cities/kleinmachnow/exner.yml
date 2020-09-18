@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4045543
 longitude: 13.220312700000001
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: ""
 housenumber: 

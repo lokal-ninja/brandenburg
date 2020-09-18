@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 52.6962479
 longitude: 13.2865233
-postcode: 16547
+postcode: "16547"
 city: Birkenwerder
 street: "Am Briesewald"
 housenumber: 4

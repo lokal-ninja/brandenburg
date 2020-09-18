@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.5037352
 longitude: 13.4152503
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Dresdener Straße"
 housenumber: 26

@@ -1,12 +1,12 @@
-id: 3367678201
+id: 4332069391
 type: node
 shop: Friseur
-latitude: 52.4712789
-longitude: 13.334672300000001
-postcode: 12159
+latitude: 52.5703879
+longitude: 13.4061988
+postcode: "13187"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 2-3
-phone: "+4930 85731864"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:00-17:00"
+street: "Breite Straße"
+housenumber: 16
+phone: "+4930 45304310"
+opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-17:00"
 website: "https://www.hairharmony.de/"

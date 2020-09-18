@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4889577
 longitude: 13.4521814
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Plesser Straße"
 housenumber: 9

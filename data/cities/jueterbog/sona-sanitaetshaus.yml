@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 51.990822300000005
 longitude: 13.0766272
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Mönchenstraße"
 housenumber: 44

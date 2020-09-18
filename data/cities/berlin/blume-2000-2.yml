@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4826325
 longitude: 13.5253399
-postcode: 10318
+postcode: "10318"
 city: Berlin
 street: "Treskowallee"
 housenumber: 110

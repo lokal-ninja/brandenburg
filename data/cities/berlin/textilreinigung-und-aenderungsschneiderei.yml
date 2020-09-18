@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.5428773
 longitude: 13.4897317
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Konrad-Wolf-Straße"
 housenumber: 29a

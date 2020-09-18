@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.814976300000005
 longitude: 12.3399506
-postcode: 16845
+postcode: "16845"
 city: Neustadt (Dosse)
 street: "Neurroddahn"
 housenumber: 7b

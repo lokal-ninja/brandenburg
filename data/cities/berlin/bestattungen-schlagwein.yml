@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.5088668
 longitude: 13.5056352
-postcode: 10315
+postcode: "10315"
 city: Berlin
 street: "Einbecker Straße"
 housenumber: 56

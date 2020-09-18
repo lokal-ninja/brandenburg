@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.7365785
 longitude: 12.577789800000001
-postcode: 14662
+postcode: "14662"
 city: Friesack
 street: "Klessener Straße"
 housenumber: 36

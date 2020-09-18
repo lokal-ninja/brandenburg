@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.404165500000005
 longitude: 13.2205902
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "Förster-Funke-Allee"
 housenumber: 102

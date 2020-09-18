@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.642447600000004
 longitude: 13.210737600000002
-postcode: 16761
+postcode: "16761"
 city: Hennigsdorf
 street: "Fabrikstraße"
 housenumber: 8a

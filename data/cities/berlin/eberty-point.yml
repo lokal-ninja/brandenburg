@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.523981000000006
 longitude: 13.452773400000002
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Ebertystraße"
 housenumber: 15

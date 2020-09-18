@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.4584301
 longitude: 13.5221864
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Lange Straße"
 housenumber: 13

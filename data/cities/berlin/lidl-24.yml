@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.5007114
 longitude: 13.4347352
-postcode: 10997
+postcode: "10997"
 city: Berlin
 street: "Zeughofstraße"
-housenumber: 23a
+housenumber: 23A
 phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: "https://www.lidl.de/filialen/berlin-friedrichshain-kreuzberg/kreuzberg-zeughofstr-23-a.html"

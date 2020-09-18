@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.431088200000005
 longitude: 13.3322965
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 2-4

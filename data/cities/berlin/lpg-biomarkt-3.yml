@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4731384
 longitude: 13.3368295
-postcode: 12159
+postcode: "12159"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.5886835
 longitude: 13.2870588
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Grußdorfstraße"
 housenumber: 18

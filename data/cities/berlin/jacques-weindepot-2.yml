@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.435831500000006
 longitude: 13.262969100000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 9

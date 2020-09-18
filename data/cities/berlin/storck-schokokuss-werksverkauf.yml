@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.573683100000004
 longitude: 13.298253500000001
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Flohrstraße"
 housenumber: 9

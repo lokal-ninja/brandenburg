@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.465867100000004
 longitude: 13.4353473
-postcode: 12051
+postcode: "12051"
 city: Berlin
 street: "Kranoldstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 52.4906512
 longitude: 13.3530312
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Goltzstraße"
 housenumber: 48

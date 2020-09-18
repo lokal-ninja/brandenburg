@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.4819515
 longitude: 13.430863500000001
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 66

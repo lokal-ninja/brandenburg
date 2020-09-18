@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.1021318
 longitude: 13.3737387
-postcode: 15838
+postcode: "15838"
 city: Am Mellensee
 street: "Straße nach Sperenberg"
 housenumber: 1

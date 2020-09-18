@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 52.522037700000006
 longitude: 13.164679000000001
-postcode: 13593
+postcode: "13593"
 city: Berlin
 street: "Obstallee"
 housenumber: 28
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; PH off"
 website: ""

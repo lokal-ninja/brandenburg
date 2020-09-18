@@ -1,12 +1,12 @@
-id: 448811297
+id: 854985150
 type: node
 shop: Bäckerei
-latitude: 52.4913244
-longitude: 13.4233954
-postcode: 10967
+latitude: 52.5485545
+longitude: 13.4130528
+postcode: "10437"
 city: Berlin
-street: "Kottbusser Damm"
-housenumber: 
+street: "Schönhauser Allee"
+housenumber: 120
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.back-factory.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.489766
 longitude: 13.354164800000001
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Grunewaldstraße"
 housenumber: 80

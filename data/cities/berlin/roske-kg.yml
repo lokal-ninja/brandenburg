@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.53010140000001
 longitude: 13.307226400000001
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Gaußstraße"
 housenumber: 23b

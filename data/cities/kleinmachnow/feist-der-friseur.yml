@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.40546380000001
 longitude: 13.234769600000002
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "Zehlendorfer Damm"
 housenumber: 120

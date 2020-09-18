@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.5138679
 longitude: 13.458589100000001
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Niederbarnimstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.536453800000004
 longitude: 13.2662764
-postcode: 13629
+postcode: "13629"
 city: Berlin
 street: "Nonnendammallee"
 housenumber: 81a

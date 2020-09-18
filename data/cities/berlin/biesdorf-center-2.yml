@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.5058152
 longitude: 13.558410100000001
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Weißenhöher Straße"
 housenumber: 108
 phone: "+49 30 51652269311"
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: "Mo-Sa 09:30-20:00"
 website: "https://www.biesdorf-center.de/"

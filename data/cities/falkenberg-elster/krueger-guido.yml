@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.5874992
 longitude: 13.229372300000001
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Torgauer Straße"
 housenumber: 44

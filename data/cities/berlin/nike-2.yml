@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5237544
 longitude: 13.401949
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Hackescher Markt"
 housenumber: 2-3

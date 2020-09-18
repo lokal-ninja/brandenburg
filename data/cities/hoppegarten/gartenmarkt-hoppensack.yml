@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.5323567
 longitude: 13.628958800000001
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Mahlsdorfer Straße"
 housenumber: 21

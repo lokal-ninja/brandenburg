@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.461955200000006
 longitude: 13.516723500000001
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Wilhelminenhofstraße"
 housenumber: 25

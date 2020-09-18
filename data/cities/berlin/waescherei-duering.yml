@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.431583
 longitude: 13.3359351
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Cecilienstraße"
 housenumber: 6

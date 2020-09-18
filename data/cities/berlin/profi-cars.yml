@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4214569
 longitude: 13.489789
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Alt-Rudow"
 housenumber: 7-9

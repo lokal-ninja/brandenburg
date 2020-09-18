@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5580799
 longitude: 13.377210600000002
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Drontheimer Straße"
 housenumber: 7

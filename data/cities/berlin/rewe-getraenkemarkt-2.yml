@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.4876129
 longitude: 13.261975900000001
-postcode: 14193
+postcode: "14193"
 city: Berlin
 street: "Auerbachstraße"
 housenumber: 12

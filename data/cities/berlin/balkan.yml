@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5559834
 longitude: 13.3875475
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Osloer Straße"
 housenumber: 7

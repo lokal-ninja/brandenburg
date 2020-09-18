@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.557755300000004
 longitude: 13.869832700000002
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Herrenseeallee"
 housenumber: 15

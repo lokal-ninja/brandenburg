@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.524281300000006
 longitude: 13.333704000000001
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Alt-Moabit"
 housenumber: 76
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-15:00"
 website: ""

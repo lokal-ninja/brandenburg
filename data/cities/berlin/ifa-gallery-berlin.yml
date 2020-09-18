@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.526541800000004
 longitude: 13.389993800000001
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Linienstraße"
 housenumber: 139-140

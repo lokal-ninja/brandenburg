@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.23588590000001
 longitude: 12.9786628
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Berliner Straße"
 housenumber: 21a

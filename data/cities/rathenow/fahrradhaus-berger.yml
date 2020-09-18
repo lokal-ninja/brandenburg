@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.6058102
 longitude: 12.3347282
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Schleusenplatz"
 housenumber: 1

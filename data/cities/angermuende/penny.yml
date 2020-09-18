@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.0159261
 longitude: 13.994029500000002
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Grundmühlenweg"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4917145
 longitude: 13.414225100000001
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Urbanstraße"
 housenumber: 133

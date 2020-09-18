@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.445977400000004
 longitude: 13.304348800000001
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Gardeschützenweg"
 housenumber: 86

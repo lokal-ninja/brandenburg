@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5372301
 longitude: 13.411274500000001
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Choriner Straße"
 housenumber: 39

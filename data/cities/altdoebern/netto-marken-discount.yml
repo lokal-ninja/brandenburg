@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.649616400000006
 longitude: 14.0198978
-postcode: 03229
+postcode: "03229"
 city: Altdöbern
 street: "Schulstraße"
 housenumber: 2

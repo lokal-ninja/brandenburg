@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.568755900000006
 longitude: 13.5409468
-postcode: 13057
+postcode: "13057"
 city: Berlin
 street: "Dorfstraße"
 housenumber: 14

@@ -3,10 +3,10 @@ type: node
 shop: Garten-Center
 latitude: 52.529858000000004
 longitude: 14.3656398
-postcode: 
+postcode: ""
 city: Seelow
-street: "Ebertstraße"
-housenumber: 24
+street: "Diedersdorfer Straße"
+housenumber: 12A
 phone: ""
 opening_hours: ""
 website: ""

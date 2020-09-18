@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.419690200000005
 longitude: 13.578816300000002
-postcode: 12527
+postcode: "12527"
 city: Berlin
 street: "Regattastraße"
 housenumber: 95

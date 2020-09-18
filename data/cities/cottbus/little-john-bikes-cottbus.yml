@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.7607214
 longitude: 14.322684800000001
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Berliner Straße"
 housenumber: 24

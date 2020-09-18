@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.9703175
 longitude: 13.605425400000001
-postcode: 15938
+postcode: "15938"
 city: Golßen
 street: "Hauptstraße"
 housenumber: 37

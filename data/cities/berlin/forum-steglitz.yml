@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.465217100000004
 longitude: 13.3258595
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schloßstraße"
 housenumber: 1

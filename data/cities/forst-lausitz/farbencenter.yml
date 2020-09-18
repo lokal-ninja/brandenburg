@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.7450283
 longitude: 14.643062100000002
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Cottbuser Straße"
 housenumber: 27c

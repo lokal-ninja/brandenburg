@@ -1,12 +1,12 @@
 id: 1584511490
 type: node
 shop: Kleidung
-latitude: 52.750412000000004
-longitude: 13.2243539
-postcode: 16515
+latitude: 52.7504171
+longitude: 13.2243527
+postcode: "16515"
 city: Oranienburg
 street: "Friedensstraße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-18:00; PH,Su off"
 website: ""

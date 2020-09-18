@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.554293200000004
 longitude: 13.542159100000001
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Bitterfelder Straße"
 housenumber: 12

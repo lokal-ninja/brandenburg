@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.534134900000005
 longitude: 13.415277000000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Kollwitzstraße"
 housenumber: 39

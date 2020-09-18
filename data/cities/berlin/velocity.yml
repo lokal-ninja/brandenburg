@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4518673
 longitude: 13.315628100000001
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Hindenburgdamm"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4888971
 longitude: 13.3764885
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Katzbachstraße"
 housenumber: 11

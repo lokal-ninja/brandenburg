@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5969046
 longitude: 14.236376000000002
-postcode: 15320
+postcode: "15320"
 city: Neuhardenberg
 street: "Karl-Marx-Allee"
 housenumber: 6a

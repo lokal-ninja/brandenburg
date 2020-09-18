@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.566403300000005
 longitude: 13.316930800000002
-postcode: 13405
+postcode: "13405"
 city: Berlin
 street: "Scharnweberstraße"
 housenumber: 100

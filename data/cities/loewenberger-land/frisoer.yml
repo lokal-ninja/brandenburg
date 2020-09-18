@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.81464080000001
 longitude: 13.228275400000001
-postcode: 16775
+postcode: "16775"
 city: Löwenberger Land
 street: "Liebenwalder Chaussee"
 housenumber: 16

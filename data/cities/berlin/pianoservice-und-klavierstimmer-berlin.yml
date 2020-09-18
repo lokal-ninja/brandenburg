@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.487768800000005
 longitude: 13.2991627
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Hohenzollerndamm"
 housenumber: 50

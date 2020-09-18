@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.584915800000005
 longitude: 13.418169200000001
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Blankenburger Straße"
 housenumber: 

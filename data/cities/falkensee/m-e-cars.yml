@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.555611400000004
 longitude: 13.0883821
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Barkhausenstraße"
 housenumber: 50

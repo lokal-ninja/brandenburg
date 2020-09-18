@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.189978800000006
 longitude: 11.976708
-postcode: 16928
+postcode: "16928"
 city: Groß Pankow (Prignitz)
 street: "Im Busch"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.519883
 longitude: 13.451649600000001
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Petersburger Straße"
 housenumber: 68

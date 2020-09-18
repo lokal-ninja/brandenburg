@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.457707400000004
 longitude: 13.3206471
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schloßstraße"
 housenumber: 33-36

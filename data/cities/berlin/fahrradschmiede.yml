@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.485549400000004
 longitude: 13.3631404
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Kolonnenstraße"
 housenumber: 48

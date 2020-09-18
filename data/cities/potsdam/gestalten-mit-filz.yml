@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.393984700000004
 longitude: 13.0912942
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Garnstraße"
 housenumber: 18

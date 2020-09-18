@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.516023000000004
 longitude: 13.327889200000001
-postcode: 10587
+postcode: "10587"
 city: Berlin
 street: "Salzufer"
 housenumber: 6 D

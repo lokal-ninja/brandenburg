@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.456108
 longitude: 13.511823000000001
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Schnellerstraße"
 housenumber: 124

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4766708
 longitude: 13.2890384
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Berkaer Straße"
 housenumber: 6

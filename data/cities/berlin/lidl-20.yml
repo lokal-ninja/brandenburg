@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5244433
 longitude: 13.3795237
-postcode: 10117
+postcode: "10117"
 city: Berlin
 street: "Luisenstraße"
 housenumber: 52

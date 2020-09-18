@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.4722665
 longitude: 13.7337026
-postcode: 01979
+postcode: "01979"
 city: Lauchhammer
 street: "Elsterwerdaer Straße"
 housenumber: 19a

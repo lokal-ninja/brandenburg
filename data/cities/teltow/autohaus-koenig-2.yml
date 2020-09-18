@@ -3,10 +3,10 @@ type: way
 shop: Autohaus
 latitude: 52.3997838
 longitude: 13.240565400000001
-postcode: 14513
+postcode: "14513"
 city: Teltow
 street: "Warthestraße"
 housenumber: 17
-phone: "+493328 337830 0"
-opening_hours: ""
-website: "https://www.jeep-koenig.de/filialen/teltownbsp/"
+phone: "+49 3328 337830 0"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00"
+website: ""

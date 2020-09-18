@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.52744250000001
 longitude: 13.212022000000001
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Ruhlebener Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.5599063
 longitude: 13.3348568
-postcode: 13349
+postcode: "13349"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 95

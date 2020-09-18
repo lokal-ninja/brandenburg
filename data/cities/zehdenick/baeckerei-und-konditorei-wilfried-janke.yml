@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9777448
 longitude: 13.3312749
-postcode: 16792
+postcode: "16792"
 city: Zehdenick
 street: "Berliner Straße"
 housenumber: 46

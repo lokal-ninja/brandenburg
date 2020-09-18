@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.542720700000004
 longitude: 13.571117300000001
-postcode: 12685
+postcode: "12685"
 city: Berlin
 street: "Blumberger Damm"
 housenumber: 122-130

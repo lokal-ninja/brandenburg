@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.54869780000001
 longitude: 13.4111095
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Kopenhagener Straße"
 housenumber: 73

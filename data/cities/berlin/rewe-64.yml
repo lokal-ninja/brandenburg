@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5434993
 longitude: 13.490399600000002
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Konrad-Wolf-Straße"
 housenumber: 24

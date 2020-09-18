@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.50204
 longitude: 14.1478023
-postcode: 15374
+postcode: "15374"
 city: Müncheberg
 street: "Ernst-Thälmann-Straße"
 housenumber: 18

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4371152
 longitude: 13.2163693
-postcode: 14129
+postcode: "14129"
 city: Berlin
 street: "Breisgauer Straße"
 housenumber: 17

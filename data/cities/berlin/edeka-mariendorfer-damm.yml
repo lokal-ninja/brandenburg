@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4349946
 longitude: 13.3891249
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 186

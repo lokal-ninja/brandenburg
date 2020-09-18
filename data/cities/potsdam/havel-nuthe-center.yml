@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.3702284
 longitude: 13.1415997
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Konrad-Wolf-Allee"
 housenumber: 1-3

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 52.5154112
 longitude: 13.261583000000002
-postcode: 14052
+postcode: "14052"
 city: Berlin
 street: "Reichsstraße"
 housenumber: 84A

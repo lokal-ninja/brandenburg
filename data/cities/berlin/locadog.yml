@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.5069151
 longitude: 13.4962414
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Weitlingstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.571092
 longitude: 13.4086081
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Breite Straße"
 housenumber: 11

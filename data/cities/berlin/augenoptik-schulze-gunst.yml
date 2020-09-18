@@ -1,12 +1,12 @@
 id: 813903392
 type: node
 shop: Optiker
-latitude: 52.4428276
-longitude: 13.295826300000002
-postcode: 12205
+latitude: 52.4428357
+longitude: 13.2958276
+postcode: "12205"
 city: Berlin
 street: "Curtiusstraße"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-14:00;Su,PH off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
 website: ""

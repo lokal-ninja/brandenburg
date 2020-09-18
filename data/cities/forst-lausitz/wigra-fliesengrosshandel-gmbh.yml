@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.7228325
 longitude: 14.6251607
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Ebereschenweg"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.5861048
 longitude: 13.3193228
-postcode: 13509
+postcode: "13509"
 city: Berlin
 street: "Holzhauser Straße"
 housenumber: 180

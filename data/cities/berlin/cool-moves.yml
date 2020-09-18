@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4772137
 longitude: 13.2893073
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Reichenhaller Straße"
 housenumber: 2-3

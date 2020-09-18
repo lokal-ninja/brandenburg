@@ -1,12 +1,12 @@
-id: 846251049
+id: 726126776
 type: node
 shop: Supermarkt
-latitude: 52.468121000000004
-longitude: 13.3280291
-postcode: 12161
+latitude: 52.473571500000006
+longitude: 13.314836300000001
+postcode: "14197"
 city: Berlin
-street: "Bundesallee"
-housenumber: 88
-phone: "+49 30 80940160"
-opening_hours: ""
-website: "https://www.biocompany.de/"
+street: "Rüdesheimer Straße"
+housenumber: 3
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.524045
 longitude: 13.407746000000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rochstraße"
 housenumber: 18

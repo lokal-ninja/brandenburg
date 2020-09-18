@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3365768
 longitude: 14.542959300000001
-postcode: 15232
+postcode: "15232"
 city: Frankfurt (Oder)
 street: "Dresdener Platz"
 housenumber: 7

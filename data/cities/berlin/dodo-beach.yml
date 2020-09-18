@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.4892922
 longitude: 13.355487
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Vorbergstraße"
 housenumber: 8

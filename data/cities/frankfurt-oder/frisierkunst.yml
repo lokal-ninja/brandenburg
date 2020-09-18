@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3470506
 longitude: 14.550160600000002
-postcode: 15230
+postcode: "15230"
 city: Frankfurt (Oder)
 street: "Karl-Marx-Straße"
 housenumber: 176

@@ -3,7 +3,7 @@ type: way
 shop: Foto
 latitude: 52.478784700000006
 longitude: 13.7017863
-postcode: 15566
+postcode: "15566"
 city: Schöneiche bei Berlin
 street: "Schöneicher Straße"
 housenumber: 14

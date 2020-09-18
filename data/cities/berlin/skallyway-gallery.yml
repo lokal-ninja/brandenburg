@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.477053000000005
 longitude: 13.4208517
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Herrfurthstraße"
 housenumber: 10

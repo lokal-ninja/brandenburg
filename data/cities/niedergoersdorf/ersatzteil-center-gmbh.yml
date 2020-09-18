@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.009487
 longitude: 13.010720300000001
-postcode: 14913
+postcode: "14913"
 city: Niedergörsdorf
 street: "Treuenbrietzener Straße"
 housenumber: 63a

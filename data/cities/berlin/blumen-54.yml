@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4588326
 longitude: 13.526277
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Wilhelminenhofstraße"
 housenumber: 54

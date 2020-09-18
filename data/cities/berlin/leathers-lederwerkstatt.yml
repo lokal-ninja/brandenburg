@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4944579
 longitude: 13.3499832
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Eisenacher Straße"
 housenumber: 101

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.3697438
 longitude: 13.1413238
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Konrad-Wolf-Allee"
 housenumber: 1-3

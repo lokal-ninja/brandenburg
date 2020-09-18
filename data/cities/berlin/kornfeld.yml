@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4578859
 longitude: 13.292746300000001
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Königin-Luise-Straße"
 housenumber: 38

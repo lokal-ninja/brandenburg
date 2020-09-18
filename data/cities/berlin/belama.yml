@@ -3,7 +3,7 @@ type: way
 shop: Betten
 latitude: 52.4534376
 longitude: 13.4736252
-postcode: 12437
+postcode: "12437"
 city: Berlin
 street: "Späthstraße"
 housenumber: 80-81

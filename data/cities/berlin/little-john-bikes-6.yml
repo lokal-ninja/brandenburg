@@ -1,12 +1,12 @@
 id: 3058862927
 type: node
 shop: Fahrrad
-latitude: 52.4652358
-longitude: 13.329115600000002
-postcode: 12161
+latitude: 52.4652845
+longitude: 13.3291588
+postcode: "12161"
 city: Berlin
 street: "Rheinstraße"
 housenumber: 41
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+website: "https://www.littlejohnbikes.de/filialen/berlin-steglitz.html"

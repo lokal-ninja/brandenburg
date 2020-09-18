@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.4962443
 longitude: 13.349805600000002
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Eisenacher Straße"
 housenumber: 107

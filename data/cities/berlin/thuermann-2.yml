@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.437590300000004
 longitude: 13.268734400000001
-postcode: 
+postcode: ""
 city: Berlin
 street: "Berliner Straße"
 housenumber: 

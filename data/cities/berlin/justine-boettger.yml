@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.487321200000004
 longitude: 13.3631191
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Czeminskistraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.4697128
 longitude: 13.511999600000001
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Saathainer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4018127
 longitude: 13.0522354
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.344234900000004
 longitude: 14.5515074
-postcode: 15230
+postcode: "15230"
 city: Frankfurt (Oder)
 street: "Karl-Marx-Straße"
 housenumber: 11

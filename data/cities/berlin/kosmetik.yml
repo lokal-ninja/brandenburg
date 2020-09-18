@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5090784
 longitude: 13.5875464
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Mädewalder Weg"
 housenumber: 43

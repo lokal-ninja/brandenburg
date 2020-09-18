@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 52.4523322
 longitude: 13.393652300000001
-postcode: 
+postcode: ""
 city: Berlin
 street: "Ullsteinstraße"
 housenumber: 85

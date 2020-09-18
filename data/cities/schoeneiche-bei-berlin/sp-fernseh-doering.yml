@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 52.4698846
 longitude: 13.685819500000001
-postcode: 15566
+postcode: "15566"
 city: Schöneiche bei Berlin
 street: "Kirschenstraße"
 housenumber: 29

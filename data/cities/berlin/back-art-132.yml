@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.486226900000005
 longitude: 13.3215587
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 132

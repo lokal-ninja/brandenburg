@@ -3,7 +3,7 @@ type: node
 shop: Leder
 latitude: 52.507955
 longitude: 13.3121814
-postcode: 10625
+postcode: "10625"
 city: Berlin
 street: "Pestalozzistraße"
 housenumber: 22

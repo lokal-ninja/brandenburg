@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 51.7576009
 longitude: 14.332308600000001
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Karl-Liebknecht-Straße"
 housenumber: 136

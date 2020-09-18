@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6072867
 longitude: 13.326497900000001
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Oraniendamm"
 housenumber: 6-10

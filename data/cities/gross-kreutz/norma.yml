@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4006848
 longitude: 12.7942236
-postcode: 14550
+postcode: "14550"
 city: Groß Kreutz
 street: "Potsdamer Straße"
 housenumber: 46

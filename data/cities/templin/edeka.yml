@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1161705
 longitude: 13.5001306
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Vietmannsdorfer Straße"
 housenumber: 3

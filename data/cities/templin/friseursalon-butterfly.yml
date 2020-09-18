@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.124034
 longitude: 13.493096600000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Lychener Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 51.7500258
 longitude: 14.242536600000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Berliner Straße"
 housenumber: 151a

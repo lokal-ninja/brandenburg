@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.559452
 longitude: 13.370807000000001
-postcode: 13409
+postcode: "13409"
 city: Berlin
 street: "Residenzstraße"
 housenumber: 90

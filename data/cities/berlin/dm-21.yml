@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.550488900000005
 longitude: 13.434175300000001
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Goethestraße"
 housenumber: 3

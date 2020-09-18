@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.017242
 longitude: 14.0042767
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Brüderstraße"
 housenumber: 5

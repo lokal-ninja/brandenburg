@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3335213
 longitude: 14.539914300000001
-postcode: 15232
+postcode: "15232"
 city: Frankfurt (Oder)
 street: "Spartakusring"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.542530400000004
 longitude: 13.4117405
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 139A

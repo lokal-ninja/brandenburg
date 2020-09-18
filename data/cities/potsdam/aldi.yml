@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3835734
 longitude: 13.021393300000002
-postcode: 14471
+postcode: "14471"
 city: Potsdam
 street: "Zeppelinstraße"
 housenumber: 120

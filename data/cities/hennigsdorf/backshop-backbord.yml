@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.614681000000004
 longitude: 13.2015034
-postcode: 16761
+postcode: "16761"
 city: Hennigsdorf
 street: "Am Yachthafen"
 housenumber: 12

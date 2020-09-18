@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.7540477
 longitude: 13.2428719
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Lehnitzstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5557796
 longitude: 13.381597500000002
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Osloer Straße"
 housenumber: 104

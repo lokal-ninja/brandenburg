@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 52.5406794
 longitude: 13.416948600000001
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schliemannstraße"
 housenumber: 2

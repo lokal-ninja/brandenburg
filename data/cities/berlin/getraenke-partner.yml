@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.5307371
 longitude: 13.3344304
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Emdener Straße"
 housenumber: 19

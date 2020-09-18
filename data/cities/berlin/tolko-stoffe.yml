@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.470582300000004
 longitude: 13.5649364
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Köpenicker Straße"
 housenumber: 325 Haus 42

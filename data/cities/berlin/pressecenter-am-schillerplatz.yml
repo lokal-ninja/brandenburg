@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.4719245
 longitude: 13.323902700000001
-postcode: 12161
+postcode: "12161"
 city: Berlin
 street: "Stubenrauchstraße"
 housenumber: 56

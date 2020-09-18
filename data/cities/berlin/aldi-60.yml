@@ -1,12 +1,12 @@
-id: 101184451
+id: 81096587
 type: way
 shop: Supermarkt
-latitude: 52.418996400000005
-longitude: 13.421743500000002
-postcode: 12349
+latitude: 52.424386600000005
+longitude: 13.526667400000001
+postcode: "12524"
 city: Berlin
-street: "Marienfelder Chaussee"
+street: "Wegedornstraße"
 housenumber: 29
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "http://www.aldi-nord.de"

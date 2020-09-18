@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3378858
 longitude: 14.5415089
-postcode: 15232
+postcode: "15232"
 city: Frankfurt (Oder)
 street: "Cottbuser Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 52.5117587
 longitude: 13.461549100000001
-postcode: 
+postcode: ""
 city: Berlin
 street: "Gärtnerstraße"
 housenumber: 19

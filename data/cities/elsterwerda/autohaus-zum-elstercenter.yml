@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.466943
 longitude: 13.537632
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Zum Kalkberg"
 housenumber: 2

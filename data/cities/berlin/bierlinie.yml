@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.5407585
 longitude: 13.4168385
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schliemannstraße"
 housenumber: 2

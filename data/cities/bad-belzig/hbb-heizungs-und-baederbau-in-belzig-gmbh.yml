@@ -3,7 +3,7 @@ type: node
 shop: Klempner
 latitude: 52.141525800000004
 longitude: 12.583345000000001
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Lübnitzer Straße"
 housenumber: 1

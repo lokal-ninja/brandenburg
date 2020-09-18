@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.515728800000005
 longitude: 13.501462900000002
-postcode: 10365
+postcode: "10365"
 city: Berlin
 street: "Rüdigerstraße"
 housenumber: 75

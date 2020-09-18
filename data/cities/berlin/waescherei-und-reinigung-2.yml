@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.51798530000001
 longitude: 13.3170055
-postcode: 10587
+postcode: "10587"
 city: Berlin
 street: "Guerickestraße"
 housenumber: 36

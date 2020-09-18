@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4716365
 longitude: 13.3350372
-postcode: 12159
+postcode: "12159"
 city: Berlin
 street: "Lauterstraße"
 housenumber: 17-18

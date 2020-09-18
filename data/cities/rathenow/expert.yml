@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.5901149
 longitude: 12.3376771
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Milower Landstraße"
 housenumber: 6 a

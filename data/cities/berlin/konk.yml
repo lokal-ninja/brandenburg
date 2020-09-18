@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.527231
 longitude: 13.396953100000001
-postcode: 10117
+postcode: "10117"
 city: Berlin
 street: "Kleine Hamburger Straße"
 housenumber: 15

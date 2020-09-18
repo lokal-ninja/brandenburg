@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 52.526785600000004
 longitude: 13.3330081
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 74
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-12:00,13:00-16:00"
 website: "https://www.krueger-orthotec.de/"

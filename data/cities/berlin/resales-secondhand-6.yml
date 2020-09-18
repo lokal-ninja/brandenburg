@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.550203200000006
 longitude: 13.200630400000001
-postcode: 13585
+postcode: "13585"
 city: Berlin
 street: "Schönwalder Straße"
 housenumber: 39/40

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5290468
 longitude: 12.3397459
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 14

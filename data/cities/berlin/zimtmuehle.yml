@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.554407600000005
 longitude: 13.408531100000001
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Bornholmer Straße"
 housenumber: 14

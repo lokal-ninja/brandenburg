@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.4088441
 longitude: 12.5641362
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "Neustädtischer Markt"
 housenumber: 3

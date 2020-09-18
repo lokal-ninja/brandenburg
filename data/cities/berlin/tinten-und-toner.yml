@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.526889600000004
 longitude: 13.331880400000001
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 70

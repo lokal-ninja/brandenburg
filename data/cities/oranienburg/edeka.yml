@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.7364072
 longitude: 13.241434700000001
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Berliner Straße"
 housenumber: 119-125

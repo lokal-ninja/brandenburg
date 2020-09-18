@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5912713
 longitude: 13.242393000000002
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Heinrich-Zille-Straße"
 housenumber: 28

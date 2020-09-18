@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.695385200000004
 longitude: 14.435442400000001
-postcode: 03058
+postcode: "03058"
 city: Neuhausen/Spree
 street: "Alte Schulstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.074480400000006
 longitude: 11.866991
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "Pritzwalker Straße"
 housenumber: 3

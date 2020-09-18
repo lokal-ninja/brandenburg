@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.478190700000006
 longitude: 13.7003871
-postcode: 15566
+postcode: "15566"
 city: Schöneiche bei Berlin
 street: "Heuweg"
 housenumber: 78

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.455876100000005
 longitude: 13.625041600000001
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 77

@@ -1,6 +1,6 @@
 ---
 title: Schlieben
 url: /schlieben/
-latitude: 51.722118
-longitude: 13.3844597
+latitude: 51.7241402
+longitude: 13.384770900000001
 ---

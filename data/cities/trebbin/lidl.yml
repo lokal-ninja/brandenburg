@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.221411700000004
 longitude: 13.217879300000002
-postcode: 14959
+postcode: "14959"
 city: Trebbin
 street: "Berliner Tor"
 housenumber: 3
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.lidl.de/filialen/trebbin/berliner-tor-3.html?utm_source=organic&utm_medium=standortdaten&utm_campaign=yext&utm_content=standortdaten_ron_yext"
+website: "https://www.lidl.de/filialen/trebbin/berliner-tor-3.html"

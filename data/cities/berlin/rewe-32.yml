@@ -1,12 +1,12 @@
-id: 1226244579
+id: 1336738281
 type: node
 shop: Supermarkt
-latitude: 52.516574600000006
-longitude: 13.310274600000001
-postcode: 10585
+latitude: 52.49942720000001
+longitude: 13.4187092
+postcode: "10999"
 city: Berlin
-street: "Otto-Suhr-Allee"
-housenumber: 80-82
+street: "Skalitzer Straße"
+housenumber: 135
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-23:30"
 website: ""

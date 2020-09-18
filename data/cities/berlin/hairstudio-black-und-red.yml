@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.587758900000004
 longitude: 13.401991200000001
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Dietzgenstraße"
 housenumber: 70

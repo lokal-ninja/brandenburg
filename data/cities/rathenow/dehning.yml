@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.6082108
 longitude: 12.3235732
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Schwedendamm"
 housenumber: 3

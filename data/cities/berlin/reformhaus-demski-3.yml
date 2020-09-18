@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4355659
 longitude: 13.3449495
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 77

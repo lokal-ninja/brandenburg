@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4637583
 longitude: 13.433806700000002
-postcode: 12051
+postcode: "12051"
 city: Berlin
 street: "Hermannstraße"
 housenumber: 

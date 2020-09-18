@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.360410200000004
 longitude: 14.062382600000001
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Frankfurter Straße"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.427404700000004
 longitude: 13.3107536
-postcode: 12207
+postcode: "12207"
 city: Berlin
 street: "Barnackufer"
 housenumber: 28

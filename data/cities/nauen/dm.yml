@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.6095574
 longitude: 12.8801287
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Dammstraße"
 housenumber: 9

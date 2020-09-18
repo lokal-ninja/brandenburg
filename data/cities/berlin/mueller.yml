@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.511619
 longitude: 13.612033400000001
-postcode: 12623
+postcode: "12623"
 city: Berlin
 street: "Hönower Straße"
 housenumber: 77

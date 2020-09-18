@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.467583600000005
 longitude: 13.869962800000001
-postcode: 01987
+postcode: "01987"
 city: Schwarzheide
 street: "Schipkauer Straße"
 housenumber: 13

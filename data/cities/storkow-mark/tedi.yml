@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.244377400000005
 longitude: 13.936591000000002
-postcode: 15859
+postcode: "15859"
 city: Storkow (Mark)
 street: "Beeskower Chaussee"
 housenumber: 12

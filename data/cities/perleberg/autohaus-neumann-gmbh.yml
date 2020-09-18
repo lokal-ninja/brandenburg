@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.084079700000004
 longitude: 11.853400200000001
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "Hamburger Straße"
 housenumber: 39 - 41

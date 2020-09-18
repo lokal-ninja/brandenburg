@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.505022600000004
 longitude: 13.339804
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Budapester Straße"
 housenumber: 41

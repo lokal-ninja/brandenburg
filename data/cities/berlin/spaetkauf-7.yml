@@ -1,12 +1,12 @@
-id: 1597742298
+id: 1928636123
 type: node
 shop: Lebensmittel
-latitude: 52.5313486
-longitude: 13.345717200000001
-postcode: 10559
+latitude: 52.5328558
+longitude: 13.4070136
+postcode: "10119"
 city: Berlin
-street: "Birkenstraße"
-housenumber: 21
+street: "Choriner Straße"
+housenumber: 11
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo,Sa 18:00+; Tu-Fr 08:00+; Su 10:00+"
+website: "http://www.leute-am-teute.de/2013/01/25/spatkauf-in-der-choriner-strase/"

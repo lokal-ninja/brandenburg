@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.326508200000006
 longitude: 14.0796019
-postcode: 15517
+postcode: "15517"
 city: Bad Saarow
 street: "Neu Golmer Weg"
 housenumber: 16

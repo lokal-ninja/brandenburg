@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.4345991
 longitude: 13.261277300000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 4

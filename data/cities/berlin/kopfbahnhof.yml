@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.492968000000005
 longitude: 13.3677506
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Yorckstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.485326
 longitude: 13.3333653
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Prinzregentenstraße"
 housenumber: 72

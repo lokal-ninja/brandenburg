@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.142632500000005
 longitude: 14.626552400000001
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Friedrich-Engels-Straße"
 housenumber: 12

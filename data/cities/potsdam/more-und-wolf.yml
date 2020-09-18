@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.399058700000005
 longitude: 13.052913700000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 20

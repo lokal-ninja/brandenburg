@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.928795
 longitude: 12.8103227
-postcode: 16816
+postcode: "16816"
 city: Neuruppin
 street: "Karl-Marx-Straße"
 housenumber: 4

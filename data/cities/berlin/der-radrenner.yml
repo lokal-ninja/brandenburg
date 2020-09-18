@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5101998
 longitude: 13.4597859
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Krossener Straße"
 housenumber: 23

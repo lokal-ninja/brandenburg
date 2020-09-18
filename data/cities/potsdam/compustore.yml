@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.4019886
 longitude: 13.0576413
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Friedrich-Ebert-Straße"
 housenumber: 91

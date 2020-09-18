@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6337084
 longitude: 13.309488400000001
-postcode: 16548
+postcode: "16548"
 city: Glienicke/Nordbahn
 street: "Oranienburger Chaussee"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.6464969
 longitude: 14.2379209
-postcode: 03116
+postcode: "03116"
 city: Drebkau
 street: "Spremberger Straße"
 housenumber: 8

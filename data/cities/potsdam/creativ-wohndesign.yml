@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.4014456
 longitude: 13.0525394
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 59

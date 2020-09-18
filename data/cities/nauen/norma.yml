@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5977861
 longitude: 12.882591600000001
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Raiffeisenstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4104843
 longitude: 12.558949400000001
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "Hauptstraße"
 housenumber: 43

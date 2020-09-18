@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5051854
 longitude: 13.2979953
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Leonhardtstraße"
 housenumber: 5

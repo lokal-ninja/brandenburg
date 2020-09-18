@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.0825126
 longitude: 13.8720586
-postcode: 15910
+postcode: "15910"
 city: Unterspreewald
 street: "Leibscher Hauptstraße"
 housenumber: 36

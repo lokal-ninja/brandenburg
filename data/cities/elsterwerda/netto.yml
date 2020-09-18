@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4547426
 longitude: 13.5176482
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Weststraße"
 housenumber: 32a

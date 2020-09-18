@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.403828100000005
 longitude: 13.559450900000002
-postcode: 12526
+postcode: "12526"
 city: Berlin
 street: "Paradiesstraße"
 housenumber: 212

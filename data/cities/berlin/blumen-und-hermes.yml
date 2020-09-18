@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.399879000000006
 longitude: 13.5420227
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Grünbergallee"
 housenumber: 132A

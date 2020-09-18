@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.364521
 longitude: 13.127782700000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Sternstraße"
 housenumber: 66

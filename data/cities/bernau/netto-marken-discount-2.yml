@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.684732700000005
 longitude: 13.5714056
-postcode: 16321
+postcode: "16321"
 city: Bernau
 street: "Konrad-Zuse-Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.508154100000006
 longitude: 13.496967600000001
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Weitlingstraße"
 housenumber: 32

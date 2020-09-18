@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.4859875
 longitude: 13.4571207
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Kiefholzstraße"
 housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "http://www.aldi-nord.de"

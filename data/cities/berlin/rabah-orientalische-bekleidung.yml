@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.559657300000005
 longitude: 13.376703500000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Drontheimer Straße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.4895713
 longitude: 13.3886769
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 5-7

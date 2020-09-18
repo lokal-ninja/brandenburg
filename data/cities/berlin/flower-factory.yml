@@ -1,12 +1,12 @@
 id: 2774631986
 type: node
 shop: Blumen
-latitude: 52.5214677
-longitude: 13.3341217
-postcode: 10555
+latitude: 52.5214538
+longitude: 13.334042400000001
+postcode: "10555"
 city: Berlin
 street: "Levetzowstraße"
 housenumber: 20
 phone: ""
-opening_hours: "Mo, We-Fr 08:00-18:30; Sa 09:00-14:00"
+opening_hours: "We-Fr 11:00-19:00; Sa 10:00-15:00; Mo 08:00-16:00"
 website: ""

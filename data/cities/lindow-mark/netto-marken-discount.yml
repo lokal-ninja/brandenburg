@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.975937900000005
 longitude: 12.987048600000001
-postcode: 16835
+postcode: "16835"
 city: Lindow (Mark)
 street: "Rheinsberger Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.6488463
 longitude: 13.5157067
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Heinestraße"
 housenumber: 52

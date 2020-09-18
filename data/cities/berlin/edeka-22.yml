@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5752904
 longitude: 13.2837641
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Bernauer Straße"
 housenumber: 69-73

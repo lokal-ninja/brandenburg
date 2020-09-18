@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.658239
 longitude: 13.5326392
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Schönower Straße"
 housenumber: 41 - 43

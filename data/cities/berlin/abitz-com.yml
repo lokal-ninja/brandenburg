@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4258966
 longitude: 13.4874053
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Stubenrauchstraße"
 housenumber: 3

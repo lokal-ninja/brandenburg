@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.5383414
 longitude: 13.2045282
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Carl-Schurz-Straße"
 housenumber: 49

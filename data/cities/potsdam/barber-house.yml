@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3991217
 longitude: 13.0576336
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Friedrich-Ebert-Straße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: way
 shop: Bücher
 latitude: 52.4021467
 longitude: 13.265694300000002
-postcode: 14513
+postcode: "14513"
 city: Teltow
 street: "Breite Straße"
 housenumber: 19

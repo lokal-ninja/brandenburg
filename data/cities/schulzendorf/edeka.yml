@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.36443980000001
 longitude: 13.593312200000002
-postcode: 15732
+postcode: "15732"
 city: Schulzendorf
 street: "Richard-Israel-Straße"
 housenumber: 4A

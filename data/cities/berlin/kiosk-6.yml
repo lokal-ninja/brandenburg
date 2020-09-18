@@ -1,12 +1,12 @@
-id: 815780059
+id: 1569732349
 type: node
 shop: Kiosk
-latitude: 52.4876918
-longitude: 13.2992293
-postcode: 14199
+latitude: 52.5240537
+longitude: 13.349143300000001
+postcode: "10557"
 city: Berlin
-street: "Hohenzollerndamm"
-housenumber: 50a
+street: "Kirchstraße"
+housenumber: 3
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-15:00; Su 08:00-12:00"
+opening_hours: ""
 website: ""

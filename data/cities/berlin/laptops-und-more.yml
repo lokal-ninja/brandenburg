@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 52.5651097
 longitude: 13.4465853
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Romain-Rolland-Straße"
 housenumber: 14-24

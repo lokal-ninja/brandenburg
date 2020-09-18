@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7152631
 longitude: 14.3174299
-postcode: 03051
+postcode: "03051"
 city: Cottbus
 street: "Sachsendorfer Straße"
 housenumber: 3

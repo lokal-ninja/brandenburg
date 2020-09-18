@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4173898
 longitude: 13.362028400000002
-postcode: 12277
+postcode: "12277"
 city: Berlin
 street: "Malteserstraße"
 housenumber: 162/164

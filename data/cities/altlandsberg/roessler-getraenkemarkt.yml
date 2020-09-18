@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.558264
 longitude: 13.716999000000001
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: "Berliner Allee"
 housenumber: 

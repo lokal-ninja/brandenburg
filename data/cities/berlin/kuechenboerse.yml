@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.538870700000004
 longitude: 13.6052303
-postcode: 12627
+postcode: "12627"
 city: Berlin
 street: "Janusz-Korczak-Straße"
 housenumber: 29

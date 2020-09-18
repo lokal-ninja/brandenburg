@@ -1,4 +1,4 @@
 ---
-title: "MEDA Gute Küchen"
+title: "Meda Gute Küchen"
 url: /berlin/meda-gute-kuechen/
 ---

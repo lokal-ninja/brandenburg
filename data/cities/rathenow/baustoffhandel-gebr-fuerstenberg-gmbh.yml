@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.613403700000006
 longitude: 12.3408443
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Curlandstraße"
 housenumber: 57

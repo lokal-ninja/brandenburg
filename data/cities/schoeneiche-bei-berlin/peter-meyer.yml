@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.470559200000004
 longitude: 13.7079546
-postcode: 15566
+postcode: "15566"
 city: Schöneiche bei Berlin
 street: "Walter-Dehmel-Straße"
 housenumber: 49

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5150232
 longitude: 13.2909606
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Danckelmannstraße"
 housenumber: 50

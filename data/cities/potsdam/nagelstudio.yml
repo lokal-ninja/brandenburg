@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.3994541
 longitude: 13.0543729
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 105

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.3826775
 longitude: 13.762694900000001
-postcode: 01990
+postcode: "01990"
 city: Ortrand
 street: "Burkersdorfer Straße"
 housenumber: 2

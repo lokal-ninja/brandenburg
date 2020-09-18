@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4202432
 longitude: 13.491866600000002
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Alt-Rudow"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.551205
 longitude: 13.415682100000001
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Rodenbergstraße"
 housenumber: 9

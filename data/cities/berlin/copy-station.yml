@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.517022000000004
 longitude: 13.3069023
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Otto-Suhr-Allee"
 housenumber: 110

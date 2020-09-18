@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4722676
 longitude: 13.308610900000001
-postcode: 14197
+postcode: "14197"
 city: Berlin
 street: "Wiesbadener Straße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.41929510000001
 longitude: 13.7789578
-postcode: 17337
+postcode: "17337"
 city: Uckerland
 street: "Taschenberg"
 housenumber: 43

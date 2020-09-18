@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.154853700000004
 longitude: 13.645980100000001
-postcode: 15755
+postcode: "15755"
 city: Schwerin
 street: "Wustrickweg"
 housenumber: 1

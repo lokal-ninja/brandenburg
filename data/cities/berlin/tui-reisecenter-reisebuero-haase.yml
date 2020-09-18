@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.4172279
 longitude: 13.3992789
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 422

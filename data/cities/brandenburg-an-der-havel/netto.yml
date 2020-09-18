@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.415727100000005
 longitude: 12.5381347
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Karl-Marx-Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5167828
 longitude: 13.306017800000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Behaimstraße"
 housenumber: 4

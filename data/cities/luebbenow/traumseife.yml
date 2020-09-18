@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.45559840000001
 longitude: 13.802960100000002
-postcode: 17337
+postcode: "17337"
 city: Lübbenow
 street: "Milower Weg"
 housenumber: 10

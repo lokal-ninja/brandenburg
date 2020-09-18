@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.585847300000005
 longitude: 13.2403042
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Walther-Rathenau-Straße"
 housenumber: 26

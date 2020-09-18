@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.8336051
 longitude: 13.816032300000002
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 8

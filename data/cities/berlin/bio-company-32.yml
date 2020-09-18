@@ -1,12 +1,12 @@
-id: 93950515
-type: way
+id: 7243603338
+type: node
 shop: Supermarkt
-latitude: 52.517540700000005
-longitude: 13.2929446
-postcode: 14059
+latitude: 52.4557998
+longitude: 13.3869187
+postcode: "12099"
 city: Berlin
-street: "Neufertstraße"
-housenumber: 19-21
+street: "Tempelhofer Damm"
+housenumber: 227
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

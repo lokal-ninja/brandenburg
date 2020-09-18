@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5823575
 longitude: 12.335644
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Am Hafen"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4461431
 longitude: 13.294042200000002
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Unter den Eichen"
 housenumber: 62

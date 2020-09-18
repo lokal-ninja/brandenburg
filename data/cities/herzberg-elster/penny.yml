@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.691177100000004
 longitude: 13.226441000000001
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Grochwitzer Straße"
 housenumber: 2a

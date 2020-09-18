@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4556948
 longitude: 13.3238572
-postcode: 12165
+postcode: "12165"
 city: Berlin
 street: "Berlinickestraße"
 housenumber: 16A

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.400312400000004
 longitude: 13.059041
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Am Bassin"
 housenumber: 11

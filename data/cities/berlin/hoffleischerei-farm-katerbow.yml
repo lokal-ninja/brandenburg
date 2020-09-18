@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.477087600000004
 longitude: 13.2887617
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Auguste-Viktoria-Straße"
 housenumber: 55a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.558405400000005
 longitude: 13.7210709
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: ""
 housenumber: 

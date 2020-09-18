@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3991765
 longitude: 13.052131800000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 114

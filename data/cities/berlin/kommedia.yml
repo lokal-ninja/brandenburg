@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4893167
 longitude: 13.393986700000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Marheinekeplatz"
 housenumber: 15

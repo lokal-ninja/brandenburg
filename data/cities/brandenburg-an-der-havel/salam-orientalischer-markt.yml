@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.431459800000006
 longitude: 12.531311200000001
-postcode: 14772
+postcode: "14772"
 city: Brandenburg an der Havel
 street: "Rosa-Luxemburg-Allee"
 housenumber: 2

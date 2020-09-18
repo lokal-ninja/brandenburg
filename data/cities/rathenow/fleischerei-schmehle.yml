@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.6095284
 longitude: 12.3453245
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Goethestraße"
 housenumber: 69

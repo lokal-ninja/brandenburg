@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4171764
 longitude: 13.424295500000001
-postcode: 12349
+postcode: "12349"
 city: Berlin
 street: "Warmensteinacher Straße"
 housenumber: 39

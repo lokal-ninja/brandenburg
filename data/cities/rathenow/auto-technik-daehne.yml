@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5786844
 longitude: 12.3370265
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Grünauer Fenn"
 housenumber: 5

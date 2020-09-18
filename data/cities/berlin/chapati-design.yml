@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.492852400000004
 longitude: 13.353689900000001
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Goltzstraße"
 housenumber: 13b

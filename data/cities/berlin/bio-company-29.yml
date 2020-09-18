@@ -1,12 +1,12 @@
-id: 7027141484
+id: 6167488714
 type: node
 shop: Supermarkt
-latitude: 52.5021374
-longitude: 13.2955465
-postcode: 10711
+latitude: 52.4812026
+longitude: 13.524505300000001
+postcode: "10318"
 city: Berlin
-street: "Heilbronner Straße"
-housenumber: 12
-phone: "+49 30 5210760640"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.biocompany.de/bio-company-markt-finden/l/berlin/heilbronner-strasse-12/1826195"
+street: "Treskowallee"
+housenumber: 114
+phone: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

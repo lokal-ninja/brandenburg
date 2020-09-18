@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.3947616
 longitude: 13.0870104
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Alt Nowawes"
 housenumber: 42

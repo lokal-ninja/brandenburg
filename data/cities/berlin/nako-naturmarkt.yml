@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.485078200000004
 longitude: 13.581451900000001
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Ulmenstraße"
 housenumber: 89

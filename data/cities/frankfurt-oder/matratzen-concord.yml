@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.360896700000005
 longitude: 14.5250213
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Spitzkrugring"
 housenumber: 3

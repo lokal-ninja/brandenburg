@@ -3,10 +3,10 @@ type: way
 shop: Schlüsseldienst
 latitude: 52.41364
 longitude: 12.5231835
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Friedrich-Franz-Straße"
 housenumber: 1
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:30-17:00; Fr 08:30-15:00"
 website: "http://www.schluesseldienst-michalek.de"

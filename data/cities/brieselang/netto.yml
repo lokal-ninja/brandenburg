@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5830387
 longitude: 13.0126337
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Finkenkruger Straße"
 housenumber: 4

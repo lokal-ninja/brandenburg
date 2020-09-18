@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.733538900000006
 longitude: 13.243340600000002
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Berliner Straße"
 housenumber: 147

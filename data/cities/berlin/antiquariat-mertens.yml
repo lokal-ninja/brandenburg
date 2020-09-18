@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.4967399
 longitude: 13.3526647
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Winterfeldtstraße"
 housenumber: 51

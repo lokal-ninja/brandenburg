@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 51.999193000000005
 longitude: 13.075681800000002
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Weinberge"
 housenumber: 39

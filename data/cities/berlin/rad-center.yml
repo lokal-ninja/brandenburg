@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5073609
 longitude: 13.3024912
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Kaiser-Friedrich-Straße"
 housenumber: 60

@@ -3,10 +3,10 @@ type: node
 shop: Küchen
 latitude: 52.5366957
 longitude: 13.434125300000002
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 49
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00"
 website: "https://www.khs-kuechen-hausgeraete.de/"

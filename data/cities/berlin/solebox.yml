@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.5025233
 longitude: 13.3384446
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Nürnberger Straße"
 housenumber: 14

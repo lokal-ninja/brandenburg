@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 52.833912600000005
 longitude: 13.8147604
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 5

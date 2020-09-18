@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.50657390000001
 longitude: 13.293026600000001
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Neue Kantstraße"
 housenumber: 29-30

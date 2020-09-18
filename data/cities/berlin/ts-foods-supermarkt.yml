@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5241928
 longitude: 13.333198800000002
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Alt-Moabit"
 housenumber: 74

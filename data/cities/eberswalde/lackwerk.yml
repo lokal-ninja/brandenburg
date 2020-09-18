@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.851546400000004
 longitude: 13.819706400000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Neue Straße"
 housenumber: 3

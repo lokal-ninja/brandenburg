@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.437657
 longitude: 13.547681200000001
-postcode: 12489
+postcode: "12489"
 city: Berlin
 street: "Dörpfeldstraße"
 housenumber: 33-35

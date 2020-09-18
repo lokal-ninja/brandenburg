@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5360725
 longitude: 13.4324452
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 119

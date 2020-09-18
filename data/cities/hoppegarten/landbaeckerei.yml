@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5307936
 longitude: 13.6309573
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Fichtengrund"
 housenumber: 4

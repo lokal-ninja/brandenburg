@@ -3,10 +3,10 @@ type: way
 shop: Reifen
 latitude: 52.548346900000006
 longitude: 13.1061429
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Chemnitzer Straße"
 housenumber: 15
 phone: "+49 3322 215658"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00; PH off"
 website: "https://reifen-tucholke.de/"

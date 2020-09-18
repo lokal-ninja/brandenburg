@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.405807700000004
 longitude: 13.0104068
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Kaiser-Friedrich-Straße"
 housenumber: 140

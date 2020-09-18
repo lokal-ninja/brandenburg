@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4109385
 longitude: 13.403524500000001
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Lichtenrader Damm"
 housenumber: 35

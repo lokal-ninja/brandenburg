@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.600129
 longitude: 13.601525200000001
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Möbel-Hübner-Straße"
 housenumber: 6

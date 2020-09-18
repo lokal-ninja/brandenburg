@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 51.758895200000005
 longitude: 14.3338675
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Schloßkirchplatz"
 housenumber: 6

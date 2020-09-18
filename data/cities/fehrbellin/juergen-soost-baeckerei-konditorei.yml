@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.808142700000005
 longitude: 12.7798514
-postcode: 16833
+postcode: "16833"
 city: Fehrbellin
 street: "Berliner Allee"
 housenumber: 3

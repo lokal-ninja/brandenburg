@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.05294670000001
 longitude: 13.5282684
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Askanische Straße"
 housenumber: 1

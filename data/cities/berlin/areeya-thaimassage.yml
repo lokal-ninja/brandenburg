@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.513342300000005
 longitude: 13.318897300000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Otto-Suhr-Allee"
 housenumber: 9

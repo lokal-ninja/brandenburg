@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.5111094
 longitude: 13.452375400000001
-postcode: 
+postcode: ""
 city: Berlin
 street: "Warschauer Straße"
 housenumber: 67

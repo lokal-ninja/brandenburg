@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.5285354
 longitude: 13.394527100000001
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Torstraße"
 housenumber: 176

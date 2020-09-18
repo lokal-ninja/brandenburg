@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.4031255
 longitude: 13.5234441
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Schönefelder Chaussee"
 housenumber: 231

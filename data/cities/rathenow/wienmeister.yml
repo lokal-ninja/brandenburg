@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.6052587
 longitude: 12.342405300000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Berliner Straße"
 housenumber: 9 a

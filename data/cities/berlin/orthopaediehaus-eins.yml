@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.4492473
 longitude: 13.2688254
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Clayallee"
 housenumber: 225A

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.388161100000005
 longitude: 13.3943723
-postcode: 12307
+postcode: "12307"
 city: Berlin
 street: "Wünsdorfer Straße"
 housenumber: 98

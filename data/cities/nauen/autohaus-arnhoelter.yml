@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.597221600000005
 longitude: 12.889084500000001
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Alfred-Nobel-Straße"
 housenumber: 6

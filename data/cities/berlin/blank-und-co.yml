@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.4620036
 longitude: 13.463749900000002
-postcode: 12057
+postcode: "12057"
 city: Berlin
 street: "Boschweg"
 housenumber: 6

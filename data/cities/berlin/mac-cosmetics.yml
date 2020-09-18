@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.524121300000004
 longitude: 13.402626300000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

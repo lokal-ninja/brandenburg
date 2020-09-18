@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.4085758
 longitude: 12.6127769
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "An der Bundesstraße 1"
 housenumber: 3

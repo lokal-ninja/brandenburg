@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.512870500000005
 longitude: 13.4930593
-postcode: 10365
+postcode: "10365"
 city: Berlin
 street: "Atzpodienstraße"
 housenumber: 4

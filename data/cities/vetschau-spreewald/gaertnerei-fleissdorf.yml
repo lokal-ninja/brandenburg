@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.8124076
 longitude: 14.097685
-postcode: 03226
+postcode: "03226"
 city: Vetschau/Spreewald
 street: "An den Gewächshäusern"
 housenumber: 

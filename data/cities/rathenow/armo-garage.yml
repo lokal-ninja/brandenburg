@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.6128395
 longitude: 12.3391979
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Curlandstraße"
 housenumber: 19

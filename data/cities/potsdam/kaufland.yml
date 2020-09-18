@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3642612
 longitude: 13.093926900000001
-postcode: 14478
+postcode: "14478"
 city: Potsdam
 street: "Am Moosfenn"
 housenumber: 1

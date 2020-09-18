@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.709445
 longitude: 13.276094200000001
-postcode: 16556
+postcode: "16556"
 city: Hohen Neuendorf
 street: "Berliner Straße"
 housenumber: 32

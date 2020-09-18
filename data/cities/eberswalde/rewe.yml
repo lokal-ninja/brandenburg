@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.835627
 longitude: 13.789240600000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Heegermühler Straße"
 housenumber: 19

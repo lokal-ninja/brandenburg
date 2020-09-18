@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.4001092
 longitude: 13.0530109
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 18

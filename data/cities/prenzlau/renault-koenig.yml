@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.3068928
 longitude: 13.8774449
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Schwedter Straße"
 housenumber: 82

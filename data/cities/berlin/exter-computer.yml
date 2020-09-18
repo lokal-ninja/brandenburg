@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.514693
 longitude: 13.305136800000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Thrasoltstraße"
 housenumber: 13

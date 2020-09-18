@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.61099
 longitude: 12.8575598
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Schillerstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.502996700000004
 longitude: 13.316142800000002
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Mommsenstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5091709
 longitude: 13.3078079
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Sesenheimer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5057343
 longitude: 13.3265208
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Kantstraße"
 housenumber: 15a

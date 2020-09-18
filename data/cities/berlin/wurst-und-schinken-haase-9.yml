@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.510226900000006
 longitude: 13.272135500000001
-postcode: 14052
+postcode: "14052"
 city: Berlin
 street: "Theodor-Heuss-Platz"
 housenumber: 8

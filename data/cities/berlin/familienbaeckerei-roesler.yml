@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.523735800000004
 longitude: 13.1974152
-postcode: 13595
+postcode: "13595"
 city: Berlin
 street: "Pichelsdorfer Straße"
 housenumber: 99

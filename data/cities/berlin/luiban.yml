@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.525663900000005
 longitude: 13.4110907
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosa-Luxemburg-Straße"
 housenumber: 28

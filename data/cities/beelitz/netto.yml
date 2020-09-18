@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.283924000000006
 longitude: 12.8856359
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Berliner Allee"
 housenumber: 150

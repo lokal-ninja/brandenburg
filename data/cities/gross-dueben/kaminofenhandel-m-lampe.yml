@@ -3,7 +3,7 @@ type: node
 shop: Kamine & Öfen
 latitude: 51.5786626
 longitude: 14.5715164
-postcode: 02959
+postcode: "02959"
 city: Groß Düben
 street: "Dorfstraße"
 housenumber: 51

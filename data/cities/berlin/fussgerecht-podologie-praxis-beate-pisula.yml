@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.487297000000005
 longitude: 13.3878581
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Fidicinstraße"
 housenumber: 42

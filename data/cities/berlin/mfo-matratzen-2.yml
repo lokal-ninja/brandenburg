@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.4457911
 longitude: 13.293215
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Habelschwerdter Allee"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.292365700000005
 longitude: 14.0608853
-postcode: 15526
+postcode: "15526"
 city: Bad Saarow
 street: "Seestraße"
 housenumber: 11

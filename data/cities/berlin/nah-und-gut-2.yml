@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.47432920000001
 longitude: 13.3716214
-postcode: 12101
+postcode: "12101"
 city: Berlin
 street: "Werner-Voß-Damm"
 housenumber: 37

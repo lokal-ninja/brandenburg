@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.503642600000006
 longitude: 13.3386738
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Tauentzienstraße"
 housenumber: 8

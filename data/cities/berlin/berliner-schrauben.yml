@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.502603400000005
 longitude: 13.408703500000001
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Prinzenstraße"
 housenumber: 86

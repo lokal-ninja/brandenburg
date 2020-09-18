@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4990509
 longitude: 13.310589700000001
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Xantener Straße"
 housenumber: 

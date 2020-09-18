@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.508917600000004
 longitude: 13.450409500000001
-postcode: 10243
+postcode: "10243"
 city: Berlin
 street: "Revaler Straße"
 housenumber: 2

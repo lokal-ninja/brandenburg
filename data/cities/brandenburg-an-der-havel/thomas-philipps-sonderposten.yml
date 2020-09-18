@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.407349100000005
 longitude: 12.543087600000002
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Neuendorfer Straße"
 housenumber: 69

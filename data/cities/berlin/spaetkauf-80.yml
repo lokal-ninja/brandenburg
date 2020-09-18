@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5264396
 longitude: 13.3369125
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 80

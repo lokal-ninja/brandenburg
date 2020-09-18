@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 53.016358000000004
 longitude: 13.9934335
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Grundmühlenweg"
 housenumber: 5

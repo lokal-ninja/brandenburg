@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.519861500000005
 longitude: 13.414790900000002
-postcode: 10179
+postcode: "10179"
 city: Berlin
 street: "Grunerstraße"
 housenumber: 20

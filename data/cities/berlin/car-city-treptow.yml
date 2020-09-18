@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.4864753
 longitude: 13.457765400000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Kiefholzstraße"
 housenumber: 397

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.110226700000005
 longitude: 13.6402826
-postcode: 17268
+postcode: "17268"
 city: Milmersdorf
 street: "Mittelweg"
 housenumber: 2

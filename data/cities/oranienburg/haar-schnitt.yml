@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.750295
 longitude: 13.218913
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Eichendorffstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.071240100000004
 longitude: 12.6898274
-postcode: 14823
+postcode: "14823"
 city: Niemegk
 street: "Großstraße"
 housenumber: 36

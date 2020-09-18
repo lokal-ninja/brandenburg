@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.074742400000005
 longitude: 13.4390108
-postcode: 17268
+postcode: "17268"
 city: Hammelspring
 street: "Templiner Straße"
 housenumber: 3

@@ -3,10 +3,10 @@ type: node
 shop: Sanitätshaus
 latitude: 52.451281400000006
 longitude: 13.625041600000001
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 35
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th 09:00-18:00; We,Fr 09:00-15:00"
 website: ""

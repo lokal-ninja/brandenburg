@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.5891929
 longitude: 13.4019101
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Dietzgenstraße"
 housenumber: 88

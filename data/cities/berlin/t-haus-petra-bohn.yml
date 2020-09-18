@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 52.6169559
 longitude: 13.306583100000001
-postcode: 13467
+postcode: "13467"
 city: Berlin
 street: "Heinsestraße"
 housenumber: 31

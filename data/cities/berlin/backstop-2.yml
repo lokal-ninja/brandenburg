@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.6163168
 longitude: 13.471288900000001
-postcode: 13125
+postcode: "13125"
 city: Berlin
 street: ""
 housenumber: 

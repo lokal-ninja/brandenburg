@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.509978000000004
 longitude: 13.4510593
-postcode: 10243
+postcode: "10243"
 city: Berlin
 street: "Warschauer Straße"
 housenumber: 28

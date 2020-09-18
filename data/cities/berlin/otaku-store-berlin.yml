@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.563486700000006
 longitude: 13.365314900000001
-postcode: 13409
+postcode: "13409"
 city: Berlin
 street: "Residenzstraße"
 housenumber: 107

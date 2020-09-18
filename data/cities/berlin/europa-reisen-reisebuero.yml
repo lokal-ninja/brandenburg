@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.5104563
 longitude: 13.296858100000001
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Suarezstraße"
 housenumber: 1

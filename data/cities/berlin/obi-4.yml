@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.4177563
 longitude: 13.2889388
-postcode: 14167
+postcode: "14167"
 city: Berlin
 street: "Goerzallee"
 housenumber: 189-223

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.2007035
 longitude: 12.6089037
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Am Lütter Bach"
 housenumber: 38

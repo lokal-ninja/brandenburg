@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3496457
 longitude: 14.565560600000001
-postcode: 69-100
+postcode: "69-100"
 city: Słubice
 street: "Adama Asnyka"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.72933930000001
 longitude: 14.656014
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Ringstraße"
 housenumber: 27

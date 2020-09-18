@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.511182500000004
 longitude: 13.270222400000002
-postcode: 14050
+postcode: "14050"
 city: Berlin
 street: "Stormstraße"
 housenumber: 5

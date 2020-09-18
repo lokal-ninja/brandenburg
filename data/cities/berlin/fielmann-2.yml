@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4606915
 longitude: 13.384571200000002
-postcode: 12099
+postcode: "12099"
 city: Berlin
 street: "Tempelhofer Damm"
 housenumber: 182/184

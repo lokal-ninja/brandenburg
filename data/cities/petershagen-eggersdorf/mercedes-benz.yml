@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.532116200000004
 longitude: 13.809441300000001
-postcode: 15345
+postcode: "15345"
 city: Petershagen/Eggersdorf
 street: "Am Fuchsbau"
 housenumber: 1

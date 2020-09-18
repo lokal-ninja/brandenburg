@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5497038
 longitude: 13.414332000000002
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 78-80

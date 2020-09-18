@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.475118200000004
 longitude: 13.3779281
-postcode: 12101
+postcode: "12101"
 city: Berlin
 street: "Boelckestraße"
 housenumber: 91A

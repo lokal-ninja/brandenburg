@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.39718190000001
 longitude: 13.242468200000001
-postcode: 14513
+postcode: "14513"
 city: Teltow
 street: "Warthestraße"
 housenumber: 1

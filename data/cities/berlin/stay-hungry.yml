@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.49767730000001
 longitude: 13.430532000000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Wiener Straße"
 housenumber: 18

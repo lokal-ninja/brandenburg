@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.5636324
 longitude: 13.7242069
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: "Berliner Straße"
 housenumber: 35

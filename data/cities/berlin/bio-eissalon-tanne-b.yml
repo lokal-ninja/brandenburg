@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 52.489246900000005
 longitude: 13.393976100000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Marheinekeplatz"
 housenumber: 15

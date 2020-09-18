@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.486539
 longitude: 13.355286600000001
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Akazienstraße"
 housenumber: 29

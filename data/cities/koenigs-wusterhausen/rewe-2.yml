@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.304626500000005
 longitude: 13.649094000000002
-postcode: 15713
+postcode: "15713"
 city: Königs Wusterhausen
 street: "Karl-Marx-Straße"
 housenumber: 169

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.60181540000001
 longitude: 13.7563724
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: "Alte Dorfstraße"
 housenumber: 2

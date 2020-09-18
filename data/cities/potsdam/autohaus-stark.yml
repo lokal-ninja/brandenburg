@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.383454
 longitude: 13.0510614
-postcode: 14473
+postcode: "14473"
 city: Potsdam
 street: "Templiner Straße"
 housenumber: 15

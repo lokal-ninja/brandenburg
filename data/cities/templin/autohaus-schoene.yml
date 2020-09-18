@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.1091557
 longitude: 13.517549200000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Dargersdorfer Straße"
 housenumber: 83

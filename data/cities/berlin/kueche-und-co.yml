@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.506977400000004
 longitude: 13.3003806
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Kantstraße"
 housenumber: 71

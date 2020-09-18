@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 52.5028384
 longitude: 13.3076298
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 76

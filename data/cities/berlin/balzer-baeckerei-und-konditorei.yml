@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.526327800000004
 longitude: 13.3992163
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Sophienstraße"
 housenumber: 30-31

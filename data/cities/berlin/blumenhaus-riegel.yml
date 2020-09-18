@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.486519300000005
 longitude: 13.3135306
-postcode: 10713
+postcode: "10713"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 106

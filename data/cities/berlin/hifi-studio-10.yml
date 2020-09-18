@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.507975900000005
 longitude: 13.3209718
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Grolmanstraße"
 housenumber: 56

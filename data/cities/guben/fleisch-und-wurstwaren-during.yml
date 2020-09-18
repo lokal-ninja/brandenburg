@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.9442772
 longitude: 14.7040643
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Karl-Marx-Straße"
 housenumber: 27

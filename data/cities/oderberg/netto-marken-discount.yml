@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.8759572
 longitude: 14.054908000000001
-postcode: 16248
+postcode: "16248"
 city: Oderberg
 street: "Waldstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.582199100000004
 longitude: 13.3188419
-postcode: 13403
+postcode: "13403"
 city: Berlin
 street: "Eichborndamm"
 housenumber: 141

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.362918300000004
 longitude: 12.9748076
-postcode: 14548
+postcode: "14548"
 city: Schwielowsee
 street: "Hauffstraße"
 housenumber: 80

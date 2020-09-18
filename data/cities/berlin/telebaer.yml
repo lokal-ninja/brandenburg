@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.449218200000004
 longitude: 13.315621400000001
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Hindenburgdamm"
 housenumber: 62

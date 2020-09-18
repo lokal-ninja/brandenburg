@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.260067400000004
 longitude: 13.5479342
-postcode: 15749
+postcode: "15749"
 city: Mittenwalde
 street: "Rathausstraße"
 housenumber: 23

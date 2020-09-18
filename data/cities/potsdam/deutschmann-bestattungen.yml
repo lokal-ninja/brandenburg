@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 52.365345000000005
 longitude: 13.093610400000001
-postcode: 14478
+postcode: "14478"
 city: Potsdam
 street: "Saarmunder Straße"
 housenumber: 47
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:30"
+opening_hours: "Mo-Fr 07:30-18:30; PH,Sa,Su off"
 website: ""

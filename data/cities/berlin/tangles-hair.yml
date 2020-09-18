@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.396196800000006
 longitude: 13.5834343
-postcode: 12526
+postcode: "12526"
 city: Berlin
 street: "Schulzendorfer Straße"
 housenumber: 37

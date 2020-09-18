@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5272992
 longitude: 13.4808842
-postcode: 10367
+postcode: "10367"
 city: Berlin
 street: "Bernhard-Bästlein-Straße"
 housenumber: 1

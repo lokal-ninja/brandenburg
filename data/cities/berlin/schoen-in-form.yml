@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5569074
 longitude: 13.432473700000001
-postcode: 13086
+postcode: "13086"
 city: Berlin
 street: "Heinersdorfer Straße"
 housenumber: 33A

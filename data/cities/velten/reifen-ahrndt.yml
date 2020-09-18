@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.685956000000004
 longitude: 13.1917398
-postcode: 16727
+postcode: "16727"
 city: Velten
 street: "Kanalstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5269703
 longitude: 13.3393379
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Jonasstraße"
 housenumber: 2

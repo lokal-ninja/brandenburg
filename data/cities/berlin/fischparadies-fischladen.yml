@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.4877851
 longitude: 13.358218
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 149a

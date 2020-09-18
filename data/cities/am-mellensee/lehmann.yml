@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.156194400000004
 longitude: 13.4056726
-postcode: 15838
+postcode: "15838"
 city: Am Mellensee
 street: "Dorfaue"
 housenumber: 12

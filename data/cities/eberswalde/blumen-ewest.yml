@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.831667
 longitude: 13.8094032
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 6

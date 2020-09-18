@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.763783200000006
 longitude: 14.3970762
-postcode: 03052
+postcode: "03052"
 city: Cottbus
 street: "Dissenchener Hauptstraße"
 housenumber: 92

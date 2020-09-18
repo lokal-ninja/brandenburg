@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.510984400000005
 longitude: 13.4671354
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Finowstraße"
 housenumber: 25

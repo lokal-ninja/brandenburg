@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.593704200000005
 longitude: 13.302134400000002
-postcode: 13509
+postcode: "13509"
 city: Berlin
 street: "Havelmüllerweg"
 housenumber: 21

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.7510698
 longitude: 13.2236422
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Kremmener Straße"
 housenumber: 43

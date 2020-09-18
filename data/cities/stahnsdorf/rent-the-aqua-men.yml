@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.388234700000005
 longitude: 13.2164845
-postcode: 14532
+postcode: "14532"
 city: Stahnsdorf
 street: "Lindenstraße"
 housenumber: 44

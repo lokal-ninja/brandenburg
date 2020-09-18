@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.464983700000005
 longitude: 13.324234
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Gutsmuthsstraße"
 housenumber: 20

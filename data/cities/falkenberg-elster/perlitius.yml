@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.5756176
 longitude: 13.231304100000001
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Mühlberger Straße"
 housenumber: 49

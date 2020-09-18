@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.523273200000006
 longitude: 13.6460614
-postcode: 12623
+postcode: "12623"
 city: Berlin
 street: "Dahlwitzer Straße"
 housenumber: 57

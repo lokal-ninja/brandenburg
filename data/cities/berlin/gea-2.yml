@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.4902274
 longitude: 13.4089746
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Körtestraße"
 housenumber: 26

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4888842
 longitude: 13.394634400000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 25

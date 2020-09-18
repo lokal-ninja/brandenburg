@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.4538123
 longitude: 13.5127714
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Michael-Brückner-Straße"
 housenumber: 26-31

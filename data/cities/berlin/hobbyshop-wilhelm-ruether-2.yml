@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.49329650000001
 longitude: 13.3534185
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Goltzstraße"
 housenumber: 37

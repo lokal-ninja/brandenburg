@@ -1,12 +1,12 @@
-id: 40162790
+id: 40071062
 type: way
 shop: Supermarkt
-latitude: 52.4652186
-longitude: 13.4959527
-postcode: 12437
+latitude: 52.5489972
+longitude: 13.4011326
+postcode: "10437"
 city: Berlin
-street: "Köpenicker Landstraße"
-housenumber: 296
+street: "Schwedter Straße"
+housenumber: 83
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.538999600000004
 longitude: 13.3950843
-postcode: 13355
+postcode: "13355"
 city: Berlin
 street: "Brunnenstraße"
 housenumber: 132

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.523652600000005
 longitude: 13.3319957
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Zinzendorfstraße"
 housenumber: 

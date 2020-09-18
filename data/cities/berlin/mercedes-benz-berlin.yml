@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5153892
 longitude: 13.328399200000002
-postcode: 10587
+postcode: "10587"
 city: Berlin
 street: "Salzufer"
 housenumber: 1

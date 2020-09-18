@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.574592
 longitude: 13.503065000000001
-postcode: 13059
+postcode: "13059"
 city: Berlin
 street: "Egon-Erwin-Kisch-Straße"
 housenumber: 10

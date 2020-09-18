@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.097045400000006
 longitude: 12.8700425
-postcode: 14929
+postcode: "14929"
 city: Treuenbrietzen
 street: "Großstraße"
 housenumber: 13

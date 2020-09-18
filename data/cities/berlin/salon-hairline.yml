@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.52358400000001
 longitude: 13.148124200000002
-postcode: 13591
+postcode: "13591"
 city: Berlin
 street: "Richard-Münch-Straße"
 housenumber: 99

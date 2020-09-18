@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.523975300000004
 longitude: 13.4076923
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rochstraße"
 housenumber: 17

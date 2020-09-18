@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.5573015
 longitude: 13.3772677
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Drontheimer Straße"
 housenumber: 2

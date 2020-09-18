@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3868147
 longitude: 13.4022374
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 18

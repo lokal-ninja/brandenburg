@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.5187048
 longitude: 13.2881058
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Spandauer Damm"
 housenumber: 61-63

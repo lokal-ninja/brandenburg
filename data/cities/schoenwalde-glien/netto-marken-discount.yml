@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5993878
 longitude: 13.100188500000002
-postcode: 14621
+postcode: "14621"
 city: Schönwalde-Glien
 street: "Alter Wansdorfer Weg"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.142186900000006
 longitude: 12.5955784
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Brücker Landstraße"
 housenumber: 1d

@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.5268037
 longitude: 13.5230084
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Meeraner Straße"
 housenumber: 16-18

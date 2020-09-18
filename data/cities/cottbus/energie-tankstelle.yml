@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.772683400000005
 longitude: 14.3598554
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "Stadtring"
 housenumber: 2c

@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.364833600000004
 longitude: 13.093223400000001
-postcode: 14478
+postcode: "14478"
 city: Potsdam
 street: "Am Moosfenn"
 housenumber: 1

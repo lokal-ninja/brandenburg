@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.9591435
 longitude: 11.948589400000001
-postcode: 19336
+postcode: "19336"
 city: Bad Wilsnack
 street: "Bahnstraße"
 housenumber: 20

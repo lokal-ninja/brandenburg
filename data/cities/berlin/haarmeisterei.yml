@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.409364000000004
 longitude: 13.477218200000001
-postcode: 12355
+postcode: "12355"
 city: Berlin
 street: "Hennensteig"
 housenumber: 2

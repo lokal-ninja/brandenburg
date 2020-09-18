@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.9354924
 longitude: 13.8911393
-postcode: 15907
+postcode: "15907"
 city: Lübben (Spreewald)
 street: "Cottbuser Straße"
 housenumber: 6

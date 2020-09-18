@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.431691900000004
 longitude: 13.2584932
-postcode: 
+postcode: ""
 city: Berlin
 street: "Teltower Damm"
 housenumber: 32

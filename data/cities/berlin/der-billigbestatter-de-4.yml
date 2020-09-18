@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.4870515
 longitude: 13.330486100000002
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 154

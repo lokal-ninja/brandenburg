@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.665477
 longitude: 13.58033
-postcode: 16321
+postcode: "16321"
 city: Bernau
 street: "Schwanebecker Chaussee"
 housenumber: 48

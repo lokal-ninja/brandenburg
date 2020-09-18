@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.363098900000004
 longitude: 12.9335979
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Auf dem Strengfeld"
 housenumber: 6

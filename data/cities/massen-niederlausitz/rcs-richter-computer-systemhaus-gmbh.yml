@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 51.636568100000005
 longitude: 13.7399433
-postcode: 03238
+postcode: "03238"
 city: Massen-Niederlausitz
 street: "Ludwig-Erhard-Straße"
 housenumber: 2

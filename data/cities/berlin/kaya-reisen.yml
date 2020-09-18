@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.550932800000005
 longitude: 13.3668299
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Schulstraße"
 housenumber: 38

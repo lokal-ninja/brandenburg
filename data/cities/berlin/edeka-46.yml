@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5197889
 longitude: 13.4503543
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Eckertstraße"
 housenumber: 7-11

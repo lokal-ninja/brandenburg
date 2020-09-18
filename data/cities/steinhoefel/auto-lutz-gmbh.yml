@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4274975
 longitude: 14.246869400000001
-postcode: 15518
+postcode: "15518"
 city: Steinhöfel
 street: "Frankfurter Straße"
 housenumber: 49

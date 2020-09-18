@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.97661110000001
 longitude: 13.3280407
-postcode: 16792
+postcode: "16792"
 city: Zehdenick
 street: "Bahnhofstraße"
 housenumber: 45

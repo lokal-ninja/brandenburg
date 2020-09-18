@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.834000200000006
 longitude: 13.821267500000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Kreuzstraße"
 housenumber: 27

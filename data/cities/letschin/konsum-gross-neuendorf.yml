@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.7013022
 longitude: 14.408987900000001
-postcode: 15324
+postcode: "15324"
 city: Letschin
 street: "Hafenstraße"
 housenumber: 13

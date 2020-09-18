@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4632565
 longitude: 13.319960600000002
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schildhornstraße"
 housenumber: 12

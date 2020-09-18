@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3626445
 longitude: 14.531572400000002
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "An der Brauerei"
 housenumber: 2

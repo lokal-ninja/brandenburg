@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.455586100000005
 longitude: 13.624987500000001
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 79

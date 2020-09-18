@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5075535
 longitude: 13.4607846
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Seumestraße"
 housenumber: 1

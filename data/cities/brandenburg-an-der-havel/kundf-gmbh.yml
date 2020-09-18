@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.3947214
 longitude: 12.539402200000001
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "Wilhelmsdorfer Landstraße"
 housenumber: 40

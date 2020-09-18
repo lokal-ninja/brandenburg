@@ -3,10 +3,10 @@ type: way
 shop: Fahrrad
 latitude: 52.5059357
 longitude: 13.568801500000001
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Alt-Biesdorf"
 housenumber: 45
-phone: "+4930510637717"
+phone: "+493051063770"
 opening_hours: "Mo-Sa 10:00-19:00"
 website: "https://www.das-radhaus.de/filiale-berlin-biesdorf/"

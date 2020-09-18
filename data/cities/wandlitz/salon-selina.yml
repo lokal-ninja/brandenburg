@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.679121
 longitude: 13.4370016
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Bahnhofspassage"
 housenumber: 1

@@ -1,4 +1,4 @@
 ---
-title: "Seeger Hilft"
+title: "Seeger hilft"
 url: /berlin/seeger-hilft-3/
 ---

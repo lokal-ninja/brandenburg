@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.2877571
 longitude: 12.839052700000002
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Dorfplatz"
 housenumber: 18 A

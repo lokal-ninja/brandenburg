@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.4638324
 longitude: 13.513966700000001
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Edisonstraße"
 housenumber: 16

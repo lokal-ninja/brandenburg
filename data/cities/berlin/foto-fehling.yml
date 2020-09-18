@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.4890674
 longitude: 13.3931407
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 20

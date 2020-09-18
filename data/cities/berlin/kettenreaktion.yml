@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.502928100000005
 longitude: 13.4803969
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Türrschmidtstraße"
 housenumber: 22

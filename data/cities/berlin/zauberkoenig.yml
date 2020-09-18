@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.4774654
 longitude: 13.4241133
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Herrfurthstraße"
 housenumber: 6a

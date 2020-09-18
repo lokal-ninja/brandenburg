@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6862076
 longitude: 13.282069000000002
-postcode: 16547
+postcode: "16547"
 city: Birkenwerder
 street: "Hauptstraße"
 housenumber: 15-19

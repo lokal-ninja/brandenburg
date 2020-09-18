@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.852017000000004
 longitude: 14.406451100000002
-postcode: 03185
+postcode: "03185"
 city: Peitz
 street: "Cottbuser Straße"
 housenumber: 7A

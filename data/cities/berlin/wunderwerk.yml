@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.524741500000005
 longitude: 13.401204700000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

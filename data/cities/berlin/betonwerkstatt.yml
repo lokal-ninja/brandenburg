@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.5279223
 longitude: 13.4640388
-postcode: 10369
+postcode: "10369"
 city: Berlin
 street: "Erich-Kuttner-Straße"
 housenumber: 31A

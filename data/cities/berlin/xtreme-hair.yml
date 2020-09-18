@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5897281
 longitude: 13.2878164
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Buddestraße"
 housenumber: 16

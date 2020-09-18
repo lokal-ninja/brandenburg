@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.343271900000005
 longitude: 13.870449
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Automeile"
 housenumber: 4

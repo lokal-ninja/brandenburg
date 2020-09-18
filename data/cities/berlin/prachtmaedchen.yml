@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5094617
 longitude: 13.4585006
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Wühlischstraße"
 housenumber: 28

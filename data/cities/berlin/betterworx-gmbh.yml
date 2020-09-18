@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.53420920000001
 longitude: 13.4208063
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Prenzlauer Allee"
 housenumber: 223

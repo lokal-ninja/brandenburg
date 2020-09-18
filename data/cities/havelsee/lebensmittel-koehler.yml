@@ -1,12 +1,12 @@
 id: 321597318
 type: way
 shop: Lebensmittel
-latitude: 52.494986700000005
-longitude: 12.454172000000002
-postcode: 14798
+latitude: 52.4949876
+longitude: 12.454166500000001
+postcode: "14798"
 city: Havelsee
 street: "Havelstraße"
 housenumber: 15
-phone: "03383440889"
+phone: "+49-338-344-0889"
 opening_hours: "Mo-Fr 8:00-12:00,14:00-17:30; Sa 8:00-11:00"
 website: ""

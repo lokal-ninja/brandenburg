@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.526995500000005
 longitude: 13.4102022
-postcode: 10119
+postcode: "10119"
 city: Berlin
 street: "Almstadtstraße"
 housenumber: 48

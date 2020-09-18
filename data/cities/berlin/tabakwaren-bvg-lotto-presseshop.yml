@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.489285300000006
 longitude: 13.3488544
-postcode: 
+postcode: ""
 city: Berlin
 street: "Grunewaldstraße"
 housenumber: 71a

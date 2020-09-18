@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.539601600000005
 longitude: 13.417673700000002
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Husemannstraße"
 housenumber: 33

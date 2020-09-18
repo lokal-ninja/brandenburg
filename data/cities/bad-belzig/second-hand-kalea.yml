@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.139484200000005
 longitude: 12.587743600000001
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Sandberger Straße"
 housenumber: 3

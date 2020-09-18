@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.496816800000005
 longitude: 13.349767000000002
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Eisenacher Straße"
 housenumber: 108

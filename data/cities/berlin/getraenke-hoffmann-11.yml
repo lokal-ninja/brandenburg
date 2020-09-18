@@ -1,12 +1,12 @@
-id: 1510075737
+id: 1653588605
 type: node
 shop: Getränke
-latitude: 52.4530839
-longitude: 13.457646500000001
-postcode: 12359
+latitude: 52.5465108
+longitude: 13.345916800000001
+postcode: "13353"
 city: Berlin
-street: "Neue Späthstraße"
-housenumber: 49
-phone: "+49-30-61204122"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"
-website: ""
+street: "Seestraße"
+housenumber: 20
+phone: ""
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+website: "https://www.getraenke-hoffmann.de/"

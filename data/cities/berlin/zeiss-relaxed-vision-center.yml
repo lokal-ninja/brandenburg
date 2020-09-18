@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5021987
 longitude: 13.3215762
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 40

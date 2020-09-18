@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 51.7491934
 longitude: 14.265764200000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Berliner Straße"
 housenumber: 74

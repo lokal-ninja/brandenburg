@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.61067370000001
 longitude: 12.3333449
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Rhinower Straße"
 housenumber: 44

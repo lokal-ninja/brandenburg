@@ -3,7 +3,7 @@ type: node
 shop: Pasta
 latitude: 52.5244554
 longitude: 13.3347197
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Alt-Moabit"
 housenumber: 78

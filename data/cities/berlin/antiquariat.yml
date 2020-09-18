@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5028408
 longitude: 13.4140116
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Oranienstraße"
 housenumber: 45

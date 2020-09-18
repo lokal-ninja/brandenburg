@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.4947122
 longitude: 13.383632400000002
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Großbeerenstraße"
 housenumber: 24

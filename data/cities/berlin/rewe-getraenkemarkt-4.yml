@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.469121200000004
 longitude: 13.5125332
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Rummelsburger Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 51.8696399
 longitude: 13.4263635
-postcode: 15936
+postcode: "15936"
 city: Dahme/Mark
 street: "Hauptstraße"
 housenumber: 57

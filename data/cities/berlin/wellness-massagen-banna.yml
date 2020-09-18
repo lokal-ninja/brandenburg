@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4365424
 longitude: 13.545064300000002
-postcode: 12489
+postcode: "12489"
 city: Berlin
 street: "Thomas-Müntzer-Straße"
 housenumber: 4

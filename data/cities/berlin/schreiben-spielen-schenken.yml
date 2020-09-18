@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.4382559
 longitude: 13.2322377
-postcode: 14163
+postcode: "14163"
 city: Berlin
 street: "Limastraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4896784
 longitude: 13.3884205
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 5

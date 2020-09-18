@@ -1,0 +1,4 @@
+---
+title: "Stoff'l"
+url: /berlin/stoffl/
+---

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.518832200000006
 longitude: 13.4543654
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Weidenweg"
 housenumber: 56

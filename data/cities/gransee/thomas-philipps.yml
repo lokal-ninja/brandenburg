@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 53.0052376
 longitude: 13.169665700000001
-postcode: 16775
+postcode: "16775"
 city: Gransee
 street: "Templiner Straße"
 housenumber: 14

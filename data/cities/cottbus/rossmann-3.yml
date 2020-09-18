@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.773316
 longitude: 14.3432261
-postcode: 03044
+postcode: "03044"
 city: Cottbus
 street: "Gerhart-Hauptmann-Straße"
 housenumber: 15

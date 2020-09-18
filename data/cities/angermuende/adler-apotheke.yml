@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.016622100000006
 longitude: 14.000291
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Berliner Straße"
 housenumber: 64

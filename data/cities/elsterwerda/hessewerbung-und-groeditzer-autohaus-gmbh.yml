@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.4642683
 longitude: 13.5370737
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Zum Kalkberg"
 housenumber: 3

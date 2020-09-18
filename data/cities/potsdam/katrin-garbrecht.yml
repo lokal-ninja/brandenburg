@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3640448
 longitude: 13.1282124
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Sternstraße"
 housenumber: 11

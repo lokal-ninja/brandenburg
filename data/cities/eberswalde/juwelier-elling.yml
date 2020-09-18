@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.8342304
 longitude: 13.8200397
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Steinstraße"
 housenumber: 14

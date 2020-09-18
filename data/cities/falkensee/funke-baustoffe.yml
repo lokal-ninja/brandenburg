@@ -3,10 +3,10 @@ type: way
 shop: Baustoffe
 latitude: 52.5542396
 longitude: 13.103338800000001
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Straße der Einheit"
-housenumber: 130
+housenumber: 132a
 phone: ""
 opening_hours: ""
 website: ""

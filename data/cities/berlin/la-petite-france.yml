@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5011142
 longitude: 13.3369491
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Nürnberger Straße"
 housenumber: 24a

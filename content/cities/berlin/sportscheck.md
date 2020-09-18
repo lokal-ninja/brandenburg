@@ -1,4 +1,4 @@
 ---
-title: "SportScheck"
+title: "Sportscheck"
 url: /berlin/sportscheck/
 ---

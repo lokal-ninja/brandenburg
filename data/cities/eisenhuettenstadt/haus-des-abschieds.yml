@@ -3,7 +3,7 @@ type: way
 shop: Bestattungen
 latitude: 52.142807000000005
 longitude: 14.6687718
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Goethestraße"
 housenumber: 1

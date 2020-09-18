@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.636757200000005
 longitude: 13.2043902
-postcode: 16761
+postcode: "16761"
 city: Hennigsdorf
 street: "Postplatz"
 housenumber: 4-4c

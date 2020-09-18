@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.467068100000006
 longitude: 13.4475595
-postcode: 12057
+postcode: "12057"
 city: Berlin
 street: "Naumburger Straße"
 housenumber: 33

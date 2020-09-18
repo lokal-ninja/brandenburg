@@ -3,7 +3,7 @@ type: way
 shop: Bioladen
 latitude: 52.788928500000004
 longitude: 14.240875500000001
-postcode: 16259
+postcode: "16259"
 city: Oderaue
 street: "Zollbrücke"
 housenumber: 20

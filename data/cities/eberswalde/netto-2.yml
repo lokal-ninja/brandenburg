@@ -1,12 +1,12 @@
-id: 244445184
-type: way
+id: 7218734004
+type: node
 shop: Supermarkt
-latitude: 52.83782780000001
-longitude: 13.736539400000002
-postcode: 16227
+latitude: 52.852047000000006
+longitude: 13.826861300000001
+postcode: "16225"
 city: Eberswalde
-street: "Eberswalder Straße"
-housenumber: 86
+street: "Dr.-Zinn-Weg"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.netto.de/"

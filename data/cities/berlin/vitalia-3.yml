@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.480074200000004
 longitude: 13.437716100000001
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Anzengruberstraße"
 housenumber: 2

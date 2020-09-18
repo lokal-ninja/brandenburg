@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 52.4996019
 longitude: 13.3645382
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Kurfürstenstraße"
 housenumber: 24

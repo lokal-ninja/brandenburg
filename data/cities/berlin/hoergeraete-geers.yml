@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.6358691
 longitude: 13.493676500000001
-postcode: 13125
+postcode: "13125"
 city: Berlin
 street: "Wiltbergstraße"
 housenumber: 21

@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 52.5318735
 longitude: 13.432438600000001
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Hufelandstraße"
 housenumber: 19
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-18:00"
 website: ""

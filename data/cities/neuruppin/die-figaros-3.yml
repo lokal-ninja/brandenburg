@@ -1,12 +1,12 @@
-id: 2482524206
+id: 3955477857
 type: node
 shop: Friseur
-latitude: 52.9233248
-longitude: 12.8035552
-postcode: 16816
+latitude: 52.926291000000006
+longitude: 12.806711
+postcode: "16816"
 city: Neuruppin
-street: "Karl-Marx-Straße"
-housenumber: 72
-phone: "+49 33 91 39 71 85"
-opening_hours: "Tu-We,Fr 07:30-18:00; Th 07:30-19:00; Sa 08:00-12:00"
-website: "https://www.friseurgenossenschaft-neuruppin.de/"
+street: "Schinkelstraße"
+housenumber: 8
+phone: "+49 3391 27 87"
+opening_hours: "Tu-We,Fr 08:00-18:00; Th 08:00-19:00; Sa 08:00-13:00"
+website: "https://www.friseurgenossenschaft-neuruppin.de"

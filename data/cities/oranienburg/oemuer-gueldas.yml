@@ -3,7 +3,7 @@ type: way
 shop: Reifen
 latitude: 52.761655600000005
 longitude: 13.244639900000001
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Sachsenhausener Straße"
 housenumber: 18

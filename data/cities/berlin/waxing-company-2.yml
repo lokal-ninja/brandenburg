@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5265609
 longitude: 13.406642600000001
-postcode: 10119
+postcode: "10119"
 city: Berlin
 street: "Steinstraße"
 housenumber: 3

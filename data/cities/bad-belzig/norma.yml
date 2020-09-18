@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.141330800000006
 longitude: 12.606944200000001
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Erich-Weinert-Straße"
 housenumber: 11

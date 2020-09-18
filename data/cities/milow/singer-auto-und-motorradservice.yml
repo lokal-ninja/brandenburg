@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.5158415
 longitude: 12.3087599
-postcode: 14715
+postcode: "14715"
 city: Milow
 street: "Bergstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 53.0632735
 longitude: 11.839852
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "Schwarzer Weg"
 housenumber: 8

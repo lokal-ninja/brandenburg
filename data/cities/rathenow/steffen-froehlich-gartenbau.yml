@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.627354100000005
 longitude: 12.3319164
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Rhinower Landstraße"
 housenumber: 46

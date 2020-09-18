@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.472471000000006
 longitude: 13.316717
-postcode: 14197
+postcode: "14197"
 city: Berlin
 street: "Rüdesheimer Platz"
 housenumber: 11

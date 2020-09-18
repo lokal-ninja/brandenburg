@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 52.4396409
 longitude: 13.380710500000001
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Großbeerenstraße"
 housenumber: 2

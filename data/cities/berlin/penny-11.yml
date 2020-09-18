@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.499650200000005
 longitude: 13.507765500000001
-postcode: 10319
+postcode: "10319"
 city: Berlin
 street: "Volkradstraße"
 housenumber: 32

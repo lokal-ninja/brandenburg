@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.55066720000001
 longitude: 13.4950097
-postcode: 13053
+postcode: "13053"
 city: Berlin
 street: "Suermondtstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5001242
 longitude: 13.354526900000002
-postcode: 10783
+postcode: "10783"
 city: Berlin
 street: "Else-Lasker-Schüler-Straße"
 housenumber: 18-22

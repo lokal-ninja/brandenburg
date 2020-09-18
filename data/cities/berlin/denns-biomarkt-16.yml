@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4561896
 longitude: 13.508859800000002
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Schnellerstraße"
 housenumber: 21

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.783596200000005
 longitude: 14.320838700000001
-postcode: 03044
+postcode: "03044"
 city: Cottbus
 street: "Krennewitzer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.4267649
 longitude: 13.3647866
-postcode: 12249
+postcode: "12249"
 city: Berlin
 street: "Preysingstraße"
 housenumber: 13

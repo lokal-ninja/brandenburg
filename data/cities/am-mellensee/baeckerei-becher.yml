@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.1649806
 longitude: 13.366934
-postcode: 15838
+postcode: "15838"
 city: Am Mellensee
 street: "Chausseestraße"
 housenumber: 19

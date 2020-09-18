@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 52.504198200000005
 longitude: 13.331941200000001
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 17

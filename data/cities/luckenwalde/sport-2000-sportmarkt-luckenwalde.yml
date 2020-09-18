@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.0887552
 longitude: 13.1725829
-postcode: 14943
+postcode: "14943"
 city: Luckenwalde
 street: "Breite Straße"
 housenumber: 

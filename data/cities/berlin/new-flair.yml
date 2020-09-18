@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.5307772
 longitude: 13.331134500000001
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Waldstraße"
 housenumber: 41
 phone: "+49 30 39877342"
-opening_hours: "Tu-Sa 09:00-18:30; Mo,Su,PH off"
+opening_hours: "Tu-Fr 09:00-18:30;Sa 09:00-16:00; Mo,Su,PH off"
 website: ""

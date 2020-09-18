@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.508179500000004
 longitude: 13.453883000000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Revaler Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.587579600000005
 longitude: 13.2353188
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Lindenstraße"
 housenumber: 3

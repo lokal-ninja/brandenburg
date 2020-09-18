@@ -3,7 +3,7 @@ type: way
 shop: Farben
 latitude: 51.9441105
 longitude: 13.914684000000001
-postcode: 15907
+postcode: "15907"
 city: Lübben (Spreewald)
 street: "Frankfurter Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.154814800000004
 longitude: 14.6351487
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Werkstraße"
 housenumber: 4

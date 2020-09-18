@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.52678220000001
 longitude: 13.539999900000002
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Helene-Weigel-Platz"
 housenumber: 13

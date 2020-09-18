@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.510826
 longitude: 13.4491376
-postcode: 10243
+postcode: "10243"
 city: Berlin
 street: "Gubener Straße"
 housenumber: 22

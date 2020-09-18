@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6092858
 longitude: 12.8804914
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Dammstraße"
 housenumber: 7a

@@ -1,12 +1,12 @@
-id: 3337922713
+id: 3333750872
 type: node
 shop: Blumen
-latitude: 52.4000478
-longitude: 13.051266
-postcode: 14467
+latitude: 52.400445100000006
+longitude: 13.054571600000001
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
-housenumber: 61
+housenumber: 53
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-18:00"
+opening_hours: "Mo-Fr 09:30-18:30; Sa 09:00-18:00; PH,Su off"
 website: ""

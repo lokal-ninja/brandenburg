@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.565601300000004
 longitude: 13.406849500000002
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Florastraße"
 housenumber: 67

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.75120810000001
 longitude: 14.258615
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Friedensweg"
 housenumber: 9,10

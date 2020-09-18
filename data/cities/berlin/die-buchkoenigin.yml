@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4895283
 longitude: 13.426339800000001
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Hobrechtstraße"
 housenumber: 65

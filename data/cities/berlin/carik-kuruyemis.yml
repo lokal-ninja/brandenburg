@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.4902407
 longitude: 13.424072500000001
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Kottbusser Damm"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7325919
 longitude: 14.3248308
-postcode: 03048
+postcode: "03048"
 city: Cottbus
 street: "Boxberger Straße"
 housenumber: 21

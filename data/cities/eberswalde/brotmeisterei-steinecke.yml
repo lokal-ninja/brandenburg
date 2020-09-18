@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.836320900000004
 longitude: 13.7875209
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Heegermühler Straße"
 housenumber: 23b

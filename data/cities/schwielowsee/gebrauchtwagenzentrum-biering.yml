@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.36281090000001
 longitude: 12.9788644
-postcode: 14548
+postcode: "14548"
 city: Schwielowsee
 street: "Hauffstraße"
 housenumber: 88

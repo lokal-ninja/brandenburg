@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.092521100000006
 longitude: 12.859673500000001
-postcode: 14929
+postcode: "14929"
 city: Treuenbrietzen
 street: "Bahnhofstraße"
 housenumber: 3

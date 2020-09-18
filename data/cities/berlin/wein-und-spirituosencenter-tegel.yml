@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.5876138
 longitude: 13.283074000000001
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Brunowstraße"
 housenumber: 17

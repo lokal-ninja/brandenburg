@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4475336
 longitude: 13.404651600000001
-postcode: 12109
+postcode: "12109"
 city: Berlin
 street: "Rixdorfer Straße"
 housenumber: 69

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.1594022
 longitude: 12.174067500000001
-postcode: 16928
+postcode: "16928"
 city: Pritzwalk
 street: "Rostocker Straße"
 housenumber: 8

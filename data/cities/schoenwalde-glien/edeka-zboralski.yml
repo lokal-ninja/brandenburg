@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.599764300000004
 longitude: 13.1367428
-postcode: 14621
+postcode: "14621"
 city: Schönwalde-Glien
 street: "Berliner Allee"
 housenumber: 10

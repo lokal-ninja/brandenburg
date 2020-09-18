@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.353098100000004
 longitude: 13.405003
-postcode: 15831
+postcode: "15831"
 city: Blankenfelde-Mahlow
 street: "Berliner Damm"
 housenumber: 159-161

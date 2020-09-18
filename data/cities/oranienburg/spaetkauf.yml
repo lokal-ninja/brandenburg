@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.751802000000005
 longitude: 13.236465
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Havelstraße"
 housenumber: 23

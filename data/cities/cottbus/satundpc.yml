@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.74818500000001
 longitude: 14.3202537
-postcode: 03048
+postcode: "03048"
 city: Cottbus
 street: "Welzower Straße"
 housenumber: 2

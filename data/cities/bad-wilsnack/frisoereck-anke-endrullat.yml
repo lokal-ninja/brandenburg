@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.9580471
 longitude: 11.9491505
-postcode: 19336
+postcode: "19336"
 city: Bad Wilsnack
 street: "Töpferstraße"
 housenumber: 27

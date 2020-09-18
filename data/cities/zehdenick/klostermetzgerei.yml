@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.978118200000004
 longitude: 13.3312369
-postcode: 16792
+postcode: "16792"
 city: Zehdenick
 street: "Berliner Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.503325200000006
 longitude: 13.497638700000001
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Münsterlandstraße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.539304400000006
 longitude: 13.4102229
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Kastanienallee"
 housenumber: 11

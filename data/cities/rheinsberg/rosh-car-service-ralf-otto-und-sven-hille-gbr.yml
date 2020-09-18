@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0943781
 longitude: 12.896935000000001
-postcode: 16831
+postcode: "16831"
 city: Rheinsberg
 street: "Rhinhöher Weg"
 housenumber: 2A

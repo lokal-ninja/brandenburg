@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.51883230000001
 longitude: 13.4387255
-postcode: 10243
+postcode: "10243"
 city: Berlin
 street: "Palisadenstraße"
 housenumber: 58

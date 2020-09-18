@@ -3,9 +3,9 @@ type: node
 shop: Metzgerei
 latitude: 52.437605700000006
 longitude: 12.5203409
-postcode: 14772
+postcode: "14772"
 city: Brandenburg an der Havel
-street: "Gertraudentraße"
+street: "Gertraudenstraße"
 housenumber: 32
 phone: "+49 152 043 053 03"
 opening_hours: ""

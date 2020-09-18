@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4285805
 longitude: 13.3766247
-postcode: 12277
+postcode: "12277"
 city: Berlin
 street: "Großbeerenstraße"
 housenumber: 169-171

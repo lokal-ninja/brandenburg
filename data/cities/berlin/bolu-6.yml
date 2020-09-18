@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.500382900000005
 longitude: 13.3484057
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Kleiststraße"
 housenumber: 32-33

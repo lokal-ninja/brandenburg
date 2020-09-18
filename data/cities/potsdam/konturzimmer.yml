@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.39968330000001
 longitude: 13.0539807
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 53

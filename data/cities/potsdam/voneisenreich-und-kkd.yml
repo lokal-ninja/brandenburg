@@ -1,12 +1,12 @@
 id: 4513375781
 type: node
 shop: Kleidung
-latitude: 52.401182000000006
-longitude: 13.054071100000002
-postcode: 14467
+latitude: 52.4011955
+longitude: 13.054083700000001
+postcode: "14467"
 city: Potsdam
-street: "Gutenbergstraße"
-housenumber: 18
-phone: "+49 173 6026106"
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00; PH off"
-website: "https://www.voneisenreich.com/"
+street: "Dortustraße"
+housenumber: 64
+phone: ""
+opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00; PH,Su off"
+website: ""

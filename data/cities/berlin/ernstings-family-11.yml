@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.522239500000005
 longitude: 13.587116100000001
-postcode: 12619
+postcode: "12619"
 city: Berlin
 street: "Hellersdorfer Straße"
 housenumber: 77-83

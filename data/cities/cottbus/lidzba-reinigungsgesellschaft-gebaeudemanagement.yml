@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.7174902
 longitude: 14.309366
-postcode: 03051
+postcode: "03051"
 city: Cottbus
 street: "Am Seegraben"
 housenumber: 14

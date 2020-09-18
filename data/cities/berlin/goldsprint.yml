@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.489212
 longitude: 13.452775
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Plesser Straße"
 housenumber: 2

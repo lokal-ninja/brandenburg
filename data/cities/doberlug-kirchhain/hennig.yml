@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.6366827
 longitude: 13.561850900000001
-postcode: 03253
+postcode: "03253"
 city: Doberlug-Kirchhain
 street: "Leipziger Straße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4197016
 longitude: 13.493343800000002
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Alt-Rudow"
 housenumber: 31

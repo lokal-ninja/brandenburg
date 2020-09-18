@@ -1,12 +1,12 @@
 id: 5776800941
 type: node
 shop: Supermarkt
-latitude: 52.5428908
-longitude: 13.0600853
-postcode: 14624
+latitude: 52.542841900000006
+longitude: 13.0601617
+postcode: "14624"
 city: Dallgow-Döberitz
 street: "Bahnhofstraße"
 housenumber: 135
-phone: "+49 3322 4297653"
+phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.alnatura.de/de-de/m%C3%A4rkte/alnatura-filialen-detailseiten/d/dallgow-doeberitz-alnatura-super-natur-markt-hvl167"
+website: ""

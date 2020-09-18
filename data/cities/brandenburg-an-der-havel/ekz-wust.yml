@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.4100583
 longitude: 12.6103856
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "An der Bundesstraße 1"
 housenumber: 1

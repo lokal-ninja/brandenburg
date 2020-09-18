@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 52.5653675
 longitude: 13.101538300000001
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Bahnhofstraße"
 housenumber: 6/8
 phone: "+49 3322 503017"
-opening_hours: "Mo-Fr 07:00-18:00;Sa 07:00-13:00;Su 07:00-11:00"
+opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00; Su 07:00-11:00"
 website: "http://www.das-biobackhaus.de"

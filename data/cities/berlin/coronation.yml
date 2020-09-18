@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.512790700000004
 longitude: 13.458494600000002
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Boxhagener Straße"
 housenumber: 106

@@ -1,12 +1,12 @@
-id: 234577095
+id: 319318995
 type: way
 shop: Supermarkt
-latitude: 52.3483396
-longitude: 14.0710832
-postcode: 15517
+latitude: 52.356229000000006
+longitude: 14.0775176
+postcode: "15517"
 city: Fürstenwalde/Spree
-street: "August-Bebel-Straße"
-housenumber: 115A
+street: "Lindenstraße"
+housenumber: 65
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

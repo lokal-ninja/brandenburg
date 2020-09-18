@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6716685
 longitude: 13.5534058
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Finowstraße"
 housenumber: 30

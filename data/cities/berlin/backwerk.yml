@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.46173640000001
 longitude: 13.3256229
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schloßstraße"
 housenumber: 112

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.49757090000001
 longitude: 13.418771900000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Kottbusser Straße"
 housenumber: 8

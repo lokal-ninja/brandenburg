@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.5219651
 longitude: 13.448375500000001
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Straßmannstraße"
 housenumber: 13

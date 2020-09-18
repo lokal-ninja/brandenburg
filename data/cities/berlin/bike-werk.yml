@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.573393700000004
 longitude: 13.216515200000002
-postcode: 13587
+postcode: "13587"
 city: Berlin
 street: "Aalemannufer"
 housenumber: 5

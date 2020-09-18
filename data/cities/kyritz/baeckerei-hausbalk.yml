@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.942371
 longitude: 12.396305900000002
-postcode: 16866
+postcode: "16866"
 city: Kyritz
 street: "Johann-Sebastian-Bach-Straße"
 housenumber: 44

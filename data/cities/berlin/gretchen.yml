@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.5246593
 longitude: 13.401218100000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

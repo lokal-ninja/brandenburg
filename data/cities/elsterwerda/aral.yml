@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.467255900000005
 longitude: 13.5379155
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Lauchhammerstraße"
 housenumber: 

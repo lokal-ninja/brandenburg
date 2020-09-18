@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.5039547
 longitude: 13.3306362
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 20

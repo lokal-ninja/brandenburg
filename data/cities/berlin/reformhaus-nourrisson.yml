@@ -1,9 +1,9 @@
 id: 1513340693
 type: node
-shop: Supermarkt
+shop: Bioladen
 latitude: 52.48617290000001
 longitude: 13.320182800000001
-postcode: 10713
+postcode: "10713"
 city: Berlin
 street: "Blissestraße"
 housenumber: 2-6

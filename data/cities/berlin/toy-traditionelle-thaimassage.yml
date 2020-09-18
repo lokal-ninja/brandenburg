@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4466083
 longitude: 13.2951975
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Unter den Eichen"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.4392858
 longitude: 13.2732507
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 53

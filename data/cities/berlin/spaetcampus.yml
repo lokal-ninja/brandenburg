@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4860903
 longitude: 13.435137300000001
-postcode: 12045
+postcode: "12045"
 city: Berlin
 street: "Weichselstraße"
 housenumber: 54

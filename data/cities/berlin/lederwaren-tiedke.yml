@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.3865162
 longitude: 13.3996721
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 

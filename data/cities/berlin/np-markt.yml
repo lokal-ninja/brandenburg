@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5421825
 longitude: 13.490855400000001
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Werneuchener Straße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.407994800000004
 longitude: 12.5643074
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "Sankt-Annen-Straße"
 housenumber: 30

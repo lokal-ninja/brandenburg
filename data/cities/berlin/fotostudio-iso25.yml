@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.5659483
 longitude: 13.3983263
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Florastraße"
 housenumber: 90a

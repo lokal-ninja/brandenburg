@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 51.7450647
 longitude: 14.642159600000001
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Cottbuser Straße"
 housenumber: 35a
 phone: "+49 3562 983439"
-opening_hours: "Mo-Fr 05:30-18:00; Sa-Su 07:00-10:00"
+opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-10:00; Su 07:00-10:00"
 website: "https://www.baeckerei-dreissig.de/"

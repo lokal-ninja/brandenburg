@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.494825500000005
 longitude: 13.350888900000001
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Hohenstaufenstraße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.4007675
 longitude: 13.058176300000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 34

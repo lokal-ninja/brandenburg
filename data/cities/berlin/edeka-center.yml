@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4024932
 longitude: 13.5249029
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Siriusstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.608529000000004
 longitude: 12.333444100000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Baustraße"
 housenumber: 6

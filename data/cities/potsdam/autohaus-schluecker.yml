@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.425678000000005
 longitude: 12.9996839
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Rückertstraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5216739
 longitude: 13.698189000000001
-postcode: 15366
+postcode: "15366"
 city: Neuenhagen bei Berlin
 street: "Ernst-Thälmann-Straße"
 housenumber: 14

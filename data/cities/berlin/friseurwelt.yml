@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.463255100000005
 longitude: 13.329747200000002
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Feuerbachstraße"
 housenumber: 22

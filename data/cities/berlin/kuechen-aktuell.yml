@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.539822
 longitude: 13.2500435
-postcode: 13629
+postcode: "13629"
 city: Berlin
 street: "Nonnendammallee"
 housenumber: 119

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.503526
 longitude: 13.6333698
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Handwerkerstraße"
 housenumber: 34-40

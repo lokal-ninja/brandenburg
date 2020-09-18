@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5374047
 longitude: 13.4235716
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Prenzlauer Allee"
 housenumber: 49

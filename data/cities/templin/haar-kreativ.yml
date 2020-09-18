@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1170276
 longitude: 13.498830100000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Beethovenplatz"
 housenumber: 1

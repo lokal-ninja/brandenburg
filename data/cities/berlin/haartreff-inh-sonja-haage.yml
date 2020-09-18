@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4338489
 longitude: 13.359232100000002
-postcode: 12249
+postcode: "12249"
 city: Berlin
 street: "Wedellstraße"
 housenumber: 31

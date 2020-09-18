@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.957216900000006
 longitude: 14.6861276
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Cottbuser Straße"
 housenumber: 33

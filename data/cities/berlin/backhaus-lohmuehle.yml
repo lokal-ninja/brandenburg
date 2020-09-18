@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4927794
 longitude: 13.444530700000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 1

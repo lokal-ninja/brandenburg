@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.50093450000001
 longitude: 13.3540735
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Karl-Heinrich-Ulrichs-Straße"
 housenumber: 8

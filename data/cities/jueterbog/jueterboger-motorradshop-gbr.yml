@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.982905800000005
 longitude: 13.101519300000001
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Herzberger Straße"
 housenumber: 29 B

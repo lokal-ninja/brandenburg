@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5075231
 longitude: 13.4965878
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Weitlingstraße"
 housenumber: 40

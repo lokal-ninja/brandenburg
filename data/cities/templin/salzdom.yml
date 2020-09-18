@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.11714370000001
 longitude: 13.505904000000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Friedrich-Engels-Straße"
 housenumber: 15

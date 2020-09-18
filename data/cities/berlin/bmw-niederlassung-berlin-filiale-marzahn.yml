@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5084851
 longitude: 13.562811600000002
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Blumberger Damm"
 housenumber: 2

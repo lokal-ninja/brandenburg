@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.5246495
 longitude: 13.4009523
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

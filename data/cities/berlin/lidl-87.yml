@@ -1,12 +1,12 @@
-id: 112692006
+id: 104842459
 type: way
 shop: Supermarkt
-latitude: 52.5503325
-longitude: 13.4406815
-postcode: 13086
+latitude: 52.492266300000004
+longitude: 13.4313982
+postcode: "12047"
 city: Berlin
-street: "Roelckestraße"
-housenumber: 172
+street: "Maybachufer"
+housenumber: 32-33
 phone: ""
-opening_hours: ""
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 08:00-22:00"
+website: ""

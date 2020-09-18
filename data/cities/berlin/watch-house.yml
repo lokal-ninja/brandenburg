@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 52.4860721
 longitude: 13.3633562
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Naumannstraße"
 housenumber: 4

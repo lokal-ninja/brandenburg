@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4190089
 longitude: 13.544473700000001
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Grünauer Straße"
 housenumber: 24

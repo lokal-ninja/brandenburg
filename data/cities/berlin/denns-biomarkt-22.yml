@@ -3,9 +3,9 @@ type: node
 shop: Supermarkt
 latitude: 52.520817300000004
 longitude: 13.413918200000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
-street: "Alexanderplatz"
+street: ""
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Sa 09:00-22:00; Su,PH off"

@@ -1,12 +1,12 @@
-id: 3912751175
-type: node
+id: 285599926
+type: way
 shop: Kiosk
-latitude: 52.4674855
-longitude: 13.512984300000001
-postcode: 12459
+latitude: 52.511230100000006
+longitude: 13.241198800000001
+postcode: "14055"
 city: Berlin
-street: "Edisonstraße"
-housenumber: 
+street: "Flatowallee"
+housenumber: 26
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-18:00"
 website: ""

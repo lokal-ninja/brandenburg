@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.507948400000004
 longitude: 13.462901100000002
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Gryphiusstraße"
 housenumber: 28

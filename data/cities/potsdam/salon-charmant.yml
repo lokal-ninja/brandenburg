@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.365262
 longitude: 13.093580300000001
-postcode: 14478
+postcode: "14478"
 city: Potsdam
 street: "Saarmunder Straße"
 housenumber: 49

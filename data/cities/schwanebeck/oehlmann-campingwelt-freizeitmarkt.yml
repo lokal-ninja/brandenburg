@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 52.622541600000005
 longitude: 13.543612000000001
-postcode: 16341
+postcode: "16341"
 city: Schwanebeck
 street: "Dorfstraße"
 housenumber: 28

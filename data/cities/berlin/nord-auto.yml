@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5751222
 longitude: 13.314138100000001
-postcode: 13403
+postcode: "13403"
 city: Berlin
 street: "Kienhorststraße"
 housenumber: 160

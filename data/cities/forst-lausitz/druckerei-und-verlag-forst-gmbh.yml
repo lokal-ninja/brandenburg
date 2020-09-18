@@ -3,7 +3,7 @@ type: way
 shop: Kopieren
 latitude: 51.722623500000005
 longitude: 14.624262300000002
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Ebereschenweg"
 housenumber: 19

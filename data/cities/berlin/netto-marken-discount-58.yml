@@ -1,12 +1,12 @@
-id: 53190801
+id: 97504077
 type: way
 shop: Supermarkt
-latitude: 52.532437400000006
-longitude: 13.3597151
-postcode: 10557
+latitude: 52.560238700000006
+longitude: 13.2179724
+postcode: "13587"
 city: Berlin
-street: "Lehrter Straße"
-housenumber: 58
+street: "Rauchstraße"
+housenumber: 23
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.netto-online.de"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: ""

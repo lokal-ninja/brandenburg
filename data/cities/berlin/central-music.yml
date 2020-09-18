@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.5005035
 longitude: 13.421750900000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Oranienstraße"
 housenumber: 188

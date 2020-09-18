@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.513684000000005
 longitude: 13.4060088
-postcode: 10179
+postcode: "10179"
 city: Berlin
 street: "Fischerinsel"
 housenumber: 12

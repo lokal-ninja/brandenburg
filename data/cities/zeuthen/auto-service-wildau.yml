@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3617336
 longitude: 13.622314000000001
-postcode: 15738
+postcode: "15738"
 city: Zeuthen
 street: "Schillerstraße"
 housenumber: 56c

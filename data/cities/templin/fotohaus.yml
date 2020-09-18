@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 53.1184992
 longitude: 13.4992195
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Berliner Straße"
 housenumber: 3

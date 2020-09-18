@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.59029
 longitude: 14.013022600000001
-postcode: 01983
+postcode: "01983"
 city: Großräschen
 street: "IFA-Park"
 housenumber: 8

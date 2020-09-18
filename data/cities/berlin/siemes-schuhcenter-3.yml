@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.564202900000005
 longitude: 13.324646300000001
-postcode: 13405
+postcode: "13405"
 city: Berlin
 street: "Scharnweberstraße"
 housenumber: 129

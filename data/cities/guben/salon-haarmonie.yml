@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.9563573
 longitude: 14.7036967
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: ""
 housenumber: 

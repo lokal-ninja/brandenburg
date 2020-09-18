@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.474023800000005
 longitude: 13.424061100000001
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Okerstraße"
 housenumber: 12

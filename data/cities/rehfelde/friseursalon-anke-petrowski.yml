@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.529195300000005
 longitude: 13.9249784
-postcode: 15345
+postcode: "15345"
 city: Rehfelde
 street: "Bahnhofstraße"
 housenumber: 25

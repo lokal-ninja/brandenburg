@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.413817300000005
 longitude: 12.555211
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Bäckerstraße"
 housenumber: 12

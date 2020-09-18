@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.369633900000004
 longitude: 14.0605553
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Trebuser Straße"
 housenumber: 1

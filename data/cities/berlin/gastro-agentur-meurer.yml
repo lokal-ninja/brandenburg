@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5135785
 longitude: 13.481254000000002
-postcode: 10365
+postcode: "10365"
 city: Berlin
 street: "Frankfurter Allee"
 housenumber: 149

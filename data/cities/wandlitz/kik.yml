@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.743466500000004
 longitude: 13.4542645
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Berliner Weg"
 housenumber: 8b

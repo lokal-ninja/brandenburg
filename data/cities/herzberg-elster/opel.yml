@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.6890835
 longitude: 13.254079
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Dresdener Straße"
 housenumber: 40

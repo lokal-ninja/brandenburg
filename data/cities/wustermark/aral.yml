@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.54002800000001
 longitude: 12.9778514
-postcode: 14641
+postcode: "14641"
 city: Wustermark
 street: "Alter Spandauer Weg"
 housenumber: 5

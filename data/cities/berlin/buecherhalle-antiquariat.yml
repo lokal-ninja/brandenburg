@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.489045700000005
 longitude: 13.359316900000001
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 154

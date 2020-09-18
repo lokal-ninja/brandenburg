@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.48524990000001
 longitude: 13.364415200000002
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Kolonnenstraße"
 housenumber: 44

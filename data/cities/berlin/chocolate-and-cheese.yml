@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4496818
 longitude: 13.4363468
-postcode: 12347
+postcode: "12347"
 city: Berlin
 street: "Britzer Damm"
 housenumber: 154

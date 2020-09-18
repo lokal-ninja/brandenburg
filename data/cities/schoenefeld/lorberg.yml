@@ -3,10 +3,10 @@ type: way
 shop: Garten-Center
 latitude: 52.3758466
 longitude: 13.4417153
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Am Fuchsberg"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
 website: "https://www.lorberg.com/de/unternehmen/standort-kleinziethen/"

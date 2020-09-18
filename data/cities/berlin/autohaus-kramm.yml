@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.610399300000005
 longitude: 13.481765300000001
-postcode: 13125
+postcode: "13125"
 city: Berlin
 street: "Alt-Karow"
 housenumber: 57

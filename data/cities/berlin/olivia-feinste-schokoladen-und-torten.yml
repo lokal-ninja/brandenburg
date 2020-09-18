@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.5097054
 longitude: 13.457515500000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Wühlischstraße"
 housenumber: 30

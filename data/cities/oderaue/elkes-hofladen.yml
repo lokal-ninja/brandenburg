@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.760000000000005
 longitude: 14.217018000000001
-postcode: 16259
+postcode: "16259"
 city: Oderaue
 street: "Angerstraße"
 housenumber: 19

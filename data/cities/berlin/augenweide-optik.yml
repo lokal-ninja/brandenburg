@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.459623
 longitude: 13.580717600000002
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Mahlsdorfer Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3289946
 longitude: 14.0698308
-postcode: 15526
+postcode: "15526"
 city: Bad Saarow
 street: "Am Fuchsbau"
 housenumber: 2

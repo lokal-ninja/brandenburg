@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4234809
 longitude: 13.3969275
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Tauernallee"
 housenumber: 4

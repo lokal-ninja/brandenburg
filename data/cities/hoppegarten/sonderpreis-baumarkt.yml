@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.5372605
 longitude: 13.6329711
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Mahlsdorfer Straße"
 housenumber: 59-63

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.406492400000005
 longitude: 12.9674837
-postcode: 14476
+postcode: "14476"
 city: Potsdam
 street: "Reiherbergstraße"
 housenumber: 14

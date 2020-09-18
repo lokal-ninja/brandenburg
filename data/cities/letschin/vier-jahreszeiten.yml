@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.6746386
 longitude: 14.4358854
-postcode: 15324
+postcode: "15324"
 city: Letschin
 street: "Straße der Befreiung"
 housenumber: 44

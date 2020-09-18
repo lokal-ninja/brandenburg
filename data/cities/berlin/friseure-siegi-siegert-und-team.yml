@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4431153
 longitude: 13.385498100000001
-postcode: 12105
+postcode: "12105"
 city: Berlin
 street: "Prühßstraße"
 housenumber: 50

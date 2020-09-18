@@ -3,10 +3,10 @@ type: node
 shop: Kosmetik
 latitude: 52.521760500000006
 longitude: 13.3266869
-postcode: 10587
+postcode: "10587"
 city: Berlin
 street: "Helmholtzstraße"
 housenumber: 15
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
 website: ""

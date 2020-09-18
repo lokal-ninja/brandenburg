@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.083116700000005
 longitude: 11.8594988
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "Hamburger Straße"
 housenumber: 16

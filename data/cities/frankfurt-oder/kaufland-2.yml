@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.342871
 longitude: 14.546556
-postcode: 15230
+postcode: "15230"
 city: Frankfurt (Oder)
 street: "Heilbronner Straße"
 housenumber: 30

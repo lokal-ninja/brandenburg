@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4790232
 longitude: 13.333043600000002
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Prinzregentenstraße"
 housenumber: 53a

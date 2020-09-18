@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5022674
 longitude: 13.365460400000002
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Potsdamer Straße"
 housenumber: 79

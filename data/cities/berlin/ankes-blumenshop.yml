@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 52.490359100000006
 longitude: 13.4484279
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 20
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-19:00; Su 08:30-16:00"
 website: ""

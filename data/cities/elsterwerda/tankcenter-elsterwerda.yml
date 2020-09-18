@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 51.46469200000001
 longitude: 13.5299955
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Siedlungsstraße"
 housenumber: 19

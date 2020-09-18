@@ -3,7 +3,7 @@ type: node
 shop: Leiher
 latitude: 52.5548652
 longitude: 13.377414600000002
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Koloniestraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.0165669
 longitude: 12.9941671
-postcode: 14913
+postcode: "14913"
 city: Niedergörsdorf
 street: "Treuenbrietzener Straße"
 housenumber: 26

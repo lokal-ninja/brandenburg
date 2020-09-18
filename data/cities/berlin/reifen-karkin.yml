@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.4997197
 longitude: 13.420044500000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Skalitzer Straße"
 housenumber: 133

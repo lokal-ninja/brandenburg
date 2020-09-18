@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.4008783
 longitude: 12.5507358
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "Wilhelmsdorfer Straße"
 housenumber: 15

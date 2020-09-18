@@ -3,7 +3,7 @@ type: way
 shop: Schmuck
 latitude: 51.7448503
 longitude: 14.644539900000002
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Cottbuser Straße"
 housenumber: 19

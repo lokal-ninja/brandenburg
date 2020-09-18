@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.2675853
 longitude: 13.307343000000001
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Groß Schulzendorfer Straße"
 housenumber: 14

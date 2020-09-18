@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.442875300000004
 longitude: 13.5191858
-postcode: 12487
+postcode: "12487"
 city: Berlin
 street: "Groß-Berliner Damm"
 housenumber: 82A

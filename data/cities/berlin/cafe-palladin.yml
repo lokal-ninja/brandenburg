@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4945493
 longitude: 13.358015700000001
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Pallasstraße"
 housenumber: 8

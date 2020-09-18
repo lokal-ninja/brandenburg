@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1203336
 longitude: 13.511206600000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "August-Bebel-Straße"
 housenumber: 26

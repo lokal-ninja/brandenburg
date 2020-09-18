@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4002403
 longitude: 13.0562565
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Jägerstraße"
 housenumber: 24-25

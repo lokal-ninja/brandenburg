@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5707803
 longitude: 14.376258100000001
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Lange Straße"
 housenumber: 18

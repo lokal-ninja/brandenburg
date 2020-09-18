@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.557497700000006
 longitude: 13.8707124
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Herrenseeallee"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.6930562
 longitude: 13.6438649
-postcode: 03249
+postcode: "03249"
 city: Sonnewalde
 street: "Kirchhainer Straße"
 housenumber: 3a

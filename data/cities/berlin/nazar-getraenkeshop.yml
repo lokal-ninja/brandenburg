@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5095164
 longitude: 13.499657200000001
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Irenenstraße"
 housenumber: 

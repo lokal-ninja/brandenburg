@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3416585
 longitude: 13.6084157
-postcode: 15738
+postcode: "15738"
 city: Zeuthen
 street: "Forstallee"
 housenumber: 43b

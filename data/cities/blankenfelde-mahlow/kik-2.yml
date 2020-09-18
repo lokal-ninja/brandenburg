@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.3587703
 longitude: 13.435106600000001
-postcode: 15831
+postcode: "15831"
 city: Blankenfelde-Mahlow
 street: "Am Lückefeld"
 housenumber: 92

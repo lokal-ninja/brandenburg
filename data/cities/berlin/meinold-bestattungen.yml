@@ -3,10 +3,10 @@ type: node
 shop: Bestattungen
 latitude: 52.4620199
 longitude: 13.516923
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Schillerpromenade"
 housenumber: 6
 phone: "+49 30 53011010"
-opening_hours: ""
+opening_hours: "24/7"
 website: "https://www.meinold-bestattungen.de/"

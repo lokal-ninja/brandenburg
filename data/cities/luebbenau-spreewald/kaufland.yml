@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.8674546
 longitude: 13.940163900000002
-postcode: 03222
+postcode: "03222"
 city: Lübbenau/Spreewald
 street: "Am Kaufland"
 housenumber: 1

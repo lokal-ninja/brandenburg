@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.8180908
 longitude: 14.039060600000001
-postcode: 03226
+postcode: "03226"
 city: Vetschau/Spreewald
 street: "Friedhofstraße"
 housenumber: 6

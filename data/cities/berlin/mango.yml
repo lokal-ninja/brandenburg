@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5032599
 longitude: 13.3382567
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Tauentzienstraße"
 housenumber: 17

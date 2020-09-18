@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 52.5187225
 longitude: 13.2883875
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Spandauer Damm"
 housenumber: 

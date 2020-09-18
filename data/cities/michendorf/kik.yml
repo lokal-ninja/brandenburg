@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.305487500000005
 longitude: 13.0283765
-postcode: 14552
+postcode: "14552"
 city: Michendorf
 street: "Luckenwalder Straße"
 housenumber: 6a

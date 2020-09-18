@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.464496700000005
 longitude: 13.5148881
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Griechische Allee"
 housenumber: 6

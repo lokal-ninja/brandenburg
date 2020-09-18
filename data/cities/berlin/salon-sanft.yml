@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.4470413
 longitude: 13.306779700000002
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Moltkestraße"
 housenumber: 52
 phone: ""
-opening_hours: ""
+opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5074143
 longitude: 13.310979000000001
-postcode: 10625
+postcode: "10625"
 city: Berlin
 street: "Weimarer Straße"
 housenumber: 17

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.5153316
 longitude: 13.326371700000001
-postcode: 10587
+postcode: "10587"
 city: Berlin
 street: "Einsteinufer"
 housenumber: 19

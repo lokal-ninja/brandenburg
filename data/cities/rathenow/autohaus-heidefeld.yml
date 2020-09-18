@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5735401
 longitude: 12.3349518
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "An den Flugzeughallen"
 housenumber: 1

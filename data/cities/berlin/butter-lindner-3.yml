@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.513251100000005
 longitude: 13.305163100000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 147

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.83341050000001
 longitude: 13.819052600000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 27b

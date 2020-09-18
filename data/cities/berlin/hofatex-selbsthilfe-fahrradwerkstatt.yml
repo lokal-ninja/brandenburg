@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.558322100000005
 longitude: 13.3752749
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Drontheimer Straße"
 housenumber: 36

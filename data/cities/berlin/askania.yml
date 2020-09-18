@@ -3,7 +3,7 @@ type: node
 shop: Uhren
 latitude: 52.5242422
 longitude: 13.4019898
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.524947000000004
 longitude: 13.301289
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Mindener Straße"
 housenumber: 5

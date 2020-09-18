@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.7468188
 longitude: 13.952557
-postcode: 03205
+postcode: "03205"
 city: Calau
 street: "Cottbuser Straße"
 housenumber: 31

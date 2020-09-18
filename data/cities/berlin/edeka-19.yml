@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4917705
 longitude: 13.3547337
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Barbarossastraße"
 housenumber: 69

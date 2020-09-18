@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.37125210000001
 longitude: 13.1355593
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Stern-Center"
 housenumber: 1-10

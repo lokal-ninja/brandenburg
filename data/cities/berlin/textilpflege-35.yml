@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.5308165
 longitude: 13.383470500000001
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Invalidenstraße"
 housenumber: 35

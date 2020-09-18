@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.49131800000001
 longitude: 13.417700600000002
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Urbanstraße"
 housenumber: 122

@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.4597939
 longitude: 13.8685141
-postcode: 01945
+postcode: "01945"
 city: Ruhland
 street: "Elsterbogen"
 housenumber: 2

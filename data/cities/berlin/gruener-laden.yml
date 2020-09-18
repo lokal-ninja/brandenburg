@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.523
 longitude: 13.3400151
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Bundesratufer"
 housenumber: 5

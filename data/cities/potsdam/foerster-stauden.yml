@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.4207782
 longitude: 13.018098400000001
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Am Raubfang"
 housenumber: 6

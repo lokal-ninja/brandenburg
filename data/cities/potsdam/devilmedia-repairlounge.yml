@@ -1,12 +1,12 @@
 id: 3726235474
 type: node
 shop: Handy
-latitude: 52.401969900000005
-longitude: 13.058992700000001
-postcode: 14467
+latitude: 52.4019788
+longitude: 13.0589756
+postcode: "14467"
 city: Potsdam
 street: "Gutenbergstraße"
 housenumber: 83
-phone: "+4933181704000"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "http://www.repairlounge.de"
+phone: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00; PH,Su off"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4378284
 longitude: 13.2617329
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Clayallee"
 housenumber: 329

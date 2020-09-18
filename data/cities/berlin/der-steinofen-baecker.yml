@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.512849200000005
 longitude: 13.5896205
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Heinrich-Grüber-Straße"
 housenumber: 12

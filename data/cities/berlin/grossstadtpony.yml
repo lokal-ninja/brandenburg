@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.5078885
 longitude: 13.460108300000002
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Simplonstraße"
 housenumber: 27

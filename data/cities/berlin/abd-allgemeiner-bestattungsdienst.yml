@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.5035685
 longitude: 13.495003
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Münsterlandstraße"
 housenumber: 44

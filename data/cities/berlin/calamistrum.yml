@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4876493
 longitude: 13.3323236
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3386561
 longitude: 13.3542822
-postcode: 14979
+postcode: "14979"
 city: Großbeeren
 street: "Kirchplatz"
 housenumber: 5-6

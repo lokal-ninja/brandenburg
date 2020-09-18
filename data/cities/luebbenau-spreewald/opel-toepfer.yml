@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.853408
 longitude: 13.950029200000001
-postcode: 03222
+postcode: "03222"
 city: Lübbenau/Spreewald
 street: "Gewerbepark"
 housenumber: 2

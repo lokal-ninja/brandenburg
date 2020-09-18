@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.5324971
 longitude: 13.424585700000002
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Immanuelkirchstraße"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5539744
 longitude: 13.475233300000001
-postcode: 13088
+postcode: "13088"
 city: Berlin
 street: "Buschallee"
 housenumber: 88

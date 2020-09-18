@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.5212573
 longitude: 13.587341200000001
-postcode: 12619
+postcode: "12619"
 city: Berlin
 street: "Hellersdorfer Straße"
 housenumber: 77

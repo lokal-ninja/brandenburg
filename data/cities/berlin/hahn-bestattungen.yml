@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.474580800000005
 longitude: 13.314077800000002
-postcode: 14197
+postcode: "14197"
 city: Berlin
 street: "Aßmannshauser Straße"
 housenumber: 13

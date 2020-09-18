@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5822092
 longitude: 12.9984534
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Haslacher Straße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 52.574640800000005
 longitude: 13.5713304
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Dorfstraße"
 housenumber: 68

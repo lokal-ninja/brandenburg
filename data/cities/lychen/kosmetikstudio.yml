@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.212614200000004
 longitude: 13.315349600000001
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Stargarder Straße"
 housenumber: 13

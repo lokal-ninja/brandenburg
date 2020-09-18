@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.314910600000005
 longitude: 13.282335400000001
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Am Birkengrund"
 housenumber: 21

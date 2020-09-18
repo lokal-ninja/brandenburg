@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.1078953
 longitude: 13.494855800000002
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Hindenburger Straße"
 housenumber: 16

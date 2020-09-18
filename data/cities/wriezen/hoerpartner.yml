@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.7176714
 longitude: 14.136586000000001
-postcode: 16269
+postcode: "16269"
 city: Wriezen
 street: "Wilhelmstraße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.578582000000004
 longitude: 13.2926748
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 51

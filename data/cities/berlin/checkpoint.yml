@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4922819
 longitude: 13.3878003
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Mehringdamm"
 housenumber: 41

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.474248200000005
 longitude: 13.293092000000001
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Breite Straße"
 housenumber: 35/36

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.4873896
 longitude: 13.428767
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Reuterstraße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5313923
 longitude: 13.3966832
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Ackerstraße"
 housenumber: 18

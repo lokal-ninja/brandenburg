@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.3992427
 longitude: 13.0493526
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Hermann-Elflein-Straße"
 housenumber: 18b

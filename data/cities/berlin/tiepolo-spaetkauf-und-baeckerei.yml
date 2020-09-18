@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5461266
 longitude: 13.398300500000001
-postcode: 13355
+postcode: "13355"
 city: Berlin
 street: "Gleimstraße"
 housenumber: 7

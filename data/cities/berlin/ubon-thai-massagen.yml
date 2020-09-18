@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.5559206
 longitude: 13.3798078
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Osloer Straße"
 housenumber: 99

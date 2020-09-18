@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.4006832
 longitude: 13.0534019
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 14

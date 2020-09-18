@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.468894600000006
 longitude: 13.443683900000002
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 231-235

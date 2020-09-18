@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.509142000000004
 longitude: 13.323182000000001
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Knesebeckstraße"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.6611259
 longitude: 13.377408800000001
-postcode: 16567
+postcode: "16567"
 city: Mühlenbecker Land
 street: "Berliner Straße"
 housenumber: 5

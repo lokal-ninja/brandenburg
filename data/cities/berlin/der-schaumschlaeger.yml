@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.448892900000004
 longitude: 13.6242049
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 124

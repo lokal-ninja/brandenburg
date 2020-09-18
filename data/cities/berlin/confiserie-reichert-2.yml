@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.527283600000004
 longitude: 13.397826
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Auguststraße"
 housenumber: 63

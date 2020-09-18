@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.491600000000005
 longitude: 13.2920408
-postcode: 14193
+postcode: "14193"
 city: Berlin
 street: "Caspar-Theyß-Straße"
 housenumber: 22

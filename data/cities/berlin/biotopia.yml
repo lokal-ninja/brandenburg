@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4989027
 longitude: 13.440872400000002
-postcode: 10997
+postcode: "10997"
 city: Berlin
 street: "Wrangelstraße"
 housenumber: 49

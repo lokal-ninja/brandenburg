@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.9893987
 longitude: 13.081354600000001
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Große Straße"
 housenumber: 64

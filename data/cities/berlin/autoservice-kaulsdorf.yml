@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5118839
 longitude: 13.5872326
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Heinrich-Grüber-Straße"
 housenumber: 2

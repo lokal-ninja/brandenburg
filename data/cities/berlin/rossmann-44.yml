@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.527057500000005
 longitude: 13.539246200000001
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Helene-Weigel-Platz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.438312200000006
 longitude: 13.231868100000002
-postcode: 14163
+postcode: "14163"
 city: Berlin
 street: "Limastraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.2236288
 longitude: 13.7662753
-postcode: 15754
+postcode: "15754"
 city: Heidesee
 street: "Prieroser Dorfaue"
 housenumber: 2

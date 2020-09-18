@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.488808500000005
 longitude: 13.340758500000002
-postcode: 10779
+postcode: "10779"
 city: Berlin
 street: "Bayerischer Platz"
 housenumber: 11

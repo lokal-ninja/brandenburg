@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.60750590000001
 longitude: 12.339521900000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Fehrbelliner Straße"
 housenumber: 4 a

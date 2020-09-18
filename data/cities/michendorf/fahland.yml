@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.32952220000001
 longitude: 13.056878300000001
-postcode: 14552
+postcode: "14552"
 city: Michendorf
 street: "Peter-Huchel-Chaussee"
 housenumber: 70

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.4594048
 longitude: 13.456486000000002
-postcode: 04932
+postcode: "04932"
 city: Röderland
 street: "Reichenhainer Straße"
 housenumber: 5

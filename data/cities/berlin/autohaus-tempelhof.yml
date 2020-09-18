@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.459656300000006
 longitude: 13.420906200000001
-postcode: 12099
+postcode: "12099"
 city: Berlin
 street: "Tempelhofer Weg"
 housenumber: 7

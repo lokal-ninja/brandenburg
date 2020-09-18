@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.8339021
 longitude: 13.8068738
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Eisenbahnstraße"
 housenumber: 76

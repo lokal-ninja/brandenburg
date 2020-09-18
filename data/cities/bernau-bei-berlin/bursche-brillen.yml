@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.6796597
 longitude: 13.5880199
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Breite Straße"
 housenumber: 1

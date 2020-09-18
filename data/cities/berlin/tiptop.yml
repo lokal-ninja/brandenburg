@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.528187700000004
 longitude: 13.328922100000002
-postcode: 10553
+postcode: "10553"
 city: Berlin
 street: "Beusselstraße"
 housenumber: 18

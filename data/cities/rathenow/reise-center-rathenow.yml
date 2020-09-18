@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.6075749
 longitude: 12.332068000000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Steinstraße"
 housenumber: 26

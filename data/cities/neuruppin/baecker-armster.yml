@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.91986970000001
 longitude: 12.797633800000002
-postcode: 16816
+postcode: "16816"
 city: Neuruppin
 street: "Junckerstraße"
 housenumber: 6b

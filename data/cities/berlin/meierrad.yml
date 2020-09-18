@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.494481
 longitude: 13.3986108
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Blücherstraße"
 housenumber: 

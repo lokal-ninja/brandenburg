@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.759641200000004
 longitude: 14.3332984
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Spremberger Straße"
 housenumber: 38

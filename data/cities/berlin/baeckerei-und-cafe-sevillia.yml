@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.462065
 longitude: 13.445094000000001
-postcode: 12359
+postcode: "12359"
 city: Berlin
 street: "Buschkrugallee"
 housenumber: 22

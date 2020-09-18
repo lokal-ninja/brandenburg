@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4092532
 longitude: 12.507116700000001
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Am Neuendorfer Sand"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.174479500000004
 longitude: 12.4789598
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Meyenburger Chaussee"
 housenumber: 36

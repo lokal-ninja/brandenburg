@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.4717296
 longitude: 13.4410644
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 206

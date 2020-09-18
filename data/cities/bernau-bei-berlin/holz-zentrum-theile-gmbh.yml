@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.6591182
 longitude: 13.576102700000002
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Schwanebecker Chaussee"
 housenumber: 15a

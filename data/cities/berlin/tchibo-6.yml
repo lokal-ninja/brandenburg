@@ -1,9 +1,9 @@
 id: 2082343416
 type: node
 shop: Kaffee
-latitude: 52.5081106
-longitude: 13.3060211
-postcode: 10627
+latitude: 52.5081098
+longitude: 13.3060063
+postcode: "10627"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 55

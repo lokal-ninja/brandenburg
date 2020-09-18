@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.369975700000005
 longitude: 13.141660100000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Konrad-Wolf-Allee"
 housenumber: 1-3

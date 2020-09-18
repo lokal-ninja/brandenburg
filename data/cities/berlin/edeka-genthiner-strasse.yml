@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5021129
 longitude: 13.3584107
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Genthiner Straße"
 housenumber: 42

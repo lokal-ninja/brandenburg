@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.3868116
 longitude: 13.403672400000001
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 

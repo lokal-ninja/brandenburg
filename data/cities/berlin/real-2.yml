@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4908839
 longitude: 13.4578524
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Am Treptower Park"
 housenumber: 14

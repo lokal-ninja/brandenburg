@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.8407495
 longitude: 13.767949900000001
-postcode: 16227
+postcode: "16227"
 city: Eberswalde
 street: "Lichterfelder Straße"
 housenumber: 

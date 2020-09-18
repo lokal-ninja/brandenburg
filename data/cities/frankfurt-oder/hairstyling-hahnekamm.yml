@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.352280900000004
 longitude: 14.5370489
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Hansaplatz"
 housenumber: 5

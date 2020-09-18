@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.5228395
 longitude: 13.464772300000002
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Hermann-Blankenstein-Straße"
 housenumber: 40-44

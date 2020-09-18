@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.506033
 longitude: 13.2941088
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Suarezstraße"
 housenumber: 

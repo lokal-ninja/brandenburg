@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.393485600000005
 longitude: 13.4420312
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Lichtenrader Chaussee"
 housenumber: 1

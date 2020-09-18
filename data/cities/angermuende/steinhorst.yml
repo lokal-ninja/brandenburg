@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.086834700000004
 longitude: 13.953168100000001
-postcode: 
+postcode: ""
 city: Angermünde
 street: "Breite Straße"
 housenumber: 23

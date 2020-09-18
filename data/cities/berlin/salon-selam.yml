@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4895896
 longitude: 13.408490500000001
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Körtestraße"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4991411
 longitude: 13.365956700000002
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Kurfürstenstraße"
 housenumber: 164

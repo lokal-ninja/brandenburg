@@ -3,7 +3,7 @@ type: node
 shop: Jalousien
 latitude: 53.120948600000006
 longitude: 13.5112699
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "August-Bebel-Straße"
 housenumber: 18

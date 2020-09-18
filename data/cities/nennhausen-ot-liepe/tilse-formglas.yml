@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 52.617808600000004
 longitude: 12.598866800000001
-postcode: 14715
+postcode: "14715"
 city: Nennhausen OT LIepe
 street: "Dammer Landstraße 1"
 housenumber: 

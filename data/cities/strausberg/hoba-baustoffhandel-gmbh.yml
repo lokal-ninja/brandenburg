@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.5887188
 longitude: 13.909440900000002
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Am Biotop"
 housenumber: 4

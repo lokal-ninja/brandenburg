@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.3859111
 longitude: 13.1079951
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Großbeerenstraße"
 housenumber: 123-135

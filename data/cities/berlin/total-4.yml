@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.4191383
 longitude: 13.319226500000001
-postcode: 12209
+postcode: "12209"
 city: Berlin
 street: "Hildburghauser Straße"
 housenumber: 222

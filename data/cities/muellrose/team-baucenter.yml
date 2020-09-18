@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.2599298
 longitude: 14.4309291
-postcode: 15299
+postcode: "15299"
 city: Müllrose
 street: "Gewerbeparkring"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 52.433771300000004
 longitude: 13.4686628
-postcode: 12351
+postcode: "12351"
 city: Berlin
 street: "Rudower Straße"
 housenumber: 132

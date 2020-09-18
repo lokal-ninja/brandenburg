@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.3710165
 longitude: 13.1316316
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Stern-Center"
 housenumber: 1-10

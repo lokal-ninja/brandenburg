@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.529273700000005
 longitude: 13.534261
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Marzahner Chaussee"
 housenumber: 226

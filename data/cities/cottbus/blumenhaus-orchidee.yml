@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.754815300000004
 longitude: 14.303705800000001
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Kolkwitzer Straße"
 housenumber: 39

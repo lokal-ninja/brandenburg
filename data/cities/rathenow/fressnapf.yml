@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.6073521
 longitude: 12.3396871
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Fehrbelliner Straße"
 housenumber: 4 a

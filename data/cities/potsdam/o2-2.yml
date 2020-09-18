@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 52.3715011
 longitude: 13.135893900000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Stern-Center"
 housenumber: 1-10

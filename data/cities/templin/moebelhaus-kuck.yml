@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.1094847
 longitude: 13.497344700000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Hindenburger Straße"
 housenumber: 7

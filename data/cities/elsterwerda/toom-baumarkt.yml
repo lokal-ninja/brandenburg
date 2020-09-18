@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.4646934
 longitude: 13.5323566
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Lauchhammerstraße"
 housenumber: 60

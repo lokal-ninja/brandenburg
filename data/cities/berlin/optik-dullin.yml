@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.438314600000005
 longitude: 13.3880735
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 147

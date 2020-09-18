@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.479196200000004
 longitude: 13.3494407
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Ebersstraße"
 housenumber: 

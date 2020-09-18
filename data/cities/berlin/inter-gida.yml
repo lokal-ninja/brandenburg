@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.49918580000001
 longitude: 13.4169371
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Skalitzer Straße"
 housenumber: 138

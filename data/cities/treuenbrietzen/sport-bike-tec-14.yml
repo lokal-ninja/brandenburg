@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.0970753
 longitude: 12.870105800000001
-postcode: 14929
+postcode: "14929"
 city: Treuenbrietzen
 street: "Großstraße"
 housenumber: 14

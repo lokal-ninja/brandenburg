@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.6040842
 longitude: 13.611084300000002
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Am Bahnhof"
 housenumber: 5-7

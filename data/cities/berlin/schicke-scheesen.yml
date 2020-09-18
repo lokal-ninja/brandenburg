@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5374667
 longitude: 13.3969304
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Brunnenstraße"
 housenumber: 46

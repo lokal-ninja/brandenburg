@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.3795769
 longitude: 13.1124638
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Orenstein-&-Koppel-Straße"
 housenumber: 11

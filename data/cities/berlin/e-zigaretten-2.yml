@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.5022826
 longitude: 13.338176800000001
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Nürnberger Straße"
 housenumber: 17

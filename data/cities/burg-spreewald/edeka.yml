@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.8376193
 longitude: 14.1462418
-postcode: 03096
+postcode: "03096"
 city: Burg (Spreewald)
 street: "Raiffeisenstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.589809300000006
 longitude: 13.2360041
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Lindenstraße"
 housenumber: 10

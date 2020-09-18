@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.4086919
 longitude: 12.7261109
-postcode: 14550
+postcode: "14550"
 city: Groß Kreutz (Havel)
 street: "Götzer Chausseestraße"
 housenumber: 6

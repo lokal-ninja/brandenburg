@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.424389500000004
 longitude: 12.999319100000001
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Rückertstraße"
 housenumber: 36

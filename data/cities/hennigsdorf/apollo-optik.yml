@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.636802
 longitude: 13.201583300000001
-postcode: 16761
+postcode: "16761"
 city: Hennigsdorf
 street: "Havelpassage"
 housenumber: 13

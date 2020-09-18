@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4888728
 longitude: 13.3575879
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Vorbergstraße"
 housenumber: 2

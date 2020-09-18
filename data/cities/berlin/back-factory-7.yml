@@ -1,12 +1,12 @@
-id: 2334538035
+id: 2726531546
 type: node
 shop: Bäckerei
-latitude: 52.499824000000004
-longitude: 13.3077684
-postcode: 10707
+latitude: 52.5090329
+longitude: 13.306422300000001
+postcode: "10627"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 
+street: "Wilmersdorfer Straße"
+housenumber: 123
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-19:30; Sa 08:00-19:30; Su 08:00-18:30"
 website: ""

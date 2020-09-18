@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5112425
 longitude: 13.981178300000002
-postcode: 01968
+postcode: "01968"
 city: Senftenberg
 street: "Briesker Straße"
 housenumber: 4

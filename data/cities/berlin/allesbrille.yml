@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5150749
 longitude: 13.3148478
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Otto-Suhr-Allee"
 housenumber: 36

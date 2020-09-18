@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4993685
 longitude: 13.3623516
-postcode: 10783
+postcode: "10783"
 city: Berlin
 street: "Potsdamer Straße"
 housenumber: 124-126

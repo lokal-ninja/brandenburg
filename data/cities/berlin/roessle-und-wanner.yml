@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.56905750000001
 longitude: 13.399950800000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 1;1A

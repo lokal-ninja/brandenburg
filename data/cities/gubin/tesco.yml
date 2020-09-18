@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.947804700000006
 longitude: 14.7233911
-postcode: 66-620
+postcode: "66-620"
 city: Gubin
 street: "Budziszyńska"
 housenumber: 10

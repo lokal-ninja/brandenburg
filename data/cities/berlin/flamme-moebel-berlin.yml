@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.5328432
 longitude: 13.208911200000001
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Freiheit"
 housenumber: 4

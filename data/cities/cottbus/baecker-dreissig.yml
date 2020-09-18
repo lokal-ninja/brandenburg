@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7435709
 longitude: 14.322970600000001
-postcode: 03048
+postcode: "03048"
 city: Cottbus
 street: "Thiemstraße"
 housenumber: 111

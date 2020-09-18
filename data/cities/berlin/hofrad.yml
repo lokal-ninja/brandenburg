@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5089532
 longitude: 13.4539392
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Libauer Straße"
 housenumber: 16

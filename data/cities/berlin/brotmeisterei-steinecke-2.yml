@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4916392
 longitude: 13.291075200000002
-postcode: 14193
+postcode: "14193"
 city: Berlin
 street: "Caspar-Theyß-Straße"
 housenumber: 16

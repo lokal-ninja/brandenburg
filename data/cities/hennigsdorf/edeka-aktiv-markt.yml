@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6346829
 longitude: 13.1965353
-postcode: 16761
+postcode: "16761"
 city: Hennigsdorf
 street: "Paul-Schreier-Straße"
 housenumber: 9 a

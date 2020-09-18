@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.7519336
 longitude: 13.202553100000001
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Germendorfer Allee"
 housenumber: 20

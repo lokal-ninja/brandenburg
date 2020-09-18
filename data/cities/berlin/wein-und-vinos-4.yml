@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.507442000000005
 longitude: 13.322952800000001
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Knesebeckstraße"
 housenumber: 86/87

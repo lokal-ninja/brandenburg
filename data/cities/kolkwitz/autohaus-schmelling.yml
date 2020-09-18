@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7506471
 longitude: 14.277313000000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Berliner Straße"
 housenumber: 140

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4277413
 longitude: 13.7480398
-postcode: 15537
+postcode: "15537"
 city: Erkner
 street: "Berliner Straße"
 housenumber: 3-10

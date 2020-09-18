@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6703744
 longitude: 13.2128308
-postcode: 16727
+postcode: "16727"
 city: Velten
 street: "Parkallee"
 housenumber: 10

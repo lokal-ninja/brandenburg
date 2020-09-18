@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5774795
 longitude: 13.8817844
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Große Straße"
 housenumber: 73

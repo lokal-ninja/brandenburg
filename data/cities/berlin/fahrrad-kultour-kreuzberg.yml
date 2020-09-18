@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5019709
 longitude: 13.4256404
-postcode: 10997
+postcode: "10997"
 city: Berlin
 street: "Waldemarstraße"
 housenumber: 81

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.4765031
 longitude: 13.340966400000001
-postcode: 12159
+postcode: "12159"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 67

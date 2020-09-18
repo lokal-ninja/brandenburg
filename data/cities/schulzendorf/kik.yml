@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3641859
 longitude: 13.5929528
-postcode: 15732
+postcode: "15732"
 city: Schulzendorf
 street: "Richard-Israel-Straße"
 housenumber: 4A

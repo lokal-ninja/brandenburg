@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.549705800000005
 longitude: 13.368043
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Reinickendorfer Straße"
 housenumber: 83

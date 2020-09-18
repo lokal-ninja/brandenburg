@@ -3,10 +3,10 @@ type: node
 shop: Möbel
 latitude: 52.349476100000004
 longitude: 14.560686100000002
-postcode: 69-100
+postcode: "69-100"
 city: Słubice
 street: "Dąbrówki"
 housenumber: 16
-phone: ""
-opening_hours: ""
+phone: "+48 957581181"
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
 website: ""

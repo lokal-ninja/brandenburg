@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.511008600000004
 longitude: 13.305567400000001
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 134

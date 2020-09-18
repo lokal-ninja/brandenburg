@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5547307
 longitude: 13.3448726
-postcode: 13349
+postcode: "13349"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 59A

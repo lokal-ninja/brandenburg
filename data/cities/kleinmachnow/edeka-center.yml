@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4033114
 longitude: 13.2199267
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "Adolf-Grimme-Ring"
 housenumber: 8

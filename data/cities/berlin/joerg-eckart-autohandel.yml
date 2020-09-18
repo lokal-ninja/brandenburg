@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4506437
 longitude: 13.315205
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Neuchateller Straße"
 housenumber: 30

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.0155758
 longitude: 14.016182500000001
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Mudrowweg"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.315641400000004
 longitude: 13.6616289
-postcode: 15713
+postcode: "15713"
 city: Königs Wusterhausen
 street: "Segelfliegerdamm"
 housenumber: 23

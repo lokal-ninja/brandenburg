@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.308472300000005
 longitude: 13.2918713
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Kastanienweg"
 housenumber: 7

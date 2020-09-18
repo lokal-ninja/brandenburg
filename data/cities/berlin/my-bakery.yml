@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.510764200000004
 longitude: 13.3052281
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 41

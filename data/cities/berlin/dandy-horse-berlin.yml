@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.494360500000006
 longitude: 13.4381122
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Glogauer Straße"
 housenumber: 4

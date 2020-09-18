@@ -1,12 +1,12 @@
-id: 5277879721
+id: 5123980325
 type: node
 shop: Drogerie
-latitude: 52.4688712
-longitude: 13.5129435
-postcode: 12459
+latitude: 52.555631600000005
+longitude: 13.559197300000001
+postcode: "12687"
 city: Berlin
-street: "Rummelsburger Straße"
-housenumber: 16
-phone: "+49 30 53010138"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.dm.de"
+street: "Mehrower Allee"
+housenumber: 20
+phone: ""
+opening_hours: ""
+website: "https://www.dm.de/"

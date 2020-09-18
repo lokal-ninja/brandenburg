@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.400747900000006
 longitude: 13.056762800000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 45

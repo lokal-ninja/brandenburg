@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 51.85293
 longitude: 13.7153112
-postcode: 15926
+postcode: "15926"
 city: Luckau
 street: "Am Markt"
 housenumber: 

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3678776
 longitude: 13.562511200000001
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Am Pechpfuhl"
 housenumber: 8

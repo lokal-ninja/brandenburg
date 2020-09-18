@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.486142300000004
 longitude: 13.361683200000002
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Kolonnenstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.501273000000005
 longitude: 13.353947100000001
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Karl-Heinrich-Ulrichs-Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4331344
 longitude: 13.536068
-postcode: 
+postcode: ""
 city: Berlin
 street: "Rudower Chaussee"
 housenumber: 12

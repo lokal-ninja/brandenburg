@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.504711500000006
 longitude: 13.477134000000001
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Kaskelstraße"
 housenumber: 16

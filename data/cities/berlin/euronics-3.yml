@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.522756900000005
 longitude: 13.5869946
-postcode: 12619
+postcode: "12619"
 city: Berlin
 street: "Hellersdorfer Straße"
 housenumber: 77-83

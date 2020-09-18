@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.833600700000005
 longitude: 13.816457300000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 10

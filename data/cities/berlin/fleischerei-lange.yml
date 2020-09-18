@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4110172
 longitude: 13.403478300000002
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Lichtenrader Damm"
 housenumber: 35

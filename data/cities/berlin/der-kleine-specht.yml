@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.524583400000004
 longitude: 13.348247700000002
-postcode: 10559
+postcode: "10559"
 city: Berlin
 street: "Alt-Moabit"
 housenumber: 104A

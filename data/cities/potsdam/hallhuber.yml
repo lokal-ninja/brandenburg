@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4005737
 longitude: 13.0555967
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 48

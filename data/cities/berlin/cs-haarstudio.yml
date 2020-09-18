@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4445484
 longitude: 13.315280900000001
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Hindenburgdamm"
 housenumber: 85b

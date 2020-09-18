@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4885102
 longitude: 13.3581546
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6065994
 longitude: 13.3231272
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Waidmannsluster Damm"
 housenumber: 190

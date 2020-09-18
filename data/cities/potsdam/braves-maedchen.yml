@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.4003135
 longitude: 13.052127500000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 53

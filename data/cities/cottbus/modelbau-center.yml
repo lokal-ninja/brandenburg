@@ -3,7 +3,7 @@ type: way
 shop: Modellbau
 latitude: 51.751972800000004
 longitude: 14.3357351
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Bautzener Straße"
 housenumber: 15

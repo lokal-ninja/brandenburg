@@ -1,12 +1,12 @@
-id: 5659225190
+id: 5493910328
 type: node
 shop: Drogerie
-latitude: 52.4563628
-longitude: 13.3218913
-postcode: 12165
+latitude: 52.510020100000006
+longitude: 13.379762900000001
+postcode: "10117"
 city: Berlin
-street: "Albrechtstraße"
-housenumber: 3
-phone: ""
-opening_hours: "Mo-Sa 08:00-20:30"
+street: "Leipziger Platz"
+housenumber: 12
+phone: "+49 30 20626938"
+opening_hours: "Mo-Sa 09:30-21:30; Su,PH off"
 website: ""

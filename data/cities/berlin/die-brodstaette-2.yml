@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.532206
 longitude: 13.410164
-postcode: 10119
+postcode: "10119"
 city: Berlin
 street: "Christinenstraße"
 housenumber: 19A

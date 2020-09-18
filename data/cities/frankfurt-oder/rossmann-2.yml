@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3621289
 longitude: 14.523870700000002
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Spitzkrugring"
 housenumber: 1

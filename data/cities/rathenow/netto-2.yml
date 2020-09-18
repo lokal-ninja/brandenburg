@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.604606700000005
 longitude: 12.3373659
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Brandenburger Straße"
 housenumber: 

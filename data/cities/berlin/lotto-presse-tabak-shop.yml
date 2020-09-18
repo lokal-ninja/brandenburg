@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.532076
 longitude: 13.6040287
-postcode: 12627
+postcode: "12627"
 city: Berlin
 street: "Stollberger Straße"
 housenumber: 51

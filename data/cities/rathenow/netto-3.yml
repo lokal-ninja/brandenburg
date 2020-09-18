@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.603182700000005
 longitude: 12.3545256
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Bammer Landstraße"
 housenumber: 2

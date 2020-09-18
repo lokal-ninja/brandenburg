@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.759433200000004
 longitude: 13.255585700000001
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Bernauer Straße"
 housenumber: 

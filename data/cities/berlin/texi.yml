@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 52.5185274
 longitude: 13.4705866
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Dolziger Straße"
 housenumber: 31

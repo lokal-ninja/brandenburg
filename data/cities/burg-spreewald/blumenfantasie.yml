@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 51.8325084
 longitude: 14.145050900000001
-postcode: 03096
+postcode: "03096"
 city: Burg (Spreewald)
 street: "Zur Spreewaldklinik"
 housenumber: 1

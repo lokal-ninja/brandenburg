@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6731296
 longitude: 13.277478200000001
-postcode: 16540
+postcode: "16540"
 city: Hohen Neuendorf
 street: "Backofenweg"
 housenumber: 13

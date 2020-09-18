@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.5346078
 longitude: 12.3300335
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Alte Hauptstraße"
 housenumber: 15 B

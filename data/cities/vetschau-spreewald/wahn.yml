@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.783850300000005
 longitude: 14.087262
-postcode: 03226
+postcode: "03226"
 city: Vetschau/Spreewald
 street: ""
 housenumber: 

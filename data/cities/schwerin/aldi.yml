@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1560271
 longitude: 13.642505300000002
-postcode: 15755
+postcode: "15755"
 city: Schwerin
 street: "Teupitzer Straße"
 housenumber: 1

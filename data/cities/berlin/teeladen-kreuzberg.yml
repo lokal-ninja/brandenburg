@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 52.4925683
 longitude: 13.4176365
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Graefestraße"
 housenumber: 74

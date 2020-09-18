@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5073299
 longitude: 13.283206000000002
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Neue Kantstraße"
 housenumber: 16

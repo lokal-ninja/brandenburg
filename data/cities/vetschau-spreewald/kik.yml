@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.784026600000004
 longitude: 14.087052400000001
-postcode: 03226
+postcode: "03226"
 city: Vetschau/Spreewald
 street: "Juri-Gagarin-Straße"
 housenumber: 62

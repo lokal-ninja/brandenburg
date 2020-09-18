@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 52.486246900000005
 longitude: 13.430646300000001
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Pannierstraße"
 housenumber: 4

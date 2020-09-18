@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.6326246
 longitude: 13.3100123
-postcode: 16548
+postcode: "16548"
 city: Glienicke/Nordbahn
 street: "Oranienburger Chaussee"
 housenumber: 13-15

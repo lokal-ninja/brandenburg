@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 52.4698234
 longitude: 13.3338271
-postcode: 12159
+postcode: "12159"
 city: Berlin
 street: "Rheinstraße"
 housenumber: 58

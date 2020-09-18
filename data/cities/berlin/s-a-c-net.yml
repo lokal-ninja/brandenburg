@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.5671334
 longitude: 13.3978879
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 119

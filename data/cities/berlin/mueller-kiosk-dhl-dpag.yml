@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.5497772
 longitude: 13.353671100000001
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 38

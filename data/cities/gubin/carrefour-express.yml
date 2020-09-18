@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.9513757
 longitude: 14.723850400000002
-postcode: 66-620
+postcode: "66-620"
 city: Gubin
 street: "Ułanów Karpackich"
 housenumber: 3

@@ -1,4 +1,4 @@
 ---
-title: "Back-Factory"
+title: "Back Factory"
 url: /berlin/back-factory-7/
 ---

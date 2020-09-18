@@ -3,7 +3,7 @@ type: way
 shop: Angeln
 latitude: 51.7314439
 longitude: 14.219816900000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Am Technologiepark"
 housenumber: 3

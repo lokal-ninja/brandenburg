@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.5430232
 longitude: 13.3560478
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Tegeler Straße"
 housenumber: 29

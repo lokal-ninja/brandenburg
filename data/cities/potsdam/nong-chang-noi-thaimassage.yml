@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.39347050000001
 longitude: 13.032599600000001
-postcode: 14471
+postcode: "14471"
 city: Potsdam
 street: "Geschwister-Scholl-Straße"
 housenumber: 73

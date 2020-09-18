@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.5003018
 longitude: 13.7447271
-postcode: 15370
+postcode: "15370"
 city: Fredersdorf-Vogelsdorf
 street: "Frankfurter Chaussee"
 housenumber: 68

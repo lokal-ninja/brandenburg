@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.476638400000006
 longitude: 13.4422657
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Richardstraße"
 housenumber: 95

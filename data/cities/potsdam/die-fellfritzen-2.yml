@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.388507700000005
 longitude: 13.067265
-postcode: 14473
+postcode: "14473"
 city: Potsdam
 street: "Heinrich-Mann-Allee"
 housenumber: 9

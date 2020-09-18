@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.117820800000004
 longitude: 13.5100916
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Robert-Koch-Straße"
 housenumber: 15

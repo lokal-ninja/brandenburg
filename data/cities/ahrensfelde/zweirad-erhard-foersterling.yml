@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.57515720000001
 longitude: 13.5767802
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Dorfstraße"
 housenumber: 23

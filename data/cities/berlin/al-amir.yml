@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5515327
 longitude: 13.3805651
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Pankstraße"
 housenumber: 44

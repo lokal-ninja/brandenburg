@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5433096
 longitude: 13.4982827
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Große-Leege-Straße"
 housenumber: 95

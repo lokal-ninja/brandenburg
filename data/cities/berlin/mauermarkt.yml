@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5469121
 longitude: 13.406241000000001
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Gleimstraße"
 housenumber: 11

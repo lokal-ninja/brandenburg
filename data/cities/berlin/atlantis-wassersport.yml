@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 52.5080602
 longitude: 13.483053100000001
-postcode: 10365
+postcode: "10365"
 city: Berlin
 street: "Coppistraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.397305
 longitude: 13.5444872
-postcode: 12526
+postcode: "12526"
 city: Berlin
 street: "Grünbergallee"
 housenumber: 279

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5147897
 longitude: 13.651497500000001
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Neuer Hönower Weg"
 housenumber: 4

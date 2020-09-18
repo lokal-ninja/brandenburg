@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.460812700000005
 longitude: 13.867889400000001
-postcode: 01945
+postcode: "01945"
 city: Ruhland
 street: "Berliner Straße"
 housenumber: 1

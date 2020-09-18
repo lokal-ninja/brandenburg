@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 51.5856702
 longitude: 13.239422800000002
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Walther-Rathenau-Straße"
 housenumber: 27a

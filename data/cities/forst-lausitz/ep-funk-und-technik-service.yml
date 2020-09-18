@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.74421400000001
 longitude: 14.645256000000002
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Berliner Straße"
 housenumber: 4-8

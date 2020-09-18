@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.5026889
 longitude: 13.3461876
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Keithstraße"
 housenumber: 10

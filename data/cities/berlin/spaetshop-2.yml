@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5355659
 longitude: 13.356311100000001
-postcode: 10559
+postcode: "10559"
 city: Berlin
 street: "Perleberger Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.110756300000006
 longitude: 12.369936200000001
-postcode: 14827
+postcode: "14827"
 city: Wiesenburg/Mark
 street: "Platz der Einheit"
 housenumber: 1

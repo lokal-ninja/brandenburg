@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.4623337
 longitude: 13.5170934
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Schillerpromenade"
 housenumber: 5

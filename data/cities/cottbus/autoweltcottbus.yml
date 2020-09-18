@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7622623
 longitude: 14.353507
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "Dissenchener Straße"
 housenumber: 88

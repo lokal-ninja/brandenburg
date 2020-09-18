@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.352627000000005
 longitude: 13.306268300000001
-postcode: 14979
+postcode: "14979"
 city: Großbeeren
 street: "Dorfaue"
 housenumber: 20

@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.4980832
 longitude: 13.349688500000001
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Eisenacher Straße"
 housenumber: 113

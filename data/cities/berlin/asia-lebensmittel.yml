@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.523170500000006
 longitude: 13.4531781
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Straßmannstraße"
 housenumber: 41

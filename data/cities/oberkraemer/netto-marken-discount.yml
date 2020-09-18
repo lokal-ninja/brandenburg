@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.734538400000005
 longitude: 13.090178000000002
-postcode: 16727
+postcode: "16727"
 city: Oberkrämer
 street: "Dorfstraße"
 housenumber: 25

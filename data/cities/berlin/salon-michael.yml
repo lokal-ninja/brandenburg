@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4764014
 longitude: 13.3060018
-postcode: 14197
+postcode: "14197"
 city: Berlin
 street: "Mecklenburgische Straße"
 housenumber: 61

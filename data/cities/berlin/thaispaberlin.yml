@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.515599
 longitude: 13.3059363
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Haubachstraße"
 housenumber: 3

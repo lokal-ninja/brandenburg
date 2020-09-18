@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5368767
 longitude: 13.1890809
-postcode: 13583
+postcode: "13583"
 city: Berlin
 street: "Seegefelder Straße"
 housenumber: 55

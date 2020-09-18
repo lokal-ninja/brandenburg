@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.401914000000005
 longitude: 13.052684500000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 63

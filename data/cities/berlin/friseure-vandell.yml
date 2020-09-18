@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5536279
 longitude: 13.4187109
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Wisbyer Straße"
 housenumber: 65

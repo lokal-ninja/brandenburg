@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7240388
 longitude: 14.3628827
-postcode: 03051
+postcode: "03051"
 city: Cottbus
 street: "Hauptstraße"
 housenumber: 17

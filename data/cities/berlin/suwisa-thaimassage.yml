@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.554395500000005
 longitude: 13.414300800000001
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 98

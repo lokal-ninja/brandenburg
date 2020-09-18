@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.6078259
 longitude: 13.323205100000001
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Waidmannsluster Damm"
 housenumber: 192

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.363306300000005
 longitude: 14.061588
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Eisenbahnstraße"
 housenumber: 

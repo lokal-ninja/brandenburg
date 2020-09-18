@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5317165
 longitude: 14.374215000000001
-postcode: 15306
+postcode: "15306"
 city: Seelow
 street: "Berliner Straße"
 housenumber: 31a

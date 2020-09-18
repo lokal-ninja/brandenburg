@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 51.954436
 longitude: 14.693800000000001
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "An der Berglehne"
 housenumber: 10

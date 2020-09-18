@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5678172
 longitude: 13.3619052
-postcode: 13409
+postcode: "13409"
 city: Berlin
 street: "Residenzstraße"
 housenumber: 31

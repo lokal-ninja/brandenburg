@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4047994
 longitude: 13.562357
-postcode: 04932
+postcode: "04932"
 city: Gröden
 street: "Weinberg"
 housenumber: 8

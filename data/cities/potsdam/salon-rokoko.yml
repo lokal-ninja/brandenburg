@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.39628020000001
 longitude: 13.0487012
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Breite Straße"
 housenumber: 23

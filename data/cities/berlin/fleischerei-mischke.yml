@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5658849
 longitude: 13.4084713
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Florastraße"
 housenumber: 40

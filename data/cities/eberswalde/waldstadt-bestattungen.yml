@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.8340096
 longitude: 13.8258577
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Eichwerderstraße"
 housenumber: 

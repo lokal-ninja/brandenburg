@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.5304044
 longitude: 12.3396512
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Heinrich-Heine-Straße"
 housenumber: 18 A

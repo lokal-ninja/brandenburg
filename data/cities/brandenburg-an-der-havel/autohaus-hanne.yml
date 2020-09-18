@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.419879800000004
 longitude: 12.5599725
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Watstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4574628
 longitude: 13.511183200000001
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Brückenstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.478529
 longitude: 13.3324928
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Wexstraße"
 housenumber: 39

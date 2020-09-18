@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.284721000000005
 longitude: 13.5395201
-postcode: 15749
+postcode: "15749"
 city: Mittenwalde
 street: "Gartenstraße"
 housenumber: 8

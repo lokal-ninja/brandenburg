@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.491103200000005
 longitude: 13.326107700000001
-postcode: 10717
+postcode: "10717"
 city: Berlin
 street: "Güntzelstraße"
 housenumber: 47

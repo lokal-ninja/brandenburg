@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1897305
 longitude: 13.465401100000001
-postcode: 15806
+postcode: "15806"
 city: Zossen
 street: "Fontanestraße"
 housenumber: 36

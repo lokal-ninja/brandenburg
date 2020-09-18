@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4008624
 longitude: 13.441177900000001
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Karl-Marx-Straße"
 housenumber: 117

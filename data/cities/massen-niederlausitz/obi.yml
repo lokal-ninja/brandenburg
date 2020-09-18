@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.635884000000004
 longitude: 13.736133500000001
-postcode: 03238
+postcode: "03238"
 city: Massen-Niederlausitz
 street: "Otto-Hahn-Straße"
 housenumber: 5

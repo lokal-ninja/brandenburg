@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.52971590000001
 longitude: 14.3666984
-postcode: 15306
+postcode: "15306"
 city: Seelow
 street: "Diedersdorfer Straße"
 housenumber: 12A

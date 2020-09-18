@@ -1,9 +1,9 @@
 id: 6080653949
 type: node
-shop: Kiosk
+shop: Zeitungen
 latitude: 52.479748
 longitude: 13.326448200000002
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Mainzer Straße"
 housenumber: 12

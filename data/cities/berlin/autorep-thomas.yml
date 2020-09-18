@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.578579600000005
 longitude: 13.3001968
-postcode: 13509
+postcode: "13509"
 city: Berlin
 street: "Wittestraße"
 housenumber: 35/36

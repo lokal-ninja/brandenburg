@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4356408
 longitude: 13.3450672
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 79

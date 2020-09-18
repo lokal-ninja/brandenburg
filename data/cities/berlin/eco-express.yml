@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.5409105
 longitude: 13.413959400000001
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Danziger Straße"
 housenumber: 7

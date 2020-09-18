@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.5171452
 longitude: 13.1669719
-postcode: 13593
+postcode: "13593"
 city: Berlin
 street: "Obstallee"
 housenumber: 28

@@ -3,7 +3,7 @@ type: way
 shop: Fliesen
 latitude: 52.6028158
 longitude: 12.3369522
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Große Milower Straße"
 housenumber: 77

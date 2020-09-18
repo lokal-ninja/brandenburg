@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.513877400000005
 longitude: 13.3876831
-postcode: 10117
+postcode: "10117"
 city: Berlin
 street: "Jägerstraße"
 housenumber: 65

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5021549
 longitude: 13.3101797
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Giesebrechtstraße"
 housenumber: 16

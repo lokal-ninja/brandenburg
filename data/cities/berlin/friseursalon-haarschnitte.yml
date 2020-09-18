@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5050929
 longitude: 13.5620025
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Köpenicker Straße"
 housenumber: 25

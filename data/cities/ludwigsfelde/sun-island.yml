@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.304991300000005
 longitude: 13.2508721
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Erich-Weinert-Straße"
 housenumber: 41a

@@ -1,12 +1,12 @@
-id: 1440942901
+id: 1298655469
 type: node
 shop: Bäckerei
-latitude: 52.5288435
-longitude: 13.3777462
-postcode: 10115
+latitude: 52.507600700000005
+longitude: 13.513061800000001
+postcode: ""
 city: Berlin
-street: "Invalidenstraße"
-housenumber: 97
-phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-17:00; Su 08:00-17:00"
+street: ""
+housenumber: 
+phone: "+493397320530"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: "https://www.schaefers-brot.de/"

@@ -1,12 +1,12 @@
-id: 3589853096
-type: node
-shop: Supermarkt
-latitude: 52.540606000000004
-longitude: 13.2445845
-postcode: 13599
+id: 25056931
+type: way
+shop: Großhandel
+latitude: 52.5082424
+longitude: 13.443821600000001
+postcode: "10243"
 city: Berlin
-street: "Nonnendammallee"
-housenumber: 135
-phone: "+49 30 354820"
-opening_hours: "Mo-Fr 07:00-22:00; Sa 07:00-20:00"
-website: "https://www.metro.de/standorte/berlin-berolina"
+street: "An der Ostbahn"
+housenumber: 5
+phone: ""
+opening_hours: "Mo-Fr 07:00-22:00, Sa 07:00-20:00"
+website: ""

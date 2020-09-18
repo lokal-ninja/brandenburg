@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5649449
 longitude: 13.4480544
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Romain-Rolland-Straße"
 housenumber: 

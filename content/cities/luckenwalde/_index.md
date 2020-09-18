@@ -1,6 +1,6 @@
 ---
 title: Luckenwalde
 url: /luckenwalde/
-latitude: 52.089739800000004
-longitude: 13.162872
+latitude: 52.090204500000006
+longitude: 13.174188200000001
 ---

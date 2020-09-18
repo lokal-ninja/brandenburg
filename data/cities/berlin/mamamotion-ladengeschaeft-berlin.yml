@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5370209
 longitude: 13.427599500000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Chodowieckistraße"
 housenumber: 32

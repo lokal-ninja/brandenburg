@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.5081317
 longitude: 13.4629703
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Wühlischstraße"
 housenumber: 49

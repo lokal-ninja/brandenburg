@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3666737
 longitude: 13.1308138
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Zum Kirchsteigfeld"
 housenumber: 12

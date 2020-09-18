@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.547499800000004
 longitude: 13.3937109
-postcode: 13355
+postcode: "13355"
 city: Berlin
 street: "Ramlerstraße"
 housenumber: 28

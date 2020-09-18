@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.502991
 longitude: 13.478923300000002
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Türrschmidtstraße"
 housenumber: 37

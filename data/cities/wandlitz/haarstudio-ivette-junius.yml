@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.7167851
 longitude: 13.437460100000001
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Fontanestraße"
 housenumber: 6

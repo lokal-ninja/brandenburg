@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.449653500000004
 longitude: 13.3482836
-postcode: 12169
+postcode: "12169"
 city: Berlin
 street: "Halskestraße"
 housenumber: 70

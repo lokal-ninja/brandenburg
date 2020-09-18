@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.32023280000001
 longitude: 13.8630914
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Winterfeldtstraße"
 housenumber: 4

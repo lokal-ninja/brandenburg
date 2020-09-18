@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.3967223
 longitude: 13.058292000000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Friedrich-Ebert-Straße"
 housenumber: 118

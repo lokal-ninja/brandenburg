@@ -3,10 +3,10 @@ type: node
 shop: Kramladen
 latitude: 52.5592667
 longitude: 13.126334100000001
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Panzerstraße"
 housenumber: 7
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; PH off"
 website: ""

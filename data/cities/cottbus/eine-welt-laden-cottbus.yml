@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 51.7538064
 longitude: 14.3331122
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Straße der Jugend"
 housenumber: 94

@@ -3,7 +3,7 @@ type: node
 shop: Boot
 latitude: 52.369936800000005
 longitude: 12.9215513
-postcode: 14542
+postcode: "14542"
 city: Werder
 street: "Berliner Straße"
 housenumber: 114

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.496087300000006
 longitude: 13.336997100000001
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Bamberger Straße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.4143289
 longitude: 13.0374254
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Alexander-Klein-Straße"
 housenumber: 4

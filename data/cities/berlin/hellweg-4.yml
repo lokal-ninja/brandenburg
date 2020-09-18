@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.506416900000005
 longitude: 13.5679964
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Alt-Biesdorf"
 housenumber: 38

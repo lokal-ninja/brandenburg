@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.565102700000004
 longitude: 13.4428213
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Romain-Rolland-Straße"
 housenumber: 35

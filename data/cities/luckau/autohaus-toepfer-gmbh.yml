@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.857889500000006
 longitude: 13.7210233
-postcode: 15926
+postcode: "15926"
 city: Luckau
 street: "Zaackoer Weg"
 housenumber: 34

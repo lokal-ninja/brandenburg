@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.434434100000004
 longitude: 12.514969500000001
-postcode: 14772
+postcode: "14772"
 city: Brandenburg an der Havel
 street: "Sophienstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5342392
 longitude: 12.3300382
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Bergstraße"
 housenumber: 1

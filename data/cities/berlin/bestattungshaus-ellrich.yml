@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.5102417
 longitude: 13.4688163
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Müggelstraße"
 housenumber: 13

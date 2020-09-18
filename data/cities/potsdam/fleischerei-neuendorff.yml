@@ -1,12 +1,12 @@
 id: 2478817540
 type: node
 shop: Metzgerei
-latitude: 52.401961500000006
-longitude: 13.058024300000001
-postcode: 14467
+latitude: 52.402011200000004
+longitude: 13.0579911
+postcode: "14467"
 city: Potsdam
 street: "Friedrich-Ebert-Straße"
 housenumber: 21
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-13:00"
+opening_hours: "Tu-Fr 08:00-18:00; Sa 08:00-13:00; PH,Mo,Su off"
 website: ""

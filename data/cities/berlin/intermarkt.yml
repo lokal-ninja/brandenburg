@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5747487
 longitude: 13.3146512
-postcode: 13403
+postcode: "13403"
 city: Berlin
 street: "Kienhorststraße"
 housenumber: 156

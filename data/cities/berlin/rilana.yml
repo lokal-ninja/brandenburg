@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.417574900000005
 longitude: 13.3990977
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 418

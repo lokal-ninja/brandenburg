@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.483935100000004
 longitude: 13.267539500000002
-postcode: 14193
+postcode: "14193"
 city: Berlin
 street: "Hagenplatz"
 housenumber: 1

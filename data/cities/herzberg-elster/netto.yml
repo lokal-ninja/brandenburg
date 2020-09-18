@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.69235320000001
 longitude: 13.229892000000001
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Leipziger Straße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.4979328
 longitude: 13.348025600000001
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Kalckreuthstraße"
 housenumber: 10

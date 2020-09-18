@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5246143
 longitude: 13.4060263
-postcode: 04924
+postcode: "04924"
 city: Bad Liebenwerda
 street: "Heinrich-Heine-Straße"
 housenumber: 3

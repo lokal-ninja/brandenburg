@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.5135085
 longitude: 13.3054953
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Zillestraße"
 housenumber: 74+76

@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.605262
 longitude: 13.524962200000001
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Bucher Weg"
 housenumber: 2a

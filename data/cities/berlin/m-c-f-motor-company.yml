@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5381027
 longitude: 13.2168714
-postcode: 13599
+postcode: "13599"
 city: Berlin
 street: "Am Juliusturm"
 housenumber: 50

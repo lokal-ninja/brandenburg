@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.4902771
 longitude: 13.3932794
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Riemannstraße"
 housenumber: 5

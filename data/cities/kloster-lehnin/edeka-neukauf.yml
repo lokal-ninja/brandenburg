@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.319585200000006
 longitude: 12.737803300000001
-postcode: 14797
+postcode: "14797"
 city: Kloster Lehnin
 street: "Kaltenhausen"
 housenumber: 82

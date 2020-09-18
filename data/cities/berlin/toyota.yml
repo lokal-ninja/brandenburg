@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4211966
 longitude: 13.3133982
-postcode: 12207
+postcode: "12207"
 city: Berlin
 street: "Osdorfer Straße"
 housenumber: 129

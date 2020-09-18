@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.4152077
 longitude: 12.5379131
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Karl-Marx-Straße"
 housenumber: 

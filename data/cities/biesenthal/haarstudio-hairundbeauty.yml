@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.76633150000001
 longitude: 13.6355181
-postcode: 16359
+postcode: "16359"
 city: Biesenthal
 street: "August-Bebel-Straße"
 housenumber: 

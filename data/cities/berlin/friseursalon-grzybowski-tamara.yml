@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.511666000000005
 longitude: 13.4851489
-postcode: 10365
+postcode: "10365"
 city: Berlin
 street: "Frankfurter Allee"
 housenumber: 174

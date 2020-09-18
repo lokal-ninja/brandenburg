@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 53.1086278
 longitude: 13.484614400000002
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Zehdenicker Straße"
 housenumber: 26

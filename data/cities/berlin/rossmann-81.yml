@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4901429
 longitude: 13.312529300000001
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Fehrbelliner Platz"
 housenumber: 5

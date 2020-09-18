@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 52.4918619
 longitude: 13.4460759
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 9

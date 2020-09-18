@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5505409
 longitude: 13.4127921
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schivelbeiner Straße"
 housenumber: 48

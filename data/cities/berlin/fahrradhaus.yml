@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.45471130000001
 longitude: 13.6254396
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 60

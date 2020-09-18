@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.581875100000005
 longitude: 13.0002966
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Am Markt"
 housenumber: 2

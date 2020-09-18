@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4877289
 longitude: 13.4077611
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Lilienthalstraße"
 housenumber: 10

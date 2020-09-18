@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4397376
 longitude: 13.276792400000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 78

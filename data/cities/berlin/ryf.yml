@@ -1,12 +1,12 @@
-id: 1826528361
+id: 2026821147
 type: node
 shop: Friseur
-latitude: 52.4883351
-longitude: 13.4256425
-postcode: 12047
+latitude: 52.492969200000005
+longitude: 13.385718500000001
+postcode: "10965"
 city: Berlin
-street: "Weserstraße"
-housenumber: 217
+street: "Yorckstraße"
+housenumber: 88
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.ryf.de/"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00; Su off"
+website: ""

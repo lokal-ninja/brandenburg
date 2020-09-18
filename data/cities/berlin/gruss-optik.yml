@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.452468700000004
 longitude: 13.5092455
-postcode: 12487
+postcode: "12487"
 city: Berlin
 street: ""
 housenumber: 

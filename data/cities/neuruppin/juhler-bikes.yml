@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.91713
 longitude: 12.7834833
-postcode: 16816
+postcode: "16816"
 city: Neuruppin
 street: "Bechliner Chaussee"
 housenumber: 191

@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.5627854
 longitude: 13.074164600000001
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Finkenkruger Straße"
 housenumber: 57

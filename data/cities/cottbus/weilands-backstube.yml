@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.818307000000004
 longitude: 14.345145400000002
-postcode: 03054
+postcode: "03054"
 city: Cottbus
 street: "Am Spreebogen"
 housenumber: 19

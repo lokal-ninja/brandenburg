@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3252236
 longitude: 13.623553300000001
-postcode: 15745
+postcode: "15745"
 city: Wildau
 street: "Freiheitstraße"
 housenumber: 55

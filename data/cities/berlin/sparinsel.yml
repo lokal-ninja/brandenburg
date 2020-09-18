@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.4999784
 longitude: 13.5081456
-postcode: 10319
+postcode: "10319"
 city: Berlin
 street: "Volkradstraße"
 housenumber: 30

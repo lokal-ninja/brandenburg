@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 52.36314410000001
 longitude: 12.9329438
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Auf dem Strengfeld"
 housenumber: 6

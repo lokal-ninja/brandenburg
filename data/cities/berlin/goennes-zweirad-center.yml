@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5541762
 longitude: 13.4239695
-postcode: 13189
+postcode: "13189"
 city: Berlin
 street: "Neumannstraße"
 housenumber: 3b

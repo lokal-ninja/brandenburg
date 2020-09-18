@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4791353
 longitude: 13.343903800000001
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Innsbrucker Platz"
 housenumber: 4

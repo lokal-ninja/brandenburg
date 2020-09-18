@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4841252
 longitude: 13.383924500000001
-postcode: 12101
+postcode: "12101"
 city: Berlin
 street: "Manfred-von-Richthofen-Straße"
 housenumber: 8

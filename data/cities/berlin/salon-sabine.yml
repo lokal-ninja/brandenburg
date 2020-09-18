@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4992743
 longitude: 13.4642434
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Corinthstraße"
 housenumber: 55

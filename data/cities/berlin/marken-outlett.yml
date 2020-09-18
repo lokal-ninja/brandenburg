@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.5427249
 longitude: 13.369484300000002
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Reinickendorfer Straße"
 housenumber: 15

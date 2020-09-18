@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.5623577
 longitude: 13.3271201
-postcode: 13405
+postcode: "13405"
 city: Berlin
 street: "Kapweg"
 housenumber: 1-2

@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.2965092
 longitude: 13.632149900000002
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
 street: "Storkower Straße"
 housenumber: 36

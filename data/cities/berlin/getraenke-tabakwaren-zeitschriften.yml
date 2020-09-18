@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.4910584
 longitude: 13.368898100000001
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Großgörschenstraße"
 housenumber: 26

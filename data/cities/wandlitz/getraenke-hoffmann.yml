@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.6855764
 longitude: 13.441367600000001
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Hauptstraße"
 housenumber: 63

@@ -3,9 +3,9 @@ type: node
 shop: Hofladen
 latitude: 53.10199780000001
 longitude: 12.467686700000002
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
-street: "Karstedshofer Straße"
+street: "Karstedtshofer Straße"
 housenumber: 21
 phone: ""
 opening_hours: ""

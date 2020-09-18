@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.081024000000006
 longitude: 12.6936364
-postcode: 14823
+postcode: "14823"
 city: Niemegk
 street: "Bahnhofstraße"
 housenumber: 22

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9482055
 longitude: 14.701917400000001
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Sprucker Straße"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.510955800000005
 longitude: 13.451063300000001
-postcode: 10243
+postcode: "10243"
 city: Berlin
 street: "Kopernikusstraße"
 housenumber: 31

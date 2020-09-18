@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.5200424
 longitude: 13.357484300000001
-postcode: 10557
+postcode: "10557"
 city: Berlin
 street: ""
 housenumber: 378

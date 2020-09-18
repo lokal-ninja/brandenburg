@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.746450700000004
 longitude: 13.945039300000001
-postcode: 03205
+postcode: "03205"
 city: Calau
 street: "Lübbenauer Straße"
 housenumber: 1

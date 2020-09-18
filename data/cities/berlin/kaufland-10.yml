@@ -1,12 +1,12 @@
-id: 2850019701
+id: 1065121023
 type: node
 shop: Supermarkt
-latitude: 52.599201
-longitude: 13.354166600000001
-postcode: 13439
+latitude: 52.5377219
+longitude: 13.218631700000001
+postcode: "13599"
 city: Berlin
-street: "Senftenberger Ring"
-housenumber: 15
+street: "Am Juliusturm"
+housenumber: 42-46
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.kaufland.de/Home/index.jsp"

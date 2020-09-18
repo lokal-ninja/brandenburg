@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.38724130000001
 longitude: 13.101831200000001
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Großbeerenstraße"
 housenumber: 89

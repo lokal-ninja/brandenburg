@@ -3,10 +3,10 @@ type: node
 shop: Computer
 latitude: 52.5589516
 longitude: 13.133697300000001
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Spandauer Straße"
 housenumber: 152
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:30; Sa 10:00-14:00"
+opening_hours: "Mo-Fr 10:00-13:00,14:00-18:30; Sa 10:00-14:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.492516800000004
 longitude: 13.396925300000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Mittenwalder Straße"
 housenumber: 48

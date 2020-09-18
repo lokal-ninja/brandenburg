@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.50361770000001
 longitude: 13.325247800000001
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Uhlandstraße"
 housenumber: 20-25

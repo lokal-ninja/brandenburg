@@ -3,7 +3,7 @@ type: node
 shop: Anime
 latitude: 52.5238048
 longitude: 13.398582200000002
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Oranienburger Straße"
 housenumber: 13/14

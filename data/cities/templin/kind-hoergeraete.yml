@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 53.12051640000001
 longitude: 13.500960500000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Pestalozzistraße"
 housenumber: 3

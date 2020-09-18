@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 52.479068500000004
 longitude: 13.3330418
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Prinzregentenstraße"
 housenumber: 53a

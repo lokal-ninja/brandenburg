@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.427996300000004
 longitude: 13.557094600000001
-postcode: 12489
+postcode: "12489"
 city: Berlin
 street: "Adlergestell"
 housenumber: 350-351

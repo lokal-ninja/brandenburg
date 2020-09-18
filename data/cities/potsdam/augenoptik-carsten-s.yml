@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3986524
 longitude: 13.0461165
-postcode: 14471
+postcode: "14471"
 city: Potsdam
 street: "Zeppelinstraße"
 housenumber: 2

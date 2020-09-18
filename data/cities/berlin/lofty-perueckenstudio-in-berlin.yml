@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.50680130000001
 longitude: 13.3075658
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Kantstraße"
 housenumber: 56

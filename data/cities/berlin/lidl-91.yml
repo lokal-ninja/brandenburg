@@ -1,12 +1,12 @@
-id: 146694658
+id: 140006424
 type: way
 shop: Supermarkt
-latitude: 52.4826227
-longitude: 13.3503351
-postcode: 10827
+latitude: 52.5317335
+longitude: 13.548988900000001
+postcode: "12681"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 122
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.lidl.de/filialen/berlin-tempelhof-schoeneberg/schoeneberg-hauptstr-122.html"
+street: "Allee der Kosmonauten"
+housenumber: 141A
+phone: ""
+opening_hours: ""
+website: ""

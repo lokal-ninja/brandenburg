@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.355567300000004
 longitude: 14.0871852
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "James-Watt-Straße"
 housenumber: 2

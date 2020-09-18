@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.5316744
 longitude: 13.4230768
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Winsstraße"
 housenumber: 69

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.364184200000004
 longitude: 13.591987300000001
-postcode: 15732
+postcode: "15732"
 city: Schulzendorf
 street: "Ernst-Thälmann-Straße"
 housenumber: 124

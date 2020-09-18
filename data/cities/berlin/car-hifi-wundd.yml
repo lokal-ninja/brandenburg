@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.50582970000001
 longitude: 13.350427400000001
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Lützowufer"
 housenumber: 24

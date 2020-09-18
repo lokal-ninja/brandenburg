@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4673029
 longitude: 13.4403109
-postcode: 12051
+postcode: "12051"
 city: Berlin
 street: "Silbersteinstraße"
 housenumber: 9

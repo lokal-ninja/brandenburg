@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.4375694
 longitude: 13.4477373
-postcode: 12359
+postcode: "12359"
 city: Berlin
 street: "Fritz-Reuter-Allee"
 housenumber: 179A

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5834659
 longitude: 13.4029214
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Dietzgenstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.5680199
 longitude: 14.36973
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Dresdener Straße"
 housenumber: 33

@@ -1,12 +1,12 @@
 id: 6814939693
 type: node
 shop: Kleidung
-latitude: 52.5146457
-longitude: 13.4634011
-postcode: 10247
+latitude: 52.514627700000005
+longitude: 13.463527200000001
+postcode: "10247"
 city: Berlin
 street: "Frankfurter Allee"
 housenumber: 44
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 10:00-20:00"
 website: ""

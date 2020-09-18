@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.9517651
 longitude: 14.6807783
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Am Gehege"
 housenumber: 20

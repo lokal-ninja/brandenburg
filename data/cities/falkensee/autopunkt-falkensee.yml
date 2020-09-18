@@ -3,10 +3,10 @@ type: node
 shop: Autohaus
 latitude: 52.5599526
 longitude: 13.0806109
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Coburger Straße"
 housenumber: 8
 phone: "+49 3322 3535"
-opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:00;Sa 09:00-13:00; PH off"
 website: "http://www.autopunkt-falkensee.de/"

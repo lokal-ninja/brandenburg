@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.5635156
 longitude: 14.364892900000001
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Neudorfer Weg"
 housenumber: 6

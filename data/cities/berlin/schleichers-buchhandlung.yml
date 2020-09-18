@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4582205
 longitude: 13.291514000000001
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Königin-Luise-Straße"
 housenumber: 41

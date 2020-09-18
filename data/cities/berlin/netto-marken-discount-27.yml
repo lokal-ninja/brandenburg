@@ -1,12 +1,12 @@
-id: 2992743147
+id: 3666631698
 type: node
 shop: Supermarkt
-latitude: 52.497514200000005
-longitude: 13.521998300000002
-postcode: 10319
+latitude: 52.496021000000006
+longitude: 13.3458185
+postcode: "10777"
 city: Berlin
-street: "Otto-Schmirgal-Straße"
-housenumber: 3
-phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+street: "Martin-Luther-Straße"
+housenumber: 24
+phone: "+49 800 2000015"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "http://www.netto-online.de"

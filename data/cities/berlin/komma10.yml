@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.4029724
 longitude: 13.5255197
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Schönefelder Chaussee"
 housenumber: 241

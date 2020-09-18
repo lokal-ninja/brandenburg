@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.489709500000004
 longitude: 13.405135300000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Gneisenaustraße"
 housenumber: 55

@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.543586600000005
 longitude: 13.4162762
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Raumerstraße"
 housenumber: 3

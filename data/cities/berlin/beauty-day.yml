@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4848482
 longitude: 13.3525092
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Eisenacher Straße"
 housenumber: 60

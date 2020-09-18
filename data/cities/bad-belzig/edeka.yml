@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.138743100000006
 longitude: 12.6047802
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Friedrich-Schiller-Straße"
 housenumber: 42

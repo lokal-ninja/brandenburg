@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.6795945
 longitude: 13.587348
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Marktplatz"
 housenumber: 3

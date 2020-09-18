@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.8237122
 longitude: 14.1447874
-postcode: 03096
+postcode: "03096"
 city: Burg (Spreewald)
 street: "Gewerbering"
 housenumber: 9

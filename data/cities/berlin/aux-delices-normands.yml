@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.438982800000005
 longitude: 13.272421300000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 49

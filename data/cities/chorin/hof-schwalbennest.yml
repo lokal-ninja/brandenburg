@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.9094387
 longitude: 13.993407900000001
-postcode: 16230
+postcode: "16230"
 city: Chorin
 street: "Pehlitz"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.3634337
 longitude: 14.061818
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Eisenbahnstraße"
 housenumber: 

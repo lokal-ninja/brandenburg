@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.399852800000005
 longitude: 13.521385500000001
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Altglienicker Chaussee"
 housenumber: 13

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5545629
 longitude: 13.1119433
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Seegefelder Straße"
 housenumber: 117

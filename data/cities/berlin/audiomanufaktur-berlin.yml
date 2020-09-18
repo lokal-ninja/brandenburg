@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.4462343
 longitude: 13.624810100000001
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Josef-Nawrocki-Straße"
 housenumber: 3

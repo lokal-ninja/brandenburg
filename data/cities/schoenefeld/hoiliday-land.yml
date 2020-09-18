@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.4073633
 longitude: 13.440035900000002
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Attilastraße"
 housenumber: 7

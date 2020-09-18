@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.714214600000005
 longitude: 13.2759867
-postcode: 16556
+postcode: "16556"
 city: Hohen Neuendorf
 street: "Berliner Straße"
 housenumber: 1

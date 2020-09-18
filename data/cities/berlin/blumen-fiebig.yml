@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.457866700000004
 longitude: 13.290942300000001
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Königin-Luise-Straße"
 housenumber: 44

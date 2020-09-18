@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.4999753
 longitude: 13.417819600000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Adalbertstraße"
 housenumber: 97

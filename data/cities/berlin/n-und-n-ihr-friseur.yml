@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.527359100000005
 longitude: 13.542401700000001
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Helene-Weigel-Platz"
 housenumber: 10

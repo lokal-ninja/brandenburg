@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.486790500000005
 longitude: 13.3550637
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Akazienstraße"
 housenumber: 27

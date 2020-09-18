@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.520231
 longitude: 13.469097900000001
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Eldenaer Straße"
 housenumber: 28

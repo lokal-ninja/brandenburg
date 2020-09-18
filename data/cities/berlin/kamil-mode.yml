@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.49388750000001
 longitude: 13.421235500000002
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Kottbusser Damm"
 housenumber: 9

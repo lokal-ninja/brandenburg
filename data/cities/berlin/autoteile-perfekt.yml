@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.5699576
 longitude: 13.5382888
-postcode: 13057
+postcode: "13057"
 city: Berlin
 street: "Dorfstraße"
 housenumber: 38

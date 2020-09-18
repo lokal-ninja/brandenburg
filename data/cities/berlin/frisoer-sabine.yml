@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5337144
 longitude: 13.433297900000001
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Pasteurstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5272975
 longitude: 13.3889878
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Torstraße"
 housenumber: 220

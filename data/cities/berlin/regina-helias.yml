@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4870074
 longitude: 13.2982206
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Hohenzollerndamm"
 housenumber: 54

@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.4918813
 longitude: 13.4592214
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: ""
 housenumber: 

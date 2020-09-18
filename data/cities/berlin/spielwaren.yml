@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.4439197
 longitude: 13.315335500000002
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Hindenburgdamm"
 housenumber: 89

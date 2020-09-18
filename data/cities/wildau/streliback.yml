@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3257563
 longitude: 13.637769700000002
-postcode: 15745
+postcode: "15745"
 city: Wildau
 street: "Friedrich-Engels-Straße"
 housenumber: 73

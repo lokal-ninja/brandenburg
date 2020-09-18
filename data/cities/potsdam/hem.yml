@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.3920928
 longitude: 13.0847066
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Friedrich-List-Straße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 51.957451400000004
 longitude: 14.7034938
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Karl-Marx-Straße"
 housenumber: 98

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.487226400000004
 longitude: 13.355125000000001
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Akazienstraße"
 housenumber: 6

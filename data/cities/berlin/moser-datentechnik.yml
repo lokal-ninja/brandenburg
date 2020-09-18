@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.554797400000005
 longitude: 13.3926975
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Bornholmer Straße"
 housenumber: 50

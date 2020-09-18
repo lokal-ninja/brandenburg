@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.7501795
 longitude: 14.3256238
-postcode: 03048
+postcode: "03048"
 city: Cottbus
 street: "Vetschauer Straße"
 housenumber: 70

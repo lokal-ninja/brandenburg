@@ -1,4 +1,4 @@
 ---
-title: "Weinhandlung CAVA"
+title: "Weinhandlung Cava"
 url: /berlin/weinhandlung-cava/
 ---

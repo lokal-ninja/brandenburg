@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.451178600000006
 longitude: 13.339010600000002
-postcode: 12169
+postcode: "12169"
 city: Berlin
 street: "Steglitzer Damm"
 housenumber: 15

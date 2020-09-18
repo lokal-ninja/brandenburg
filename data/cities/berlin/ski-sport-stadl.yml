@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.5017171
 longitude: 13.368227800000001
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Lützowstraße"
 housenumber: 104

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4004011
 longitude: 13.0590132
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Am Bassin"
 housenumber: 10

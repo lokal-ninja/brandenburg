@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.2668515
 longitude: 13.9338385
-postcode: 15859
+postcode: "15859"
 city: Storkow (Mark)
 street: "Lebbiner Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.558051500000005
 longitude: 14.560442900000002
-postcode: 15328
+postcode: "15328"
 city: Küstriner Vorland
 street: "Straße der Freundschaft"
 housenumber: 30

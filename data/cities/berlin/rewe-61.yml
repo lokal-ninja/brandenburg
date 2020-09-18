@@ -1,12 +1,12 @@
-id: 38037234
+id: 36056447
 type: way
 shop: Supermarkt
-latitude: 52.46450900000001
-longitude: 13.394749200000001
-postcode: 12099
+latitude: 52.401870100000004
+longitude: 13.412717800000001
+postcode: "12309"
 city: Berlin
-street: "Germaniastraße"
-housenumber: 12
+street: "Töpchiner Weg"
+housenumber: 189-193
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

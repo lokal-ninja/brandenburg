@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.824944
 longitude: 12.3957423
-postcode: 16845
+postcode: "16845"
 city: Sieversdorf-Hohenofen
 street: "Im Zingel"
 housenumber: 1

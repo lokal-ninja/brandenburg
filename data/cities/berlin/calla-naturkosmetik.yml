@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4971795
 longitude: 13.3551435
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Winterfeldtstraße"
 housenumber: 38

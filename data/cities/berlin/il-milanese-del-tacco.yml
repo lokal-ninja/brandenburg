@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.551865500000005
 longitude: 13.384018300000001
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Stettiner Straße"
 housenumber: 63

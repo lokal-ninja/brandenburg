@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.56091120000001
 longitude: 13.4109026
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Mühlenstraße"
 housenumber: 38

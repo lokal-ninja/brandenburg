@@ -1,4 +1,4 @@
 ---
-title: "EDEKA"
+title: "Edeka"
 url: /wendisch-rietz/edeka/
 ---

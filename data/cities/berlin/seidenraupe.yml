@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.5540941
 longitude: 13.413702500000001
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Bornholmer Straße"
 housenumber: 2

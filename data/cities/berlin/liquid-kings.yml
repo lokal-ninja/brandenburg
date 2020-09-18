@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.547755900000006
 longitude: 13.3572176
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.332958600000005
 longitude: 13.394028
-postcode: 15827
+postcode: "15827"
 city: Blankenfelde-Mahlow
 street: "Blankenfelder Dorfstraße"
 housenumber: 65

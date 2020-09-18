@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.30576730000001
 longitude: 13.252319700000001
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Potsdamer Straße"
 housenumber: 86

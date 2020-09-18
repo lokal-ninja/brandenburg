@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1293425
 longitude: 14.6357599
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Am Wiesengrund"
 housenumber: 1

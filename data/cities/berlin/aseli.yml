@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.5246426
 longitude: 13.4012887
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

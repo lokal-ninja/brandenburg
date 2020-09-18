@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1183022
 longitude: 13.5729988
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Milmersdorfer Chaussee"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.3712196
 longitude: 13.133897800000002
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Nuthestraße"
 housenumber: 1-10

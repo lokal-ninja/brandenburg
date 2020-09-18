@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.584205700000005
 longitude: 13.8933359
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Philipp-Müller-Straße"
 housenumber: 33

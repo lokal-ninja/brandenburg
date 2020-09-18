@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.971491
 longitude: 13.756109100000002
-postcode: 16247
+postcode: "16247"
 city: Joachimsthal
 street: "Angermünder Straße"
 housenumber: 19c

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5353847
 longitude: 13.419929100000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Rykestraße"
 housenumber: 7

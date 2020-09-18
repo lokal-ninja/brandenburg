@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.724126000000005
 longitude: 14.280085000000001
-postcode: 16259
+postcode: "16259"
 city: Neulewin
 street: "Neulewin"
 housenumber: 46

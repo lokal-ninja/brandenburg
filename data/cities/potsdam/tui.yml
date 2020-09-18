@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3995213
 longitude: 13.053170000000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.451499500000004
 longitude: 13.27035
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Clayallee"
 housenumber: 175

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4536798
 longitude: 13.5217419
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Schnellerstraße"
 housenumber: 102

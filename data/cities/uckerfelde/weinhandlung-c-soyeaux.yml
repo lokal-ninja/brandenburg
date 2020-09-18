@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 53.2463983
 longitude: 13.9448907
-postcode: 17291
+postcode: "17291"
 city: Uckerfelde
 street: "Hauptstraße"
 housenumber: 5

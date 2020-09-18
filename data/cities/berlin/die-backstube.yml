@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.499088900000004
 longitude: 13.4117423
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Wassertorstraße"
 housenumber: 2

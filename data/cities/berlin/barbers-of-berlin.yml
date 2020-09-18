@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.564897900000005
 longitude: 13.364063000000002
-postcode: 13409
+postcode: "13409"
 city: Berlin
 street: "Residenzstraße"
 housenumber: 115

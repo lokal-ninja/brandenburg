@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.7444842
 longitude: 14.326053000000002
-postcode: 03048
+postcode: "03048"
 city: Cottbus
 street: "Leipziger Straße"
 housenumber: 47a

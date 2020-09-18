@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.4800254
 longitude: 13.326599300000002
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Mainzer Straße"
 housenumber: 17

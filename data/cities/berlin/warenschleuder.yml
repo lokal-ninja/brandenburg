@@ -3,7 +3,7 @@ type: way
 shop: Warenhaus
 latitude: 52.598423600000004
 longitude: 13.463642700000001
-postcode: 13129
+postcode: "13129"
 city: Berlin
 street: "Treseburger Straße"
 housenumber: 21

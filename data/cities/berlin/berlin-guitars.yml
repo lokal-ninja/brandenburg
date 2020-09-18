@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.4985701
 longitude: 13.3509802
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Motzstraße"
 housenumber: 9

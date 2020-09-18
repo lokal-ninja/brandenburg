@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 51.95158240000001
 longitude: 14.723209400000002
-postcode: 66-620
+postcode: "66-620"
 city: Gubin
 street: "Ułanów Karpackich"
 housenumber: 3

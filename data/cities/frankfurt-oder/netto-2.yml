@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3424387
 longitude: 14.5291502
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Markendorfer Straße"
 housenumber: 16A

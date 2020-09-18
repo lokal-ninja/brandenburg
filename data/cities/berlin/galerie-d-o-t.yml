@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.505935300000004
 longitude: 13.347316900000001
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Keithstraße"
 housenumber: 39

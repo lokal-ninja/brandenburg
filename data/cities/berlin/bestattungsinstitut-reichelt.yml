@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.527892800000004
 longitude: 13.542831300000001
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Allee der Kosmonauten"
 housenumber: 67

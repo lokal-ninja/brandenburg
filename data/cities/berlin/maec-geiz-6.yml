@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.4354626
 longitude: 13.344030100000001
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 

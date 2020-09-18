@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.427824
 longitude: 13.19673
-postcode: 14129
+postcode: "14129"
 city: Berlin
 street: "Prinz-Friedrich-Leopold-Straße"
 housenumber: 28B

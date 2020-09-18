@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.4792032
 longitude: 13.3438698
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Innsbrucker Platz"
 housenumber: 4

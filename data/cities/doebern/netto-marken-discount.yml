@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6168478
 longitude: 14.594107600000001
-postcode: 03159
+postcode: "03159"
 city: Döbern
 street: "Forster Straße"
 housenumber: 77

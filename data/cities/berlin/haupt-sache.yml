@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5058814
 longitude: 13.4749403
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Schreiberhauer Straße"
 housenumber: 20

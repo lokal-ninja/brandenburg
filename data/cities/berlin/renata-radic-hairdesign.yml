@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.492707700000004
 longitude: 13.458538200000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Elsenstraße"
 housenumber: 5

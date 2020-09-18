@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5649609
 longitude: 13.5037243
-postcode: 13051
+postcode: "13051"
 city: Berlin
 street: "Zingster Straße"
 housenumber: 6

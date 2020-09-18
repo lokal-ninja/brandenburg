@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4931744
 longitude: 13.460845800000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Elsenstraße"
 housenumber: 2

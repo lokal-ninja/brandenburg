@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.596489000000005
 longitude: 13.3470882
-postcode: 13435
+postcode: "13435"
 city: Berlin
 street: "Wilhelmsruher Damm"
 housenumber: 160

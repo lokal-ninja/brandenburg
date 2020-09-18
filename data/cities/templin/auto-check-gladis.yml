@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.114457800000004
 longitude: 13.577318100000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Petersdorfer Straße"
 housenumber: 28

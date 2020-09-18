@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.546200000000006
 longitude: 13.190673
-postcode: 13583
+postcode: "13583"
 city: Berlin
 street: "Falkenseer Chaussee"
 housenumber: 278

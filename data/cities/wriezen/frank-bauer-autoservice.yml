@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.756873600000006
 longitude: 14.121506900000002
-postcode: 16269
+postcode: "16269"
 city: Wriezen
 street: "Neugaul"
 housenumber: 15a

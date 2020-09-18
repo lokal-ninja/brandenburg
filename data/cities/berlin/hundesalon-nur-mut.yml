@@ -3,7 +3,7 @@ type: node
 shop: Tiersalon
 latitude: 52.5488914
 longitude: 13.408537800000001
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Kopenhagener Straße"
 housenumber: 65

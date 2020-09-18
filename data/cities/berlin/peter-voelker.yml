@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5034628
 longitude: 13.305908500000001
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Mommsenstraße"
 housenumber: 42

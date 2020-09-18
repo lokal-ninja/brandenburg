@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.4006745
 longitude: 13.269423100000001
-postcode: 14513
+postcode: "14513"
 city: Teltow
 street: "Ruhlsdorfer Platz"
 housenumber: 1

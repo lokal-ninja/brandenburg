@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.75875550000001
 longitude: 13.4729518
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Prenzlauer Chaussee"
 housenumber: 164

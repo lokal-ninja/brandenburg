@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.5195506
 longitude: 13.454058000000002
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Thaerstraße"
 housenumber: 16

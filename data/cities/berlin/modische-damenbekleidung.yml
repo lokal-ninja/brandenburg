@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.44567240000001
 longitude: 13.575604
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Böttcherstraße"
 housenumber: 4

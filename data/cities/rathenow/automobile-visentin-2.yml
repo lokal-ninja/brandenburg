@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.601035700000004
 longitude: 12.304832300000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Genthiner Straße"
 housenumber: 

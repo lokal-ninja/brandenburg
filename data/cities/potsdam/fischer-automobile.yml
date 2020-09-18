@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.38560450000001
 longitude: 13.093246200000001
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Horstweg"
 housenumber: 82

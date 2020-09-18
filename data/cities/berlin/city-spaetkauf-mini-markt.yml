@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.51384
 longitude: 13.4541743
-postcode: 
+postcode: ""
 city: Berlin
 street: "Boxhagener Straße"
 housenumber: 13

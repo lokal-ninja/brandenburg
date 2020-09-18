@@ -1,12 +1,12 @@
 id: 5587452921
 type: node
 shop: Baumarkt
-latitude: 52.75088
-longitude: 13.225114000000001
-postcode: 16515
+latitude: 52.750846100000004
+longitude: 13.2252197
+postcode: "16515"
 city: Oranienburg
 street: "Friedensstraße"
 housenumber: 6
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; PH,Su off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.383122
 longitude: 13.2396183
-postcode: 14532
+postcode: "14532"
 city: Stahnsdorf
 street: "Ruhlsdorfer Straße"
 housenumber: 95

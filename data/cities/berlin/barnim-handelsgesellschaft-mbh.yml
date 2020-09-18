@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.5036153
 longitude: 13.6127894
-postcode: 12623
+postcode: "12623"
 city: Berlin
 street: "Hultschiner Damm"
 housenumber: 359

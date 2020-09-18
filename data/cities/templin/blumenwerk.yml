@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.119924100000006
 longitude: 13.500701900000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Am Markt"
 housenumber: 1

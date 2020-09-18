@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.5625658
 longitude: 14.372155300000001
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Grünstraße"
 housenumber: 5

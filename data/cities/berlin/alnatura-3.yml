@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.502205700000005
 longitude: 13.309198700000001
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Giesebrechtstraße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5904467
 longitude: 13.3316207
-postcode: 13437
+postcode: "13437"
 city: Berlin
 street: "Alt-Wittenau"
 housenumber: 23

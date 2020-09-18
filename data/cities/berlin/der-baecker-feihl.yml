@@ -1,12 +1,12 @@
-id: 845297759
+id: 1265001568
 type: node
 shop: Bäckerei
-latitude: 52.495967300000004
-longitude: 13.5107897
-postcode: 10319
+latitude: 52.4996067
+longitude: 13.4972706
+postcode: "10319"
 city: Berlin
 street: "Sewanstraße"
-housenumber: 178
+housenumber: 4
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-12:00; Su 08:00-11:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

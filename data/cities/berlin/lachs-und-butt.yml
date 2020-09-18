@@ -3,7 +3,7 @@ type: way
 shop: Fisch
 latitude: 52.572382000000005
 longitude: 13.4313558
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Rothenbachstraße"
 housenumber: 48-50

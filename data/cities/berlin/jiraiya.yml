@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.5251096
 longitude: 13.3975179
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Krausnickstraße"
 housenumber: 8

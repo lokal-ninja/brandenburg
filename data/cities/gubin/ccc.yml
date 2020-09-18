@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.95147
 longitude: 14.7233864
-postcode: 66-620
+postcode: "66-620"
 city: Gubin
 street: "Ułanów Karpackich"
 housenumber: 3

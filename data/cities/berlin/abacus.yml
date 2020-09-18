@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.524512200000004
 longitude: 13.3329062
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Alt-Moabit"
 housenumber: 

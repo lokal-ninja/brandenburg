@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.564078
 longitude: 13.402539500000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Heynstraße"
 housenumber: 9

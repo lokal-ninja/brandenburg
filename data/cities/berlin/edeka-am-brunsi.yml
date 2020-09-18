@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.533813800000004
 longitude: 13.1676748
-postcode: 13581
+postcode: "13581"
 city: Berlin
 street: "Brunsbütteler Damm"
 housenumber: 196

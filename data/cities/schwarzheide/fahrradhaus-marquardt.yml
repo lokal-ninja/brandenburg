@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.468059600000004
 longitude: 13.8686463
-postcode: 01987
+postcode: "01987"
 city: Schwarzheide
 street: "Schipkauer Straße"
 housenumber: 14

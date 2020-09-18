@@ -3,7 +3,7 @@ type: node
 shop: Nähzubehör
 latitude: 52.43857070000001
 longitude: 13.3782987
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Großbeerenstraße"
 housenumber: 2 - 10, Haus 2, Nr. 2.14

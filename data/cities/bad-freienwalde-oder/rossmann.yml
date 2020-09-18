@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.7872956
 longitude: 14.030614400000001
-postcode: 16259
+postcode: "16259"
 city: Bad Freienwalde (Oder)
 street: "Karl-Marx-Straße"
 housenumber: 28

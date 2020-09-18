@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.479438
 longitude: 13.368719100000002
-postcode: 12101
+postcode: "12101"
 city: Berlin
 street: "General-Pape-Straße"
 housenumber: 52

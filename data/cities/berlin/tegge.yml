@@ -1,12 +1,12 @@
-id: 29976864
-type: way
-shop: Schlüsseldienst
-latitude: 52.4163331
-longitude: 13.4063382
-postcode: 12349
+id: 7682716986
+type: node
+shop: Sicherheit
+latitude: 52.4946093
+longitude: 13.3107751
+postcode: "10707"
 city: Berlin
-street: "Marienfelder Chaussee"
-housenumber: 142
+street: "Konstanzer Straße"
+housenumber: 50
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-13:00"
 website: ""

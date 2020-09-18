@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.48905250000001
 longitude: 13.393245400000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 20

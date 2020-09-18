@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 52.3696482
 longitude: 13.133513
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Gerlachstraße"
 housenumber: 23

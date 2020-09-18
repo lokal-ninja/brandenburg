@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.340172700000004
 longitude: 14.5039846
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Messering"
 housenumber: 10

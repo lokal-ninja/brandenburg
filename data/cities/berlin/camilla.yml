@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5418558
 longitude: 13.4172168
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schliemannstraße"
 housenumber: 42

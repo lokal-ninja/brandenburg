@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.453343100000005
 longitude: 13.574808500000001
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 2

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.610759200000004
 longitude: 12.342574800000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Kleine Hagenstraße"
 housenumber: 31

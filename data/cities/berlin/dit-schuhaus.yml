@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.635162
 longitude: 13.495139100000001
-postcode: 13125
+postcode: "13125"
 city: Berlin
 street: "Wiltbergstraße"
 housenumber: 9

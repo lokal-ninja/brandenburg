@@ -3,7 +3,7 @@ type: node
 shop: Pool
 latitude: 52.4399358
 longitude: 13.3843054
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Alt-Mariendorf"
 housenumber: 46

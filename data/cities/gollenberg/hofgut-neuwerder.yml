@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.7414002
 longitude: 12.4192225
-postcode: 14728
+postcode: "14728"
 city: Gollenberg
 street: "Kastanienweg"
 housenumber: 10

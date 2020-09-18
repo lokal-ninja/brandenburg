@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.511991
 longitude: 13.454478400000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Grünberger Straße"
 housenumber: 

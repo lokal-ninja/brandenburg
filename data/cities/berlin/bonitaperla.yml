@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.5051063
 longitude: 13.298233300000001
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Leonhardtstraße"
 housenumber: 4

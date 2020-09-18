@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.489013400000005
 longitude: 13.3197226
-postcode: 10717
+postcode: "10717"
 city: Berlin
 street: "Fechnerstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.497749600000006
 longitude: 13.348562000000001
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Motzstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.8134275
 longitude: 12.7652791
-postcode: 16833
+postcode: "16833"
 city: Fehrbellin
 street: "Berliner Straße"
 housenumber: 66

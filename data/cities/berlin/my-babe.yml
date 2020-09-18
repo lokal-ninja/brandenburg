@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.50265520000001
 longitude: 13.452931300000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Lehmbruckstraße"
 housenumber: 13

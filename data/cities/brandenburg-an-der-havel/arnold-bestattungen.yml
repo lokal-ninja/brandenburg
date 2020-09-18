@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.414914700000004
 longitude: 12.555616200000001
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Bäckerstraße"
 housenumber: 47

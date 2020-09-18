@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.523800200000004
 longitude: 13.464618000000002
-postcode: 
+postcode: ""
 city: Berlin
 street: ""
 housenumber: 

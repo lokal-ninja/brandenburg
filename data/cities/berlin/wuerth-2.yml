@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.426377200000005
 longitude: 13.542947400000001
-postcode: 12489
+postcode: "12489"
 city: Berlin
 street: "Volmerstraße"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.833552000000005
 longitude: 13.8179295
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 14

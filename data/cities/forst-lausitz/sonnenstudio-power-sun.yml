@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 51.745538800000006
 longitude: 14.636573700000001
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Cottbuser Straße"
 housenumber: 80

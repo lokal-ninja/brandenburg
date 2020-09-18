@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.557266000000006
 longitude: 13.385591900000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Prinzenallee"
 housenumber: 30

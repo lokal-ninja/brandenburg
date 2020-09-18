@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 52.5376959
 longitude: 13.214318
-postcode: 13599
+postcode: "13599"
 city: Berlin
 street: "Am Juliusturm"
 housenumber: 55

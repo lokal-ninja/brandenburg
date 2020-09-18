@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 51.951213700000004
 longitude: 14.723582200000001
-postcode: 66-620
+postcode: "66-620"
 city: Gubin
 street: "Ułanów Karpackich"
 housenumber: 3

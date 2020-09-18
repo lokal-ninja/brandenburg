@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.403511800000004
 longitude: 13.5737698
-postcode: 04932
+postcode: "04932"
 city: Gröden
 street: "Elsterwerdaer Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6884108
 longitude: 13.5630818
-postcode: 16321
+postcode: "16321"
 city: Bernau
 street: "Johann-Friedrich-A.-Borsig-Straße"
 housenumber: 6

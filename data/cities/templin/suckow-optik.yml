@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.119681400000005
 longitude: 13.5012694
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Am Markt"
 housenumber: 4

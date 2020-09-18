@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.1721841
 longitude: 14.248786
-postcode: 15848
+postcode: "15848"
 city: Beeskow
 street: "Breite Straße"
 housenumber: 5

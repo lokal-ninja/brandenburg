@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.535276800000005
 longitude: 13.4214683
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Prenzlauer Allee"
 housenumber: 216

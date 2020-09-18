@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5506845
 longitude: 13.4078677
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schönfließer Straße"
 housenumber: 19

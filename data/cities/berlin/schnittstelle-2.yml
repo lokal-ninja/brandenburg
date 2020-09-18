@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4901077
 longitude: 13.388237700000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 108

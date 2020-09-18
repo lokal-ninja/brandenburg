@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.421578100000005
 longitude: 13.3843978
-postcode: 12277
+postcode: "12277"
 city: Berlin
 street: "Daimlerstraße"
 housenumber: 91-95

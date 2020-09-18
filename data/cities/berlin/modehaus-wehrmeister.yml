@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5218494
 longitude: 13.4075708
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Karl-Liebknecht-Straße"
 housenumber: 11

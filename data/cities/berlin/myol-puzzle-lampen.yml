@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 52.5026008
 longitude: 13.4541578
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Danneckerstraße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.0770002
 longitude: 11.862770000000001
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "Großer Markt"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.543370200000005
 longitude: 13.376500400000001
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Hochstraße"
 housenumber: 38

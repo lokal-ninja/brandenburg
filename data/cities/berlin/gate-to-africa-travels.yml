@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.5422985
 longitude: 13.3525431
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Triftstraße"
 housenumber: 45

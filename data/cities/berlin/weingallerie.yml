@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.546499600000004
 longitude: 13.411884800000001
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Gaudystraße"
 housenumber: 25

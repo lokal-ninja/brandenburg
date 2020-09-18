@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.474102
 longitude: 13.426720900000001
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Okerstraße"
 housenumber: 45

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1412551
 longitude: 14.650642800000002
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Fröbelring"
 housenumber: 24

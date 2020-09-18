@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1719487
 longitude: 13.1399992
-postcode: 16798
+postcode: "16798"
 city: Fürstenberg/Havel
 street: "Hans-Günter-Bock-Straße"
 housenumber: 1-4

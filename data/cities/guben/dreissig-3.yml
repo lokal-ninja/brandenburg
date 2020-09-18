@@ -1,12 +1,12 @@
-id: 1535304051
+id: 7644293012
 type: node
 shop: Bäckerei
-latitude: 51.9412699
-longitude: 14.703694500000001
-postcode: 03172
+latitude: 51.9395577
+longitude: 14.703889
+postcode: "03172"
 city: Guben
 street: "Kaltenborner Straße"
-housenumber: 69
+housenumber: 68
 phone: ""
-opening_hours: "Mo-Tu off; We-Fr 05:00-08:30; Sa 05:00-09:30; Su 05:30-09:30"
-website: "https://www.baeckerei-dreissig.de/"
+opening_hours: "Mo-Su 07:00-19:00"
+website: ""

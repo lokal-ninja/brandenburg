@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.530707400000004
 longitude: 14.0008116
-postcode: 01968
+postcode: "01968"
 city: Senftenberg
 street: "Calauer Straße"
 housenumber: 13

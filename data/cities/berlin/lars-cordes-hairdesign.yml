@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.537643800000005
 longitude: 13.6058815
-postcode: 12627
+postcode: "12627"
 city: Berlin
 street: "Stendaler Straße"
 housenumber: 24

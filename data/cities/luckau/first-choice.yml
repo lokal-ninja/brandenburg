@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.850779300000006
 longitude: 13.706176600000001
-postcode: 15926
+postcode: "15926"
 city: Luckau
 street: "Lindenstraße"
 housenumber: 66

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.6060256
 longitude: 12.3389968
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Berliner Straße"
 housenumber: 3b

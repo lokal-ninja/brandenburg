@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4278813
 longitude: 13.3243627
-postcode: 12207
+postcode: "12207"
 city: Berlin
 street: "Morgensternstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.027171800000005
 longitude: 12.242444200000001
-postcode: 16866
+postcode: "16866"
 city: Gumtow
 street: "Kolreper Damm"
 housenumber: 18a

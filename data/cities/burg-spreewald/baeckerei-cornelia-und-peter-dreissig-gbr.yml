@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.834906100000005
 longitude: 14.146099300000001
-postcode: 03096
+postcode: "03096"
 city: Burg (Spreewald)
 street: "Bahnhofstraße"
 housenumber: 15m

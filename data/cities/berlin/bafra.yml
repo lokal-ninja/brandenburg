@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5017067
 longitude: 13.4320988
-postcode: 10997
+postcode: "10997"
 city: Berlin
 street: "Eisenbahnstraße"
 housenumber: 3

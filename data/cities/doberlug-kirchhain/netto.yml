@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.6283327
 longitude: 13.565659700000001
-postcode: 03253
+postcode: "03253"
 city: Doberlug-Kirchhain
 street: "Finsterwalder Straße"
 housenumber: 1

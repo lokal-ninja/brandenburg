@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4331023
 longitude: 13.3393487
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 40

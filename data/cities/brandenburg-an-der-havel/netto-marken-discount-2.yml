@@ -1,12 +1,12 @@
-id: 3492938638
-type: node
+id: 284784642
+type: way
 shop: Supermarkt
-latitude: 52.4186108
-longitude: 12.5518858
-postcode: 
+latitude: 52.4321945
+longitude: 12.5296944
+postcode: "14772"
 city: Brandenburg an der Havel
-street: ""
-housenumber: 
+street: "Rosa-Luxemburg-Allee"
+housenumber: 4A
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

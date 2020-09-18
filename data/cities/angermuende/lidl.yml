@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.016674900000005
 longitude: 14.016975
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Schwedter Straße"
 housenumber: 36

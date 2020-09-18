@@ -3,7 +3,7 @@ type: way
 shop: Optiker
 latitude: 53.0179242
 longitude: 14.000922800000001
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Berliner Straße"
 housenumber: 53

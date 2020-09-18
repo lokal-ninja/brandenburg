@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.4877648
 longitude: 13.387227600000001
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Am Tempelhofer Berg"
 housenumber: 8

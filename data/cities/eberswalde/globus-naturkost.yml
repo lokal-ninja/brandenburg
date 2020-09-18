@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.8341367
 longitude: 13.8177397
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Michaelisstraße"
 housenumber: 10

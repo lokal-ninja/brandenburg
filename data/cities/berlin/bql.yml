@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.5363471
 longitude: 13.407615700000001
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Kastanienallee"
 housenumber: 75

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5570668
 longitude: 13.385468600000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Prinzenallee"
 housenumber: 28

@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.543802500000005
 longitude: 13.367796
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Lindower Straße"
 housenumber: 18

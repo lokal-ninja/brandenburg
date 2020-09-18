@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.4175077
 longitude: 13.142678
-postcode: 14109
+postcode: "14109"
 city: Berlin
 street: "Otto-Erich-Straße"
 housenumber: 10B

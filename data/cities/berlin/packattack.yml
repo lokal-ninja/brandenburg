@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.5100029
 longitude: 13.460667
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Gärtnerstraße"
 housenumber: 10

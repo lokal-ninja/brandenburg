@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 53.3786764
 longitude: 13.717454400000001
-postcode: 17291
+postcode: "17291"
 city: Nordwestuckermark
 street: "Schloßweg"
 housenumber: 2

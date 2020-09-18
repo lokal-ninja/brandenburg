@@ -3,7 +3,7 @@ type: node
 shop: Lotterie
 latitude: 52.567358600000006
 longitude: 13.517846700000002
-postcode: 13057
+postcode: "13057"
 city: Berlin
 street: "Warnitzer Straße"
 housenumber: 20

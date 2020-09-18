@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.489823900000005
 longitude: 13.3801734
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Kreuzbergstraße"
 housenumber: 23

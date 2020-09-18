@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.859940800000004
 longitude: 13.941938500000001
-postcode: 03222
+postcode: "03222"
 city: Lübbenau/Spreewald
 street: "Otto-Grotewohl-Straße"
 housenumber: 19

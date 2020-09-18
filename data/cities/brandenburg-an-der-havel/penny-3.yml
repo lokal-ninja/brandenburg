@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4200175
 longitude: 12.5474118
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Willi-Sänger-Straße"
 housenumber: 46a

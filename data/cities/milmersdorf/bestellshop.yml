@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.108992900000004
 longitude: 13.6369343
-postcode: 17268
+postcode: "17268"
 city: Milmersdorf
 street: "Betonstraße"
 housenumber: 2a

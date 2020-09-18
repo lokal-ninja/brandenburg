@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.9909455
 longitude: 13.0799157
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Markt"
 housenumber: 32

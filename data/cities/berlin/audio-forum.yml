@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.498325200000004
 longitude: 13.300330500000001
-postcode: 10709
+postcode: "10709"
 city: Berlin
 street: "Nestorstraße"
 housenumber: 56

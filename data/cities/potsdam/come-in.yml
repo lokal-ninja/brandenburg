@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.399942700000004
 longitude: 13.0536515
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 55

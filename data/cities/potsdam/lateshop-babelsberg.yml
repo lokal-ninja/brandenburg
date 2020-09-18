@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3908919
 longitude: 13.090879300000001
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Karl-Liebknecht-Straße"
 housenumber: 3

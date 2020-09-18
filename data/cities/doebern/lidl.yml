@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.615801600000005
 longitude: 14.594827800000001
-postcode: 03159
+postcode: "03159"
 city: Döbern
 street: "Aufbaustraße"
 housenumber: 17

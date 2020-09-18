@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.547935700000004
 longitude: 13.369487900000001
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Reinickendorfer Straße"
 housenumber: 35

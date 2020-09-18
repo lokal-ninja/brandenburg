@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.524428300000004
 longitude: 13.403134600000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 46

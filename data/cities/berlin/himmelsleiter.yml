@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.438727400000005
 longitude: 13.271373100000002
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Sundgauer Straße"
 housenumber: 87

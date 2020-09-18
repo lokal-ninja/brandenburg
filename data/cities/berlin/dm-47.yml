@@ -1,12 +1,12 @@
-id: 759607672
-type: way
+id: 7376144479
+type: node
 shop: Drogerie
-latitude: 52.425844100000006
-longitude: 13.391537600000001
-postcode: 12107
+latitude: 52.4545991
+longitude: 13.384679100000001
+postcode: "12099"
 city: Berlin
-street: "Mariendorfer Damm"
-housenumber: 298
+street: "Tempelhofer Damm"
+housenumber: 227-235
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:00-20:00"
 website: ""

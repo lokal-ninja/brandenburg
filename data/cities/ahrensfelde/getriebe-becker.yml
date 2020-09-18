@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.60242100000001
 longitude: 13.5212193
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Karl-Marx-Straße"
 housenumber: 33a

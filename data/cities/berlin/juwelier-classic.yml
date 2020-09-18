@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.456648900000005
 longitude: 13.508937600000001
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Schnellerstraße"
 housenumber: 

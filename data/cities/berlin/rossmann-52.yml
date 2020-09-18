@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4647239
 longitude: 13.326175200000002
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schloßstraße"
 housenumber: 1

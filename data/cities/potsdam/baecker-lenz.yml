@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.394013400000006
 longitude: 13.0360419
-postcode: 14471
+postcode: "14471"
 city: Potsdam
 street: "Geschwister-Scholl-Straße"
 housenumber: 8

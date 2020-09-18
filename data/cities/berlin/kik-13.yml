@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5372332
 longitude: 13.601660800000001
-postcode: 12627
+postcode: "12627"
 city: Berlin
 street: "Janusz-Korczak-Straße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.108439700000005
 longitude: 13.4814336
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Zehdenicker Straße"
 housenumber: 32b

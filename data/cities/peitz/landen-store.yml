@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.8613543
 longitude: 14.415179400000001
-postcode: 03185
+postcode: "03185"
 city: Peitz
 street: "Gubener Straße"
 housenumber: 5

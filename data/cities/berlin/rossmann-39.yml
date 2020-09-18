@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.537588400000004
 longitude: 13.605182300000001
-postcode: 12627
+postcode: "12627"
 city: Berlin
 street: "Stendaler Straße"
 housenumber: 24

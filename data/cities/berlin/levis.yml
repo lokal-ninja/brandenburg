@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.50425430000001
 longitude: 13.334776100000001
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 237

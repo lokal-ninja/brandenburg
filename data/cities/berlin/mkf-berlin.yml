@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.4212226
 longitude: 13.5243044
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Wegedornstraße"
 housenumber: 34

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.589446800000005
 longitude: 13.2823171
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Alt Tegel"
 housenumber: 7

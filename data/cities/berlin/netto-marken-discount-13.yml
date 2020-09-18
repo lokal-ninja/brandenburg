@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.615282
 longitude: 13.470382
-postcode: 13125
+postcode: "13125"
 city: Berlin
 street: "Hubertusdamm"
 housenumber: 64-65

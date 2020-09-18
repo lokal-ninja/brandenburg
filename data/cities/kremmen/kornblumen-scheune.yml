@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.7295516
 longitude: 12.9930622
-postcode: 16766
+postcode: "16766"
 city: Kremmen
 street: "Nauener Chaussee"
 housenumber: 23

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4851407
 longitude: 13.383432200000001
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Dudenstraße"
 housenumber: 16

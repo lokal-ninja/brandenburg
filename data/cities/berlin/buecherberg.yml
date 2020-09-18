@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4899794
 longitude: 13.355074
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Grunewaldstraße"
 housenumber: 83

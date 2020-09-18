@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.1135055
 longitude: 13.492593600000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Bahnhofstraße"
 housenumber: 13

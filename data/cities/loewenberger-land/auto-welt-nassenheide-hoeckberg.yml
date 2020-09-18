@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.8120479
 longitude: 13.224187700000002
-postcode: 16775
+postcode: "16775"
 city: Löwenberger Land
 street: "Oranienburger Chaussee"
 housenumber: 10a

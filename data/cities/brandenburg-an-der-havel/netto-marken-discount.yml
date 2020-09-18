@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4137963
 longitude: 12.5060044
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Magdeburger Landstraße"
 housenumber: 190

@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4207448
 longitude: 13.493856000000001
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Krokusstraße"
 housenumber: 91

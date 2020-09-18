@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4588248
 longitude: 13.526800600000001
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Rathenaustraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.442974500000005
 longitude: 13.3151062
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Hindenburgdamm"
 housenumber: 93a

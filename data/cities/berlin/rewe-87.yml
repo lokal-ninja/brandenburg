@@ -1,12 +1,12 @@
-id: 413096308
+id: 381418960
 type: way
 shop: Supermarkt
-latitude: 52.4219196
-longitude: 13.448994800000001
-postcode: 12353
+latitude: 52.5093906
+longitude: 13.4352035
+postcode: "10243"
 city: Berlin
-street: "Wildhüterweg"
-housenumber: 44
-phone: "+4930 66708723"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de"
+street: "Am Ostbahnhof"
+housenumber: 9
+phone: ""
+opening_hours: "Mo-Su 07:00-24:00"
+website: "https://www.rewe.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4370515
 longitude: 13.2612745
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Clayallee"
 housenumber: 337

@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.4344727
 longitude: 13.358268500000001
-postcode: 12249
+postcode: "12249"
 city: Berlin
 street: "Kamenzer Damm"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.371346100000004
 longitude: 13.133827400000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Nuthestraße"
 housenumber: 1-10

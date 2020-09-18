@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.5585906
 longitude: 14.358101300000001
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "An der Lusatia"
 housenumber: 24

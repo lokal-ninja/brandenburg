@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5241982
 longitude: 13.480304700000001
-postcode: 
+postcode: ""
 city: Berlin
 street: ""
 housenumber: 

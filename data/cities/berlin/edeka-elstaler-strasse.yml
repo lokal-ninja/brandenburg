@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.537314900000005
 longitude: 13.1856725
-postcode: 13583
+postcode: "13583"
 city: Berlin
 street: "Elstaler Straße"
 housenumber: 6

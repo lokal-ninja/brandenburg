@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.5036981
 longitude: 13.304870500000002
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Mommsenstraße"
 housenumber: 37

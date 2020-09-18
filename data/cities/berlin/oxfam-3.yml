@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.48930420000001
 longitude: 13.391518000000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 15

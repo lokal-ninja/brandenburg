@@ -1,12 +1,12 @@
-id: 80999013
+id: 75066220
 type: way
 shop: Supermarkt
-latitude: 52.5486226
-longitude: 13.552877700000002
-postcode: 
+latitude: 52.564449800000006
+longitude: 13.420069900000001
+postcode: "13189"
 city: Berlin
-street: "Raoul-Wallenberg-Straße"
-housenumber: 18
+street: "Neumannstraße"
+housenumber: 70
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-We 07:00-20:00, Th-Sa 07:00-22:00"
 website: ""

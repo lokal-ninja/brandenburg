@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 52.4071799
 longitude: 13.057422500000001
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Helene-Lange-Straße"
 housenumber: 1A

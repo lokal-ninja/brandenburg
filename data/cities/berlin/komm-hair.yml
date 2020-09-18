@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.562071800000005
 longitude: 13.3594424
-postcode: 13407
+postcode: "13407"
 city: Berlin
 street: "Holländerstraße"
 housenumber: 17

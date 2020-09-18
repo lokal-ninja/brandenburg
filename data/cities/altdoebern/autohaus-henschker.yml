@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.651164
 longitude: 14.015583000000001
-postcode: 03229
+postcode: "03229"
 city: Altdöbern
 street: "Heinrich-Heine-Straße"
 housenumber: 1

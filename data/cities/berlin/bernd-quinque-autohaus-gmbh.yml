@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.6022638
 longitude: 13.4317937
-postcode: 13127
+postcode: "13127"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 28-29

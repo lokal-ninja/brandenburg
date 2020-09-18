@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.098867500000004
 longitude: 12.8945643
-postcode: 16831
+postcode: "16831"
 city: Rheinsberg
 street: "Schloßstraße"
 housenumber: 16

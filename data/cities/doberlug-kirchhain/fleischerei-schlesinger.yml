@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.631675300000005
 longitude: 13.5619803
-postcode: 03253
+postcode: "03253"
 city: Doberlug-Kirchhain
 street: "Schillerstraße"
 housenumber: 13

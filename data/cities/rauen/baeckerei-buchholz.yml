@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.329512
 longitude: 14.026244400000001
-postcode: 15518
+postcode: "15518"
 city: Rauen
 street: "Chausseestraße"
 housenumber: 20

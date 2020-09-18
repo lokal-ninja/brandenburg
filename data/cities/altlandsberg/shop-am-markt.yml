@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.5647607
 longitude: 13.7260305
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: "Am Markt"
 housenumber: 4

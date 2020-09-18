@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5022171
 longitude: 14.1417353
-postcode: 15374
+postcode: "15374"
 city: Müncheberg
 street: "Ernst-Thälmann-Straße"
 housenumber: 61

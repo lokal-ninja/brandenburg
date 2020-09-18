@@ -3,7 +3,7 @@ type: way
 shop: Hofladen
 latitude: 51.74763110000001
 longitude: 14.259400000000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Am Geflügelhof"
 housenumber: 1

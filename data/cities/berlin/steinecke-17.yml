@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.492306400000004
 longitude: 13.353217500000001
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Goltzstraße"
 housenumber: 40b

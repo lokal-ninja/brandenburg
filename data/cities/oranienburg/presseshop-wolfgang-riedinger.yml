@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.7470615
 longitude: 13.1899613
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Straße am Globus"
 housenumber: 1

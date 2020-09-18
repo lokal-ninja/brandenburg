@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.5047921
 longitude: 13.3383935
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Tauentzienstraße"
 housenumber: 9-12

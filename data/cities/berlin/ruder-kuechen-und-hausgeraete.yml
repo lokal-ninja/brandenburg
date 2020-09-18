@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.504378
 longitude: 13.476088
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Pfarrstraße"
 housenumber: 124

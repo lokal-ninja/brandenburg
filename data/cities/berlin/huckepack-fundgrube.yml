@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 52.5645134
 longitude: 13.2235618
-postcode: 13587
+postcode: "13587"
 city: Berlin
 street: "Mertensstraße"
 housenumber: 127-131

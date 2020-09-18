@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.6701052
 longitude: 13.1948681
-postcode: 16727
+postcode: "16727"
 city: Velten
 street: "Berliner Straße"
 housenumber: 8d

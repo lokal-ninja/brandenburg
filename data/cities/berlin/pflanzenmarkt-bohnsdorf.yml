@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.4099189
 longitude: 13.5725166
-postcode: 12526
+postcode: "12526"
 city: Berlin
 street: "Buntzelstraße"
 housenumber: 2-10

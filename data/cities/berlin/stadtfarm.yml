@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.519981300000005
 longitude: 13.510909100000001
-postcode: 10315
+postcode: "10315"
 city: Berlin
 street: "Allee der Kosmonauten"
 housenumber: 16

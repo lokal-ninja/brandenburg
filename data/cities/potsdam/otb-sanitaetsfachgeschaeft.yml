@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.4000689
 longitude: 13.047325500000001
-postcode: 14471
+postcode: "14471"
 city: Potsdam
 street: "Luisenplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.510278400000004
 longitude: 13.454948400000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Kopernikusstraße"
 housenumber: 21

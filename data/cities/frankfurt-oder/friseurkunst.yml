@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.353025200000005
 longitude: 14.536418800000002
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Moskauer Straße"
 housenumber: 8

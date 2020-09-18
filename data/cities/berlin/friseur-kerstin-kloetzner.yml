@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.506717800000004
 longitude: 13.4693874
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Boxhagener Straße"
 housenumber: 71

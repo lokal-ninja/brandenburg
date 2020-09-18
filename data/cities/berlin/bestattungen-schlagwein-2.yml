@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.5216695
 longitude: 13.5864094
-postcode: 12619
+postcode: "12619"
 city: Berlin
 street: "Teterower Ring"
 housenumber: 43

@@ -1,12 +1,12 @@
-id: 4546753612
+id: 3112849844
 type: node
 shop: Supermarkt
-latitude: 52.522418900000005
-longitude: 13.4075889
-postcode: 10178
+latitude: 52.634576100000004
+longitude: 13.4959293
+postcode: "13125"
 city: Berlin
-street: "Karl-Liebknecht-Straße"
-housenumber: 13
-phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: ""
+street: "Walter-Friedrich-Straße"
+housenumber: 4
+phone: "+49 30 943936180"
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: "https://www.kaufland.de/"

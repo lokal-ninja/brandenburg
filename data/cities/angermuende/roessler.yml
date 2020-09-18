@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 53.027270200000004
 longitude: 13.9958863
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Prenzlauer Straße"
 housenumber: 30

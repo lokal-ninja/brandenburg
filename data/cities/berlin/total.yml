@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.4361371
 longitude: 13.2656016
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 15a

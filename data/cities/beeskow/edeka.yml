@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.1831559
 longitude: 14.2403671
-postcode: 15848
+postcode: "15848"
 city: Beeskow
 street: "Fürstenwalder Straße"
 housenumber: 10B

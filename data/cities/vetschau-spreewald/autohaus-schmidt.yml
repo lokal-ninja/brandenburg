@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.782248
 longitude: 14.076263200000001
-postcode: 03226
+postcode: "03226"
 city: Vetschau/Spreewald
 street: "Cottbuser Straße"
 housenumber: 16

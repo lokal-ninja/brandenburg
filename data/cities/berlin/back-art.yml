@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.492859700000004
 longitude: 13.4149639
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Dieffenbachstraße"
 housenumber: 12

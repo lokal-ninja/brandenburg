@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.40128
 longitude: 13.0642543
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Hebbelstraße"
 housenumber: 1

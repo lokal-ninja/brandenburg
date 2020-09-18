@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5090049
 longitude: 13.3089785
-postcode: 
+postcode: ""
 city: Berlin
 street: "Goethestraße"
 housenumber: 31

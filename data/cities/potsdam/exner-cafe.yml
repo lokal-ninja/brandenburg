@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4675097
 longitude: 13.020888500000002
-postcode: 14476
+postcode: "14476"
 city: Potsdam
 street: "Von-Stechow-Straße"
 housenumber: 10

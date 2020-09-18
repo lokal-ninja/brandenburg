@@ -3,7 +3,7 @@ type: way
 shop: Eisenwaren
 latitude: 52.950094400000005
 longitude: 12.38447
-postcode: 16866
+postcode: "16866"
 city: Kyritz
 street: "Perleberger Straße"
 housenumber: 39a

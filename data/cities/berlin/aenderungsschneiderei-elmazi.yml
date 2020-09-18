@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.448720900000005
 longitude: 13.3854106
-postcode: 12109
+postcode: "12109"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 45

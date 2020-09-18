@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.151288300000004
 longitude: 12.185861500000001
-postcode: 16928
+postcode: "16928"
 city: Pritzwalk
 street: "Bergstraße"
 housenumber: 22a

@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 53.115729900000005
 longitude: 13.5078043
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Thomas-Müntzer-Straße"
 housenumber: 1

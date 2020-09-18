@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.453079800000005
 longitude: 14.0246875
-postcode: 01996
+postcode: "01996"
 city: Senftenberg
 street: "Karl-Marx-Straße"
 housenumber: 1

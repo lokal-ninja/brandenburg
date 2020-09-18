@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 52.509677100000005
 longitude: 13.447598000000001
-postcode: 10243
+postcode: "10243"
 city: Berlin
 street: "Marchlewskistraße"
 housenumber: 88

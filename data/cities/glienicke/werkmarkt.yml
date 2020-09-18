@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.629082600000004
 longitude: 13.3240207
-postcode: 16548
+postcode: "16548"
 city: Glienicke
 street: "Lessingstraße"
 housenumber: 6-7

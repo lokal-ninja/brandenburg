@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7576327
 longitude: 14.3090436
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Ewald-Müller-Straße"
 housenumber: 2

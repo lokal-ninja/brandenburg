@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.42118790000001
 longitude: 13.314450800000001
-postcode: 12207
+postcode: "12207"
 city: Berlin
 street: "Hildburghauser Straße"
 housenumber: 248A

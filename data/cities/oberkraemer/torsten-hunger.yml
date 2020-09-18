@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.720649900000005
 longitude: 13.139890300000001
-postcode: 16727
+postcode: "16727"
 city: Oberkrämer
 street: "Am Gartenweg"
 housenumber: 5

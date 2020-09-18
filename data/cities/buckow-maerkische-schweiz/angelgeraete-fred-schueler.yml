@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.569117000000006
 longitude: 14.0716257
-postcode: 15377
+postcode: "15377"
 city: Buckow (Märkische Schweiz)
 street: "Wriezener Straße"
 housenumber: 54

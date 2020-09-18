@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5294778
 longitude: 13.471290100000001
-postcode: 10369
+postcode: "10369"
 city: Berlin
 street: "Anton-Saefkow-Platz"
 housenumber: 12

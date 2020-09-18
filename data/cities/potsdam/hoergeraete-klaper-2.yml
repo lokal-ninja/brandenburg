@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.4000136
 longitude: 13.047141700000001
-postcode: 14471
+postcode: "14471"
 city: Potsdam
 street: "Luisenplatz"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.581503700000006
 longitude: 12.999711600000001
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Am Markt"
 housenumber: 8

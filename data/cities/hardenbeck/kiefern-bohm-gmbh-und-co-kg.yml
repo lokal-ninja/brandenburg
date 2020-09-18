@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.2638546
 longitude: 13.5386912
-postcode: 17268
+postcode: "17268"
 city: Hardenbeck
 street: "Funkenhagener Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.508790600000005
 longitude: 13.455869400000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Simon-Dach-Straße"
 housenumber: 30

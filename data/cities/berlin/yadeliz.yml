@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.529280500000006
 longitude: 13.328434300000001
-postcode: 10553
+postcode: "10553"
 city: Berlin
 street: "Beusselstraße"
 housenumber: 64

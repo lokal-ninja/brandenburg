@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.7235899
 longitude: 13.192830800000001
-postcode: 16767
+postcode: "16767"
 city: Leegebruch
 street: "Eichenallee"
 housenumber: 20

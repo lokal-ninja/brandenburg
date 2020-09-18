@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.8320043
 longitude: 13.8104005
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Weinbergstraße"
 housenumber: 15

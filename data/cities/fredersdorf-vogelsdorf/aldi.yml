@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.542396000000004
 longitude: 13.7463008
-postcode: 15370
+postcode: "15370"
 city: Fredersdorf-Vogelsdorf
 street: "Fredersdorfer Chaussee"
 housenumber: 77

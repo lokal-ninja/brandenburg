@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.5531256
 longitude: 14.055893600000001
-postcode: 01968
+postcode: "01968"
 city: Senftenberg
 street: "Cottbuser Straße"
 housenumber: 2

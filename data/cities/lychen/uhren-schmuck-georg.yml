@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 53.2114594
 longitude: 13.3156125
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Stargarder Straße"
 housenumber: 4b

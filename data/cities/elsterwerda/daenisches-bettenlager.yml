@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.4643535
 longitude: 13.528761600000001
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Schillerstraße"
 housenumber: 56

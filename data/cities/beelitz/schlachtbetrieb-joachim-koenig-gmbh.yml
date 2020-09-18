@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 52.2347862
 longitude: 12.9703484
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Nürnbergstraße"
 housenumber: 33

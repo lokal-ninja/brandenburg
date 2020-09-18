@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.232481500000006
 longitude: 12.978017300000001
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Berliner Straße"
 housenumber: 1

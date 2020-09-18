@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.492128900000004
 longitude: 13.4461366
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 64

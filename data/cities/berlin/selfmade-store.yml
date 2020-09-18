@@ -3,7 +3,7 @@ type: way
 shop: Textil
 latitude: 52.4557305
 longitude: 13.3828121
-postcode: 12103
+postcode: "12103"
 city: Berlin
 street: "Friedrich-Karl-Straße"
 housenumber: 1-3

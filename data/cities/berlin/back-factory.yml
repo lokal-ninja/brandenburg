@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4862765
 longitude: 13.356179800000001
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 21

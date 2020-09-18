@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.535178
 longitude: 13.398934
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Anklamer Straße"
 housenumber: 39-40

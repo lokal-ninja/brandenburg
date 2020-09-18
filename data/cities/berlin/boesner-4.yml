@@ -3,7 +3,7 @@ type: way
 shop: Basteln
 latitude: 52.5206384
 longitude: 13.328536900000001
-postcode: 10587
+postcode: "10587"
 city: Berlin
 street: "Franklinstraße"
 housenumber: 12

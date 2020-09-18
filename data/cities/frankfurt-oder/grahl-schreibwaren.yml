@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3522845
 longitude: 14.536907600000001
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Hansaplatz"
 housenumber: 5

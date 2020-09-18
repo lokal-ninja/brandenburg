@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1589578
 longitude: 12.7838519
-postcode: 14822
+postcode: "14822"
 city: Linthe
 street: "Dorfstraße"
 housenumber: 29

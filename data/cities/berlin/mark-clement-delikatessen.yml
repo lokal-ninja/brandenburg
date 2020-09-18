@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.4265162
 longitude: 13.3350871
-postcode: 12249
+postcode: "12249"
 city: Berlin
 street: "Kurfürstenstraße"
 housenumber: 31

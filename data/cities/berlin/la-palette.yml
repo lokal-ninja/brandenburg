@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4300367
 longitude: 13.2598459
-postcode: 14167
+postcode: "14167"
 city: Berlin
 street: "Teltower Damm"
 housenumber: 43

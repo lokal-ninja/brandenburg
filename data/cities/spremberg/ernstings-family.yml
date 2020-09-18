@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 51.5682283
 longitude: 14.375925100000002
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Heinrichstraße"
 housenumber: 21

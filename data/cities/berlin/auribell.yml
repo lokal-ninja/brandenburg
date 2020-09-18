@@ -1,12 +1,12 @@
 id: 1773535447
 type: node
 shop: Hörgeräte
-latitude: 52.4990309
-longitude: 13.3249385
-postcode: 10719
+latitude: 52.4990323
+longitude: 13.3249232
+postcode: "10719"
 city: Berlin
 street: "Uhlandstraße"
 housenumber: 160
-phone: "+49 30 88916461"
+phone: ""
 opening_hours: "Mo-Fr 09:30-18:30"
-website: "https://auribell.de"
+website: ""

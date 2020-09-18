@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5141975
 longitude: 13.4605674
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Kreutzigerstraße"
 housenumber: 5

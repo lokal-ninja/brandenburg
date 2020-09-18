@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.4911073
 longitude: 13.449616500000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Bouchéstraße"
 housenumber: 17

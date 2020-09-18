@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.5322164
 longitude: 13.440557400000001
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Danziger Straße"
 housenumber: 176

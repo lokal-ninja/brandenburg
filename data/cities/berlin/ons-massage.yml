@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4493383
 longitude: 13.3454782
-postcode: 12167
+postcode: "12167"
 city: Berlin
 street: "Halskestraße"
 housenumber: 35

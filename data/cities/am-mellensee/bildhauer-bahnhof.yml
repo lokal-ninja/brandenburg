@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.146539700000005
 longitude: 13.3639603
-postcode: 15838
+postcode: "15838"
 city: Am Mellensee
 street: "Bahnstraße"
 housenumber: 1

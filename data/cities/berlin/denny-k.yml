@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5156051
 longitude: 13.4649695
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Samariterstraße"
 housenumber: 4

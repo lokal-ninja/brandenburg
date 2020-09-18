@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4262275
 longitude: 13.243908900000001
-postcode: 14165
+postcode: "14165"
 city: Berlin
 street: "Berlepschstraße"
 housenumber: 74

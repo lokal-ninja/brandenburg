@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.4910737
 longitude: 13.447297500000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 14

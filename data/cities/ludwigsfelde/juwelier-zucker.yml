@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.3050974
 longitude: 13.2523809
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Potsdamer Straße"
 housenumber: 57

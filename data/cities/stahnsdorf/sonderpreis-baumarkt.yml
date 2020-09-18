@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.392638000000005
 longitude: 13.235404
-postcode: 14532
+postcode: "14532"
 city: Stahnsdorf
 street: "Wilhelm-Külz-Straße"
 housenumber: 118

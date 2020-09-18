@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.4806612
 longitude: 13.360079800000001
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Gotenstraße"
 housenumber: 21

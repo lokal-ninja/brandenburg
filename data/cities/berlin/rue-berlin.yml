@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.5976985
 longitude: 13.3430388
-postcode: 13435
+postcode: "13435"
 city: Berlin
 street: "Mehrower Zeile"
 housenumber: 9

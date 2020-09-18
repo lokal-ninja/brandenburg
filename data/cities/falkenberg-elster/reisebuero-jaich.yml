@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 51.587801400000004
 longitude: 13.241296700000001
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Friedrich-List-Straße"
 housenumber: 6

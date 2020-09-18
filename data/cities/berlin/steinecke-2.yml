@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5115459
 longitude: 13.457179100000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Simon-Dach-Straße"
 housenumber: 41a

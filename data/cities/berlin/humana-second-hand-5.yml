@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5227695
 longitude: 13.4165223
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Alexanderstraße"
 housenumber: 7

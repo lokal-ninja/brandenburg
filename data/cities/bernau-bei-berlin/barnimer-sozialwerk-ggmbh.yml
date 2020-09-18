@@ -3,7 +3,7 @@ type: way
 shop: Gebrauchtwaren
 latitude: 52.6879597
 longitude: 13.600636100000001
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Rüdnitzer Chaussee"
 housenumber: 48-50

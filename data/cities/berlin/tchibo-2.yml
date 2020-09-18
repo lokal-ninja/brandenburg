@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.5170625
 longitude: 13.306886100000002
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Otto-Suhr-Allee"
 housenumber: 111

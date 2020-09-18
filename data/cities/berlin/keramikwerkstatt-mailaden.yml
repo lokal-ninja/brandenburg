@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 52.4907589
 longitude: 13.364180200000002
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Willmanndamm"
 housenumber: 4

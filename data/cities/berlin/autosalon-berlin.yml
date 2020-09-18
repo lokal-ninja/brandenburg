@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.5746218
 longitude: 13.3540872
-postcode: 13407
+postcode: "13407"
 city: Berlin
 street: "Alt-Reinickendorf"
 housenumber: 47-48

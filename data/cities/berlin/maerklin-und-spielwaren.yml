@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.515724600000006
 longitude: 13.3049016
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 157

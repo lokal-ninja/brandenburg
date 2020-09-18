@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.4247573
 longitude: 13.518392400000002
-postcode: 12355
+postcode: "12355"
 city: Berlin
 street: "Neudecker Weg"
 housenumber: 6

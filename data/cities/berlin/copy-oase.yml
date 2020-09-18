@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.4576106
 longitude: 13.5108963
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Brückenstraße"
 housenumber: 27

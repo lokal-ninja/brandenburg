@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 51.831910500000006
 longitude: 14.1488107
-postcode: 03096
+postcode: "03096"
 city: Burg (Spreewald)
 street: "Hauptstraße"
 housenumber: 19a

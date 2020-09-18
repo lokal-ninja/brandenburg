@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.7609943
 longitude: 14.3319281
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Berliner Straße"
 housenumber: 

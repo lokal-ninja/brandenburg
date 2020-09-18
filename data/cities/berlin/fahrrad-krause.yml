@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4498881
 longitude: 13.3847369
-postcode: 12109
+postcode: "12109"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 34

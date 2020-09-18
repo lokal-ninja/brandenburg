@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.525958800000005
 longitude: 13.532266000000002
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Allee der Kosmonauten"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.543585900000004
 longitude: 13.4219814
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Dunckerstraße"
 housenumber: 18

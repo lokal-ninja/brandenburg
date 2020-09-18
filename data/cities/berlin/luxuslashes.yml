@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.501977700000005
 longitude: 13.337858200000001
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Nürnberger Straße"
 housenumber: 19

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 51.9405676
 longitude: 13.8912644
-postcode: 15907
+postcode: "15907"
 city: Lübben (Spreewald)
 street: "Breite Straße"
 housenumber: 1

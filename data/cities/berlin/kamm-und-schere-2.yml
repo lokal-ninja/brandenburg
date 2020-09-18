@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5613462
 longitude: 13.410006500000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Maximilianstraße"
 housenumber: 8

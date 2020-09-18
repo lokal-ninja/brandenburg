@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.181284000000005
 longitude: 13.3980823
-postcode: 15838
+postcode: "15838"
 city: Am Mellensee
 street: "Luckenwalder Straße"
 housenumber: 21

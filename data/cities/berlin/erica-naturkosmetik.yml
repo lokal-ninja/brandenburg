@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4864514
 longitude: 13.4347487
-postcode: 12045
+postcode: "12045"
 city: Berlin
 street: "Weserstraße"
 housenumber: 191

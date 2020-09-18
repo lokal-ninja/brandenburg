@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.392870800000004
 longitude: 12.923349
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Kesselgrundstraße"
 housenumber: 1-5

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.457917900000005
 longitude: 13.321999100000001
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schloßstraße"
 housenumber: 90

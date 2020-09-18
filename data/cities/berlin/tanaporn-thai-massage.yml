@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.5747645
 longitude: 13.380279400000001
-postcode: 13158
+postcode: "13158"
 city: Berlin
 street: "Straße vor Schönholz"
 housenumber: 26

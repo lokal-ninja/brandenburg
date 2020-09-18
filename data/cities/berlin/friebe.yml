@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.429663500000004
 longitude: 13.3328652
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 1

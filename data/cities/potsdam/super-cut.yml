@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.371214
 longitude: 13.133134700000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Nuthestraße"
 housenumber: 1-10

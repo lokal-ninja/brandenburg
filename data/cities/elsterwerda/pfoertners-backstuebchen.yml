@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.461370900000006
 longitude: 13.5152297
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "An der Unterführung"
 housenumber: 6

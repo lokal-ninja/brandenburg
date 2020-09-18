@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.544262200000006
 longitude: 13.4419623
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 153

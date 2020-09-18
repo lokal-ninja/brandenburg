@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5159293
 longitude: 13.460891100000001
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Proskauer Straße"
 housenumber: 4

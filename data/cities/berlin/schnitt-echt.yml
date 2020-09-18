@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5164552
 longitude: 13.4725652
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Pettenkoferstraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5604742
 longitude: 13.4293916
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Prenzlauer Promenade"
 housenumber: 

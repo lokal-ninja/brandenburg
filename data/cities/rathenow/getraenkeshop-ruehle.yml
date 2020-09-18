@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.6137389
 longitude: 12.345577200000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Max-Planck-Straße"
 housenumber: 5

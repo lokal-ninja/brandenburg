@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.39726700000001
 longitude: 13.2404591
-postcode: 14513
+postcode: "14513"
 city: Teltow
 street: "Potsdamer Straße"
 housenumber: 6;8

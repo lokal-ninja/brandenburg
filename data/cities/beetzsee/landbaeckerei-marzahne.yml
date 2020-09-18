@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.48036990000001
 longitude: 12.579782600000001
-postcode: 14778
+postcode: "14778"
 city: Beetzsee
 street: "Dorfstraße"
 housenumber: 37f

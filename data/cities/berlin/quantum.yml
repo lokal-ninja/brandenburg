@@ -3,7 +3,7 @@ type: node
 shop: Nahrungsergänzung
 latitude: 52.541091400000006
 longitude: 13.424073600000002
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Raumerstraße"
 housenumber: 23

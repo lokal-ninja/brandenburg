@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.5643139
 longitude: 14.3748442
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Karl-Marx-Straße"
 housenumber: 73

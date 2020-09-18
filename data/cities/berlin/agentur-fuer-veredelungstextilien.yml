@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4596881
 longitude: 13.3821808
-postcode: 12103
+postcode: "12103"
 city: Berlin
 street: "Kaiserin-Augusta-Straße"
 housenumber: 13

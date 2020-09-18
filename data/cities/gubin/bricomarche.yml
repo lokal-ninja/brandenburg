@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.9488878
 longitude: 14.7222456
-postcode: 66-620
+postcode: "66-620"
 city: Gubin
 street: "Żołnierzy II Armii Wojska Polskiego"
 housenumber: 9

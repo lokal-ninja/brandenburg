@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.5561458
 longitude: 13.564027200000002
-postcode: 
+postcode: ""
 city: Berlin
 street: "Mehrower Allee"
 housenumber: 36a

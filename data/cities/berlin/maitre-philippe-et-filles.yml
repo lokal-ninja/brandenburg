@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.4972161
 longitude: 13.3199541
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Emser Straße"
 housenumber: 42

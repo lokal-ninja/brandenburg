@@ -3,7 +3,7 @@ type: node
 shop: Taschen & Koffer
 latitude: 52.525207
 longitude: 13.405927400000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Weinmeisterstraße"
 housenumber: 9B

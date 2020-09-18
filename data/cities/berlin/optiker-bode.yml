@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.433831000000005
 longitude: 13.260144400000001
-postcode: 
+postcode: ""
 city: Berlin
 street: "Teltower Damm"
 housenumber: 11

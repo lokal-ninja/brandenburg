@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.433962400000006
 longitude: 13.341345200000001
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 54

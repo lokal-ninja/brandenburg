@@ -3,7 +3,7 @@ type: node
 shop: Milch
 latitude: 53.1709662
 longitude: 12.497531
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Röbeler Straße"
 housenumber: 47

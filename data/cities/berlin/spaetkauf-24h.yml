@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.511460500000005
 longitude: 13.457831200000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Grünberger Straße"
 housenumber: 64

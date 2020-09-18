@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.517886100000005
 longitude: 13.1837604
-postcode: 13593
+postcode: "13593"
 city: Berlin
 street: "Am Omnibushof"
 housenumber: 13

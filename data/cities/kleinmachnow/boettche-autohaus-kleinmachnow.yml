@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.404855600000005
 longitude: 13.225605600000002
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "Karl-Marx-Straße"
 housenumber: 134

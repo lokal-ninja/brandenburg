@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.865286700000006
 longitude: 14.0404835
-postcode: 16248
+postcode: "16248"
 city: Oderberg
 street: "Berliner Straße"
 housenumber: 65

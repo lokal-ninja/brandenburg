@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.76336190000001
 longitude: 14.3481055
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "Hermannstraße"
 housenumber: 16

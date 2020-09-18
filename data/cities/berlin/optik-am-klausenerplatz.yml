@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5186712
 longitude: 13.2899025
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Klausenerplatz"
 housenumber: 22

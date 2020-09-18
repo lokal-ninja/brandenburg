@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.0034903
 longitude: 13.0875461
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Luckenwalder Straße"
 housenumber: 21

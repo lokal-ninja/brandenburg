@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 53.212068
 longitude: 13.3147707
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Stargarder Straße"
 housenumber: 21

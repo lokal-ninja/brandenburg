@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.556724700000004
 longitude: 13.8683843
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Herrenseeallee"
 housenumber: 15

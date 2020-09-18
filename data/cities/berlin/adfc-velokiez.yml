@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4933653
 longitude: 13.379331200000001
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Möckernstraße"
 housenumber: 47

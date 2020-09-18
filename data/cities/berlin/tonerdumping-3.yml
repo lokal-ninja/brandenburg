@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.5475706
 longitude: 13.3575841
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 30

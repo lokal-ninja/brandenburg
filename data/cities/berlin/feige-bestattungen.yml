@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.446793400000004
 longitude: 13.628506400000001
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Müggelseedamm"
 housenumber: 199

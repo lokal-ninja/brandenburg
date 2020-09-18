@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.401556500000005
 longitude: 13.0638064
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 72

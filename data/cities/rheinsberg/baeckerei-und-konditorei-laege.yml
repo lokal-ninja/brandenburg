@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.097807700000004
 longitude: 12.8963076
-postcode: 16831
+postcode: "16831"
 city: Rheinsberg
 street: "Berliner Straße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.5311833
 longitude: 13.0803539
-postcode: 14624
+postcode: "14624"
 city: Dallgow-Döberitz
 street: "Döberitzer Weg"
 housenumber: 3

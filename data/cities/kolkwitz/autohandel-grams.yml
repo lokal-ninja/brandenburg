@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.710655100000004
 longitude: 14.283660500000002
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Annahofer Teiche"
 housenumber: 9

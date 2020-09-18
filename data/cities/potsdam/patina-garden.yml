@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.40014
 longitude: 13.0454492
-postcode: 14471
+postcode: "14471"
 city: Potsdam
 street: "Allee nach Sanssouci"
 housenumber: 2

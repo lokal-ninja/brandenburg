@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.4997874
 longitude: 13.3126349
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Olivaer Platz"
 housenumber: 

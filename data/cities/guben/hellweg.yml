@@ -3,10 +3,10 @@ type: way
 shop: Baumarkt
 latitude: 51.9552561
 longitude: 14.6637099
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Gewerbestraße"
 housenumber: 32
 phone: "+49 3561 55610"
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-18:00"
 website: ""

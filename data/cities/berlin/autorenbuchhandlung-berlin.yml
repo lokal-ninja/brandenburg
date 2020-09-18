@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5051058
 longitude: 13.3209987
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Else-Ury-Bogen"
 housenumber: 599-600

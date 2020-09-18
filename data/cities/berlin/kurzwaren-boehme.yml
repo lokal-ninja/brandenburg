@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.5678938
 longitude: 13.4118393
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 13a

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.487647800000005
 longitude: 13.2645738
-postcode: 14193
+postcode: "14193"
 city: Berlin
 street: "Trabener Straße"
 housenumber: 2

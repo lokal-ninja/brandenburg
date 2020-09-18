@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.581675600000004
 longitude: 12.9991713
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Am Markt"
 housenumber: 11

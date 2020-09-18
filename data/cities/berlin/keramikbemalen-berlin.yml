@@ -3,7 +3,7 @@ type: way
 shop: Kunst
 latitude: 52.51115840000001
 longitude: 13.5882897
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Wilhelmsmühlenweg"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.542765700000004
 longitude: 13.440237300000001
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 160

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5129377
 longitude: 13.4658832
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Kinzigstraße"
 housenumber: 

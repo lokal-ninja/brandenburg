@@ -3,7 +3,7 @@ type: way
 shop: Schuhe
 latitude: 51.5791266
 longitude: 13.243675900000001
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Liebenwerdaer Straße"
 housenumber: 16

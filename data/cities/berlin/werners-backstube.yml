@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4223439
 longitude: 13.539951
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Köpenicker Straße"
 housenumber: 45

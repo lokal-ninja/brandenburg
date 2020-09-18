@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.556756400000005
 longitude: 13.377499700000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Koloniestraße"
 housenumber: 143

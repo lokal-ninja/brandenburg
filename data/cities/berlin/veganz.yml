@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.550858600000005
 longitude: 13.408447
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schivelbeiner Straße"
 housenumber: 34

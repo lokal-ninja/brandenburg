@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.400373800000004
 longitude: 13.2009495
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "An der Koppel"
 housenumber: 60

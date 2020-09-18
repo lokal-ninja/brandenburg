@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.462415
 longitude: 13.4622358
-postcode: 12057
+postcode: "12057"
 city: Berlin
 street: "Haberstraße"
 housenumber: 15 - 19

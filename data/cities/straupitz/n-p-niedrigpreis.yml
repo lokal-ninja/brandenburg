@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.912072900000005
 longitude: 14.118775600000001
-postcode: 15913
+postcode: "15913"
 city: Straupitz
 street: "Lübbener Straße"
 housenumber: 57-58

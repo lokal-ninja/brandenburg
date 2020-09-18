@@ -1,12 +1,12 @@
-id: 1269798909
+id: 1324860212
 type: node
 shop: Lebensmittel
-latitude: 52.5541616
-longitude: 13.339711800000002
-postcode: 13351
+latitude: 52.4591429
+longitude: 13.525307600000001
+postcode: "12459"
 city: Berlin
-street: "Otawistraße"
-housenumber: 21
+street: ""
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "08:00-24:00"
 website: ""

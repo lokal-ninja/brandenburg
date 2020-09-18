@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.346801000000006
 longitude: 12.9978203
-postcode: 14548
+postcode: "14548"
 city: Schwielowsee
 street: "Friedrich-Ebert-Straße"
 housenumber: 5

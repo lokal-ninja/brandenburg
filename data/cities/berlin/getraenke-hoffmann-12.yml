@@ -1,12 +1,12 @@
-id: 1653588605
+id: 2120280988
 type: node
 shop: Getränke
-latitude: 52.5465108
-longitude: 13.345916800000001
-postcode: 13353
+latitude: 52.51472510000001
+longitude: 13.584736900000001
+postcode: ""
 city: Berlin
-street: "Seestraße"
-housenumber: 20
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.getraenke-hoffmann.de/"
+opening_hours: ""
+website: ""

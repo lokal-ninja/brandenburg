@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.5412667
 longitude: 13.414579600000001
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Lychener Straße"
 housenumber: 5

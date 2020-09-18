@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4999053
 longitude: 13.3190343
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Bleibtreustraße"
 housenumber: 27

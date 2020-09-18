@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.5019299
 longitude: 14.146789100000001
-postcode: 15374
+postcode: "15374"
 city: Müncheberg
 street: "Ernst-Thälmann-Straße"
 housenumber: 22

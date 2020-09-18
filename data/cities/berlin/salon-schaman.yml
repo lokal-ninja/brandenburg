@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5573733
 longitude: 13.3772652
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Drontheimer Straße"
 housenumber: 2

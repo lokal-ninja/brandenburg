@@ -1,9 +1,9 @@
 id: 1288091305
 type: node
 shop: Supermarkt
-latitude: 52.4760854
-longitude: 13.3287642
-postcode: 12161
+latitude: 52.476063800000006
+longitude: 13.328795000000001
+postcode: "12161"
 city: Berlin
 street: "Bundesallee"
 housenumber: 139

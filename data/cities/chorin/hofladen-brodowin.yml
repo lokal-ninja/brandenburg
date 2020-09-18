@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.9156616
 longitude: 13.956319200000001
-postcode: 16230
+postcode: "16230"
 city: Chorin
 street: "Brodowiner Dorfstraße"
 housenumber: 89

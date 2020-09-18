@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4179309
 longitude: 13.0182754
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Potsdamer Straße"
 housenumber: 37-38

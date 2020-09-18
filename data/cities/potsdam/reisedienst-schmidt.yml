@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3997272
 longitude: 13.0515389
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 17

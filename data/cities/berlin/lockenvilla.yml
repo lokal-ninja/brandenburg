@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.532160000000005
 longitude: 13.420515900000002
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Prenzlauer Allee"
 housenumber: 24

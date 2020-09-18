@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.511045
 longitude: 13.301850600000002
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Bismarckstraße"
 housenumber: 76-77

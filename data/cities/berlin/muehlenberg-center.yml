@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.5439335
 longitude: 13.442524200000001
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 90

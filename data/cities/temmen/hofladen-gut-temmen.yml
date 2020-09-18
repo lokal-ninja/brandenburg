@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 53.095457800000005
 longitude: 13.754434300000002
-postcode: 17268
+postcode: "17268"
 city: Temmen
 street: "Lindenallee"
 housenumber: 3

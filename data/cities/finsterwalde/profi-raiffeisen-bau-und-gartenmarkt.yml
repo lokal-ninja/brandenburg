@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.644305900000006
 longitude: 13.6978182
-postcode: 03238
+postcode: "03238"
 city: Finsterwalde
 street: "Sonnewalder Straße"
 housenumber: 100

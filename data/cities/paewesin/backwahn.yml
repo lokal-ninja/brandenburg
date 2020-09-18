@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.5112864
 longitude: 12.7149297
-postcode: 14778
+postcode: "14778"
 city: Päwesin
 street: "Brandenburger Straße"
 housenumber: 15

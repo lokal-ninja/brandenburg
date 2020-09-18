@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5257232
 longitude: 13.3002415
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Kamminer Straße"
 housenumber: 9

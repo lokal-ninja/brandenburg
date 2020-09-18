@@ -3,10 +3,10 @@ type: way
 shop: Kleidung
 latitude: 51.7515476
 longitude: 14.258830900000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Berliner Straße"
 housenumber: 114d
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
 website: ""

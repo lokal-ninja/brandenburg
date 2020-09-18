@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.532890300000005
 longitude: 13.4301031
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Hufelandstraße"
 housenumber: 1

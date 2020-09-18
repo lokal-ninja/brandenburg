@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1744136
 longitude: 12.478973100000001
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Meyenburger Chaussee"
 housenumber: 36

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 51.5850048
 longitude: 13.242169400000002
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Heinrich-Zille-Straße"
 housenumber: 2

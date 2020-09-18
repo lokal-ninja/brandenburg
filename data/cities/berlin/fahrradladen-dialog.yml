@@ -3,10 +3,10 @@ type: node
 shop: Fahrrad
 latitude: 52.52544
 longitude: 13.3034677
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Osnabrücker Straße"
 housenumber: 31
 phone: "+49 30 9764313755"
-opening_hours: ""
+opening_hours: "Mo-Fr 10:30-13:00,15:00-19:00; Sa 10:00-14:00"
 website: ""

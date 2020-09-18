@@ -1,12 +1,12 @@
-id: 5507701961
+id: 5277879721
 type: node
 shop: Drogerie
-latitude: 52.4820329
-longitude: 13.432662700000002
-postcode: 12043
+latitude: 52.4688712
+longitude: 13.5129435
+postcode: "12459"
 city: Berlin
-street: "Karl-Marx-Straße"
-housenumber: 66
-phone: "+493091748557"
-opening_hours: "Mo-Sa 09:00-21:00"
-website: ""
+street: "Rummelsburger Straße"
+housenumber: 16
+phone: "+49 30 53010138"
+opening_hours: "Mo-Sa 08:30-20:00"
+website: "https://www.dm.de"

@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.45788
 longitude: 13.292657700000001
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Königin-Luise-Straße"
 housenumber: 38

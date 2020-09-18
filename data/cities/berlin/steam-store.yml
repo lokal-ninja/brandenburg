@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.554131100000006
 longitude: 13.413510200000001
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Bornholmer Straße"
 housenumber: 3

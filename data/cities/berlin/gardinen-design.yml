@@ -3,7 +3,7 @@ type: node
 shop: Gardinen
 latitude: 52.4633849
 longitude: 13.4840639
-postcode: 12437
+postcode: "12437"
 city: Berlin
 street: "Baumschulenstraße"
 housenumber: 73

@@ -1,12 +1,12 @@
-id: 42714146
+id: 29596974
 type: way
 shop: Supermarkt
-latitude: 52.5283707
-longitude: 13.125241
-postcode: 13591
+latitude: 52.5040588
+longitude: 13.519460700000002
+postcode: "10319"
 city: Berlin
-street: "Heerstraße"
-housenumber: 660-668
+street: "Elfriede-Tygör-Straße"
+housenumber: 5
 phone: ""
-opening_hours: ""
-website: "https://www.netto.de/"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+website: ""

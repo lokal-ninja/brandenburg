@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6727131
 longitude: 13.31751
-postcode: 16562
+postcode: "16562"
 city: Hohen Neuendorf
 street: "Mittelstraße"
 housenumber: 15

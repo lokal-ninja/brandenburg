@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4858649
 longitude: 13.3565345
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Kaiser-Wilhelm-Platz"
 housenumber: 1

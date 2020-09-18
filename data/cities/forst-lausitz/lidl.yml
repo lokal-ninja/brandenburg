@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.736752300000006
 longitude: 14.638368400000001
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Spremberger Straße"
 housenumber: 10

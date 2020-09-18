@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.6767121
 longitude: 13.191358500000002
-postcode: 16727
+postcode: "16727"
 city: Velten
 street: "Berliner Straße"
 housenumber: 19

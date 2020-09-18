@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.309269400000005
 longitude: 13.844124
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Neustädter Damm"
 housenumber: 16

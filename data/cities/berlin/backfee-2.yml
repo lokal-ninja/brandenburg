@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.464309500000006
 longitude: 13.5163753
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Parsevalstraße"
 housenumber: 1

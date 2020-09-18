@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.435908600000005
 longitude: 13.4526236
-postcode: 12351
+postcode: "12351"
 city: Berlin
 street: "Fritz-Erler-Allee"
 housenumber: 9

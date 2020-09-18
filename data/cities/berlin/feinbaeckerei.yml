@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5498861
 longitude: 13.474581
-postcode: 13088
+postcode: "13088"
 city: Berlin
 street: "Hansastraße"
 housenumber: 145

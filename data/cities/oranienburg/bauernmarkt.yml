@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.7748397
 longitude: 13.335221
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Bauernmarktchaussee"
 housenumber: 10

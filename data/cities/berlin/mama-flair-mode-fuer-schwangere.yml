@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.490175400000005
 longitude: 13.357013100000001
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Grunewaldstraße"
 housenumber: 91

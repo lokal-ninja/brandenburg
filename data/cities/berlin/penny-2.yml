@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4560576
 longitude: 13.437468500000001
-postcode: 12347
+postcode: "12347"
 city: Berlin
 street: "Britzer Damm"
 housenumber: 73

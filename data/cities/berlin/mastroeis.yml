@@ -3,7 +3,7 @@ type: node
 shop: Eisprodukte
 latitude: 52.570467300000004
 longitude: 13.360518500000001
-postcode: 13409
+postcode: "13409"
 city: Berlin
 street: "Residenzstraße"
 housenumber: 19

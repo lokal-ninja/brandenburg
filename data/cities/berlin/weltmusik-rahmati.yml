@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.459715800000005
 longitude: 13.382309000000001
-postcode: 12103
+postcode: "12103"
 city: Berlin
 street: "Kaiserin-Augusta-Straße"
 housenumber: 12

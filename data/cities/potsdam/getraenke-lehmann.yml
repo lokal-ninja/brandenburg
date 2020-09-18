@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.398984500000005
 longitude: 13.062437800000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Französische Straße"
 housenumber: 14 A

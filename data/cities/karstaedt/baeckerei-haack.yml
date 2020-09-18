@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1575708
 longitude: 11.7441025
-postcode: 19357
+postcode: "19357"
 city: Karstädt
 street: "Straße des Friedens"
 housenumber: 40

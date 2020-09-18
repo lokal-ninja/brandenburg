@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.686804200000005
 longitude: 13.193560300000001
-postcode: 16727
+postcode: "16727"
 city: Velten
 street: "Ahornstraße"
 housenumber: 1

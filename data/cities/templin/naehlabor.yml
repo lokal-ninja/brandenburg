@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.11990290000001
 longitude: 13.5015356
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Am Markt"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1216585
 longitude: 13.510707
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Prenzlauer Allee"
 housenumber: 66

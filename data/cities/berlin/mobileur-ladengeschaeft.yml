@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.5451302
 longitude: 13.4122716
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Milastraße"
 housenumber: 4

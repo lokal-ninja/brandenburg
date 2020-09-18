@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.395680500000005
 longitude: 13.0912351
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Tuchmacherstraße"
 housenumber: 46

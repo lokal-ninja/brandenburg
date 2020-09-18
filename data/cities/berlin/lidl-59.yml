@@ -1,12 +1,12 @@
-id: 39116035
+id: 37756363
 type: way
 shop: Supermarkt
-latitude: 52.52346
-longitude: 13.533157300000001
-postcode: 12681
+latitude: 52.527937200000004
+longitude: 13.3074554
+postcode: "10589"
 city: Berlin
-street: "Marzahner Chaussee"
-housenumber: 189
+street: "Lise-Meitner-Straße"
+housenumber: 6
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+opening_hours: "Mo-Sa 08:00-22:00"
+website: "https://www.lidl.de/"

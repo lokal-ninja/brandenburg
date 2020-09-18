@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.395272600000006
 longitude: 13.090432900000001
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Alt Nowawes"
 housenumber: 49c

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3939037
 longitude: 13.0916522
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Karl-Liebknecht-Straße"
 housenumber: 19

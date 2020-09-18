@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.5199447
 longitude: 13.4478664
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Richard-Sorge-Straße"
 housenumber: 21

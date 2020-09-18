@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.3102449
 longitude: 14.483318400000002
-postcode: 15236
+postcode: "15236"
 city: Frankfurt (Oder)
 street: "Bertha-von-Suttner-Straße"
 housenumber: 2

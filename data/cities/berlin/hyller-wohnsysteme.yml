@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.504748600000006
 longitude: 13.3236342
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Jeanne-Mammen-Bogen"
 housenumber: 585

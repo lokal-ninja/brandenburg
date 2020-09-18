@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.45452
 longitude: 12.8132341
-postcode: 14550
+postcode: "14550"
 city: Groß Kreutz (Havel)
 street: "Dorfstraße"
 housenumber: 47

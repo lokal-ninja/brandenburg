@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4540475
 longitude: 14.215036600000001
-postcode: 15518
+postcode: "15518"
 city: Steinhöfel
 street: "Hauptstraße"
 housenumber: 1

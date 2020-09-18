@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.523672100000006
 longitude: 13.386921200000002
-postcode: 10117
+postcode: "10117"
 city: Berlin
 street: "Reinhardtstraße"
 housenumber: 3

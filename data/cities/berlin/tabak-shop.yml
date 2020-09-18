@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.5049337
 longitude: 13.3910364
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Friedrichstraße"
 housenumber: 32;33

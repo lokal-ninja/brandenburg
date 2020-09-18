@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5336548
 longitude: 13.429637300000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 202

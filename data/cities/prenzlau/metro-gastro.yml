@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.33779620000001
 longitude: 13.869964000000001
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Gewerbestraße"
 housenumber: 2

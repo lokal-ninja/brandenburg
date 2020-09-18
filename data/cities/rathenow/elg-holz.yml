@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.6166192
 longitude: 12.332920300000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Rhinower Straße"
 housenumber: 21

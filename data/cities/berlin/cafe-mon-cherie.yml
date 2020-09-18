@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.481494600000005
 longitude: 13.363228900000001
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Naumannstraße"
 housenumber: 48

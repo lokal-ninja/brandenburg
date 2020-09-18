@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.759681
 longitude: 14.331826800000002
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Mauerstraße"
 housenumber: 7

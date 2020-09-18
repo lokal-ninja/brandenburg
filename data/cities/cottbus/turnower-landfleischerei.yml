@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.763113100000005
 longitude: 14.3470194
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "Hermannstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.926127900000004
 longitude: 14.121266100000001
-postcode: 16248
+postcode: "16248"
 city: Lunow-Stolzenhagen
 street: "Bauernstraße"
 housenumber: 10

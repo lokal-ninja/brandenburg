@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.7120283
 longitude: 13.277330200000002
-postcode: 16556
+postcode: "16556"
 city: Hohen Neuendorf
 street: "Berliner Straße"
 housenumber: 10

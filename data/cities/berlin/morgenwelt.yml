@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.463975000000005
 longitude: 13.324601000000001
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Markelstraße"
 housenumber: 56

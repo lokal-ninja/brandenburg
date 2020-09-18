@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.393965900000005
 longitude: 13.092989500000002
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Karl-Liebknecht-Straße"
-housenumber: 21
+housenumber: 22
 phone: ""
 opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-13:00; Su 06:30-12:00; PH off"
 website: ""

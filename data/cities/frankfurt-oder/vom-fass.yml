@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.3444086
 longitude: 14.551510100000002
-postcode: 15230
+postcode: "15230"
 city: Frankfurt (Oder)
 street: "Karl-Marx-Straße"
 housenumber: 12

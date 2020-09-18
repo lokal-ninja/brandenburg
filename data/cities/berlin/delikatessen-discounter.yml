@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4913971
 longitude: 13.322882700000001
-postcode: 10717
+postcode: "10717"
 city: Berlin
 street: "Güntzelstraße"
 housenumber: 40

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.579827800000004
 longitude: 13.3970414
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Pastor-Niemöller-Platz"
 housenumber: 8

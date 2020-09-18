@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.4664688
 longitude: 13.488399000000001
-postcode: 12437
+postcode: "12437"
 city: Berlin
 street: "Baumschulenstraße"
 housenumber: 13

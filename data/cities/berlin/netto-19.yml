@@ -1,12 +1,12 @@
-id: 60361094
+id: 43844768
 type: way
 shop: Supermarkt
-latitude: 52.471845800000004
-longitude: 13.479529000000001
-postcode: 12437
+latitude: 52.41796900000001
+longitude: 13.2852606
+postcode: "14167"
 city: Berlin
-street: "Eichbuschallee"
-housenumber: 51
+street: "Goerzallee"
+housenumber: 220
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto.de"
+opening_hours: "Mo-Sa 07:00-21:00"
+website: ""

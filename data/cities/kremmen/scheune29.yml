@@ -3,7 +3,7 @@ type: way
 shop: Raumausstattung
 latitude: 52.756852
 longitude: 13.029219000000001
-postcode: 16766
+postcode: "16766"
 city: Kremmen
 street: "Scheunenweg"
 housenumber: 29

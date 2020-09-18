@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4545261
 longitude: 13.3282202
-postcode: 12167
+postcode: "12167"
 city: Berlin
 street: "Albrechtstraße"
 housenumber: 111

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.4294839
 longitude: 13.3269046
-postcode: 12207
+postcode: "12207"
 city: Berlin
 street: "Jungfernstieg"
 housenumber: 4a

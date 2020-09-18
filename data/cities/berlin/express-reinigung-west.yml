@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.4980246
 longitude: 13.3078628
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Brandenburgische Straße"
 housenumber: 

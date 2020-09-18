@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.252278200000006
 longitude: 14.5792914
-postcode: 15295
+postcode: "15295"
 city: Brieskow-Finkenheerd
 street: "Akazienweg"
 housenumber: 9

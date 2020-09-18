@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5535082
 longitude: 13.4124206
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Bornholmer Straße"
 housenumber: 91

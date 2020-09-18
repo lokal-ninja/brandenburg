@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.6074123
 longitude: 12.3409846
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Mittelstraße"
 housenumber: 30

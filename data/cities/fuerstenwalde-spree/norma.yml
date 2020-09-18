@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.35889340000001
 longitude: 14.064668200000002
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Am Markt"
 housenumber: 4

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4638287
 longitude: 13.4337581
-postcode: 12051
+postcode: "12051"
 city: Berlin
 street: "Hermannstraße"
 housenumber: 

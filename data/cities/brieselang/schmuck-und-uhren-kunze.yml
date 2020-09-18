@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.581603900000005
 longitude: 12.999876400000002
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Am Markt"
 housenumber: 6

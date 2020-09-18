@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.599468
 longitude: 12.893782000000002
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Robert-Bosch-Straße"
 housenumber: 18

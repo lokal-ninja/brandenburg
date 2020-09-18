@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.5704062
 longitude: 13.4090141
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Breite Straße"
 housenumber: 39

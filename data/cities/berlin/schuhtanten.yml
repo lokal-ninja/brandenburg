@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.4963489
 longitude: 13.420954
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Paul-Lincke-Ufer"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.618146100000004
 longitude: 13.305355800000001
-postcode: 13467
+postcode: "13467"
 city: Berlin
 street: "Heinsestraße"
 housenumber: 43-45

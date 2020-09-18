@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.618908000000005
 longitude: 13.3049931
-postcode: 13467
+postcode: "13467"
 city: Berlin
 street: "Heinsestraße"
 housenumber: 51

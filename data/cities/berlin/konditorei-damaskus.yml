@@ -3,7 +3,7 @@ type: node
 shop: Konditorei
 latitude: 52.4825456
 longitude: 13.4387895
-postcode: 12045
+postcode: "12045"
 city: Berlin
 street: "Sonnenallee"
 housenumber: 93

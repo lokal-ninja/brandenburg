@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.4172105
 longitude: 14.529428900000001
-postcode: 15326
+postcode: "15326"
 city: Lebus
 street: "Gewerbepark Kirschallee"
 housenumber: 2

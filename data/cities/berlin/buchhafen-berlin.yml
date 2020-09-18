@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.4743349
 longitude: 13.426938600000002
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Okerstraße"
 housenumber: 1

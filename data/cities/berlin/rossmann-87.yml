@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.455192000000004
 longitude: 13.1434534
-postcode: 14089
+postcode: "14089"
 city: Berlin
 street: "Eichelmatenweg"
 housenumber: 1

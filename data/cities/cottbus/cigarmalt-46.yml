@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 51.758894100000006
 longitude: 14.3339867
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Schloßkirchplatz"
 housenumber: 6

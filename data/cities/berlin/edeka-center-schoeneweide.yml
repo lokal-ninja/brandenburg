@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4583944
 longitude: 13.5110062
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Schnellerstraße"
 housenumber: 131

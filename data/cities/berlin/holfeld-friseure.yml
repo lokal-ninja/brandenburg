@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5502394
 longitude: 13.4219503
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Stahlheimer Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.7492607
 longitude: 12.3406529
-postcode: 14728
+postcode: "14728"
 city: Rhinow
 street: "Am Friedhof"
 housenumber: 1

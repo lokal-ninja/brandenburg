@@ -1,12 +1,12 @@
-id: 1831823644
+id: 3452053746
 type: node
 shop: Bäckerei
-latitude: 52.506351900000006
-longitude: 13.333392400000001
-postcode: 10623
+latitude: 52.549649200000005
+longitude: 13.414906
+postcode: "10439"
 city: Berlin
-street: "Hardenbergplatz"
-housenumber: 2
+street: ""
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00, Sa,Su 07:00-20:00"
-website: ""
+opening_hours: ""
+website: "https://kamps.de/"

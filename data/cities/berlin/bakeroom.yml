@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.49707720000001
 longitude: 13.3221363
-postcode: 10719
+postcode: "10719"
 city: Berlin
 street: "Ludwigkirchplatz"
 housenumber: 12

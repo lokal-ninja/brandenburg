@@ -3,10 +3,10 @@ type: node
 shop: Spielzeug
 latitude: 52.490973600000004
 longitude: 13.4473994
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 14-15
 phone: ""
-opening_hours: ""
+opening_hours: "Tu 10:00-12:00,14:00-16:00; We 17:00-19:00; Th-Su 15:00-19:00"
 website: ""

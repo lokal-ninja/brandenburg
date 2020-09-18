@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.2958548
 longitude: 13.624276700000001
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
 street: "Luckenwalder Straße"
 housenumber: 2-6
 phone: ""
 opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+website: "http://www.aldi-nord.de"

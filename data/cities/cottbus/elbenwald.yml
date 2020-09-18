@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.760245100000006
 longitude: 14.333442600000001
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Spremberger Straße"
 housenumber: 44

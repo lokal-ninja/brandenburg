@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4976442
 longitude: 13.503061500000001
-postcode: 10319
+postcode: "10319"
 city: Berlin
 street: "Sewanstraße"
 housenumber: 44

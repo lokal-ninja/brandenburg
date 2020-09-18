@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.75131390000001
 longitude: 13.223113300000001
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Kremmener Straße"
 housenumber: 43

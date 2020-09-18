@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2418556
 longitude: 13.6333467
-postcode: 15741
+postcode: "15741"
 city: Bestensee
 street: "Hauptstraße"
 housenumber: 45

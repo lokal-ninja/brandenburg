@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.140948900000005
 longitude: 14.6504229
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Fröbelring"
 housenumber: 24

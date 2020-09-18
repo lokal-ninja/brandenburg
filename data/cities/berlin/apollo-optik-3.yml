@@ -1,12 +1,12 @@
-id: 1298654665
+id: 1265001759
 type: node
 shop: Optiker
-latitude: 52.496253100000004
-longitude: 13.3903847
-postcode: 10961
+latitude: 52.499751800000006
+longitude: 13.496830300000001
+postcode: "10319"
 city: Berlin
-street: "Blücherplatz"
+street: "Sewanstraße"
 housenumber: 2
-phone: "+49302511243"
-opening_hours: ""
-website: "https://www.apollo.de/"
+phone: ""
+opening_hours: "Mo-Sa 09:00-20:00"
+website: ""

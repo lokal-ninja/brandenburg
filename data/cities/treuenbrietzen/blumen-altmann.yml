@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.09365510000001
 longitude: 12.873098200000001
-postcode: 14929
+postcode: "14929"
 city: Treuenbrietzen
 street: "Jüterboger Straße"
 housenumber: 4

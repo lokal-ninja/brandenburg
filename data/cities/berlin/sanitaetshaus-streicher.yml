@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.542340800000005
 longitude: 13.370128300000001
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Reinickendorfer Straße"
 housenumber: 13

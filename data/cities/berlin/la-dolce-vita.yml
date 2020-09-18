@@ -1,12 +1,12 @@
 id: 3178165274
 type: node
 shop: Friseur
-latitude: 52.471935800000004
-longitude: 13.336023
-postcode: 12159
+latitude: 52.471898700000004
+longitude: 13.336010000000002
+postcode: "12159"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 80
 phone: "+49308527960"
-opening_hours: ""
+opening_hours: "Tu-Fr 10:00-20:00; Sa 08:00-16:00"
 website: "https://www.ladolcevita-berlin.com/"

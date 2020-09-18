@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.508771900000006
 longitude: 13.320855900000002
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Goethestraße"
 housenumber: 79

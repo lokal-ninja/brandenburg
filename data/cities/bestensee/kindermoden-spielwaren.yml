@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.2426711
 longitude: 13.6363126
-postcode: 15741
+postcode: "15741"
 city: Bestensee
 street: "Hauptstraße"
 housenumber: 42

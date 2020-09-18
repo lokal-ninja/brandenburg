@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 52.6724576
 longitude: 13.195861800000001
-postcode: 16727
+postcode: "16727"
 city: Velten
 street: "Berliner Straße"
 housenumber: 8a

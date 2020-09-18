@@ -3,7 +3,7 @@ type: way
 shop: Computer
 latitude: 52.604283800000005
 longitude: 12.3467687
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Berliner Straße"
 housenumber: 20

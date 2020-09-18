@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5488264
 longitude: 13.4140802
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 72c

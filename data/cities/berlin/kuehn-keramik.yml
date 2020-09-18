@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.49330380000001
 longitude: 13.381250000000001
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Yorckstraße"
 housenumber: 18

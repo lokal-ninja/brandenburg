@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.9517893
 longitude: 14.677076600000001
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Friedrich-Schiller-Straße"
 housenumber: 5a

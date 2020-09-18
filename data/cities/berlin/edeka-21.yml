@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4713404
 longitude: 13.3371434
-postcode: 12159
+postcode: "12159"
 city: Berlin
 street: "Fregestraße"
 housenumber: 6

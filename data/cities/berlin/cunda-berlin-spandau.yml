@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5358365
 longitude: 13.2016918
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Carl-Schurz-Straße"
 housenumber: 12

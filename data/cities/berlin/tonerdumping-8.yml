@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.51529540000001
 longitude: 13.461271900000002
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Frankfurter Allee"
 housenumber: 33

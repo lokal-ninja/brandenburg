@@ -1,12 +1,12 @@
 id: 3349530893
 type: node
 shop: Massage
-latitude: 52.474416500000004
-longitude: 13.3205665
-postcode: 14197
+latitude: 52.474454800000004
+longitude: 13.3205586
+postcode: "14197"
 city: Berlin
 street: "Deidesheimer Straße"
 housenumber: 6
-phone: "+49-30-8227422"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
+phone: "+49 30 8227422"
+opening_hours: "Mo-Fr 10:00-19:00; Su Vereinbarung"
 website: ""

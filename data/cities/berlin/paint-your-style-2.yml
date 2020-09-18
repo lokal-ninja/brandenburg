@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 52.489949200000005
 longitude: 13.3869026
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Mehringdamm"
 housenumber: 73

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4971024
 longitude: 13.3534941
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Winterfeldtstraße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4970548
 longitude: 13.353173
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Winterfeldtstraße"
 housenumber: 48

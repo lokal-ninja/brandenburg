@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4750625
 longitude: 13.735771100000001
-postcode: 01979
+postcode: "01979"
 city: Lauchhammer
 street: "Finsterwalder Straße"
 housenumber: 1-5

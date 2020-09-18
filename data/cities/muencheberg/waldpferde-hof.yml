@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.530939200000006
 longitude: 14.107419400000001
-postcode: 15374
+postcode: "15374"
 city: Müncheberg
 street: "Am Weiher"
 housenumber: 6

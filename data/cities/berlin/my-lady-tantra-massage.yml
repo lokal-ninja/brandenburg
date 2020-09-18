@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4994687
 longitude: 13.466132700000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Markgrafendamm"
 housenumber: 12

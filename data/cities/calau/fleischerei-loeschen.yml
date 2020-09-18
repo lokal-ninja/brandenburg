@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.724816000000004
 longitude: 13.952901200000001
-postcode: 03205
+postcode: "03205"
 city: Calau
 street: "Cabeler Straße"
 housenumber: 16

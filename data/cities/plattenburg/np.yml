@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.912520300000004
 longitude: 12.0861742
-postcode: 19339
+postcode: "19339"
 city: Plattenburg
 street: "Bahnhofstraße"
 housenumber: 101a

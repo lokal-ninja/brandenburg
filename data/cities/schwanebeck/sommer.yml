@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.6232668
 longitude: 13.5425754
-postcode: 16341
+postcode: "16341"
 city: Schwanebeck
 street: "Dorfstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.95617420000001
 longitude: 14.7041435
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Karl-Marx-Straße"
 housenumber: 96

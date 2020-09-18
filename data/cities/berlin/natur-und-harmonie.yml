@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4296262
 longitude: 13.3325905
-postcode: 12209
+postcode: "12209"
 city: Berlin
 street: "Lankwitzer Straße"
 housenumber: 12

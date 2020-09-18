@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.4922315
 longitude: 13.353560100000001
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Goltzstraße"
 housenumber: 12a

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.5369693
 longitude: 13.265474200000002
-postcode: 13629
+postcode: "13629"
 city: Berlin
 street: "Nonnendammallee"
 housenumber: 99

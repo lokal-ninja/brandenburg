@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.4649573
 longitude: 13.4865998
-postcode: 12437
+postcode: "12437"
 city: Berlin
 street: "Baumschulenstraße"
 housenumber: 23

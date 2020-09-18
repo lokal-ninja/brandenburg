@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 53.1011789
 longitude: 13.5826548
-postcode: 17268
+postcode: "17268"
 city: Milmersdorf
 street: "Petersdorfer Siedlung"
 housenumber: 2

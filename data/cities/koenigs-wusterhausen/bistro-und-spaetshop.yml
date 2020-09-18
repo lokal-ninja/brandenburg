@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.2957887
 longitude: 13.6251899
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
 street: "Eichenallee"
 housenumber: 1A

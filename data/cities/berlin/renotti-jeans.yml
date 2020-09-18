@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5074364
 longitude: 13.4965399
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Weitlingstraße"
 housenumber: 40

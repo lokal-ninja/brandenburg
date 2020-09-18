@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.532263
 longitude: 13.434682400000002
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Bötzowstraße"
 housenumber: 35

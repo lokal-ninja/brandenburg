@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.502712200000005
 longitude: 13.2990855
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Gervinusstraße"
 housenumber: 19

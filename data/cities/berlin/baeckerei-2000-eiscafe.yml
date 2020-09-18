@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4955325
 longitude: 13.468290900000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Alt-Stralau"
 housenumber: 60

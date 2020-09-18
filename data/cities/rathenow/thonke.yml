@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6117958
 longitude: 12.3483251
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Friedrich-Ebert-Ring"
 housenumber: 114

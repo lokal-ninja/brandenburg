@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3211407
 longitude: 14.5374475
-postcode: 15232
+postcode: "15232"
 city: Frankfurt (Oder)
 street: "Darjesstraße"
 housenumber: 9

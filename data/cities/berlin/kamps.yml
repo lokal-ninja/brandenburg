@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5370507
 longitude: 13.2741574
-postcode: 13629
+postcode: "13629"
 city: Berlin
 street: "Popitzweg"
 housenumber: 18

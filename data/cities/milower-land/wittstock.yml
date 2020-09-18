@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.523514500000005
 longitude: 12.3119907
-postcode: 14715
+postcode: "14715"
 city: Milower Land
 street: "Friedensstraße"
 housenumber: 109

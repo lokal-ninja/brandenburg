@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4921142
 longitude: 13.3526886
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Barbarossastraße"
 housenumber: 5

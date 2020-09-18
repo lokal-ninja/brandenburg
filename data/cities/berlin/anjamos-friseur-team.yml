@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4476129
 longitude: 13.385634300000001
-postcode: 12109
+postcode: "12109"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 57

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.453094400000005
 longitude: 13.6252385
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4739833
 longitude: 13.770087400000001
-postcode: 15562
+postcode: "15562"
 city: Rüdersdorf bei Berlin
 street: "Mühlenstraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: way
 shop: Feinkost
 latitude: 52.7140834
 longitude: 13.079103700000001
-postcode: 16727
+postcode: "16727"
 city: Oberkrämer
 street: "Perwenitzer Chaussee"
 housenumber: 2

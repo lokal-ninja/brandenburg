@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 52.545535
 longitude: 13.4124508
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 130

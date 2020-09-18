@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5424785
 longitude: 13.414123
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Pappelallee"
 housenumber: 10

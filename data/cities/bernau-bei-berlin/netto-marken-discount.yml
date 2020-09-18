@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.676382700000005
 longitude: 13.539163100000001
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Heinrich-Heine-Straße"
 housenumber: 90

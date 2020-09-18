@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.5218666
 longitude: 13.434991700000001
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Friedenstraße"
 housenumber: 38

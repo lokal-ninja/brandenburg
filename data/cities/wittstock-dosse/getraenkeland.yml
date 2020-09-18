@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 53.164062
 longitude: 12.493055100000001
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Röbeler Straße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.497001700000006
 longitude: 13.453789800000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Eichenstraße"
 housenumber: 4

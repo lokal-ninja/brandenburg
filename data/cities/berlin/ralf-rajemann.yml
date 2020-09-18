@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5422177
 longitude: 13.4133545
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Pappelallee"
 housenumber: 85

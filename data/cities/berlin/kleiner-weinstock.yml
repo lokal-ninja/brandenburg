@@ -3,7 +3,7 @@ type: node
 shop: Wein
 latitude: 52.4868618
 longitude: 13.389978600000001
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Fidicinstraße"
 housenumber: 8a

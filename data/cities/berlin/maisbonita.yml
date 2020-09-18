@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.528446200000005
 longitude: 13.340112900000001
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Bredowstraße"
 housenumber: 8a

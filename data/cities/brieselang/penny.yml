@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.574594600000005
 longitude: 12.976779800000001
-postcode: 14656
+postcode: "14656"
 city: Brieselang
 street: "Pappelallee"
 housenumber: 90

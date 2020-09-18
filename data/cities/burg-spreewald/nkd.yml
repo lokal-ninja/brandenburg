@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.834818000000006
 longitude: 14.1484699
-postcode: 03096
+postcode: "03096"
 city: Burg (Spreewald)
 street: "Hauptstraße"
 housenumber: 23

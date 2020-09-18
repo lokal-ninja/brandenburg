@@ -1,4 +1,4 @@
 ---
-title: "devilmedia repairlounge"
+title: "devilmedia | repairlounge"
 url: /potsdam/devilmedia-repairlounge/
 ---

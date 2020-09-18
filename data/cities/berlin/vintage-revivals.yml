@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.546539100000004
 longitude: 13.4126799
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 126

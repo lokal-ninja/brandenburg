@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.50560350000001
 longitude: 13.2967081
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Leonhardtstraße"
 housenumber: 11

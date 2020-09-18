@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 53.117218300000005
 longitude: 13.5062288
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Friedrich-Engels-Straße"
 housenumber: 15

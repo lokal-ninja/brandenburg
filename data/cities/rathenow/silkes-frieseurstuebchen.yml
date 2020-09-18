@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.614164
 longitude: 12.3573366
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Theodor-Lessing-Straße"
 housenumber: 

@@ -1,12 +1,12 @@
-id: 5431718439
+id: 4868088443
 type: node
 shop: Supermarkt
-latitude: 52.500025300000004
-longitude: 13.4609567
-postcode: 10245
+latitude: 52.555719700000004
+longitude: 13.5588785
+postcode: "12687"
 city: Berlin
-street: "Corinthstraße"
-housenumber: 36
+street: "Mehrower Allee"
+housenumber: 20
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: ""
+opening_hours: "Mo-Sa 08:00-20:00"
+website: "https://netto.de/"

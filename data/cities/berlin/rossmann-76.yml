@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.537483300000005
 longitude: 13.2042911
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Markt"
 housenumber: 14-15

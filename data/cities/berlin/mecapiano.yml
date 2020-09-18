@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.4803216
 longitude: 13.346733200000001
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 106

@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.4646368
 longitude: 13.3294989
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schöneberger Straße"
 housenumber: 14

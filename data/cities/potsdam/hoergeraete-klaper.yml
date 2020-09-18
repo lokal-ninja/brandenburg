@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.3986663
 longitude: 13.0577397
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Friedrich-Ebert-Straße"
 housenumber: 111

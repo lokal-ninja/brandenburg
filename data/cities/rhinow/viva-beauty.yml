@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.752239200000005
 longitude: 12.3390657
-postcode: 14728
+postcode: "14728"
 city: Rhinow
 street: "Am Deich"
 housenumber: 1

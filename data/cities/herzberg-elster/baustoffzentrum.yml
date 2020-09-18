@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.697270100000004
 longitude: 13.2532802
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Frankfurter Straße"
 housenumber: 16d

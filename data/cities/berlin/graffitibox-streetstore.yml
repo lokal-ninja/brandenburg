@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 52.5481205
 longitude: 13.4295723
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Prenzlauer Allee"
 housenumber: 104

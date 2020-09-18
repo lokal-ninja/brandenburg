@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 51.766157500000006
 longitude: 14.358022600000002
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "Stadtring"
 housenumber: 8

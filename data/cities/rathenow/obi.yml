@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.607836400000004
 longitude: 12.323187
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Schwedendamm"
 housenumber: 3

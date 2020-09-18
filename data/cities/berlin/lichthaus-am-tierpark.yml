@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsgeräte
 latitude: 52.49760740000001
 longitude: 13.520645400000001
-postcode: 10319
+postcode: "10319"
 city: Berlin
 street: "Erich-Kurz-Straße"
 housenumber: 9

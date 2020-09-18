@@ -3,10 +3,10 @@ type: node
 shop: Metzgerei
 latitude: 52.4001202
 longitude: 13.053685600000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 57
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:30-12:00; PH,Su off"
+opening_hours: "Tu,Fr 08:30-18:00; We-Th 08:30-15:00; PH,Mo,Sa-Su off"
 website: ""

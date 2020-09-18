@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.5432932
 longitude: 13.0554172
-postcode: 14624
+postcode: "14624"
 city: Dallgow-Döberitz
 street: "Hauptstraße"
 housenumber: 18

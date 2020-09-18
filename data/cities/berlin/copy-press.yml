@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.556062100000005
 longitude: 13.3776106
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Koloniestraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.575897000000005
 longitude: 13.2133845
-postcode: 13587
+postcode: "13587"
 city: Berlin
 street: "Rustweg"
 housenumber: 1

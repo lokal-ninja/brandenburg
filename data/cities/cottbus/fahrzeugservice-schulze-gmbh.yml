@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.7177707
 longitude: 14.314334400000002
-postcode: 03051
+postcode: "03051"
 city: Cottbus
 street: "Am Seegraben"
 housenumber: 19a

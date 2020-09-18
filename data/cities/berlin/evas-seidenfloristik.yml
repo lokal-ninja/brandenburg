@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3886958
 longitude: 13.4098751
-postcode: 12309
+postcode: "12309"
 city: Berlin
 street: "Alt-Lichtenrade"
 housenumber: 129

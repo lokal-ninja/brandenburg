@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 51.763631700000005
 longitude: 14.3316811
-postcode: 03044
+postcode: "03044"
 city: Cottbus
 street: "Friedrich-Ebert-Straße"
 housenumber: 18

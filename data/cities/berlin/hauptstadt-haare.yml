@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 52.440995300000004
 longitude: 13.3815007
-postcode: 12105
+postcode: "12105"
 city: Berlin
 street: "Rathausstraße"
 housenumber: 56

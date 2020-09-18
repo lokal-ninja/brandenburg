@@ -3,7 +3,7 @@ type: way
 shop: Kosmetik
 latitude: 52.392394200000005
 longitude: 13.0644068
-postcode: 14473
+postcode: "14473"
 city: Potsdam
 street: "Babelsberger Straße"
 housenumber: 

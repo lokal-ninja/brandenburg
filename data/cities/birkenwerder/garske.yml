@@ -3,7 +3,7 @@ type: way
 shop: Blumen
 latitude: 52.703129600000004
 longitude: 13.2844004
-postcode: 16547
+postcode: "16547"
 city: Birkenwerder
 street: "Am Waldfriedhof"
 housenumber: 2

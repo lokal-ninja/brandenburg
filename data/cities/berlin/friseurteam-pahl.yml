@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4217165
 longitude: 13.5326771
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Rudower Straße"
 housenumber: 43

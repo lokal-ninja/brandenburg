@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.5422705
 longitude: 13.3565234
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Tegeler Straße"
 housenumber: 32
 phone: ""
-opening_hours: ""
+opening_hours: "nach Vereinbarung"
 website: "http://www.wareschoenheit.de/"

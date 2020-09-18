@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.51706720000001
 longitude: 13.3046982
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 164

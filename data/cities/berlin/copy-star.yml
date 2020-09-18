@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.496865500000006
 longitude: 13.431317300000002
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Ohlauer Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.453543800000006
 longitude: 13.569023600000001
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Lindenstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.543451100000006
 longitude: 13.4427129
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 90

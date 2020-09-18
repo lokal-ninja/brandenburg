@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.5385569
 longitude: 13.201346800000001
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Moritzstraße"
 housenumber: 9a

@@ -3,10 +3,10 @@ type: node
 shop: Outdoor
 latitude: 52.514145400000004
 longitude: 13.215104700000001
-postcode: 13595
+postcode: "13595"
 city: Berlin
 street: "Brandensteinweg"
 housenumber: 37
 phone: ""
-opening_hours: "Apr 01-Oct 14: We-Fr 12:00-19:00,Sa 10:00-16:00, Jun,Jul,Aug Tu 12:00-19:00"
+opening_hours: "We-Fr 12:00-19:00,Sa-Su 10:00-19:00"
 website: ""

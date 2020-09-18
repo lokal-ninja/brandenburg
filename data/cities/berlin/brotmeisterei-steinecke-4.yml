@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6108813
 longitude: 13.214695
-postcode: 13503
+postcode: "13503"
 city: Berlin
 street: "Alt-Heiligensee"
 housenumber: 6-10

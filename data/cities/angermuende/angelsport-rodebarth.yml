@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 53.0162513
 longitude: 14.000522700000001
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Berliner Straße"
 housenumber: 3

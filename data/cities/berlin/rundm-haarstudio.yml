@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.473159
 longitude: 13.4531308
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Braunschweiger Straße"
 housenumber: 15

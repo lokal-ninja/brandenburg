@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2566282
 longitude: 14.425921
-postcode: 15299
+postcode: "15299"
 city: Müllrose
 street: "Frankfurter Straße"
 housenumber: 96

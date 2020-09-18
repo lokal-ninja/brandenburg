@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5621164
 longitude: 13.500244100000002
-postcode: 13051
+postcode: "13051"
 city: Berlin
 street: "Darßer Straße"
 housenumber: 4

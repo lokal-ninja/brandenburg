@@ -3,7 +3,7 @@ type: way
 shop: Elektronik
 latitude: 51.466994400000004
 longitude: 13.4947581
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Westbogen"
 housenumber: 3

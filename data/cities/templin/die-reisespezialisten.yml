@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 53.1159218
 longitude: 13.511568
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Dargersdorfer Straße"
 housenumber: 12

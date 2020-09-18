@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.1940627
 longitude: 12.760132400000002
-postcode: 14822
+postcode: "14822"
 city: Brück
 street: "Siedlungsweg"
 housenumber: 1

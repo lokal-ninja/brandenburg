@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.399077500000004
 longitude: 13.051323400000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 22

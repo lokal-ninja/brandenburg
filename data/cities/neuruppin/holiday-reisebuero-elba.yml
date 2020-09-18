@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 52.921953300000006
 longitude: 12.801203300000001
-postcode: 16816
+postcode: "16816"
 city: Neuruppin
 street: "Karl-Marx-Straße"
 housenumber: 60/61
-phone: "03391-506240"
+phone: "+49 3391 506240"
 opening_hours: "Mo-Fr 09:30-18:00, Sa 10:00-12:00"
 website: "https://www.reisebuero-elba-neuruppin.de/"

@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.399668600000005
 longitude: 13.054178700000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 53

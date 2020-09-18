@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.521088000000006
 longitude: 13.6984635
-postcode: 15366
+postcode: "15366"
 city: Neuenhagen bei Berlin
 street: "Ernst-Thälmann-Straße"
 housenumber: 

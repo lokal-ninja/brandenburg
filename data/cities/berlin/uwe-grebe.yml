@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.5071719
 longitude: 13.3955563
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Rudi-Dutschke-Straße"
 housenumber: 6

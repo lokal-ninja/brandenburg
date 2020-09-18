@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.493188
 longitude: 13.3668589
-postcode: 10783
+postcode: "10783"
 city: Berlin
 street: "Goebenstraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5428943
 longitude: 13.413602800000001
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 52

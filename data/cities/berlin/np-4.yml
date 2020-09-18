@@ -1,12 +1,12 @@
-id: 6277944473
-type: node
+id: 81414463
+type: way
 shop: Supermarkt
-latitude: 52.5075907
-longitude: 13.513233300000001
-postcode: 10315
+latitude: 52.41874790000001
+longitude: 13.504891
+postcode: "12355"
 city: Berlin
-street: "Massower Straße"
-housenumber: 5
-phone: "+49 30 51061729"
+street: "Selgenauer Weg"
+housenumber: 18A
+phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.np.de/angebote/aktuelle-angebote/?markt=426&kw=berlin"
+website: ""

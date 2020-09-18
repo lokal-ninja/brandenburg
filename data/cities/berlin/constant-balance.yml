@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.496828400000005
 longitude: 13.3532813
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Winterfeldtstraße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.5377164
 longitude: 13.421003800000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Sredzkistraße"
 housenumber: 58

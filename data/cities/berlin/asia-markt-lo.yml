@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5162234
 longitude: 13.293719500000002
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Nehringstraße"
 housenumber: 4 A

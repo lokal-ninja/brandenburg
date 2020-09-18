@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4854281
 longitude: 13.368034100000001
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Kolonnenstraße"
 housenumber: 31

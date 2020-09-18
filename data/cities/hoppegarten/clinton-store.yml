@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5090372
 longitude: 13.649065100000001
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Neuer Hönower Weg"
 housenumber: 7

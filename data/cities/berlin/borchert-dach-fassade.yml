@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.456119400000006
 longitude: 13.620875000000002
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Fürstenwalder Damm"
 housenumber: 435-441

@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 52.4654673
 longitude: 13.575768400000001
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Kaulsdorfer Straße"
 housenumber: 209

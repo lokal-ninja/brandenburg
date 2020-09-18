@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5199956
 longitude: 13.451572700000002
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Petersburger Straße"
 housenumber: 66

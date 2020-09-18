@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.557054900000004
 longitude: 13.4313836
-postcode: 13086
+postcode: "13086"
 city: Berlin
 street: "Am Steinberg"
 housenumber: 16

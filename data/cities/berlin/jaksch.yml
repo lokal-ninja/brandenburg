@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.486569800000005
 longitude: 13.3589859
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Kolonnenstraße"
 housenumber: 64

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5824511
 longitude: 13.2906562
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 68

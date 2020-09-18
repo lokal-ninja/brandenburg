@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.552937400000005
 longitude: 13.3471711
-postcode: 13349
+postcode: "13349"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 126

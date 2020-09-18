@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.611712100000005
 longitude: 12.3399218
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Große Hagenstraße"
 housenumber: 39 a

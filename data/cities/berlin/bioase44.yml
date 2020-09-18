@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4754348
 longitude: 13.439520600000002
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 162

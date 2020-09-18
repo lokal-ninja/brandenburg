@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.5057708
 longitude: 13.559628100000001
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Weißenhöher Straße"
 housenumber: 108

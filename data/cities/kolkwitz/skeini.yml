@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.72288330000001
 longitude: 14.275769
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Hänchener Hauptstraße"
 housenumber: 47

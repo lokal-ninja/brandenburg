@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.501775800000004
 longitude: 13.3341878
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Augsburger Straße"
 housenumber: 33

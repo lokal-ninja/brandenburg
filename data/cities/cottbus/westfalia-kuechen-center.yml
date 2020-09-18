@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 51.7535284
 longitude: 14.334434700000001
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Bautzener Straße"
 housenumber: 8

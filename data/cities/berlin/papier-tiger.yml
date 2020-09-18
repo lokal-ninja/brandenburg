@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.4985918
 longitude: 13.3538028
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Maaßenstraße"
 housenumber: 4

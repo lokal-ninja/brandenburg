@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.4752998
 longitude: 13.4243924
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Weisestraße"
 housenumber: 24

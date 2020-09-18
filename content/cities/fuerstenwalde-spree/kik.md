@@ -1,4 +1,4 @@
 ---
-title: "kik"
+title: "KiK"
 url: /fuerstenwalde-spree/kik/
 ---

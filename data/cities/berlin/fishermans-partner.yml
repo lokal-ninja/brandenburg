@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.4128054
 longitude: 13.3631516
-postcode: 12279
+postcode: "12279"
 city: Berlin
 street: "Marienfelder Allee"
 housenumber: 151

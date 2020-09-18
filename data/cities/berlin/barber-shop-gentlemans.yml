@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4852846
 longitude: 13.430105200000002
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Donaustraße"
 housenumber: 130

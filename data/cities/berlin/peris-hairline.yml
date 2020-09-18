@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.491894
 longitude: 13.3868404
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Mehringdamm"
 housenumber: 50

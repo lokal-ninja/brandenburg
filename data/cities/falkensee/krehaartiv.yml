@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.5522798
 longitude: 13.123502700000001
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Glienicker Straße"
 housenumber: 100b
 phone: "+49 3322 214395"
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: "Mo-Fr 09:00-18:00; PH off"
 website: ""

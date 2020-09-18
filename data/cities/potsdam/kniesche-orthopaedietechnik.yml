@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.393026000000006
 longitude: 13.088396000000001
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 12

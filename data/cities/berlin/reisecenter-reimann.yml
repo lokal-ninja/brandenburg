@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.50383660000001
 longitude: 13.590806
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Alt-Kaulsdorf"
 housenumber: 64

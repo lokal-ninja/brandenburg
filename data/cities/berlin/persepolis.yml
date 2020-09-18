@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.502399100000005
 longitude: 13.3515472
-postcode: 10785
+postcode: "10785"
 city: Berlin
 street: "Kurfürstenstraße"
 housenumber: 127

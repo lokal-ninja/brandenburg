@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.4046043
 longitude: 13.384544700000001
-postcode: 12277
+postcode: "12277"
 city: Berlin
 street: "Nunsdorfer Ring"
 housenumber: 31

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2969057
 longitude: 13.2659002
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Am Bahnhof"
 housenumber: 2a

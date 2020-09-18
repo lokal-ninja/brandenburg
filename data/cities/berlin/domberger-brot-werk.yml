@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5238992
 longitude: 13.338329100000001
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Essener Straße"
 housenumber: 11

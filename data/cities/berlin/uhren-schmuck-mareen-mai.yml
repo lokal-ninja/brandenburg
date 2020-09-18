@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.5271556
 longitude: 13.539965100000002
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Helene-Weigel-Platz"
 housenumber: 14

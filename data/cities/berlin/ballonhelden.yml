@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.514069500000005
 longitude: 13.305028100000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 150

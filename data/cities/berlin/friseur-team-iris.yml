@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.512146900000005
 longitude: 13.4537086
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Grünberger Straße"
 housenumber: 38

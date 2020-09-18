@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.468057200000004
 longitude: 13.4897624
-postcode: 12437
+postcode: "12437"
 city: Berlin
 street: "Baumschulenstraße"
 housenumber: 100

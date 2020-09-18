@@ -3,7 +3,7 @@ type: node
 shop: Badezimmer
 latitude: 52.453752200000004
 longitude: 13.317036300000002
-postcode: 12165
+postcode: "12165"
 city: Berlin
 street: "Schloßstraße"
 housenumber: 67

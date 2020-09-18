@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.48948540000001
 longitude: 13.361589700000001
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Langenscheidtstraße"
 housenumber: 5a

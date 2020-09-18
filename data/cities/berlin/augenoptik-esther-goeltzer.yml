@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.494492
 longitude: 13.459810800000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Martin-Hoffmann-Straße"
 housenumber: 16

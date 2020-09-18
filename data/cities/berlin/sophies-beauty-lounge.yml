@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.484883
 longitude: 13.3456522
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Belziger Straße"
 housenumber: 74

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5280524
 longitude: 13.4086794
-postcode: 10119
+postcode: "10119"
 city: Berlin
 street: "Alte Schönhauser Straße"
 housenumber: 3

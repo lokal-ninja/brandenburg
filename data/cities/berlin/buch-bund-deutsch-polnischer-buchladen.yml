@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.492184900000005
 longitude: 13.4248337
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Sanderstraße"
 housenumber: 8

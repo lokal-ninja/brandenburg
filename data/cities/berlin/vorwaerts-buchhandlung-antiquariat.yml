@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5001162
 longitude: 13.388086300000001
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Stresemannstraße"
 housenumber: 28

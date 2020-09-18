@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.5465376
 longitude: 13.3624831
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Antonstraße"
 housenumber: 42

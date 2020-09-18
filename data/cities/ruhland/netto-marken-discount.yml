@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.460236300000005
 longitude: 13.869861
-postcode: 01945
+postcode: "01945"
 city: Ruhland
 street: "Elsterbogen"
 housenumber: 3

@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 52.486906600000005
 longitude: 13.394171900000002
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Friesenstraße"
 housenumber: 11

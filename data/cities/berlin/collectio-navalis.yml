@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.508596700000005
 longitude: 13.3204805
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Grolmanstraße"
 housenumber: 

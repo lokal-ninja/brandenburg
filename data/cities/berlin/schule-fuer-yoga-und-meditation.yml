@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4476719
 longitude: 13.3049677
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Hortensienstraße"
 housenumber: 27

@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.545235600000005
 longitude: 13.4215628
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Stargarder Straße"
 housenumber: 59

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5653462
 longitude: 13.3944559
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 21A

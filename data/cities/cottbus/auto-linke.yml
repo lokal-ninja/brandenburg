@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.76671940000001
 longitude: 14.3595904
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "Merzdorfer Weg"
 housenumber: 36

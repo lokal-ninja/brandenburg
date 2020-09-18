@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 52.491059400000005
 longitude: 13.4495429
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Bouchéstraße"
 housenumber: 17
 phone: ""
-opening_hours: ""
+opening_hours: "Mo 12:00-18:30; Tu 10:00-18:30; We 13:00-18:30; Th,Fr 10:00-18:30"
 website: ""

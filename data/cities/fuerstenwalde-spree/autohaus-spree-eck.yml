@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3370595
 longitude: 14.073238000000002
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Auto-Focus"
 housenumber: 11

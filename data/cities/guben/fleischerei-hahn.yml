@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 51.9872182
 longitude: 14.7002178
-postcode: 03172
+postcode: "03172"
 city: Guben
 street: "Groß Breesener Straße"
 housenumber: 104

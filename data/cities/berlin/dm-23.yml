@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.5508588
 longitude: 13.4135361
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 112

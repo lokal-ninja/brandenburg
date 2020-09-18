@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.4097014
 longitude: 12.5637193
-postcode: 14776
+postcode: "14776"
 city: Brandenburg an der Havel
 street: "Molkenmarkt"
 housenumber: 33

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.530817000000006
 longitude: 13.4433883
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Danziger Straße"
 housenumber: 197

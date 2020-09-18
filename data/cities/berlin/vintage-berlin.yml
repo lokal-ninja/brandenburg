@@ -1,12 +1,12 @@
-id: 3442698426
+id: 771525899
 type: node
-shop: Kleidung
-latitude: 52.4905406
-longitude: 13.448742600000001
-postcode: 12435
+shop: Gebrauchtwaren
+latitude: 52.490641800000006
+longitude: 13.4485407
+postcode: "12435"
 city: Berlin
-street: "Bouchéstraße"
-housenumber: 20
+street: "Karl-Kunger-Straße"
+housenumber: 54
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-16:00"
+opening_hours: ""
 website: ""

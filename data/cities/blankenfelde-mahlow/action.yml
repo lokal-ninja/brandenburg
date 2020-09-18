@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.348012100000005
 longitude: 13.404323000000002
-postcode: 15827
+postcode: "15827"
 city: Blankenfelde-Mahlow
 street: "Carl-von-Ossietzky-Straße"
 housenumber: 1;3

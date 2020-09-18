@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.386890300000005
 longitude: 13.3998431
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 

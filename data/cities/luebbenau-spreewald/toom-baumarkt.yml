@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.8659971
 longitude: 13.9400405
-postcode: 03222
+postcode: "03222"
 city: Lübbenau/Spreewald
 street: "Am Kaufland"
 housenumber: 1

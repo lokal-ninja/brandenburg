@@ -3,7 +3,7 @@ type: way
 shop: Modehaus
 latitude: 51.744843700000004
 longitude: 14.6446257
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Cottbuser Straße"
 housenumber: 19

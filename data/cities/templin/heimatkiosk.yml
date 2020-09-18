@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 53.1194239
 longitude: 13.5012264
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Am Markt"
 housenumber: 

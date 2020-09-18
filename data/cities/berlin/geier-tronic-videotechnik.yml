@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.4899835
 longitude: 13.4037605
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Gneisenaustraße"
 housenumber: 60

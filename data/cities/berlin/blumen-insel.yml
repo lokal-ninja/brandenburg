@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.5644124
 longitude: 13.392609
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.484531800000006
 longitude: 12.9352139
-postcode: 14476
+postcode: "14476"
 city: Potsdam
 street: "Am Parkplatz"
 housenumber: 

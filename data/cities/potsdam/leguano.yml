@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.394679100000005
 longitude: 13.061387600000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Humboldtstraße"
 housenumber: 1

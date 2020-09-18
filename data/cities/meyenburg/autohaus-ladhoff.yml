@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.3061738
 longitude: 12.235429700000001
-postcode: 16945
+postcode: "16945"
 city: Meyenburg
 street: "Pritzwalker Straße"
 housenumber: 30

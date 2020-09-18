@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.5311134
 longitude: 14.3825195
-postcode: 15306
+postcode: "15306"
 city: Seelow
 street: "Frankfurter Straße"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4866571
 longitude: 13.354588600000001
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Akazienstraße"
 housenumber: 27/28

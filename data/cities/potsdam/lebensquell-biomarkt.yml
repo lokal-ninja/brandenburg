@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4022171
 longitude: 13.048378900000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Hegelallee"
 housenumber: 23

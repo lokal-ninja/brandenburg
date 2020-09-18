@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 51.7444834
 longitude: 13.950319200000001
-postcode: 03205
+postcode: "03205"
 city: Calau
 street: "Lindenstraße"
 housenumber: 1

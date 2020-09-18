@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.5105306
 longitude: 13.396502100000001
-postcode: 10117
+postcode: "10117"
 city: Berlin
 street: "Leipziger Straße"
 housenumber: 44

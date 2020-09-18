@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.47877140000001
 longitude: 13.438471600000002
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Richardstraße"
 housenumber: 112

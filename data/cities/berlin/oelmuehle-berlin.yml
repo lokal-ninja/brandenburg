@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.503022800000004
 longitude: 13.3456694
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Keithstraße"
 housenumber: 13

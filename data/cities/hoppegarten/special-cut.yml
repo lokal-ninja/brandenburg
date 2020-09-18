@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5396146
 longitude: 13.644411300000002
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Am Grünzug"
 housenumber: 18

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5275632
 longitude: 13.3336261
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Emdener Straße"
 housenumber: 3

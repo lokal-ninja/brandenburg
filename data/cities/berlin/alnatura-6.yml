@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.511070800000006
 longitude: 13.3893114
-postcode: 10117
+postcode: "10117"
 city: Berlin
 street: "Friedrichstraße"
 housenumber: 191

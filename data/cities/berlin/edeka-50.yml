@@ -1,12 +1,12 @@
-id: 6487960322
+id: 6277944473
 type: node
 shop: Supermarkt
-latitude: 52.520116900000005
-longitude: 13.3199318
-postcode: 10587
+latitude: 52.507737600000006
+longitude: 13.5131475
+postcode: "10315"
 city: Berlin
-street: "Helmholtzstraße"
-housenumber: 3 c
-phone: ""
-opening_hours: ""
-website: ""
+street: "Massower Straße"
+housenumber: 5
+phone: "+49 30 51061729"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.edeka.de/eh/minden-hannover/edeka-lichtenberg-massower-str.-5/index.jsp"

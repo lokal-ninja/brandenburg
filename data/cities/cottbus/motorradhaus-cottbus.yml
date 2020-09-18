@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.771955600000005
 longitude: 14.3751677
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "Merzdorfer Weg"
 housenumber: 4a

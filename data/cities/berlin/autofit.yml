@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.5562419
 longitude: 13.3879967
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Wriezener Straße"
 housenumber: 42

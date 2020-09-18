@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.53840520000001
 longitude: 13.204569300000001
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Carl-Schurz-Straße"
 housenumber: 49

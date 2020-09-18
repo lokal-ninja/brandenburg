@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5280349
 longitude: 13.3337385
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Emdener Straße"
 housenumber: 6

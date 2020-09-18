@@ -3,7 +3,7 @@ type: node
 shop: Videothek
 latitude: 52.5320606
 longitude: 12.3297618
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Alte Hauptstraße"
 housenumber: 29

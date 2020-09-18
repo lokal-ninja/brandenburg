@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.166622700000005
 longitude: 14.264581300000001
-postcode: 15848
+postcode: "15848"
 city: Beeskow
 street: "Krügersdorfer Chaussee"
 housenumber: 10

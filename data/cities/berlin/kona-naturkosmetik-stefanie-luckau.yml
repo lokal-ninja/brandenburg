@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.489975900000005
 longitude: 13.319147200000002
-postcode: 10713
+postcode: "10713"
 city: Berlin
 street: "Sigmaringer Straße"
 housenumber: 26

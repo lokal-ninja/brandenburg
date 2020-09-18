@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5120895
 longitude: 13.4555497
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Grünberger Straße"
 housenumber: 47

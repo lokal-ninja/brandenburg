@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.4511977
 longitude: 13.338858400000001
-postcode: 12169
+postcode: "12169"
 city: Berlin
 street: "Steglitzer Damm"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4893969
 longitude: 13.354817800000001
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Vorbergstraße"
 housenumber: 9

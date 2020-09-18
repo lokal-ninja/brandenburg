@@ -3,7 +3,7 @@ type: way
 shop: Sanitätshaus
 latitude: 52.5079824
 longitude: 13.5628474
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Alt-Biesdorf"
 housenumber: 35

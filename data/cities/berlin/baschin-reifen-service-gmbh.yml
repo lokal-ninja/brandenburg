@@ -3,7 +3,7 @@ type: way
 shop: Autoteile
 latitude: 52.5015079
 longitude: 13.5617835
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Köpenicker Straße"
 housenumber: 60

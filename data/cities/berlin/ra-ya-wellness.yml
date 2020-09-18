@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.521088600000006
 longitude: 13.401738900000002
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Anna-Louisa-Karsch-Straße"
 housenumber: 3

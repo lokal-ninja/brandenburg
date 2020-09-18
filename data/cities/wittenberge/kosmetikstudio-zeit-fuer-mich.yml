@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 53.0070324
 longitude: 11.758962200000001
-postcode: 19322
+postcode: "19322"
 city: Wittenberge
 street: "An der Schwimmhalle"
 housenumber: 5a

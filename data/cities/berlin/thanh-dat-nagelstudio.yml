@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.51469530000001
 longitude: 13.3053152
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Thrasoltstraße"
 housenumber: 11

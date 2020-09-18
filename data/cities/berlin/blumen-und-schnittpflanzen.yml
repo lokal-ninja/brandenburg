@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.5039541
 longitude: 13.590757900000002
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Alt-Kaulsdorf"
 housenumber: 64

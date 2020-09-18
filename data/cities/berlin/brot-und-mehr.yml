@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5359406
 longitude: 13.400089900000001
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Anklamer Straße"
 housenumber: 32

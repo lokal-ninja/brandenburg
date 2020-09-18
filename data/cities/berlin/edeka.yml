@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.572417400000006
 longitude: 13.3085471
-postcode: 13403
+postcode: "13403"
 city: Berlin
 street: "Quäkerstraße"
 housenumber: 2

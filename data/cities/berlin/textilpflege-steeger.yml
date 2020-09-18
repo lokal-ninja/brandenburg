@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.4269674
 longitude: 13.216159500000002
-postcode: 14129
+postcode: "14129"
 city: Berlin
 street: "Potsdamer Chaussee"
 housenumber: 80

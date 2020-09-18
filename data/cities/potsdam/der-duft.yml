@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.4022646
 longitude: 13.0571598
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Friedrich-Ebert-Straße"
 housenumber: 89

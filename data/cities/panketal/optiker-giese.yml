@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.660414700000004
 longitude: 13.5340655
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Am Amtshaus"
 housenumber: 2

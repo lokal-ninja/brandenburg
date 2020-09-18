@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.341396
 longitude: 14.085173800000002
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Bahnhofstraße"
 housenumber: 22A

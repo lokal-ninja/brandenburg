@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.532420300000005
 longitude: 13.8361593
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Bahnhofstraße"
 housenumber: 6

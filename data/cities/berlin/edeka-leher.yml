@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4315738
 longitude: 13.714976100000001
-postcode: 12589
+postcode: "12589"
 city: Berlin
 street: "Fürstenwalder Allee"
 housenumber: 314

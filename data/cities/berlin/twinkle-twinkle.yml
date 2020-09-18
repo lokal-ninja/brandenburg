@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.534706400000005
 longitude: 13.4165992
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Kollwitzstraße"
 housenumber: 52

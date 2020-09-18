@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.452152000000005
 longitude: 13.5096336
-postcode: 12487
+postcode: "12487"
 city: Berlin
 street: "Sterndamm"
 housenumber: 15

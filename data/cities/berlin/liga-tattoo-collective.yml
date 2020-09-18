@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.489636600000004
 longitude: 13.449571500000001
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Karl-Kunger-Straße"
 housenumber: 25

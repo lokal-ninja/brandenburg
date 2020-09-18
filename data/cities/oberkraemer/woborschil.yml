@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.675121600000004
 longitude: 13.151212300000001
-postcode: 16727
+postcode: "16727"
 city: Oberkrämer
 street: "Berliner Straße"
 housenumber: 72

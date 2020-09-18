@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.3648888
 longitude: 13.092493200000002
-postcode: 14478
+postcode: "14478"
 city: Potsdam
 street: "Am Moosfenn"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Tiere
 latitude: 52.42102190000001
 longitude: 14.522061800000001
-postcode: 15326
+postcode: "15326"
 city: Lebus
 street: "Am Elisenberg"
 housenumber: 15C

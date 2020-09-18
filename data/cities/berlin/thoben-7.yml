@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.549876600000005
 longitude: 13.3525544
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 138

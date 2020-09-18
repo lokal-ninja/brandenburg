@@ -1,12 +1,12 @@
-id: 7243603338
+id: 6653396111
 type: node
 shop: Supermarkt
-latitude: 52.4557998
-longitude: 13.3869187
-postcode: 12099
+latitude: 52.476803700000005
+longitude: 13.438799600000001
+postcode: "12043"
 city: Berlin
-street: "Tempelhofer Damm"
-housenumber: 227
-phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: ""
+street: "Karl-Marx-Straße"
+housenumber: 142A
+phone: "+49 30 5210760620"
+opening_hours: "Mo-Sa 08:00-21:00"
+website: "https://www.biocompany.de/bio-company-markt-finden/l/berlin/karl-marx-strasse-142a/1201631"

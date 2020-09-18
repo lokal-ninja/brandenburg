@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4844401
 longitude: 13.384616000000001
-postcode: 12101
+postcode: "12101"
 city: Berlin
 street: "Manfred-von-Richthofen-Straße"
 housenumber: 4

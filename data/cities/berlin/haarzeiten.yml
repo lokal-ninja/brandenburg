@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.458325200000004
 longitude: 13.330959100000001
-postcode: 12169
+postcode: "12169"
 city: Berlin
 street: "Bergstraße"
 housenumber: 85

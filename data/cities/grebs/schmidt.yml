@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3391035
 longitude: 12.6564565
-postcode: 14797
+postcode: "14797"
 city: Grebs
 street: "Görnseestraße"
 housenumber: 19

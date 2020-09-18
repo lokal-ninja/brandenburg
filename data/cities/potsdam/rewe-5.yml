@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4126217
 longitude: 12.975415400000001
-postcode: 14476
+postcode: "14476"
 city: Potsdam
 street: "In der Feldmark"
 housenumber: 3

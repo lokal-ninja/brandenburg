@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.5012848
 longitude: 13.376070100000002
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Tempelhofer Ufer"
 housenumber: 37

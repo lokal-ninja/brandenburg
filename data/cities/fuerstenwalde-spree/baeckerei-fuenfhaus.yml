@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.3627352
 longitude: 14.061651300000001
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Eisenbahnstraße"
 housenumber: 

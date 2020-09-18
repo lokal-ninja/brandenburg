@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5062579
 longitude: 13.3115734
-postcode: 10625
+postcode: "10625"
 city: Berlin
 street: "Kantstraße"
 housenumber: 125

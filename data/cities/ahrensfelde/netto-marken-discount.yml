@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.5748351
 longitude: 13.5748847
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Dorfstraße"
 housenumber: 18

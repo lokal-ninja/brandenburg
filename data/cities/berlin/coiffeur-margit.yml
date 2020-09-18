@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.566955300000004
 longitude: 13.3481261
-postcode: 13407
+postcode: "13407"
 city: Berlin
 street: "Gotthardstraße"
 housenumber: 17

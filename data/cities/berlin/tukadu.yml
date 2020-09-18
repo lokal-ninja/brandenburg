@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.5245273
 longitude: 13.4031958
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 43

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.527611900000004
 longitude: 13.329160400000001
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 60

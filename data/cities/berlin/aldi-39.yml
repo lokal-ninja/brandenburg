@@ -1,12 +1,12 @@
-id: 35630907
+id: 31798400
 type: way
 shop: Supermarkt
-latitude: 52.5921576
-longitude: 13.2867052
-postcode: 13507
+latitude: 52.5415925
+longitude: 13.4366406
+postcode: "10409"
 city: Berlin
-street: "Buddestraße"
-housenumber: 32
+street: "Greifswalder Straße"
+housenumber: 168
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
 website: ""

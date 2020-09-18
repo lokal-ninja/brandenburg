@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4562145
 longitude: 13.6256365
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 68

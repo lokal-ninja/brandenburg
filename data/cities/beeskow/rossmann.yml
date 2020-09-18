@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.181960000000004
 longitude: 14.240422100000002
-postcode: 15848
+postcode: "15848"
 city: Beeskow
 street: "Fürstenwalder Straße"
 housenumber: 10b

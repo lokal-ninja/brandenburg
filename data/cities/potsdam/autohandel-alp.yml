@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.3862486
 longitude: 13.1044149
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Konsumhof"
 housenumber: 6

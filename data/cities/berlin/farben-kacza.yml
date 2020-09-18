@@ -3,7 +3,7 @@ type: node
 shop: Farben
 latitude: 52.5014497
 longitude: 13.418335200000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Oranienstraße"
 housenumber: 173

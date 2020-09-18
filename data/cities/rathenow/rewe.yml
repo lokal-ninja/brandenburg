@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.607211400000004
 longitude: 12.338051700000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Fehrbelliner Straße"
 housenumber: 39

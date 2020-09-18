@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.5050521
 longitude: 13.298379200000001
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Leonhardtstraße"
 housenumber: 3

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.1031205
 longitude: 12.6705556
-postcode: 14806
+postcode: "14806"
 city: Planetal
 street: "Feldstraße"
 housenumber: 2a-c

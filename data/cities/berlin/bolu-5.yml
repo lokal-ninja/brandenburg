@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.548931100000004
 longitude: 13.355191000000001
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 35

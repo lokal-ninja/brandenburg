@@ -1,12 +1,12 @@
 id: 1231231465
 type: node
 shop: Kleidung
-latitude: 52.4987147
-longitude: 13.325319200000001
-postcode: 10719
+latitude: 52.498747
+longitude: 13.3253246
+postcode: "10719"
 city: Berlin
 street: "Uhlandstraße"
 housenumber: 158
-phone: "+493066304616"
+phone: ""
 opening_hours: ""
-website: "https://www.andrews-martin.de/"
+website: ""

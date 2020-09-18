@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.352892700000005
 longitude: 14.5607403
-postcode: 69-100
+postcode: "69-100"
 city: Słubice
 street: "Plac Przyjaźni"
 housenumber: 19

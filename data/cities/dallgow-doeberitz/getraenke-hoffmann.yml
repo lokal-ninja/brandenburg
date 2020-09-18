@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.54141550000001
 longitude: 13.062535400000002
-postcode: 14624
+postcode: "14624"
 city: Dallgow-Döberitz
 street: "Wilmsstraße"
 housenumber: 49a

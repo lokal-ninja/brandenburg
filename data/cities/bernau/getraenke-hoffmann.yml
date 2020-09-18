@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.6656558
 longitude: 13.580469500000001
-postcode: 16321
+postcode: "16321"
 city: Bernau
 street: "Schwanebecker Chaussee"
 housenumber: 47

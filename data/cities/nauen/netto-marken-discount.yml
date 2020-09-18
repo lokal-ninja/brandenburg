@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.598992300000006
 longitude: 12.885410700000001
-postcode: 14641
+postcode: "14641"
 city: Nauen
 street: "Berliner Straße"
 housenumber: 76

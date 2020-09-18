@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.44614910000001
 longitude: 13.385448
-postcode: 12109
+postcode: "12109"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 74

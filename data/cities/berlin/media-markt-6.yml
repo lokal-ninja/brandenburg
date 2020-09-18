@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.4564151
 longitude: 13.509149500000001
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Schnellerstraße"
 housenumber: 21

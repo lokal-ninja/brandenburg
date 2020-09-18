@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.532850100000005
 longitude: 13.3500694
-postcode: 10559
+postcode: "10559"
 city: Berlin
 street: "Rathenower Straße"
 housenumber: 48

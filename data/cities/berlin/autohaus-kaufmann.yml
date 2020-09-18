@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4434465
 longitude: 13.3324248
-postcode: 12167
+postcode: "12167"
 city: Berlin
 street: "Birkbuschstraße"
 housenumber: 53a

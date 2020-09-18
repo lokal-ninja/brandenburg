@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.850225800000004
 longitude: 14.3980101
-postcode: 03185
+postcode: "03185"
 city: Peitz
 street: "Am Teufelsteich"
 housenumber: 6

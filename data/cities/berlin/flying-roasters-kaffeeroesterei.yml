@@ -3,7 +3,7 @@ type: node
 shop: Kaffee
 latitude: 52.5433456
 longitude: 13.3782326
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Hochstraße"
 housenumber: 43

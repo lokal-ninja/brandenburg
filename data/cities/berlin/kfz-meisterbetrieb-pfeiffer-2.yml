@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.432442
 longitude: 13.338622200000001
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 34

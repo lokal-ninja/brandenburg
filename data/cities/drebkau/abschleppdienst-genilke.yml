@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.6352209
 longitude: 14.1918872
-postcode: 03116
+postcode: "03116"
 city: Drebkau
 street: "Neupetershainer Straße"
 housenumber: 3

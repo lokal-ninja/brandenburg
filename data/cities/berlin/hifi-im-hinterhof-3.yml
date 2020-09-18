@@ -3,7 +3,7 @@ type: node
 shop: Hifi
 latitude: 52.494558500000004
 longitude: 13.383585400000001
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Großbeerenstraße"
 housenumber: 25

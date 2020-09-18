@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5623924
 longitude: 13.363742100000001
-postcode: 13407
+postcode: "13407"
 city: Berlin
 street: "Holländerstraße"
 housenumber: 129

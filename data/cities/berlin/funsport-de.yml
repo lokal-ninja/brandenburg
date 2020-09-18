@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.5210012
 longitude: 13.5677319
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Am Gewerbepark"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.505017800000005
 longitude: 13.3233806
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Grolmanstraße"
 housenumber: 48

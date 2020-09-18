@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.88178610000001
 longitude: 12.464080200000001
-postcode: 16868
+postcode: "16868"
 city: Wusterhausen/Dosse
 street: "Berliner Straße"
 housenumber: 47

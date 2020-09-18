@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 52.5644603
 longitude: 13.390374300000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Kattegatstraße"
 housenumber: 11

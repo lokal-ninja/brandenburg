@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5992401
 longitude: 13.3553312
-postcode: 13439
+postcode: "13439"
 city: Berlin
 street: "Senftenberger Ring"
 housenumber: 15 - 17

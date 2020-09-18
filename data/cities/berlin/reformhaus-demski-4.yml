@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.6329452
 longitude: 13.289367100000002
-postcode: 13465
+postcode: "13465"
 city: Berlin
 street: "Ludolfingerplatz"
 housenumber: 1a

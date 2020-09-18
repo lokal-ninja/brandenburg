@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 51.6913289
 longitude: 13.224783400000002
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Leipziger Straße"
 housenumber: 4

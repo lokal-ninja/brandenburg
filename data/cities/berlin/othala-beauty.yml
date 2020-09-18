@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5235593
 longitude: 13.401105900000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Oranienburger Straße"
 housenumber: 91

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.5428105
 longitude: 13.369481200000001
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Reinickendorfer Straße"
 housenumber: 116

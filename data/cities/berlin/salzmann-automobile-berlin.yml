@@ -1,12 +1,12 @@
-id: 5406775797
-type: node
+id: 458063173
+type: way
 shop: Autohaus
-latitude: 52.5704001
-longitude: 13.411124200000001
-postcode: 13187
+latitude: 52.5418913
+longitude: 13.5044555
+postcode: "13055"
 city: Berlin
-street: "Berliner Straße"
-housenumber: 129A
+street: "Lichtenauer Straße"
+housenumber: 51
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-14:00"
+opening_hours: ""
 website: ""

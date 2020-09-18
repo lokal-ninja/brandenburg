@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.5976147
 longitude: 13.6002348
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Möbel-Hübner-Straße"
 housenumber: 7

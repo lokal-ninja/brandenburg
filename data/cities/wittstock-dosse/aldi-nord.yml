@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 53.16428620000001
 longitude: 12.493664
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Röbeler Straße"
 housenumber: 1

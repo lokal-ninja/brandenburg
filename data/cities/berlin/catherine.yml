@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5026287
 longitude: 13.32168
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Knesebeckstraße"
 housenumber: 35-37

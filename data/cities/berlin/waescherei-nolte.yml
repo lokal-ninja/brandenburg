@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.49630440000001
 longitude: 13.294902700000002
-postcode: 10711
+postcode: "10711"
 city: Berlin
 street: "Westfälische Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Erotik
 latitude: 52.5522325
 longitude: 13.3563205
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Malplaquetstraße"
 housenumber: 61

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.5130799
 longitude: 13.461990700000001
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Mainzer Straße"
 housenumber: 10

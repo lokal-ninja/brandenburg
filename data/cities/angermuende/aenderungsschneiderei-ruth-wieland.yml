@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 53.0158083
 longitude: 13.9995364
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Berliner Straße"
 housenumber: 69

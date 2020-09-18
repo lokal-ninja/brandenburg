@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.2917215
 longitude: 14.0641066
-postcode: 15526
+postcode: "15526"
 city: Bad Saarow
 street: "Pieskower Straße"
 housenumber: 2A

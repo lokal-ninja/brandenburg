@@ -1,6 +1,6 @@
 ---
 title: Schönfließ
 url: /schoenfliess/
-latitude: 52.153868300000006
-longitude: 14.611321100000001
+latitude: 52.1538477
+longitude: 14.6112178
 ---

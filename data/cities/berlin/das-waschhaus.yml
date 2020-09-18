@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.4880356
 longitude: 13.3364831
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 169

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.753693000000005
 longitude: 13.228815800000001
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Kanalstraße"
 housenumber: 29

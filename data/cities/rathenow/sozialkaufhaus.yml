@@ -3,10 +3,10 @@ type: way
 shop: Warenhaus
 latitude: 52.61046940000001
 longitude: 12.3381754
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Kleine Waldemarstraße"
 housenumber: 4 a
-phone: "03385 / 499880"
+phone: "+49 3385 499880"
 opening_hours: ""
 website: ""

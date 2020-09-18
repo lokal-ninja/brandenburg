@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.121368800000006
 longitude: 13.4997574
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Martin-Luther-Straße"
 housenumber: 7

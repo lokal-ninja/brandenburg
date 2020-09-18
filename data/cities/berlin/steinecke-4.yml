@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.482516000000004
 longitude: 13.525308500000001
-postcode: 10318
+postcode: "10318"
 city: Berlin
 street: "Treskowallee"
 housenumber: 110

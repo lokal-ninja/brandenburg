@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4297692
 longitude: 13.327240100000001
-postcode: 12207
+postcode: "12207"
 city: Berlin
 street: "Jungfernstieg"
 housenumber: 4b

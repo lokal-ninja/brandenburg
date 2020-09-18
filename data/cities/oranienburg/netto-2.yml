@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7526121
 longitude: 13.214158500000002
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Germendorfer Allee"
 housenumber: 16c

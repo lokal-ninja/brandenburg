@@ -1,12 +1,12 @@
-id: 3175668831
+id: 3486395922
 type: node
 shop: Getränke
-latitude: 52.4729638
-longitude: 13.3038694
-postcode: 14197
+latitude: 52.412558800000006
+longitude: 13.569322300000001
+postcode: "12524"
 city: Berlin
-street: "Wiesbadener Straße"
-housenumber: 51a
-phone: "+49 30 8271 8255"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+street: "Bruno-Taut-Straße"
+housenumber: 8
+phone: "+49-30-54807944"
+opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.39862170000001
 longitude: 13.2465369
-postcode: 14513
+postcode: "14513"
 city: Teltow
 street: "Potsdamer Straße"
 housenumber: 12A

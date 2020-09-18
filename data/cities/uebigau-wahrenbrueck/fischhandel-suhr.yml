@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 51.6032876
 longitude: 13.338511100000002
-postcode: 04938
+postcode: "04938"
 city: Uebigau-Wahrenbrück
 street: "Dorfstraße"
 housenumber: 28a

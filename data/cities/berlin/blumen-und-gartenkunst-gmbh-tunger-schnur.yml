@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.524413100000004
 longitude: 13.3514595
-postcode: 10559
+postcode: "10559"
 city: Berlin
 street: "Alt-Moabit"
 housenumber: 21/22

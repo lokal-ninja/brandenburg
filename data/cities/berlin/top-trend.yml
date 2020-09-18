@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4377919
 longitude: 13.261714900000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Clayallee"
 housenumber: 329

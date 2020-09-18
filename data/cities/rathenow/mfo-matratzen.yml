@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.6079974
 longitude: 12.3261087
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Schwedendamm"
 housenumber: 2

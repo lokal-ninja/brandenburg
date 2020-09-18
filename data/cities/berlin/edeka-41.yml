@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.622570200000006
 longitude: 13.303260100000001
-postcode: 13467
+postcode: "13467"
 city: Berlin
 street: "Hohefeldstraße"
 housenumber: 21;23;25;27

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4006319
 longitude: 13.0571345
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 32

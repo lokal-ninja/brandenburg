@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.5067637
 longitude: 13.468586700000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Boxhagener Straße"
 housenumber: 56

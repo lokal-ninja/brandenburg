@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.561392600000005
 longitude: 13.389033900000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 74

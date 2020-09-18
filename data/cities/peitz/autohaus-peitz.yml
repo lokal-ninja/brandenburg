@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.853857500000004
 longitude: 14.4073176
-postcode: 03185
+postcode: "03185"
 city: Peitz
 street: "Cottbuser Straße"
 housenumber: 12 C

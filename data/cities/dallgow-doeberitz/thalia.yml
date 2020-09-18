@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5305076
 longitude: 13.0844169
-postcode: 14624
+postcode: "14624"
 city: Dallgow-Döberitz
 street: "Döberitzer Weg"
 housenumber: 3

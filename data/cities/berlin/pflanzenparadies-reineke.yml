@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.6085137
 longitude: 13.326820300000001
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Zabel-Krüger-Damm"
 housenumber: 14

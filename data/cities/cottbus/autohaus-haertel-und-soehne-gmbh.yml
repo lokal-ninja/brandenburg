@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.779536400000005
 longitude: 14.320304100000001
-postcode: 03044
+postcode: "03044"
 city: Cottbus
 street: "Lamsfelder Straße"
 housenumber: 1

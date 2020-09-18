@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.5470405
 longitude: 12.938850200000001
-postcode: 14641
+postcode: "14641"
 city: Wustermark
 street: "Hoppenrader Allee"
 housenumber: 9-11

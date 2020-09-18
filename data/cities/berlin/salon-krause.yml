@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4601121
 longitude: 13.309497100000002
-postcode: 12165
+postcode: "12165"
 city: Berlin
 street: "Grunewaldstraße"
 housenumber: 28

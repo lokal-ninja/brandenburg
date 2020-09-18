@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.490625200000004
 longitude: 13.4488505
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Bouchéstraße"
 housenumber: 20

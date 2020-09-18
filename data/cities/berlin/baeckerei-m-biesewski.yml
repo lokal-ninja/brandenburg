@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.532289000000006
 longitude: 13.435847500000001
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Pasteurstraße"
 housenumber: 32

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5255097
 longitude: 13.4052307
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Weinmeisterstraße"
 housenumber: 12-14

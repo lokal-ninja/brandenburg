@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.521861900000005
 longitude: 13.454251600000001
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Ebertystraße"
 housenumber: 22

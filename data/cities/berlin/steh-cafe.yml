@@ -3,7 +3,7 @@ type: way
 shop: Lotterie
 latitude: 52.5011188
 longitude: 13.412632400000001
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Ritterstraße"
 housenumber: 4-5

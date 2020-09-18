@@ -1,12 +1,12 @@
-id: 97621100
-type: way
+id: 4448105966
+type: node
 shop: Bestattungen
-latitude: 52.4389757
-longitude: 13.389268000000001
-postcode: 12107
+latitude: 52.4460502
+longitude: 13.3859575
+postcode: "12109"
 city: Berlin
-street: "Reißeckstraße"
-housenumber: 8
-phone: "+4930 7511011"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 08:30-12:30"
-website: "https://www.hahn-bestattungen.de/zentrale-alt-mariendorf/standorte/zentrale-alt-mariendorf-2601"
+street: "Mariendorfer Damm"
+housenumber: 73
+phone: "+4930 7061418"
+opening_hours: "Mo-Fr 08:30-17:00"
+website: "https://www.hahn-bestattungen.de/filiale-mariendorf/standorte/filiale-mariendorf-2601"

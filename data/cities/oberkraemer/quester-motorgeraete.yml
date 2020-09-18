@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.7137626
 longitude: 13.100742400000001
-postcode: 16727
+postcode: "16727"
 city: Oberkrämer
 street: "Am Mühlenstein"
 housenumber: 2a

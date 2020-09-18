@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.569392900000004
 longitude: 13.2467669
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Weststraße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.75990710000001
 longitude: 14.3351047
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Mühlenstraße"
 housenumber: 14 - 15

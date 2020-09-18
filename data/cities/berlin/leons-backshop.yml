@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4623836
 longitude: 13.5148524
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Wilhelminenhofstraße"
 housenumber: 17

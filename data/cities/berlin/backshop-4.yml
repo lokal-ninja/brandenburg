@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5124511
 longitude: 13.451806300000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Grünberger Straße"
 housenumber: 30

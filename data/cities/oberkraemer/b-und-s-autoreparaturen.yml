@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.6760619
 longitude: 13.1456751
-postcode: 16727
+postcode: "16727"
 city: Oberkrämer
 street: "Breite Straße"
 housenumber: 65

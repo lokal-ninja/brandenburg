@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5348265
 longitude: 13.496433300000001
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Landsberger Allee"
 housenumber: 277

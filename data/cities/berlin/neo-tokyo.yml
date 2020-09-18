@@ -3,7 +3,7 @@ type: node
 shop: Anime
 latitude: 52.5290435
 longitude: 13.4091196
-postcode: 10119
+postcode: "10119"
 city: Berlin
 street: "Schönhauser Allee"
 housenumber: 188

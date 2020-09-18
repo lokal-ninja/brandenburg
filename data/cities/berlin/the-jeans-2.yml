@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.457590700000004
 longitude: 13.383823000000001
-postcode: 12099
+postcode: "12099"
 city: Berlin
 street: "Tempelhofer Damm"
 housenumber: 208

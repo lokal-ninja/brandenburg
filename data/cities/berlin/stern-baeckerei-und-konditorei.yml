@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.565762500000005
 longitude: 13.3786432
-postcode: 13409
+postcode: "13409"
 city: Berlin
 street: "Provinzstraße"
 housenumber: 34

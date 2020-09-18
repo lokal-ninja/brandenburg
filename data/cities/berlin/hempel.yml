@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.439158400000004
 longitude: 13.2156365
-postcode: 
+postcode: ""
 city: Berlin
 street: "Breisgauer Straße"
 housenumber: 1-3

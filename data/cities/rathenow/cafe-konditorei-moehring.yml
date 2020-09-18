@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.6143013
 longitude: 12.357340500000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Theodor-Lessing-Straße"
 housenumber: 20

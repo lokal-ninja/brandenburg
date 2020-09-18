@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 53.121071900000004
 longitude: 13.5075126
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Prenzlauer Allee"
 housenumber: 76

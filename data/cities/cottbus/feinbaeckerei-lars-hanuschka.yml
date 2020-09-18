@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 51.710533600000005
 longitude: 14.355461100000001
-postcode: 03051
+postcode: "03051"
 city: Cottbus
 street: "Gallinchener Hauptstraße"
 housenumber: 45

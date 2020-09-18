@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.4898655
 longitude: 13.405564100000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Südstern"
 housenumber: 2

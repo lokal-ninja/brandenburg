@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.465811200000005
 longitude: 13.3277076
-postcode: 12161
+postcode: "12161"
 city: Berlin
 street: "Walther-Schreiber-Platz"
 housenumber: 1

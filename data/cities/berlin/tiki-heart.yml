@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.497525800000005
 longitude: 13.430975700000001
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Wiener Straße"
 housenumber: 20

@@ -3,7 +3,7 @@ type: way
 shop: Kramladen
 latitude: 52.6462183
 longitude: 13.5320397
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Wilhelm-Tell-Weg"
 housenumber: 10

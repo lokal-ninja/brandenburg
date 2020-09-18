@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 52.533302600000006
 longitude: 13.4292251
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 204

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.636815000000006
 longitude: 13.727677700000001
-postcode: 03238
+postcode: "03238"
 city: Massen-Niederlausitz
 street: "Turmstraße"
 housenumber: 1

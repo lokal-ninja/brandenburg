@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.8337018
 longitude: 13.819539200000001
-postcode: 16225
+postcode: "16225"
 city: Eberswalde
 street: "Friedrich-Ebert-Straße"
 housenumber: 18

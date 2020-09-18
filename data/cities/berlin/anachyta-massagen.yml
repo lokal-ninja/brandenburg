@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.515803500000004
 longitude: 13.463113300000002
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Silvio-Meier-Straße"
 housenumber: 13

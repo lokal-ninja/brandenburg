@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.507729700000006
 longitude: 13.428695900000001
-postcode: 10997
+postcode: "10997"
 city: Berlin
 street: "Köpenicker Straße"
 housenumber: 26-29

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5704113
 longitude: 13.405423
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Breite Straße"
 housenumber: 20

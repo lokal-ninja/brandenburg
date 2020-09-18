@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.549092800000004
 longitude: 13.5964267
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Landsberger Chaussee"
 housenumber: 17

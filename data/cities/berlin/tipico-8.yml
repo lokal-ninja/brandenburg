@@ -1,12 +1,12 @@
-id: 112263236
-type: way
+id: 7659449496
+type: node
 shop: Wettbüro
-latitude: 52.438717200000006
-longitude: 13.271462000000001
-postcode: 14169
+latitude: 52.48152820000001
+longitude: 13.3476584
+postcode: "10827"
 city: Berlin
-street: "Berliner Straße"
-housenumber: 45a
+street: "Hauptstraße"
+housenumber: 52
 phone: ""
 opening_hours: ""
 website: ""

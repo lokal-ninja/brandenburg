@@ -3,7 +3,7 @@ type: way
 shop: Getränke
 latitude: 52.6522682
 longitude: 13.542254900000001
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Alt Zepernick"
 housenumber: 6

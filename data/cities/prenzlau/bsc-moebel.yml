@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 53.3238439
 longitude: 13.862781900000002
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Gartenstraße"
 housenumber: 2

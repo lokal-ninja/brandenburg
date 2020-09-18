@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.512509900000005
 longitude: 13.304883
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 32-33

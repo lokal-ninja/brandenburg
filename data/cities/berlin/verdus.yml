@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.504549700000005
 longitude: 13.2987651
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Leonhardtstraße"
 housenumber: 25

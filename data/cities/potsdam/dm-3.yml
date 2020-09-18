@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4236633
 longitude: 13.053858
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Nedlitzer Straße"
 housenumber: 19b

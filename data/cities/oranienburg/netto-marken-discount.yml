@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7470755
 longitude: 13.1888848
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Straße am Globus"
 housenumber: 2

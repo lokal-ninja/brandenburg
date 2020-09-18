@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.513154500000006
 longitude: 13.394307600000001
-postcode: 
+postcode: ""
 city: Berlin
 street: "Taubenstraße"
 housenumber: 

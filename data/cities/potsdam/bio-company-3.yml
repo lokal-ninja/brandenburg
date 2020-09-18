@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4012217
 longitude: 13.054711200000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Gutenbergstraße"
 housenumber: 20-22

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.4847569
 longitude: 13.429043
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Reuterstraße"
 housenumber: 20

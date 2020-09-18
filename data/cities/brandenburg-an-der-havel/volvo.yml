@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4145267
 longitude: 12.5077374
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Carl-Reichstein-Straße"
 housenumber: 27

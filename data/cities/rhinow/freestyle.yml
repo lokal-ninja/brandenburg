@@ -3,10 +3,10 @@ type: way
 shop: Friseur
 latitude: 52.7496688
 longitude: 12.339106200000002
-postcode: 14728
+postcode: "14728"
 city: Rhinow
 street: "Ernst-Thälmann-Straße"
-housenumber: 48
+housenumber: 48a
 phone: ""
 opening_hours: ""
 website: ""

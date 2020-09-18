@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.438555300000004
 longitude: 13.3879906
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 145

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.426492
 longitude: 13.329419000000001
-postcode: 12209
+postcode: "12209"
 city: Berlin
 street: "Ferdinandstraße"
 housenumber: 26

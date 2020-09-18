@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6660514
 longitude: 13.379619400000001
-postcode: 16567
+postcode: "16567"
 city: Mühlenbecker Land
 street: "Hauptstraße"
 housenumber: 34-38

@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.5337794
 longitude: 13.4781253
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Landsberger Allee"
 housenumber: 205

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.489145300000004
 longitude: 13.4512227
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Plesser Straße"
 housenumber: 7

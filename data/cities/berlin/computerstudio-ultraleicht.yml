@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.45224150000001
 longitude: 13.5095203
-postcode: 12487
+postcode: "12487"
 city: Berlin
 street: "Sterndamm"
 housenumber: 15

@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.5433761
 longitude: 13.442770800000002
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 90

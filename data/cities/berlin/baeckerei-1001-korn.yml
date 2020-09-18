@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.41719620000001
 longitude: 13.399287000000001
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 422

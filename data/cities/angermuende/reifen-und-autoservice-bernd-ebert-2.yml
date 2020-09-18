@@ -3,7 +3,7 @@ type: node
 shop: Reifen
 latitude: 53.0156113
 longitude: 14.016163800000001
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Mudrowweg"
 housenumber: 40

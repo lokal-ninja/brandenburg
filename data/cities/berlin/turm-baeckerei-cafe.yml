@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.527430700000004
 longitude: 13.3302913
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 56

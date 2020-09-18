@@ -3,7 +3,7 @@ type: node
 shop: Tee
 latitude: 52.53716300000001
 longitude: 13.434574900000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 51

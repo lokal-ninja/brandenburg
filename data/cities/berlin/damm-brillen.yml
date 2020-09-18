@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.490995500000004
 longitude: 13.323373100000001
-postcode: 10717
+postcode: "10717"
 city: Berlin
 street: "Uhlandstraße"
 housenumber: 126

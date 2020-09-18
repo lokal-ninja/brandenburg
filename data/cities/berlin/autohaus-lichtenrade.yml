@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.4133901
 longitude: 13.4024149
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Lichtenrader Damm"
 housenumber: 13

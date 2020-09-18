@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.5716261
 longitude: 13.408914300000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Ossietzkystraße"
 housenumber: 4

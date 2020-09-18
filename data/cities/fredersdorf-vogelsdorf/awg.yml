@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 52.5219937
 longitude: 13.7557687
-postcode: 15370
+postcode: "15370"
 city: Fredersdorf-Vogelsdorf
 street: "Petershagener Straße"
 housenumber: 67

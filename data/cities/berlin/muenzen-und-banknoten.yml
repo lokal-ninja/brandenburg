@@ -3,7 +3,7 @@ type: node
 shop: Sammler
 latitude: 52.5669642
 longitude: 13.397662200000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 117

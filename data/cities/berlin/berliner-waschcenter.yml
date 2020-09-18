@@ -3,7 +3,7 @@ type: node
 shop: Wäscherei
 latitude: 52.516077200000005
 longitude: 13.304799200000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 159

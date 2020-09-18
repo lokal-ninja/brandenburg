@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5121589
 longitude: 13.460719300000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Boxhagener Straße"
 housenumber: 35

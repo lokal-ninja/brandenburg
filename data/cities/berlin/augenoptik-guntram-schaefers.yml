@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5121917
 longitude: 13.305287000000002
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Wilmersdorfer Straße"
 housenumber: 140

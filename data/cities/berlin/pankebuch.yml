@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.569447000000004
 longitude: 13.399152200000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Wilhelm-Kuhr-Straße"
 housenumber: 5

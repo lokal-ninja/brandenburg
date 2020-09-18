@@ -1,12 +1,12 @@
 id: 245261389
 type: node
 shop: Supermarkt
-latitude: 52.552311100000004
-longitude: 13.348147
-postcode: 13349
+latitude: 52.5524232
+longitude: 13.348066500000002
+postcode: "13349"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 128
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.aldi-nord.de/"
+website: ""

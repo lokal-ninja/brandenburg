@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.513757600000005
 longitude: 13.4553942
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Boxhagener Straße"
 housenumber: 117

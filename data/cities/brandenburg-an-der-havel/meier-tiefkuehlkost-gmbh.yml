@@ -3,7 +3,7 @@ type: node
 shop: Großhandel
 latitude: 52.418983100000005
 longitude: 12.5224779
-postcode: 14770
+postcode: "14770"
 city: Brandenburg an der Havel
 street: "Spittastraße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.750595600000004
 longitude: 14.3295721
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Görlitzer Straße"
 housenumber: 17

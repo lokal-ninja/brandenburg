@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4709529
 longitude: 13.4456029
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Braunschweiger Straße"
 housenumber: 58

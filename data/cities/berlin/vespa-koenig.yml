@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 52.564967700000004
 longitude: 13.328618100000002
-postcode: 13403
+postcode: "13403"
 city: Berlin
 street: "Ollenhauerstraße"
 housenumber: 7

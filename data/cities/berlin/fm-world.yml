@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.53603510000001
 longitude: 13.376592700000002
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Chausseestraße"
 housenumber: 55

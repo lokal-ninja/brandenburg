@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.432822
 longitude: 13.535100400000001
-postcode: 12489
+postcode: "12489"
 city: Berlin
 street: "Rudower Chaussee"
 housenumber: 12

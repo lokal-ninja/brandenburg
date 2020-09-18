@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.1062121
 longitude: 12.8957853
-postcode: 16831
+postcode: "16831"
 city: Rheinsberg
 street: "Dr.-Martin-Henning-Straße"
 housenumber: 14

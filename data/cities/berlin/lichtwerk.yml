@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.531069
 longitude: 13.310431000000001
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Gaußstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.511344400000006
 longitude: 13.4524697
-postcode: 
+postcode: ""
 city: Berlin
 street: "Warschauer Straße"
 housenumber: 68

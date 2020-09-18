@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.765751400000006
 longitude: 13.2435036
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Sachsenhausener Straße"
 housenumber: 24a

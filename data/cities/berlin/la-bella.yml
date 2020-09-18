@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.552885100000005
 longitude: 13.386678600000002
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Bellermannstraße"
 housenumber: 14

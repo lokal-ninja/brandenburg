@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.564744100000006
 longitude: 13.523868
-postcode: 13057
+postcode: "13057"
 city: Berlin
 street: "Vincent-van-Gogh-Straße"
 housenumber: 18A

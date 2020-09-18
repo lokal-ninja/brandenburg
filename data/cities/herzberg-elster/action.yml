@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 51.6959474
 longitude: 13.237768
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Kaxdorfer Weg"
 housenumber: 1

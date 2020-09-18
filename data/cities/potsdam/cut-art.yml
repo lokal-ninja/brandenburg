@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3927813
 longitude: 13.091608
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Karl-Liebknecht-Straße"
 housenumber: 134a

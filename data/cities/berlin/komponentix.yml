@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5451762
 longitude: 13.426259000000002
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Kanzowstraße"
 housenumber: 15

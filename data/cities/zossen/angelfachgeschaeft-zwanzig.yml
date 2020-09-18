@@ -3,7 +3,7 @@ type: node
 shop: Angeln
 latitude: 52.21576640000001
 longitude: 13.448170500000002
-postcode: 15806
+postcode: "15806"
 city: Zossen
 street: "Berliner Straße"
 housenumber: 1

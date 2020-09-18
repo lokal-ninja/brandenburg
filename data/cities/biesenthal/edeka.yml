@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7660763
 longitude: 13.6429547
-postcode: 16359
+postcode: "16359"
 city: Biesenthal
 street: "Eberswalder Chaussee"
 housenumber: 1

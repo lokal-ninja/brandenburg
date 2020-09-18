@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5498144
 longitude: 13.3878211
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Badstraße"
 housenumber: 4

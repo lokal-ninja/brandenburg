@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3638799
 longitude: 14.5250883
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Berliner Chaussee"
 housenumber: 101a

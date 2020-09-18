@@ -3,10 +3,10 @@ type: node
 shop: Friseur
 latitude: 52.6007747
 longitude: 12.351185200000002
-postcode: 
+postcode: "14712"
 city: Rathenow
 street: "Bahnhofstraße"
 housenumber: 11
-phone: "499523"
+phone: "+49 3385 499523"
 opening_hours: ""
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 53.316936500000004
 longitude: 13.9508217
-postcode: 17291
+postcode: "17291"
 city: Grünow
 street: "Lindenstraße"
 housenumber: 31

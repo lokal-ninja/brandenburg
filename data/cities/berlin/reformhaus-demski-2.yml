@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.632108800000005
 longitude: 13.289192600000002
-postcode: 13465
+postcode: "13465"
 city: Berlin
 street: "Welfenallee"
 housenumber: 1

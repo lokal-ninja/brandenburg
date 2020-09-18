@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.611335100000005
 longitude: 12.3296209
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Schlachthausstraße"
 housenumber: 8 a

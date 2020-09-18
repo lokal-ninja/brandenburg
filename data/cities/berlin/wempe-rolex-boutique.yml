@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.5005314
 longitude: 13.314122200000002
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 184

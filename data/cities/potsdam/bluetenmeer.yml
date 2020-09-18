@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.3996744
 longitude: 13.053204200000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 22

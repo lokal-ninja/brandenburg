@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4707024
 longitude: 13.432408400000002
-postcode: 12053
+postcode: "12053"
 city: Berlin
 street: "Altenbraker Straße"
 housenumber: 15

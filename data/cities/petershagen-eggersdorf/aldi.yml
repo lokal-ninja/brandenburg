@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.531679000000004
 longitude: 13.8059113
-postcode: 15345
+postcode: "15345"
 city: Petershagen/Eggersdorf
 street: "Am Fuchsbau"
 housenumber: 4

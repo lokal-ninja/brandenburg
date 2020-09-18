@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.5083306
 longitude: 13.295564200000001
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Steifensandstraße"
 housenumber: 1

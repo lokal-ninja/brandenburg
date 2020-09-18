@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.4972277
 longitude: 13.7463458
-postcode: 15370
+postcode: "15370"
 city: Fredersdorf-Vogelsdorf
 street: "Frankfurter Chaussee"
 housenumber: 51

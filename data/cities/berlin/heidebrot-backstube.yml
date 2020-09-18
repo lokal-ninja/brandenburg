@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5615181
 longitude: 13.2135542
-postcode: 13587
+postcode: "13587"
 city: Berlin
 street: "Goltzstraße"
 housenumber: 15-17

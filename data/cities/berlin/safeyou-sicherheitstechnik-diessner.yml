@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.452926600000005
 longitude: 13.5753965
-postcode: 12555
+postcode: "12555"
 city: Berlin
 street: "Friedrichshagener Straße"
 housenumber: 58

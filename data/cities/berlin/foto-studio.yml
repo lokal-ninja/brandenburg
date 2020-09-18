@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.4539653
 longitude: 13.625352800000002
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 55

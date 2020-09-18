@@ -3,7 +3,7 @@ type: way
 shop: Gemüse & Obst
 latitude: 51.7183233
 longitude: 14.288380900000002
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Annahofer Graben"
 housenumber: 13

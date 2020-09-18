@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.558242500000006
 longitude: 13.489767
-postcode: 13088
+postcode: "13088"
 city: Berlin
 street: "Hansastraße"
 housenumber: 187

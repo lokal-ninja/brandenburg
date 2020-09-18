@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 53.016190200000004
 longitude: 14.000102900000002
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Berliner Straße"
 housenumber: 65

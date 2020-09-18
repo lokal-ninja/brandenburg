@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.58228930000001
 longitude: 13.4107014
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Blankenburger Straße"
 housenumber: 41

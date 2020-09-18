@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 53.1191304
 longitude: 13.482609
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Röddeliner Straße"
 housenumber: 33

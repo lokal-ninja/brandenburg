@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.536165000000004
 longitude: 13.4207575
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Wörther Straße"
 housenumber: 28

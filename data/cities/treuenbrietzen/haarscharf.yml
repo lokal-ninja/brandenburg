@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.0884069
 longitude: 12.8530724
-postcode: 14929
+postcode: "14929"
 city: Treuenbrietzen
 street: "Leipziger Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.111799600000005
 longitude: 13.532499900000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Am Lübbesee"
 housenumber: 10

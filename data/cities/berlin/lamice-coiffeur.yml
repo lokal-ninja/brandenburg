@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5019483
 longitude: 13.3334898
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Rankestraße"
 housenumber: 26

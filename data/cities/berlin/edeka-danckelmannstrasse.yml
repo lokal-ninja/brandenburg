@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.517675800000006
 longitude: 13.290531000000001
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Danckelmannstraße"
 housenumber: 57-60

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.588923300000005
 longitude: 13.284014500000001
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 5

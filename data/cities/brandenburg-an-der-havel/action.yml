@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.4320254
 longitude: 12.5344992
-postcode: 14772
+postcode: "14772"
 city: Brandenburg an der Havel
 street: "Upstallstraße"
 housenumber: 15

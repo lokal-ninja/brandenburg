@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.565629200000004
 longitude: 13.395729000000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 110

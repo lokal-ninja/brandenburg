@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.483607500000005
 longitude: 13.360462700000001
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Gotenstraße"
 housenumber: 74

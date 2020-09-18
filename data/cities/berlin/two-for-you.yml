@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4419162
 longitude: 13.2942219
-postcode: 12205
+postcode: "12205"
 city: Berlin
 street: "Curtiusstraße"
 housenumber: 13

@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.6058442
 longitude: 13.807257300000002
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: "Dorfstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5905586
 longitude: 13.301669200000001
-postcode: 13509
+postcode: "13509"
 city: Berlin
 street: "Oeserstraße"
 housenumber: 64

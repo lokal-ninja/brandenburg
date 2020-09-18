@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5371795
 longitude: 13.5090882
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Schalkauer Straße"
 housenumber: 27

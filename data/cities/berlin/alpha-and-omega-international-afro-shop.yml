@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4881174
 longitude: 13.4263919
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Weserstraße"
 housenumber: 3-4

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.4633954
 longitude: 13.365080200000001
-postcode: 12103
+postcode: "12103"
 city: Berlin
 street: "Bessemerstraße"
 housenumber: 42A

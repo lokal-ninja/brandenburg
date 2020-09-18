@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.539612000000005
 longitude: 13.411061
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Kastanienallee"
 housenumber: 100

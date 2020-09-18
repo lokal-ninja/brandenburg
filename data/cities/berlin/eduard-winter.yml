@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.416533300000005
 longitude: 13.283208400000001
-postcode: 14167
+postcode: "14167"
 city: Berlin
 street: "Goerzallee"
 housenumber: 251

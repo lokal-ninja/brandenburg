@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5191772
 longitude: 13.610541900000001
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Ernst-Haeckel-Straße"
 housenumber: 14

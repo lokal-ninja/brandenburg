@@ -1,12 +1,12 @@
-id: 48957839
+id: 46549327
 type: way
 shop: Supermarkt
-latitude: 52.43681
-longitude: 13.4474098
-postcode: 12359
+latitude: 52.422803300000005
+longitude: 13.312581900000001
+postcode: "12207"
 city: Berlin
-street: "Gutschmidtstraße"
-housenumber: 19
-phone: "+4930670669990"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/Home/04_Kundenservice/004_Filialsuche/index.jsp"
+street: "Ostpreußendamm"
+housenumber: 60
+phone: "+49 30 754447780"
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+website: "https://www.kaufland.de/"

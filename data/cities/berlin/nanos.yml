@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.500586600000005
 longitude: 13.310366100000001
-postcode: 10707
+postcode: "10707"
 city: Berlin
 street: "Kurfürstendamm"
 housenumber: 64

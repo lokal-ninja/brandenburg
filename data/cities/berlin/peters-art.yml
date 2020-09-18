@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 52.552936300000006
 longitude: 13.372572300000002
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Gottschedstraße"
 housenumber: 26

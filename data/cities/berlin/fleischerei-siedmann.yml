@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.4752572
 longitude: 13.291748
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Breite Straße"
 housenumber: 22a

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.535257900000005
 longitude: 12.327631700000001
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Alte Hauptstraße"
 housenumber: 4 - 12

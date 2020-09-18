@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.51802180000001
 longitude: 13.465421000000001
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Bänschstraße"
 housenumber: 52

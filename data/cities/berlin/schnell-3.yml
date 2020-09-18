@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5168186
 longitude: 13.3076317
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Otto-Suhr-Allee"
 housenumber: 101/103

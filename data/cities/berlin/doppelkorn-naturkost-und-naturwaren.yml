@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.610110000000006
 longitude: 13.248777700000002
-postcode: 13503
+postcode: "13503"
 city: Berlin
 street: "Keilerstraße"
 housenumber: 19

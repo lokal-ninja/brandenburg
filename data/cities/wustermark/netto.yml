@@ -1,12 +1,12 @@
-id: 199025151
-type: way
+id: 7572510631
+type: node
 shop: Supermarkt
-latitude: 52.539529300000005
-longitude: 12.9985491
-postcode: 14641
+latitude: 52.539505600000005
+longitude: 12.9989691
+postcode: "14641"
 city: Wustermark
 street: "Rosa-Luxemburg-Allee"
 housenumber: 32
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 09:00-21:00"
 website: ""

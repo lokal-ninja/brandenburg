@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.4766935
 longitude: 13.4497739
-postcode: 12059
+postcode: "12059"
 city: Berlin
 street: "Sonnenallee"
 housenumber: 180

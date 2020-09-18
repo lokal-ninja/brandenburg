@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.5665367
 longitude: 13.7283311
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: "Bernauer Straße"
 housenumber: 

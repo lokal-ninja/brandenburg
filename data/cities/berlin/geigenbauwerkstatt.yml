@@ -3,7 +3,7 @@ type: node
 shop: Instrumente
 latitude: 52.455592100000004
 longitude: 13.3259298
-postcode: 12169
+postcode: "12169"
 city: Berlin
 street: "Heesestraße"
 housenumber: 1

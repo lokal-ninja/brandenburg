@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.5299983
 longitude: 12.339746700000001
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Schillerstraße"
 housenumber: 1

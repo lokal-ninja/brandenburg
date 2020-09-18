@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5249407
 longitude: 13.4012965
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

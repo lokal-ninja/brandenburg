@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.213337700000004
 longitude: 13.2921074
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Fontanestraße"
 housenumber: 6

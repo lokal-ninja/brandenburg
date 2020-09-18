@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.510132000000006
 longitude: 13.2801597
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Kaiserdamm"
 housenumber: 29

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.53006250000001
 longitude: 13.3860966
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Schlegelstraße"
 housenumber: 26

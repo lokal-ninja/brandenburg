@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.48924280000001
 longitude: 13.3946471
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Marheinekeplatz"
 housenumber: 15

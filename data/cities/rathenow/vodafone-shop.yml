@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.6066428
 longitude: 12.3382248
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Berliner Straße"
 housenumber: 77

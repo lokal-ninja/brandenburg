@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.543349400000004
 longitude: 13.634438800000002
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Berliner Straße"
 housenumber: 13a

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.5240079
 longitude: 13.4620289
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Hermann-Blankenstein-Straße"
 housenumber: 38

@@ -3,7 +3,7 @@ type: node
 shop: Gasflaschen
 latitude: 52.5214361
 longitude: 13.314835
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Darwinstraße"
 housenumber: 11

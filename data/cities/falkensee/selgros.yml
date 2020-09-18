@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 52.555420600000005
 longitude: 13.1015137
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Straße der Einheit"
 housenumber: 122-128

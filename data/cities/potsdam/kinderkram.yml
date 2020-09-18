@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.400619500000005
 longitude: 13.0533897
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 15

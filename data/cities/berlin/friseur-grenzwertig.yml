@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5086876
 longitude: 13.458122600000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Simplonstraße"
 housenumber: 16

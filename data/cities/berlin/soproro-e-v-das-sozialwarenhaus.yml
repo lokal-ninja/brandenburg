@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.59398830000001
 longitude: 13.3338938
-postcode: 13437
+postcode: "13437"
 city: Berlin
 street: "Roedernallee"
 housenumber: 89

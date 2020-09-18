@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.503005200000004
 longitude: 13.320673000000001
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Mommsenstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.534974600000005
 longitude: 13.399086100000002
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Anklamer Straße"
 housenumber: 17

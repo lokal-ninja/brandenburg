@@ -3,7 +3,7 @@ type: node
 shop: Bestattungen
 latitude: 52.398815000000006
 longitude: 13.0509403
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 15

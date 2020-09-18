@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4430939
 longitude: 13.297565
-postcode: 12203
+postcode: "12203"
 city: Berlin
 street: "Gardeschützenweg"
 housenumber: 138

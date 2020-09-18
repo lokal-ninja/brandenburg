@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.7124467
 longitude: 13.277222700000001
-postcode: 16556
+postcode: "16556"
 city: Hohen Neuendorf
 street: "Berliner Straße"
 housenumber: 12a

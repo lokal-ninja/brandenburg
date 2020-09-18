@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.365086700000006
 longitude: 13.093284800000001
-postcode: 14478
+postcode: "14478"
 city: Potsdam
 street: "Am Moosfenn"
 housenumber: 1

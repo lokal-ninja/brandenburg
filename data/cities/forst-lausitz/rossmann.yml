@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 51.744594500000005
 longitude: 14.645731300000001
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Promenade"
 housenumber: 2

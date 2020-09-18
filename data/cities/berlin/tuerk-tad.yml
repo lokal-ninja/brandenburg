@@ -3,7 +3,7 @@ type: way
 shop: Großhandel
 latitude: 52.46557730000001
 longitude: 13.3677354
-postcode: 12103
+postcode: "12103"
 city: Berlin
 street: "Bessemerstraße"
 housenumber: 13;15;17;19

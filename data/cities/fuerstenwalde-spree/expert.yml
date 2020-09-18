@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3361092
 longitude: 14.0807733
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Alte Langewahler Chaussee"
 housenumber: 11

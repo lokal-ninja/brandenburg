@@ -3,7 +3,7 @@ type: node
 shop: Gemüse & Obst
 latitude: 52.535973500000004
 longitude: 13.3228913
-postcode: 10553
+postcode: "10553"
 city: Berlin
 street: "Beusselstraße"
 housenumber: 44 n-q

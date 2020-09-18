@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.3699054
 longitude: 13.1345138
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Stern-Center"
 housenumber: 1-10

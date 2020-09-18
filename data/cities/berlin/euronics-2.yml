@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.48867370000001
 longitude: 13.3429242
-postcode: 10825
+postcode: "10825"
 city: Berlin
 street: "Grunewaldstraße"
 housenumber: 61-62

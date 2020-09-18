@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 53.0704306
 longitude: 11.858075600000001
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "August-Bebel-Straße"
 housenumber: 1a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00"
 website: ""

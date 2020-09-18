@@ -3,7 +3,7 @@ type: node
 shop: Handy
 latitude: 53.1201061
 longitude: 13.5005404
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Mühlenstraße"
 housenumber: 33

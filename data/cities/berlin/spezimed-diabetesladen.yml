@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.567694800000005
 longitude: 13.411874800000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 13b

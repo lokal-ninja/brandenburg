@@ -3,7 +3,7 @@ type: node
 shop: E-Zigaretten
 latitude: 52.5397004
 longitude: 13.2963363
-postcode: 13627
+postcode: "13627"
 city: Berlin
 street: "Heckerdamm"
 housenumber: 240

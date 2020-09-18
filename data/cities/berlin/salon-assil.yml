@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.527967700000005
 longitude: 13.3269455
-postcode: 10553
+postcode: "10553"
 city: Berlin
 street: "Rostocker Straße"
 housenumber: 1A

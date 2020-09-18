@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3493214
 longitude: 13.0064164
-postcode: 14548
+postcode: "14548"
 city: Schwielowsee
 street: "Lindenstraße"
 housenumber: 25

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.534708800000004
 longitude: 13.551623300000001
-postcode: 12685
+postcode: "12685"
 city: Berlin
 street: "Allee der Kosmonauten"
 housenumber: 151

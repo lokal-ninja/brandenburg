@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.416706600000005
 longitude: 13.399531300000001
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Mariendorfer Damm"
 housenumber: 428-430

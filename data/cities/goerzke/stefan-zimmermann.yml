@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.171873000000005
 longitude: 12.367569600000001
-postcode: 14828
+postcode: "14828"
 city: Görzke
 street: "Breite Straße"
 housenumber: 147

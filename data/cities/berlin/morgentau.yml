@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.5321634
 longitude: 13.4235027
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Winsstraße"
 housenumber: 67

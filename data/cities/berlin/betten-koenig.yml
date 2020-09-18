@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.38652750000001
 longitude: 13.401774600000001
-postcode: 12305
+postcode: "12305"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 

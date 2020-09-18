@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5063449
 longitude: 13.386459200000001
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Kochstraße"
 housenumber: 1

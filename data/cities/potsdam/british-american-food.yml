@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.39970700000001
 longitude: 13.054339500000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Dortustraße"
 housenumber: 53

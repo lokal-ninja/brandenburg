@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5065722
 longitude: 13.5032721
-postcode: 10315
+postcode: "10315"
 city: Berlin
 street: "Zachertstraße"
 housenumber: 14

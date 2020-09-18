@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 53.158208900000005
 longitude: 12.4557853
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Uetersener Straße"
 housenumber: 2
-phone: "03394-401824"
+phone: "+49 3394 401824"
 opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-16:00"
 website: ""

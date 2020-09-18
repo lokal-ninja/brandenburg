@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.399301900000005
 longitude: 13.0548818
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 28

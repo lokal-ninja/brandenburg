@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4863603
 longitude: 13.4307561
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Pannierstraße"
 housenumber: 4

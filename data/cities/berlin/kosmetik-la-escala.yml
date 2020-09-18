@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4416079
 longitude: 13.541928500000001
-postcode: 12489
+postcode: "12489"
 city: Berlin
 street: "Hollstraße"
 housenumber: 3

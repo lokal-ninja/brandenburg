@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.400675400000004
 longitude: 13.0562391
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 47a

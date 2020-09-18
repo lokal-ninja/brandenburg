@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.3941049
 longitude: 13.5425707
-postcode: 12526
+postcode: "12526"
 city: Berlin
 street: "Alexander-Meißner-Straße"
 housenumber: 24-26

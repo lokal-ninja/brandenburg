@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.50866370000001
 longitude: 13.4553688
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Simon-Dach-Straße"
 housenumber: 21

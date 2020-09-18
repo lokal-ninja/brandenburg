@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.503265500000005
 longitude: 13.412501
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Oranienstraße"
 housenumber: 53

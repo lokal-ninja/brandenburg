@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.4297959
 longitude: 13.1952677
-postcode: 14129
+postcode: "14129"
 city: Berlin
 street: "Prinz-Friedrich-Leopold-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 52.5418462
 longitude: 13.422134300000002
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Raumerstraße"
 housenumber: 32

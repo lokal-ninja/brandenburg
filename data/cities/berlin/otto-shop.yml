@@ -3,7 +3,7 @@ type: node
 shop: Einkaufszentrum
 latitude: 52.5122635
 longitude: 13.491791800000001
-postcode: 10365
+postcode: "10365"
 city: Berlin
 street: "Frankfurter Allee"
 housenumber: 207

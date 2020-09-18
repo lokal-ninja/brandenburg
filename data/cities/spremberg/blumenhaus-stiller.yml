@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.5699988
 longitude: 14.3748327
-postcode: 03130
+postcode: "03130"
 city: Spremberg
 street: "Wirthstraße"
 housenumber: 2

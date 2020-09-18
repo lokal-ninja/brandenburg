@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.538491
 longitude: 12.343679700000001
-postcode: 14727
+postcode: "14727"
 city: Premnitz
 street: "Bergstraße"
 housenumber: 53 A

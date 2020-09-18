@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.142875800000006
 longitude: 14.1155217
-postcode: 16306
+postcode: "16306"
 city: Passow
 street: "Schwedter Straße"
 housenumber: 43

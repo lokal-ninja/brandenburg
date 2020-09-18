@@ -3,7 +3,7 @@ type: node
 shop: Schuhe
 latitude: 52.352591200000006
 longitude: 14.5606089
-postcode: 69-100
+postcode: "69-100"
 city: Słubice
 street: "Plac Przyjaźni"
 housenumber: 20

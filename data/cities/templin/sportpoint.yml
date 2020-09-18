@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 53.120087500000004
 longitude: 13.499543200000002
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Mühlenstraße"
 housenumber: 2

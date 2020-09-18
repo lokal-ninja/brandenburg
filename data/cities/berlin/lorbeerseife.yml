@@ -3,7 +3,7 @@ type: node
 shop: Parfümerie
 latitude: 52.4924315
 longitude: 13.3553163
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Gleditschstraße"
 housenumber: 47

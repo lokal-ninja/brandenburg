@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.374361
 longitude: 13.565465300000001
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Grünauer Straße"
 housenumber: 5

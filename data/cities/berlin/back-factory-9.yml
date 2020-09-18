@@ -1,12 +1,12 @@
-id: 3937513352
-type: node
+id: 28522670
+type: way
 shop: Bäckerei
-latitude: 52.5300226
-longitude: 13.4012512
-postcode: 10119
+latitude: 52.456908000000006
+longitude: 13.320036400000001
+postcode: "12165"
 city: Berlin
-street: "Brunnenstraße"
-housenumber: 1-2
-phone: "+49 30 40056105"
-opening_hours: "Mo-Su 06:00-20:00"
+street: "Schloßstraße"
+housenumber: 38
+phone: ""
+opening_hours: "Mo-Fr 06:00-20:00; Sa,Su 07:00-20:00"
 website: "https://www.back-factory.de"

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.487602800000005
 longitude: 13.4376487
-postcode: 12045
+postcode: "12045"
 city: Berlin
 street: "Weichselstraße"
 housenumber: 28

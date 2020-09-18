@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.588868500000004
 longitude: 13.2840819
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 5A

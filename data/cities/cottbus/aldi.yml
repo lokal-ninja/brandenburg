@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7157259
 longitude: 14.3176964
-postcode: 03051
+postcode: "03051"
 city: Cottbus
 street: "Sachsendorfer Straße"
 housenumber: 5

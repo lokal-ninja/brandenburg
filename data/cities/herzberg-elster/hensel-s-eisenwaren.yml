@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 51.6934479
 longitude: 13.2396562
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Schliebener Straße"
 housenumber: 72

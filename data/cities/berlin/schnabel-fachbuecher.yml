@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.453234300000005
 longitude: 13.2864547
-postcode: 14195
+postcode: "14195"
 city: Berlin
 street: "Thielallee"
 housenumber: 34

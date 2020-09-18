@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 52.4920333
 longitude: 13.423034000000001
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Kottbusser Damm"
 housenumber: 81

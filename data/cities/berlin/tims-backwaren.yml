@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.4390511
 longitude: 13.383333700000001
-postcode: 12107
+postcode: "12107"
 city: Berlin
 street: "Friedenstraße"
 housenumber: 26

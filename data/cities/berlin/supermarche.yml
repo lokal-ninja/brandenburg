@@ -3,10 +3,10 @@ type: node
 shop: Kleidung
 latitude: 52.497809100000005
 longitude: 13.4300867
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Wiener Straße"
 housenumber: 16
 phone: "+49 30 209 504 61"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: ""
+opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su,PH off"
+website: "https://www.supermarche-berlin.de/"

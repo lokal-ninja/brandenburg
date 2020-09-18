@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.492986300000005
 longitude: 13.3534126
-postcode: 10781
+postcode: "10781"
 city: Berlin
 street: "Goltzstraße"
 housenumber: 37

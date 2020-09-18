@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3534519
 longitude: 14.558122800000001
-postcode: 69-100
+postcode: "69-100"
 city: Słubice
 street: "Mikołaja Kopernika"
 housenumber: 20b

@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 53.019569100000005
 longitude: 14.009796900000001
-postcode: 16278
+postcode: "16278"
 city: Angermünde
 street: "Bleiche"
 housenumber: 1

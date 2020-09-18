@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.5595073
 longitude: 13.412619500000002
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Mühlenstraße"
 housenumber: 46

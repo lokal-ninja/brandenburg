@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.528427300000004
 longitude: 13.449340000000001
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Conrad-Blenkle-Straße"
 housenumber: 62

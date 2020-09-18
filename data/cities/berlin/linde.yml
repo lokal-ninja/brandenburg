@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.524586500000005
 longitude: 13.480106000000001
-postcode: 10367
+postcode: "10367"
 city: Berlin
 street: "Möllendorffstraße"
 housenumber: 52

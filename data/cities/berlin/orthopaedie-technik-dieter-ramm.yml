@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.429711000000005
 longitude: 13.332979100000001
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 51.745215300000005
 longitude: 14.641576
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Cottbuser Straße"
 housenumber: 35g

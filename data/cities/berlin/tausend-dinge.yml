@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5637284
 longitude: 13.392348400000001
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 97

@@ -1,12 +1,12 @@
-id: 166699017
-type: way
-shop: Allgemein
-latitude: 52.5365739
-longitude: 13.3566447
-postcode: 10559
+id: 7474182272
+type: node
+shop: Mieten
+latitude: 52.5364177
+longitude: 13.3567295
+postcode: "10559"
 city: Berlin
 street: "Ellen-Epstein-Straße"
 housenumber: 2
 phone: ""
 opening_hours: "Mo-Su 06:00-22:00"
-website: "https://www.myplace.de/standorte/berlin/mitte.html"
+website: ""

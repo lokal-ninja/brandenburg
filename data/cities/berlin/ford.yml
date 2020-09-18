@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.495419000000005
 longitude: 13.523595700000001
-postcode: 10319
+postcode: "10319"
 city: Berlin
 street: "Am Tierpark"
 housenumber: 124

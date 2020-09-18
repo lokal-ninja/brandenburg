@@ -3,10 +3,10 @@ type: node
 shop: Bäckerei
 latitude: 52.605829400000005
 longitude: 12.343056500000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Goethestraße"
 housenumber: 4
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-17:00; Sa 07:00-11:00"
 website: ""

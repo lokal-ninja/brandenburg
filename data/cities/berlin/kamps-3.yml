@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.522480200000004
 longitude: 13.4018967
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Hackescher Markt"
 housenumber: 

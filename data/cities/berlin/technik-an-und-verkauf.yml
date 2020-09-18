@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.51129
 longitude: 13.4516501
-postcode: 10243
+postcode: "10243"
 city: Berlin
 street: "Warschauer Straße"
 housenumber: 22

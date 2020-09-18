@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.533538
 longitude: 13.272554600000001
-postcode: 13629
+postcode: "13629"
 city: Berlin
 street: "Wohlrabedamm"
 housenumber: 20

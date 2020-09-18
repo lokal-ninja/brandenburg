@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5353347
 longitude: 13.4264758
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Winsstraße"
 housenumber: 48

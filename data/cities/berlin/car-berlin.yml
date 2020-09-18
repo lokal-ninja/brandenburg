@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.5005545
 longitude: 13.3036822
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Dahlmannstraße"
 housenumber: 14

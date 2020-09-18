@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5591462
 longitude: 13.4136477
-postcode: 13189
+postcode: "13189"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 92

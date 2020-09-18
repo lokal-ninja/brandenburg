@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4750657
 longitude: 13.2899817
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Warnemünder Straße"
 housenumber: 29

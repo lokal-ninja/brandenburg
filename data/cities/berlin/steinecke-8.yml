@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.615054
 longitude: 13.470393000000001
-postcode: 13125
+postcode: "13125"
 city: Berlin
 street: "Hubertusdamm"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5256265
 longitude: 12.3102306
-postcode: 14715
+postcode: "14715"
 city: Milower Land
 street: "Stremmestraße"
 housenumber: 7

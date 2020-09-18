@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.463292100000004
 longitude: 13.5383729
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "An den Kanitzen"
 housenumber: 1

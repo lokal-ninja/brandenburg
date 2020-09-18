@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5161676
 longitude: 13.670291200000001
-postcode: 15366
+postcode: "15366"
 city: Hoppegarten
 street: "Lindenallee"
 housenumber: 6

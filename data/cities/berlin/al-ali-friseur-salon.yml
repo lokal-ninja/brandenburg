@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.541759500000005
 longitude: 13.370517300000001
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Schönwalder Straße"
 housenumber: 18

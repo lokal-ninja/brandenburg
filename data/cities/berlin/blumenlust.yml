@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.5806291
 longitude: 13.404196800000001
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Dietzgenstraße"
 housenumber: 12

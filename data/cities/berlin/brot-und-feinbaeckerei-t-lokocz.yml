@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5820124
 longitude: 13.410678200000001
-postcode: 13156
+postcode: "13156"
 city: Berlin
 street: "Blankenburger Straße"
 housenumber: 42

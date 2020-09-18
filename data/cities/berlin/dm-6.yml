@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4761412
 longitude: 13.289820500000001
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Berkaer Straße"
 housenumber: 2–3

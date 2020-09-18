@@ -1,12 +1,12 @@
 id: 1602892177
 type: node
 shop: Fahrrad
-latitude: 51.9476084
-longitude: 14.7093933
-postcode: 03172
+latitude: 51.947832700000006
+longitude: 14.7093488
+postcode: "03172"
 city: Guben
 street: "Kaltenborner Straße"
-housenumber: 1a
+housenumber: 1
 phone: "+49 3561 66641"
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
 website: ""

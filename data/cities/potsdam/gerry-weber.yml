@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3713387
 longitude: 13.133238500000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Nuthestraße"
 housenumber: 1-10

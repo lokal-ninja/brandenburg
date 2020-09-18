@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.4858806
 longitude: 13.445448500000001
-postcode: 12045
+postcode: "12045"
 city: Berlin
 street: "Wildenbruchstraße"
 housenumber: 71

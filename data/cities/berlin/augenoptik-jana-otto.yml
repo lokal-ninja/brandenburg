@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.554722000000005
 longitude: 13.4150621
-postcode: 13189
+postcode: "13189"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 76

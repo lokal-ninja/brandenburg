@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.529591100000005
 longitude: 13.221177
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "An den Freiheitswiesen"
 housenumber: 6

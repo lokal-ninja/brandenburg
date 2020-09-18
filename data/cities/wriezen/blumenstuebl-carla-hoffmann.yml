@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.720328
 longitude: 14.137552000000001
-postcode: 16269
+postcode: "16269"
 city: Wriezen
 street: "Wilhelmstraße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.404224500000005
 longitude: 13.219949300000001
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "Förster-Funke-Allee"
 housenumber: 104

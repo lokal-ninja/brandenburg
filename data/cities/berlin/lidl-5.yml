@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5223299
 longitude: 13.435180500000001
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Friedenstraße"
 housenumber: 94a

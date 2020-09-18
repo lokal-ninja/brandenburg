@@ -3,7 +3,7 @@ type: node
 shop: Warenhaus
 latitude: 52.400762900000004
 longitude: 13.055079300000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 49-52

@@ -1,12 +1,12 @@
-id: 64400029
+id: 50065133
 type: way
 shop: Supermarkt
-latitude: 52.4379658
-longitude: 13.388514800000001
-postcode: 12107
+latitude: 52.4131012
+longitude: 13.320022600000001
+postcode: "12207"
 city: Berlin
-street: "Mariendorfer Damm"
-housenumber: 153-157
-phone: "+49 221 201 999 59"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: "Osdorfer Straße"
+housenumber: 98
+phone: "+49 221 20199959"
+opening_hours: ""
 website: "https://www.penny.de/"

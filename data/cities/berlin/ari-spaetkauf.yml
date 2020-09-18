@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.5191491
 longitude: 13.2895468
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Spandauer Damm"
 housenumber: 52

@@ -3,7 +3,7 @@ type: node
 shop: Computer
 latitude: 52.3379485
 longitude: 14.540011900000001
-postcode: 15232
+postcode: "15232"
 city: Frankfurt (Oder)
 street: "Cottbuser Straße"
 housenumber: 1

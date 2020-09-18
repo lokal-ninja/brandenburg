@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 51.464227900000004
 longitude: 13.5386778
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "An den Kanitzen"
 housenumber: 2

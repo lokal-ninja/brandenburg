@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.9487302
 longitude: 12.3842672
-postcode: 16866
+postcode: "16866"
 city: Kyritz
 street: "Friedensstraße"
 housenumber: 6

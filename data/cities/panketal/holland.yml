@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.621277500000005
 longitude: 13.543345500000001
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Dorfstraße"
 housenumber: 30

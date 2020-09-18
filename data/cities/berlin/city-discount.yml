@@ -3,7 +3,7 @@ type: node
 shop: Haushaltsartikel
 latitude: 52.5274851
 longitude: 13.3296819
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 57-58

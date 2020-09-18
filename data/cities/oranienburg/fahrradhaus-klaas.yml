@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.7555057
 longitude: 13.2392993
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Bernauer Straße"
 housenumber: 10

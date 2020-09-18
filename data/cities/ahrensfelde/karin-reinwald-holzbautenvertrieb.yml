@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.599996600000004
 longitude: 13.602532700000001
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Möbel-Hübner-Straße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.524686800000005
 longitude: 13.4077751
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Münzstraße"
 housenumber: 14

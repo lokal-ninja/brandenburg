@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.503385900000005
 longitude: 13.4100566
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Prinzenstraße"
 housenumber: 85

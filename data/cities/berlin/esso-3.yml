@@ -1,12 +1,12 @@
-id: 126737695
+id: 236852825
 type: way
-shop: Kiosk
-latitude: 52.445553800000006
-longitude: 13.292257500000002
-postcode: 12205
+shop: Lebensmittel
+latitude: 52.43549
+longitude: 13.266273900000002
+postcode: "14169"
 city: Berlin
-street: "Unter den Eichen"
-housenumber: 67-69
-phone: "+49 30 8328022"
-opening_hours: "Mo-Fr 06:00-22:00; Sa,Su 07:00-22:00"
-website: "https://www.essofuelfinder.de/426311-frank-wilke-berlin"
+street: "Berliner Straße"
+housenumber: 20-22
+phone: ""
+opening_hours: "24/7"
+website: ""

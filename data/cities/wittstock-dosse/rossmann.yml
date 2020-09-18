@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 53.1628338
 longitude: 12.4849074
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Markt"
 housenumber: 10

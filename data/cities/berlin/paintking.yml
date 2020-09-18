@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.535743100000005
 longitude: 13.203906600000002
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Breite Straße"
 housenumber: 8

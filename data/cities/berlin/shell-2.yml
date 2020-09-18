@@ -1,12 +1,12 @@
-id: 137930622
+id: 228994430
 type: way
-shop: Allgemein
-latitude: 52.42956890000001
-longitude: 13.322267700000001
-postcode: 12207
+shop: Lebensmittel
+latitude: 52.436218800000006
+longitude: 13.3882145
+postcode: "12107"
 city: Berlin
-street: "Königsberger Straße"
-housenumber: 8
+street: "Mariendorfer Damm"
+housenumber: 170-172
 phone: ""
-opening_hours: "Mo-Fr 06:00-23:00; Sa 07:00-23:00; Su 08:00-23:00"
+opening_hours: "Mo-Su 06:00-23:00"
 website: ""

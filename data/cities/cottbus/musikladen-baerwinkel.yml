@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 51.7607477
 longitude: 14.3360903
-postcode: 03046
+postcode: "03046"
 city: Cottbus
 street: "Sandower Straße"
 housenumber: 58

@@ -3,7 +3,7 @@ type: way
 shop: Friseur
 latitude: 51.7449273
 longitude: 14.641422
-postcode: 03149
+postcode: "03149"
 city: Forst (Lausitz)
 street: "Cottbuser Straße"
 housenumber: 40

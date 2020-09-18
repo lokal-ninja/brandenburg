@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.4734203
 longitude: 13.2966593
-postcode: 14199
+postcode: "14199"
 city: Berlin
 street: "Breite Straße"
 housenumber: 49

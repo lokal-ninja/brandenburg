@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 53.123944900000005
 longitude: 13.492779
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Lychener Straße"
 housenumber: 4

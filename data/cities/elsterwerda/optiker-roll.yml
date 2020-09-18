@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 51.458258400000005
 longitude: 13.523972400000002
-postcode: 04910
+postcode: "04910"
 city: Elsterwerda
 street: "Am Markt"
 housenumber: 5

@@ -3,7 +3,7 @@ type: way
 shop: Möbel
 latitude: 52.372559300000006
 longitude: 12.911159300000001
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Berliner Straße"
 housenumber: 105

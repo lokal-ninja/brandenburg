@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.2813755
 longitude: 13.630230000000001
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
 street: "Karl-Liebknecht-Straße"
 housenumber: 157

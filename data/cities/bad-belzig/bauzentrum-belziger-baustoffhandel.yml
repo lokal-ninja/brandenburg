@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 52.1408016
 longitude: 12.594875100000001
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Niemegker Straße"
 housenumber: 34

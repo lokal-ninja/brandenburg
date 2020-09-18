@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.556491
 longitude: 13.3843171
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Prinzenallee"
 housenumber: 69

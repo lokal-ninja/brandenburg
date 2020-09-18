@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.1428853
 longitude: 14.625663000000001
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Friedrich-Engels-Straße"
 housenumber: 11

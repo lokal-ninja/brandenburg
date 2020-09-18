@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.4907416
 longitude: 13.394381300000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Zossener Straße"
 housenumber: 35

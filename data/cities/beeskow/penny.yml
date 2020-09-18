@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1701259
 longitude: 14.244306700000001
-postcode: 15848
+postcode: "15848"
 city: Beeskow
 street: "Breitscheidstraße"
 housenumber: 2

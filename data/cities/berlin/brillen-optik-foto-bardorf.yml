@@ -3,10 +3,10 @@ type: node
 shop: Optiker
 latitude: 52.5267655
 longitude: 13.333241000000001
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Turmstraße"
 housenumber: 74
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th-Sa 10:00-13:00, Mo,Tu,Th,Fr 15:00-18:00"
 website: "https://www.bardorf-optik.de/"

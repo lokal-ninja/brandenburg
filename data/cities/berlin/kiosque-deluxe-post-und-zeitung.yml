@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.4991081
 longitude: 13.4409258
-postcode: 10997
+postcode: "10997"
 city: Berlin
 street: "Wrangelstraße"
 housenumber: 86

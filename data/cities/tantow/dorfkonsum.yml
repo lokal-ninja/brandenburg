@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 53.2703968
 longitude: 14.350214500000002
-postcode: 16307
+postcode: "16307"
 city: Tantow
 street: "Bahnhofstraße"
-housenumber: 
+housenumber: 35
 phone: ""
 opening_hours: ""
 website: ""

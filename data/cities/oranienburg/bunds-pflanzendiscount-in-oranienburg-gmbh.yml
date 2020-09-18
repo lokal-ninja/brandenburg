@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 52.735553200000005
 longitude: 13.241556600000001
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Jenaer Straße"
 housenumber: 1

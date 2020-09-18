@@ -1,4 +1,4 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /rathenow/aldi-2/
 ---

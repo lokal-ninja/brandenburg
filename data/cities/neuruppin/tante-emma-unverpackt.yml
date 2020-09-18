@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.923191300000006
 longitude: 12.8036633
-postcode: 16816
+postcode: "16816"
 city: Neuruppin
 street: "Präsidentenstraße"
 housenumber: 54

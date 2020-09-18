@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4635478
 longitude: 13.3267845
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Schloßstraße"
 housenumber: 6

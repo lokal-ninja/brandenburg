@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.5459869
 longitude: 13.0635931
-postcode: 14624
+postcode: "14624"
 city: Dallgow-Döberitz
 street: "Goetheplatz"
 housenumber: 8

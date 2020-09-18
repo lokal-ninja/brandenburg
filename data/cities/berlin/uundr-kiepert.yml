@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.50952100000001
 longitude: 13.324830700000001
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Hardenbergstraße"
 housenumber: 9a

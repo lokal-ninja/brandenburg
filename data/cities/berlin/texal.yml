@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.506014400000005
 longitude: 13.3091761
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Krumme Straße"
 housenumber: 51

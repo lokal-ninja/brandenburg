@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.3693048
 longitude: 13.1347056
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Gerlachstraße"
 housenumber: 35

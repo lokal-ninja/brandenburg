@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5443367
 longitude: 13.4180039
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Lychener Straße"
 housenumber: 47

@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.489098600000005
 longitude: 13.4500896
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Wildenbruchstraße"
 housenumber: 52

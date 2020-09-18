@@ -3,10 +3,10 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.6065449
 longitude: 12.3421365
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: ""
 housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
 website: ""

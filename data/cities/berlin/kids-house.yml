@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.566963
 longitude: 13.516977
-postcode: 13057
+postcode: "13057"
 city: Berlin
 street: "Warnitzer Straße"
 housenumber: 26

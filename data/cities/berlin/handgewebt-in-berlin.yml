@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.5578933
 longitude: 13.3851192
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Prinzenallee"
 housenumber: 58D

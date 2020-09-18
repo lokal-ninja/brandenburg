@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.373673600000004
 longitude: 13.6179029
-postcode: 15732
+postcode: "15732"
 city: Eichwalde
 street: "Bahnhofstraße"
 housenumber: 83

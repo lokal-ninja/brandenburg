@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.3920291
 longitude: 13.091077700000001
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 25

@@ -3,10 +3,10 @@ type: way
 shop: Supermarkt
 latitude: 52.6133809
 longitude: 12.3356901
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Curlandstraße"
 housenumber: 73
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: "Mo-Sa 07:00-21:00"
 website: ""

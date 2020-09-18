@@ -1,12 +1,12 @@
-id: 26394795
+id: 25632140
 type: way
 shop: Supermarkt
-latitude: 52.5461557
-longitude: 13.177216900000001
-postcode: 13583
+latitude: 52.5422194
+longitude: 13.3779432
+postcode: "13347"
 city: Berlin
-street: "Salchendorfer Weg"
-housenumber: 1
+street: "Gerichtstraße"
+housenumber: 2
 phone: ""
-opening_hours: ""
-website: "https://www.aldi-nord.de/"
+opening_hours: "Mo-Sa 08:00-20:00"
+website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.49331900000001
 longitude: 13.387571600000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Mehringdamm"
 housenumber: 38

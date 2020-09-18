@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.490662400000005
 longitude: 13.3943428
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Zossener Straße"
 housenumber: 34

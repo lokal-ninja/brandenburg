@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.610773300000005
 longitude: 13.2501245
-postcode: 13503
+postcode: "13503"
 city: Berlin
 street: "Diakonieweg"
 housenumber: 7

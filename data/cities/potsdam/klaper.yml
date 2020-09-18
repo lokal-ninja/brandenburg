@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.401178200000004
 longitude: 13.0641373
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Hebbelstraße"
 housenumber: 1A

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.606894700000005
 longitude: 13.3254836
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Oraniendamm"
 housenumber: 6-10

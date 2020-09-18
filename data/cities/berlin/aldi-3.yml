@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5041188
 longitude: 13.5899079
-postcode: 12621
+postcode: "12621"
 city: Berlin
 street: "Alt-Kaulsdorf"
 housenumber: 64

@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.39992650000001
 longitude: 13.064486200000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 64

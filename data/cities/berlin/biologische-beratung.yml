@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.53903450000001
 longitude: 13.4456451
-postcode: 10409
+postcode: "10409"
 city: Berlin
 street: "Storkower Straße"
 housenumber: 55

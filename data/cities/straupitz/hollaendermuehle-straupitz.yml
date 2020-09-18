@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 51.915667400000004
 longitude: 14.126816900000001
-postcode: 15913
+postcode: "15913"
 city: Straupitz
 street: "Laasower Straße"
 housenumber: 11A

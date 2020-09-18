@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.525054000000004
 longitude: 13.4011472
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Rosenthaler Straße"
 housenumber: 40-41

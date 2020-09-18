@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5493827
 longitude: 13.588842300000001
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Landsberger Chaussee"
 housenumber: 4

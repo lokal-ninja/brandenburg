@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.557729300000005
 longitude: 13.871568900000002
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Herrenseeallee"
 housenumber: 15

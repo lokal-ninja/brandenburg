@@ -1,12 +1,12 @@
-id: 41432319
+id: 47127804
 type: way
 shop: Supermarkt
-latitude: 52.5673454
-longitude: 13.3530548
-postcode: 13407
+latitude: 52.5305278
+longitude: 13.468064100000001
+postcode: "10369"
 city: Berlin
-street: "Emmentaler Straße"
-housenumber: 12
+street: "Landsberger Allee"
+housenumber: 174
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+opening_hours: "Mo-Sa 08:00-22:00"
+website: ""

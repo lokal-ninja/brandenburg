@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 53.1576971
 longitude: 11.7422728
-postcode: 19357
+postcode: "19357"
 city: Karstädt
 street: "Straße des Friedens"
 housenumber: 10a

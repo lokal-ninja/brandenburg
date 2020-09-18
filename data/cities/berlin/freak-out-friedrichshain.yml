@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.511697000000005
 longitude: 13.457959500000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Grünberger Straße"
 housenumber: 63

@@ -3,7 +3,7 @@ type: way
 shop: Metzgerei
 latitude: 51.620325400000006
 longitude: 13.8158141
-postcode: 03238
+postcode: "03238"
 city: Lichterfeld-Schacksdorf
 street: "Dorfstraße"
 housenumber: 19

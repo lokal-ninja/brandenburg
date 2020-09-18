@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 53.209742500000004
 longitude: 13.313311400000002
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Vogelgesangstraße"
 housenumber: 4

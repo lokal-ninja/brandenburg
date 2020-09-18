@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5103796
 longitude: 13.460870100000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Gärtnerstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Schlüsseldienst
 latitude: 52.47833970000001
 longitude: 13.425617500000001
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Hermannstraße"
 housenumber: 48

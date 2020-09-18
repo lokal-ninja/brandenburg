@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.0757841
 longitude: 11.8741903
-postcode: 19348
+postcode: "19348"
 city: Perleberg
 street: "Dobberziner Straße"
 housenumber: 111

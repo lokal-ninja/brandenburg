@@ -3,7 +3,7 @@ type: node
 shop: Süßwaren
 latitude: 52.489046200000004
 longitude: 13.370482
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Bautzener Straße"
 housenumber: 14

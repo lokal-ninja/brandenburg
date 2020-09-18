@@ -3,7 +3,7 @@ type: way
 shop: Motorrad
 latitude: 51.7238607
 longitude: 14.3437303
-postcode: 03050
+postcode: "03050"
 city: Cottbus
 street: "Madlower Hauptstraße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4028817
 longitude: 13.5261601
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Ortolfstraße"
 housenumber: 206B

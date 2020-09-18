@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.565486
 longitude: 13.571279500000001
-postcode: 12689
+postcode: "12689"
 city: Berlin
 street: "Wittenberger Straße"
 housenumber: 76

@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 51.7457793
 longitude: 14.3409376
-postcode: 03050
+postcode: "03050"
 city: Cottbus
 street: "Bautzener Straße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.498923100000006
 longitude: 13.3512134
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Motzstraße"
 housenumber: 8

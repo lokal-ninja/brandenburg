@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.866300100000004
 longitude: 13.946574
-postcode: 03222
+postcode: "03222"
 city: Lübbenau/Spreewald
 street: "Berliner Straße"
 housenumber: 8

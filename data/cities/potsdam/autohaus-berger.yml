@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.4046894
 longitude: 12.992719200000002
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Kaiser-Friedrich-Straße"
 housenumber: 102b

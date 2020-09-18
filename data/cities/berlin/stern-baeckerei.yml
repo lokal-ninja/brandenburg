@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5473154
 longitude: 13.3509802
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Brüsseler Straße"
 housenumber: 44

@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.4912476
 longitude: 13.394530900000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Zossener Straße"
 housenumber: 37

@@ -3,7 +3,7 @@ type: node
 shop: Basteln
 latitude: 53.2093287
 longitude: 13.317876
-postcode: 17279
+postcode: "17279"
 city: Lychen
 street: "Templiner Straße"
 housenumber: 5

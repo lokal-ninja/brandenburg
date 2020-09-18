@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.311019900000005
 longitude: 13.243544100000001
-postcode: 14974
+postcode: "14974"
 city: Ludwigsfelde
 street: "Brandenburgische Straße"
 housenumber: 1

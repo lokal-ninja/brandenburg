@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.47080690000001
 longitude: 13.334876600000001
-postcode: 12159
+postcode: "12159"
 city: Berlin
 street: "Rheinstraße"
 housenumber: 64

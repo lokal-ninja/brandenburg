@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.472836900000004
 longitude: 13.4408516
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 194

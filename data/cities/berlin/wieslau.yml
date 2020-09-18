@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.495577600000004
 longitude: 13.296777800000001
-postcode: 10709
+postcode: "10709"
 city: Berlin
 street: "Westfälische Straße"
 housenumber: 62

@@ -3,7 +3,7 @@ type: way
 shop: Baustoffe
 latitude: 52.4639576
 longitude: 13.748038500000002
-postcode: 15569
+postcode: "15569"
 city: Woltersdorf
 street: "Vogelsdorfer Platz"
 housenumber: 1

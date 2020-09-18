@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 52.7480477
 longitude: 13.4636487
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Prenzlauer Chaussee"
 housenumber: 118-120

@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.8409039
 longitude: 13.767125700000001
-postcode: 16227
+postcode: "16227"
 city: Eberswalde
 street: "Lichterfelder Straße"
 housenumber: 10

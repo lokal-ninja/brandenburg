@@ -1,12 +1,12 @@
-id: 3163972892
+id: 7710426730
 type: node
 shop: Fahrrad
-latitude: 52.49361570000001
-longitude: 13.394809500000001
-postcode: 10961
+latitude: 52.49362
+longitude: 13.394761500000001
+postcode: "10961"
 city: Berlin
 street: "Zossener Straße"
 housenumber: 5
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 15:00-19:00"
 website: ""

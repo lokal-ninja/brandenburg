@@ -1,12 +1,12 @@
-id: 53088156
-type: way
+id: 3852773097
+type: node
 shop: Elektronik
-latitude: 52.5336275
-longitude: 13.536401300000001
-postcode: 12681
+latitude: 52.514334600000005
+longitude: 13.4772891
+postcode: "10365"
 city: Berlin
-street: "Märkische Allee"
-housenumber: 171
+street: "Frankfurter Allee"
+housenumber: 113-117
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: "Mo-Sa 10:00-21:00"
 website: ""

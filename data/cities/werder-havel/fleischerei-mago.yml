@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.3629186
 longitude: 12.9336333
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Auf dem Strengfeld"
 housenumber: 6

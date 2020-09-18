@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.514904200000004
 longitude: 13.4649411
-postcode: 
+postcode: ""
 city: Berlin
 street: "Frankfurter Allee"
 housenumber: 52

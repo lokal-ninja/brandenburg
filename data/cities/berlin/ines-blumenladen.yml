@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.499762000000004
 longitude: 13.5080398
-postcode: 10319
+postcode: "10319"
 city: Berlin
 street: "Volkradstraße"
 housenumber: 30

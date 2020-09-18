@@ -3,7 +3,7 @@ type: node
 shop: Andenken
 latitude: 52.507448000000004
 longitude: 13.388023800000001
-postcode: 10969
+postcode: "10969"
 city: Berlin
 street: "Zimmerstraße"
 housenumber: 11

@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.630806
 longitude: 12.4608091
-postcode: 14715
+postcode: "14715"
 city: Stechow-Ferchesar
 street: "Friedensstraße"
 housenumber: 13

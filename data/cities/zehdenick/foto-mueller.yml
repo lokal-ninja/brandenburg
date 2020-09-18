@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.979021
 longitude: 13.3323724
-postcode: 16792
+postcode: "16792"
 city: Zehdenick
 street: "Berliner Straße"
 housenumber: 36

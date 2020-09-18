@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 52.4574341
 longitude: 13.5075164
-postcode: 12439
+postcode: "12439"
 city: Berlin
 street: "Schnellerstraße"
 housenumber: 
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+website: "http://www.kaufland.de"

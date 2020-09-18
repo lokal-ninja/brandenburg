@@ -3,7 +3,7 @@ type: way
 shop: Kleidung
 latitude: 51.636828200000004
 longitude: 13.5639935
-postcode: 03253
+postcode: "03253"
 city: Doberlug-Kirchhain
 street: "Gerberstraße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Motorrad
 latitude: 52.5105328
 longitude: 13.5354243
-postcode: 10315
+postcode: "10315"
 city: Berlin
 street: "Alt-Friedrichsfelde"
 housenumber: 65c

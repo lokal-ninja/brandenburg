@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.460333000000006
 longitude: 13.4472699
-postcode: 12359
+postcode: "12359"
 city: Berlin
 street: "Buschkrugallee"
 housenumber: 43

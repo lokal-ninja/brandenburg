@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.380519500000005
 longitude: 13.129906400000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Großbeerenstraße"
 housenumber: 249-253

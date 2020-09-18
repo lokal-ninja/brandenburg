@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.239680500000006
 longitude: 12.959691000000001
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Karl-Marx-Straße"
 housenumber: 4

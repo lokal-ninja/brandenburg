@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 53.0670951
 longitude: 14.2693881
-postcode: 16303
+postcode: "16303"
 city: Schwedt/Oder
 street: "Handelsstraße"
 housenumber: 5

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.141116700000005
 longitude: 12.587889700000002
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Straße der Einheit"
 housenumber: 15

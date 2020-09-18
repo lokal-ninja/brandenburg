@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.39500820000001
 longitude: 13.0615644
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Humboldtstraße"
 housenumber: 2

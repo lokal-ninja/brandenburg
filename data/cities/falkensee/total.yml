@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.586272300000005
 longitude: 13.0648906
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Nauener Straße"
 housenumber: 116

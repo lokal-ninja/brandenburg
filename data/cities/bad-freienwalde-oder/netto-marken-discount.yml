@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7838459
 longitude: 14.037137000000001
-postcode: 16259
+postcode: "16259"
 city: Bad Freienwalde (Oder)
 street: "Scheunenstraße"
 housenumber: 9

@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 51.9902686
 longitude: 13.080965500000001
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Große Straße"
 housenumber: 58

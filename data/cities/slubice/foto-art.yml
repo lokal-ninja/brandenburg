@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.351251700000006
 longitude: 14.561200500000002
-postcode: 69-100
+postcode: "69-100"
 city: Słubice
 street: "Plac Przyjaźni"
 housenumber: 4/1

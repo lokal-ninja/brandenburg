@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4328561
 longitude: 13.339405200000002
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 38

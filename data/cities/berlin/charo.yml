@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5103853
 longitude: 13.296819200000002
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Suarezstraße"
 housenumber: 1

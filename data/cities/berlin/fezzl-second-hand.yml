@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.501224900000004
 longitude: 13.442828500000001
-postcode: 10997
+postcode: "10997"
 city: Berlin
 street: "Oberbaumstraße"
 housenumber: 7

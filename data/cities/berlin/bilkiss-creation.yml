@@ -3,7 +3,7 @@ type: node
 shop: Schneiderei
 latitude: 52.5473549
 longitude: 13.3746378
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Wiesenstraße"
 housenumber: 19B

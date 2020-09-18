@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.7472432
 longitude: 13.189929800000002
-postcode: 16515
+postcode: "16515"
 city: Oranienburg
 street: "Straße am Globus"
 housenumber: 1

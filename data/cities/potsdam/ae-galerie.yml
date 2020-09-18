@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.398773600000006
 longitude: 13.050608400000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 13

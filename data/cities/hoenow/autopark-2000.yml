@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5425393
 longitude: 13.6373598
-postcode: 15366
+postcode: "15366"
 city: Hönow
 street: "Berliner Straße"
 housenumber: 17

@@ -1,9 +1,9 @@
 id: 549739435
 type: node
 shop: Supermarkt
-latitude: 52.5144053
-longitude: 13.477266400000001
-postcode: 10365
+latitude: 52.5144363
+longitude: 13.4772128
+postcode: "10365"
 city: Berlin
 street: "Frankfurter Allee"
 housenumber: 113-117

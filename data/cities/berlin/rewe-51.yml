@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5412661
 longitude: 13.5649008
-postcode: 12685
+postcode: "12685"
 city: Berlin
 street: "Allee der Kosmonauten"
 housenumber: 196

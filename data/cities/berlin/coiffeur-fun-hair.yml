@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5433226
 longitude: 13.240411600000002
-postcode: 13599
+postcode: "13599"
 city: Berlin
 street: "Gartenfelder Straße"
 housenumber: 90

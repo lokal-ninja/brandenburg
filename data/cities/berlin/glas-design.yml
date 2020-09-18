@@ -3,7 +3,7 @@ type: node
 shop: Glaserei
 latitude: 52.5613271
 longitude: 13.3889714
-postcode: 13359
+postcode: "13359"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 73

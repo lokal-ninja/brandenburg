@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.546321000000006
 longitude: 13.4183009
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Stargarder Straße"
 housenumber: 15

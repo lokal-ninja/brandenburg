@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.52434220000001
 longitude: 13.4495448
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Petersburger Straße"
 housenumber: 23

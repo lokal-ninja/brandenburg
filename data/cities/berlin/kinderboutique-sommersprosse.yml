@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.571925
 longitude: 13.408764000000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Ossietzkystraße"
 housenumber: 8

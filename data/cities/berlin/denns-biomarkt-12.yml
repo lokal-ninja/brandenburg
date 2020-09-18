@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.4178538
 longitude: 13.1472245
-postcode: 14109
+postcode: "14109"
 city: Berlin
 street: "Chausseestraße"
 housenumber: 21

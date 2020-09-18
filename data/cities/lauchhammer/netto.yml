@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.4997728
 longitude: 13.7611167
-postcode: 01979
+postcode: "01979"
 city: Lauchhammer
 street: ""
 housenumber: 

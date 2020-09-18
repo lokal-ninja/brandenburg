@@ -3,7 +3,7 @@ type: node
 shop: Raumausstattung
 latitude: 52.5236748
 longitude: 13.299379400000001
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Tegeler Weg"
 housenumber: 5

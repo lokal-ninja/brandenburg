@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.535853700000004
 longitude: 13.4322025
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Greifswalder Straße"
 housenumber: 191

@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.302550700000005
 longitude: 13.020391400000001
-postcode: 14552
+postcode: "14552"
 city: Michendorf
 street: "An der A10 (Nord)"
 housenumber: 

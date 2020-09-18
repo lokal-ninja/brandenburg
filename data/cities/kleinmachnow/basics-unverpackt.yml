@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.401492000000005
 longitude: 13.2205717
-postcode: 14532
+postcode: "14532"
 city: Kleinmachnow
 street: "Schopfheimer Allee"
 housenumber: 4

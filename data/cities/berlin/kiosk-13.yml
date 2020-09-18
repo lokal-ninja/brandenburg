@@ -1,12 +1,12 @@
-id: 3194403750
+id: 3912751175
 type: node
-shop: Lebensmittel
-latitude: 52.414467200000004
-longitude: 13.2667275
-postcode: 14167
+shop: Kiosk
+latitude: 52.4674855
+longitude: 13.512984300000001
+postcode: "12459"
 city: Berlin
-street: "Teltower Damm"
-housenumber: 213
+street: "Edisonstraße"
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 05:30-18:00; Sa 07:00-13:00"
 website: ""

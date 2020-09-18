@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.516799400000004
 longitude: 13.307700500000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Otto-Suhr-Allee"
 housenumber: 101-103

@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.519321100000006
 longitude: 13.299166000000001
-postcode: 14059
+postcode: "14059"
 city: Berlin
 street: "Spandauer Damm"
 housenumber: 1

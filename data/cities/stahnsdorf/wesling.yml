@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.3656784
 longitude: 13.2045311
-postcode: 14532
+postcode: "14532"
 city: Stahnsdorf
 street: "Großbeerenstraße"
 housenumber: 12

@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.41744610000001
 longitude: 13.528793100000001
-postcode: 12524
+postcode: "12524"
 city: Berlin
 street: "Wegedornstraße"
 housenumber: 107

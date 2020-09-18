@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.5644167
 longitude: 13.871847200000001
-postcode: 15344
+postcode: "15344"
 city: Strausberg
 street: "Schillerstraße"
 housenumber: 18

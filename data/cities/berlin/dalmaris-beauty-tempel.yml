@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4701941
 longitude: 13.3335404
-postcode: 12159
+postcode: "12159"
 city: Berlin
 street: "Rheinstraße"
 housenumber: 11

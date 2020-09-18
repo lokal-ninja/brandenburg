@@ -3,7 +3,7 @@ type: node
 shop: Elektrisch
 latitude: 52.607052200000005
 longitude: 12.3407733
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Mittelstraße"
 housenumber: 33-35

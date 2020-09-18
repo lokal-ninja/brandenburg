@@ -1,12 +1,12 @@
-id: 37556442
+id: 37340843
 type: way
 shop: Supermarkt
-latitude: 52.4463032
-longitude: 13.6216725
-postcode: 12587
+latitude: 52.5969623
+longitude: 13.464705200000001
+postcode: "13129"
 city: Berlin
-street: "Müggelseedamm"
-housenumber: 150
+street: "Treseburger Straße"
+housenumber: 26
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

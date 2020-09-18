@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4595367
 longitude: 13.324644600000001
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Deitmerstraße"
 housenumber: 12

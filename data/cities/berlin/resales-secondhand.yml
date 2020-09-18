@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5502948
 longitude: 13.4591189
-postcode: 13088
+postcode: "13088"
 city: Berlin
 street: "Berliner Allee"
 housenumber: 105

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.462610000000005
 longitude: 13.517755800000002
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Goethestraße"
 housenumber: 35

@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 53.109624100000005
 longitude: 13.4978558
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Hindenburger Straße"
 housenumber: 5

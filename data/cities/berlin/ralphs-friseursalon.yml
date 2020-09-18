@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.480267600000005
 longitude: 13.349937200000001
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Gustav-Freytag-Straße"
 housenumber: 7

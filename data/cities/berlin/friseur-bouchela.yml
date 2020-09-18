@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4908961
 longitude: 13.4492635
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Bouchéstraße"
 housenumber: 18

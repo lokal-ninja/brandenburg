@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.488235
 longitude: 13.3905419
-postcode: 10965
+postcode: "10965"
 city: Berlin
 street: "Chamissoplatz"
 housenumber: 2

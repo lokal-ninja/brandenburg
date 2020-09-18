@@ -3,10 +3,10 @@ type: node
 shop: Wettbüro
 latitude: 52.5266844
 longitude: 13.351900700000002
-postcode: 10559
+postcode: "10559"
 city: Berlin
 street: "Turmstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su 10:00-23:00"
 website: ""

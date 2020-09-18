@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1733795
 longitude: 14.25261
-postcode: 15848
+postcode: "15848"
 city: Beeskow
 street: "Ringstraße"
 housenumber: 5a

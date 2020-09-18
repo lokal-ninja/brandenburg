@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.6720436
 longitude: 13.280482600000001
-postcode: 16540
+postcode: "16540"
 city: Hohen Neuendorf
 street: "Oranienburger Straße"
 housenumber: 1

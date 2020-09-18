@@ -3,10 +3,10 @@ type: node
 shop: Bücher
 latitude: 52.5464021
 longitude: 13.3492061
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Brüsseler Straße"
 housenumber: 39
 phone: ""
-opening_hours: ""
+opening_hours: "We,Th 15:00-19:00"
 website: ""

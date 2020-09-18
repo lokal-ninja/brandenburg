@@ -3,7 +3,7 @@ type: way
 shop: Garten-Center
 latitude: 51.692534800000004
 longitude: 13.2545146
-postcode: 04916
+postcode: "04916"
 city: Herzberg (Elster)
 street: "Osterodaer Straße"
 housenumber: 3

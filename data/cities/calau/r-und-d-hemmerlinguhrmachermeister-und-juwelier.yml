@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 51.746786500000006
 longitude: 13.9507116
-postcode: 03205
+postcode: "03205"
 city: Calau
 street: "Cottbuser Straße"
 housenumber: 40

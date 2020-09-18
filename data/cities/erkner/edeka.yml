@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.4270493
 longitude: 13.7507008
-postcode: 15537
+postcode: "15537"
 city: Erkner
 street: "Ladestraße"
 housenumber: 1

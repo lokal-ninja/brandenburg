@@ -3,7 +3,7 @@ type: node
 shop: Lampen
 latitude: 52.140503200000005
 longitude: 12.586134000000001
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Wiesenburger Straße"
 housenumber: 10

@@ -3,7 +3,7 @@ type: node
 shop: Modehaus
 latitude: 52.4947778
 longitude: 13.3836662
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Großbeerenstraße"
 housenumber: 24

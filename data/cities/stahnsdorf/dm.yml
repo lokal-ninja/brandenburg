@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.3937425
 longitude: 13.211004500000001
-postcode: 14532
+postcode: "14532"
 city: Stahnsdorf
 street: "Wannseestraße"
 housenumber: 44

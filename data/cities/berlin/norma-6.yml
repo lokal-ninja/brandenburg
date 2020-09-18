@@ -1,12 +1,12 @@
-id: 1010406656
+id: 3166307701
 type: node
 shop: Supermarkt
-latitude: 52.512424700000004
-longitude: 13.4783249
-postcode: 10365
+latitude: 52.527600500000005
+longitude: 13.3388208
+postcode: "10551"
 city: Berlin
-street: "Mauritiuskirchstraße"
-housenumber: 3
+street: "Bremer Straße"
+housenumber: 9
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
 website: ""

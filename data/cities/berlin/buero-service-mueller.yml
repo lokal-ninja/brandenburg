@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.4936421
 longitude: 13.388661800000001
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Mehringdamm"
 housenumber: 29

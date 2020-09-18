@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.418343300000004
 longitude: 13.287047000000001
-postcode: 14167
+postcode: "14167"
 city: Berlin
 street: "Goerzallee"
 housenumber: 190

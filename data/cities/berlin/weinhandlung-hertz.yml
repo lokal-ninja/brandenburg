@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.5053617
 longitude: 13.2974709
-postcode: 14057
+postcode: "14057"
 city: Berlin
 street: "Leonhardtstraße"
 housenumber: 7

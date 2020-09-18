@@ -3,7 +3,7 @@ type: node
 shop: Käse
 latitude: 52.484132
 longitude: 13.432523000000002
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Weichselstraße"
 housenumber: 65

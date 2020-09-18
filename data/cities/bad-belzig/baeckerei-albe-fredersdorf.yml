@@ -3,10 +3,10 @@ type: way
 shop: Bäckerei
 latitude: 52.1879186
 longitude: 12.639148700000002
-postcode: 14806
+postcode: "14806"
 city: Bad Belzig
 street: "Baitzer Straße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu,Th,Fr 08:00-13:00,16:00-17:00; We 08:00-12:00; PH off"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.466846600000004
 longitude: 13.319895800000001
-postcode: 14197
+postcode: "14197"
 city: Berlin
 street: "Kreuznacher Straße"
 housenumber: 7

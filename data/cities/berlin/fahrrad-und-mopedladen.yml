@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.491424200000004
 longitude: 13.4258091
-postcode: 12047
+postcode: "12047"
 city: Berlin
 street: "Pflügerstraße"
 housenumber: 75

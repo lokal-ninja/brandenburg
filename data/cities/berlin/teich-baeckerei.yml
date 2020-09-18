@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.5678434
 longitude: 13.346324300000001
-postcode: 13407
+postcode: "13407"
 city: Berlin
 street: "Teichstraße"
 housenumber: 30

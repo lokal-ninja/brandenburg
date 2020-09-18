@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.491195000000005
 longitude: 13.301246200000001
-postcode: 10709
+postcode: "10709"
 city: Berlin
 street: "Cicerostraße"
 housenumber: 36

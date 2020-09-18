@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.510287500000004
 longitude: 13.3081425
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Schillerstraße"
 housenumber: 34

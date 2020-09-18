@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.9398465
 longitude: 12.399721900000001
-postcode: 16866
+postcode: "16866"
 city: Kyritz
 street: "Graf-von-der-Schulenburg-Straße"
 housenumber: 11

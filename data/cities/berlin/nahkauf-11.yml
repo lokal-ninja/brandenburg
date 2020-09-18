@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.418868
 longitude: 13.324024300000001
-postcode: 12209
+postcode: "12209"
 city: Berlin
 street: "Hildburghauser Straße"
 housenumber: 196

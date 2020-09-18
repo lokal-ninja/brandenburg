@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.6365185
 longitude: 13.204378400000001
-postcode: 16761
+postcode: "16761"
 city: Hennigsdorf
 street: "Postplatz"
 housenumber: 4

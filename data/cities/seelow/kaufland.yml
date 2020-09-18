@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.5291579
 longitude: 14.3652499
-postcode: 15306
+postcode: "15306"
 city: Seelow
 street: "Diedersdorfer Straße"
 housenumber: 12A

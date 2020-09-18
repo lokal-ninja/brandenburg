@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.4339157
 longitude: 13.260186200000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Teltower Damm"
 housenumber: 11

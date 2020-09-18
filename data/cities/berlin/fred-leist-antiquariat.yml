@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.527618000000004
 longitude: 13.338145500000001
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Arminiusstraße"
 housenumber: 2-4

@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.5172862
 longitude: 13.305698900000001
-postcode: 10585
+postcode: "10585"
 city: Berlin
 street: "Schustehrusstraße"
 housenumber: 1

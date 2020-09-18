@@ -3,7 +3,7 @@ type: node
 shop: Drogerie
 latitude: 52.525149400000004
 longitude: 13.1974709
-postcode: 13595
+postcode: "13595"
 city: Berlin
 street: "Pichelsdorfer Straße"
 housenumber: 116

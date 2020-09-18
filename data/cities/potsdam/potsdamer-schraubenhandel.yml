@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.4062719
 longitude: 12.967923
-postcode: 14476
+postcode: "14476"
 city: Potsdam
 street: "Reiherbergstraße"
 housenumber: 14e

@@ -3,7 +3,7 @@ type: node
 shop: Küchen
 latitude: 52.637408300000004
 longitude: 13.375815600000001
-postcode: 16552
+postcode: "16552"
 city: Mühlenbecker Land
 street: "Hauptstraße"
 housenumber: 32A

@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.4897058
 longitude: 13.353600100000001
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Grunewaldstraße"
 housenumber: 78

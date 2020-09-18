@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.565986200000005
 longitude: 13.408716400000001
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Florastraße"
 housenumber: 41

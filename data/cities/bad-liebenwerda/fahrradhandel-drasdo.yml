@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 51.539523
 longitude: 13.4084941
-postcode: 04924
+postcode: "04924"
 city: Bad Liebenwerda
 street: "Brückenkopf"
 housenumber: 11

@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.486837200000004
 longitude: 13.3554536
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Akazienstraße"
 housenumber: 4

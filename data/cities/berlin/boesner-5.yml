@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.532893300000005
 longitude: 13.425973200000001
-postcode: 10405
+postcode: "10405"
 city: Berlin
 street: "Marienburger Straße"
 housenumber: 16

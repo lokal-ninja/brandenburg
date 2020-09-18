@@ -3,7 +3,7 @@ type: way
 shop: Einkaufszentrum
 latitude: 52.4674829
 longitude: 13.4319816
-postcode: 12051
+postcode: "12051"
 city: Berlin
 street: "Hermannstraße"
 housenumber: 158

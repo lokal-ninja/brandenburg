@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.115304900000005
 longitude: 13.5086516
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Thomas-Müntzer-Straße"
 housenumber: 8

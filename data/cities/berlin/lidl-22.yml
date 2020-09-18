@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.530909300000005
 longitude: 13.537298700000001
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Märkische Allee"
 housenumber: 140A

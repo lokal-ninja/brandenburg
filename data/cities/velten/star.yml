@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.6777766
 longitude: 13.188728900000001
-postcode: 16727
+postcode: "16727"
 city: Velten
 street: "Berliner Straße"
 housenumber: 6

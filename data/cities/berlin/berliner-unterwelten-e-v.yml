@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.5477751
 longitude: 13.388961100000001
-postcode: 13355
+postcode: "13355"
 city: Berlin
 street: "Brunnenstraße"
 housenumber: 106

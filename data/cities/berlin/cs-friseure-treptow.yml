@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4672186
 longitude: 13.4893052
-postcode: 12437
+postcode: "12437"
 city: Berlin
 street: "Baumschulenstraße"
 housenumber: 9

@@ -1,12 +1,12 @@
-id: 2342347250
+id: 3712223331
 type: node
 shop: Lebensmittel
-latitude: 52.469581000000005
-longitude: 13.438672
-postcode: 12051
+latitude: 52.4986146
+longitude: 13.362654800000001
+postcode: "10783"
 city: Berlin
-street: "Emser Straße"
-housenumber: 11;10
+street: "Potsdamer Straße"
+housenumber: 117/119
 phone: ""
 opening_hours: ""
 website: ""

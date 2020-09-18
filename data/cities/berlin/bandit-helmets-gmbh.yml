@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 52.521054400000004
 longitude: 13.314767300000002
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Darwinstraße"
 housenumber: 2

@@ -1,12 +1,12 @@
 id: 427974433
 type: node
 shop: Outdoor
-latitude: 52.401629500000006
-longitude: 13.0561418
-postcode: 14467
+latitude: 52.401619200000006
+longitude: 13.0560893
+postcode: "14467"
 city: Potsdam
 street: "Gutenbergstraße"
 housenumber: 93
-phone: "+49 331 2803604"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.jojotrekking.de/"
+phone: ""
+opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH,Su off"
+website: ""

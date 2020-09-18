@@ -3,7 +3,7 @@ type: node
 shop: Teppiche
 latitude: 52.614349100000005
 longitude: 12.354226200000001
-postcode: 14712
+postcode: "14712"
 city: Rathenow
 street: "Theodor-Lessing-Straße"
 housenumber: 

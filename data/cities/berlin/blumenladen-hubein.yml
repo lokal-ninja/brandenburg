@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.6153854
 longitude: 13.3482157
-postcode: 13469
+postcode: "13469"
 city: Berlin
 street: "Zabel-Krüger-Damm"
 housenumber: 176

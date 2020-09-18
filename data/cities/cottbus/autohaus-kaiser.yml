@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.7202531
 longitude: 14.3458549
-postcode: 03050
+postcode: "03050"
 city: Cottbus
 street: "Madlower Hauptstraße"
 housenumber: 65

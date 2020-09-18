@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5534498
 longitude: 13.3921872
-postcode: 13357
+postcode: "13357"
 city: Berlin
 street: "Jülicher Straße"
 housenumber: 24

@@ -3,7 +3,7 @@ type: node
 shop: Zeitungen
 latitude: 52.4537983
 longitude: 13.625333300000001
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Bölschestraße"
 housenumber: 53

@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4065139
 longitude: 12.9677787
-postcode: 14476
+postcode: "14476"
 city: Potsdam
 street: "Reiherbergstraße"
 housenumber: 14A

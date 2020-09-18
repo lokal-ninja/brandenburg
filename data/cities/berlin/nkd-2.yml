@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4689947
 longitude: 13.5128207
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Rummelsburger Straße"
 housenumber: 16

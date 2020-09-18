@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.360025900000004
 longitude: 14.5293723
-postcode: 15234
+postcode: "15234"
 city: Frankfurt (Oder)
 street: "Perleberger Straße"
 housenumber: 3

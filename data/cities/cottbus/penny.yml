@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 51.7256427
 longitude: 14.321157900000001
-postcode: 03048
+postcode: "03048"
 city: Cottbus
 street: "Turower Straße"
 housenumber: 62

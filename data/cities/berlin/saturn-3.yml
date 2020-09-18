@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.490176000000005
 longitude: 13.4575434
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Elsenstraße"
 housenumber: 111-114

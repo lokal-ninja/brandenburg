@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6020089
 longitude: 13.756542900000001
-postcode: 15345
+postcode: "15345"
 city: Altlandsberg
 street: "Alte Dorfstraße"
 housenumber: 22

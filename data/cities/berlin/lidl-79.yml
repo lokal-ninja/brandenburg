@@ -1,12 +1,12 @@
-id: 60115130
+id: 52523267
 type: way
 shop: Supermarkt
-latitude: 52.4695103
-longitude: 13.350121000000001
-postcode: 12157
+latitude: 52.593636200000006
+longitude: 13.432679700000001
+postcode: "13127"
 city: Berlin
-street: "Vorarlberger Damm"
-housenumber: 24-26
-phone: "+49 800 4353361"
+street: "Pasewalker Straße"
+housenumber: 77
+phone: ""
 opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.lidl.de/filialen/berlin-tempelhof-schoeneberg/schoeneberg-vorarlberger-damm-24-26.html"
+website: ""

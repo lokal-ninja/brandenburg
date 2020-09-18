@@ -1,12 +1,12 @@
-id: 2082268407
+id: 2096223250
 type: node
 shop: Bäckerei
-latitude: 52.506294200000006
-longitude: 13.3065666
-postcode: 10627
+latitude: 52.5072374
+longitude: 13.390258300000001
+postcode: "10969"
 city: Berlin
-street: "Wilmersdorfer Straße"
-housenumber: 65
+street: "Friedrichstraße"
+housenumber: 207-208
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00; Su 07:30-18:00"
+opening_hours: ""
 website: ""

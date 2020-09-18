@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.6368595
 longitude: 13.2091931
-postcode: 16761
+postcode: "16761"
 city: Hennigsdorf
 street: "Hauptstraße"
 housenumber: 6

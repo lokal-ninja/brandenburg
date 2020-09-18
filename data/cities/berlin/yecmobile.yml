@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.467926600000006
 longitude: 13.430722500000002
-postcode: 12051
+postcode: "12051"
 city: Berlin
 street: "Hermannstraße"
 housenumber: 111

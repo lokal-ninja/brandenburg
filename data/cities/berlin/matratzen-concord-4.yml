@@ -3,7 +3,7 @@ type: node
 shop: Betten
 latitude: 52.5350413
 longitude: 13.3976629
-postcode: 10115
+postcode: "10115"
 city: Berlin
 street: "Brunnenstraße"
 housenumber: 159

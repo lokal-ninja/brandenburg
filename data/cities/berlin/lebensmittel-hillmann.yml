@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5006325
 longitude: 13.4220527
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Oranienstraße"
 housenumber: 20

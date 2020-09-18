@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.462552800000005
 longitude: 13.5168555
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Goethestraße"
 housenumber: 34

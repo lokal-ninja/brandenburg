@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.5061345
 longitude: 13.3194785
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Kantstraße"
 housenumber: 26

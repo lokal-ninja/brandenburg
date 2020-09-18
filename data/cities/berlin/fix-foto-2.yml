@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.536607700000005
 longitude: 13.2021844
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Carl-Schurz-Straße"
 housenumber: 25

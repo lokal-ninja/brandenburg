@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 51.749231
 longitude: 13.953375200000002
-postcode: 03205
+postcode: "03205"
 city: Calau
 street: "Gewerbepark Nord"
 housenumber: 1

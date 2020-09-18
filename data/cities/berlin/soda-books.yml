@@ -3,7 +3,7 @@ type: node
 shop: Bücher
 latitude: 52.530025
 longitude: 13.401776000000002
-postcode: 10119
+postcode: "10119"
 city: Berlin
 street: "Weinbergsweg"
 housenumber: 1

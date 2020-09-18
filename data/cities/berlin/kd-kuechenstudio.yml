@@ -3,7 +3,7 @@ type: way
 shop: Küchen
 latitude: 52.527058100000005
 longitude: 13.5185499
-postcode: 10315
+postcode: "10315"
 city: Berlin
 street: "Rhinstraße"
 housenumber: 85

@@ -3,7 +3,7 @@ type: node
 shop: Sanitätshaus
 latitude: 52.5035589
 longitude: 13.384182800000001
-postcode: 10963
+postcode: "10963"
 city: Berlin
 street: "Stresemannstraße"
 housenumber: 68-78

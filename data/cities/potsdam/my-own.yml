@@ -3,7 +3,7 @@ type: node
 shop: Tattoo
 latitude: 52.4014784
 longitude: 13.0515343
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 6

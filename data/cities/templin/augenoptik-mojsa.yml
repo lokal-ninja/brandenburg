@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 53.1172027
 longitude: 13.5067704
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Friedrich-Engels-Straße"
 housenumber: 15

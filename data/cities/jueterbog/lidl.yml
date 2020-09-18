@@ -3,10 +3,10 @@ type: node
 shop: Supermarkt
 latitude: 51.990377
 longitude: 13.089583000000001
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Vorstadt Neumarkt"
-housenumber: 5
+housenumber: 5-7
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

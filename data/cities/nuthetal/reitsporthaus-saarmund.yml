@@ -3,7 +3,7 @@ type: way
 shop: Pferde
 latitude: 52.323721500000005
 longitude: 13.118352400000001
-postcode: 14558
+postcode: "14558"
 city: Nuthetal
 street: "Potsdamer Straße"
 housenumber: 33a

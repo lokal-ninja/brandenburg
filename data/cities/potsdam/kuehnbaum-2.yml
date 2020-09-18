@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.397820700000004
 longitude: 13.064300800000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Am Kanal"
 housenumber: 58

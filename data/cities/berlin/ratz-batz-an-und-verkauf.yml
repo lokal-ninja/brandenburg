@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.5351087
 longitude: 13.4345838
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Danziger Straße"
 housenumber: 132

@@ -1,12 +1,12 @@
-id: 192647261
+id: 175152841
 type: way
 shop: Supermarkt
-latitude: 52.451800600000006
-longitude: 13.270599
-postcode: 14195
+latitude: 52.387536700000005
+longitude: 13.408233800000001
+postcode: "12307"
 city: Berlin
-street: "Clayallee"
-housenumber: 171
+street: "Goltzstraße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00, Sa 07:00-23:00"
+opening_hours: "Mo-Sa 08:00-22:00"
 website: ""

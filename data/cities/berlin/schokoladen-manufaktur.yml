@@ -3,7 +3,7 @@ type: node
 shop: Schokolade
 latitude: 52.521782400000006
 longitude: 13.454635300000001
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Ebertystraße"
 housenumber: 26

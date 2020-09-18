@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.223234100000006
 longitude: 13.217660100000002
-postcode: 14959
+postcode: "14959"
 city: Trebbin
 street: "Am Mühlengraben"
 housenumber: 2

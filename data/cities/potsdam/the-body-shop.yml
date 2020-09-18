@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4002716
 longitude: 13.054298500000002
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 20

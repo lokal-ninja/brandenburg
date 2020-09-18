@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.490298800000005
 longitude: 13.3893398
-postcode: 10961
+postcode: "10961"
 city: Berlin
 street: "Bergmannstraße"
 housenumber: 102

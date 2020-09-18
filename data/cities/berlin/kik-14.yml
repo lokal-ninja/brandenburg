@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.4973255
 longitude: 13.521173500000002
-postcode: 10319
+postcode: "10319"
 city: Berlin
 street: "Otto-Schmirgal-Straße"
 housenumber: 1-7

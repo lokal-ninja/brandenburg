@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.414214400000006
 longitude: 13.0374893
-postcode: 14469
+postcode: "14469"
 city: Potsdam
 street: "Alexander-Klein-Straße"
 housenumber: 4

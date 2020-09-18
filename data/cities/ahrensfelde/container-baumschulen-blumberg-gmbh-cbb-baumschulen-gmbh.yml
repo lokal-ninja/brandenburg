@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 52.6247825
 longitude: 13.6120108
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Elisenauer Straße"
 housenumber: 7

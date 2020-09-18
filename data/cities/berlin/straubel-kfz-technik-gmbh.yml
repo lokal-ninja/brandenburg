@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.411824200000005
 longitude: 13.5741534
-postcode: 12526
+postcode: "12526"
 city: Berlin
 street: "Gründerstraße"
 housenumber: 1a

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.504303400000005
 longitude: 13.319643200000002
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: "Bleibtreustraße"
 housenumber: 12

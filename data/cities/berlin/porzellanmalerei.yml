@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 52.4837749
 longitude: 13.359255600000001
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Cheruskerstraße"
 housenumber: 7

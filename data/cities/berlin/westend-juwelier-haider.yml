@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.5094938
 longitude: 13.2704131
-postcode: 14052
+postcode: "14052"
 city: Berlin
 street: "Heerstraße"
 housenumber: 

@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.522152600000005
 longitude: 13.5868172
-postcode: 12619
+postcode: "12619"
 city: Berlin
 street: "Hellersdorfer Straße"
 housenumber: 77-83

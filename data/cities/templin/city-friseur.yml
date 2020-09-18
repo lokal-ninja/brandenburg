@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 53.1186699
 longitude: 13.4990059
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Berliner Straße"
 housenumber: 9

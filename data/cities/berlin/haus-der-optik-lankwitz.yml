@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.4353246
 longitude: 13.3437938
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Kaiser-Wilhelm-Straße"
 housenumber: 68

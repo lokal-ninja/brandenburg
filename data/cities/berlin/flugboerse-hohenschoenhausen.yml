@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.567371800000004
 longitude: 13.5179237
-postcode: 13057
+postcode: "13057"
 city: Berlin
 street: "Warnitzer Straße"
 housenumber: 20

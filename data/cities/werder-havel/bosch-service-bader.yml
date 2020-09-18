@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.397714
 longitude: 12.914936200000001
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Otto-Lilienthal-Straße"
 housenumber: 37

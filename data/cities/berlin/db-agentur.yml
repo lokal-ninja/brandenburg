@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.487079300000005
 longitude: 13.358891400000001
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Crellestraße"
 housenumber: 7

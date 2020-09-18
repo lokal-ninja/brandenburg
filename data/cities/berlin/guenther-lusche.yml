@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.4825875
 longitude: 13.350006
-postcode: 10827
+postcode: "10827"
 city: Berlin
 street: "Hauptstraße"
 housenumber: 119

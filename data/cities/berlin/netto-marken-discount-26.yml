@@ -1,12 +1,12 @@
-id: 2975527957
+id: 3486395920
 type: node
 shop: Supermarkt
-latitude: 52.4803165
-longitude: 13.525509300000001
-postcode: 10318
+latitude: 52.4127601
+longitude: 13.569271500000001
+postcode: "12524"
 city: Berlin
-street: "Treskowallee"
-housenumber: 115
+street: "Bruno-Taut-Straße"
+housenumber: 8
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

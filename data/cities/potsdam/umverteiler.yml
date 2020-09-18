@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.399248500000006
 longitude: 13.0549043
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Charlottenstraße"
 housenumber: 28

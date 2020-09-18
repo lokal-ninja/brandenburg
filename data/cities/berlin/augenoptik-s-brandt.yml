@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.4151673
 longitude: 13.497281200000002
-postcode: 12355
+postcode: "12355"
 city: Berlin
 street: "Neuköllner Straße"
 housenumber: 356

@@ -3,10 +3,10 @@ type: node
 shop: Blumen
 latitude: 51.9909461
 longitude: 13.076202700000001
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Mönchenstraße"
 housenumber: 6
-phone: "03372 4449620"
+phone: "+49 3372 4449620"
 opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
 website: ""

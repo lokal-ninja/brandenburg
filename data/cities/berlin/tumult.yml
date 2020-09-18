@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.5091271
 longitude: 13.453660300000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Libauer Straße"
 housenumber: 6

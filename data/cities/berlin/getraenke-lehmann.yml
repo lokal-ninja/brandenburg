@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.4989326
 longitude: 13.3521256
-postcode: 10777
+postcode: "10777"
 city: Berlin
 street: "Motzstraße"
 housenumber: 1

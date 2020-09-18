@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.549687500000005
 longitude: 13.5651478
-postcode: 12679
+postcode: "12679"
 city: Berlin
 street: "Jan-Petersen-Straße"
 housenumber: 18

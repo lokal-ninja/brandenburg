@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5468264
 longitude: 13.604409
-postcode: 16356
+postcode: "16356"
 city: Ahrensfelde
 street: "Landsberger Chaussee"
 housenumber: 19

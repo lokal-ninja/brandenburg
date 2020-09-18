@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.1027605
 longitude: 12.6774135
-postcode: 14806
+postcode: "14806"
 city: Planetal
 street: "Waldstraße"
 housenumber: 1a

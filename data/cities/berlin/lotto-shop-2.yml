@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.5436124
 longitude: 13.491949300000002
-postcode: 13055
+postcode: "13055"
 city: Berlin
 street: "Konrad-Wolf-Straße"
 housenumber: 112

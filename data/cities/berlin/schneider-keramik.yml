@@ -3,7 +3,7 @@ type: node
 shop: Töpferei
 latitude: 52.5027453
 longitude: 13.490397000000002
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Leopoldstraße"
 housenumber: 24

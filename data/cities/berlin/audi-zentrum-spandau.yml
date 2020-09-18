@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 52.5344351
 longitude: 13.192234800000001
-postcode: 13581
+postcode: "13581"
 city: Berlin
 street: "Brunsbütteler Damm"
 housenumber: 40

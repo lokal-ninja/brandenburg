@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.485111700000004
 longitude: 13.3526606
-postcode: 10823
+postcode: "10823"
 city: Berlin
 street: "Eisenacher Straße"
 housenumber: 63

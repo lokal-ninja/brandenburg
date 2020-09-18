@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.523800200000004
 longitude: 13.3394717
-postcode: 10555
+postcode: "10555"
 city: Berlin
 street: "Krefelder Straße"
 housenumber: 7

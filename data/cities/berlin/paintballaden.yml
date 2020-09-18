@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.565193
 longitude: 13.445584
-postcode: 13089
+postcode: "13089"
 city: Berlin
 street: "Romain-Rolland-Straße"
 housenumber: 

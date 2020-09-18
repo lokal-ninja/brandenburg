@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.511826400000004
 longitude: 13.306765100000002
-postcode: 10627
+postcode: "10627"
 city: Berlin
 street: "Bismarckstraße"
 housenumber: 39

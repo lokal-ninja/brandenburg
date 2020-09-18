@@ -3,7 +3,7 @@ type: node
 shop: Feinkost
 latitude: 52.4737924
 longitude: 13.314140400000001
-postcode: 14197
+postcode: "14197"
 city: Berlin
 street: "Rüdesheimer Straße"
 housenumber: 4

@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.425454800000004
 longitude: 13.3755146
-postcode: 12277
+postcode: "12277"
 city: Berlin
 street: "Daimlerstraße"
 housenumber: 165

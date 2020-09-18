@@ -1,12 +1,12 @@
-id: 2283101504
+id: 2322990526
 type: node
 shop: Getränke
-latitude: 52.520295700000005
-longitude: 13.3417764
-postcode: 10557
+latitude: 52.5199791
+longitude: 13.6169297
+postcode: "12623"
 city: Berlin
-street: "Flensburger Straße"
-housenumber: 27
+street: "Hönower Straße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"
+opening_hours: ""
 website: ""

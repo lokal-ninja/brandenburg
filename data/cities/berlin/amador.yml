@@ -3,7 +3,7 @@ type: node
 shop: Tabak
 latitude: 52.473358700000006
 longitude: 13.441036500000001
-postcode: 12055
+postcode: "12055"
 city: Berlin
 street: "Karl-Marx-Straße"
 housenumber: 189

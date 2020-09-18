@@ -3,7 +3,7 @@ type: node
 shop: Autohaus
 latitude: 51.8687978
 longitude: 13.9614066
-postcode: 03222
+postcode: "03222"
 city: Lübbenau/Spreewald
 street: "Bergstraße"
 housenumber: 15

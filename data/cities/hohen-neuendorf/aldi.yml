@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.7053304
 longitude: 13.2682117
-postcode: 16556
+postcode: "16556"
 city: Hohen Neuendorf
 street: "Berliner Chaussee"
 housenumber: 7

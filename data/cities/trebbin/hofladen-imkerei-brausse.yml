@@ -3,7 +3,7 @@ type: node
 shop: Hofladen
 latitude: 52.239311300000004
 longitude: 13.1273727
-postcode: 14959
+postcode: "14959"
 city: Trebbin
 street: "Blankenseer Dorfstraße"
 housenumber: 2

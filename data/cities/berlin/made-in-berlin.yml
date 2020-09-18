@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.524723
 longitude: 13.4058895
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Neue Schönhauser Straße"
 housenumber: 19

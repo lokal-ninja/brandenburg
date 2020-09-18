@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5079976
 longitude: 13.497251100000002
-postcode: 10317
+postcode: "10317"
 city: Berlin
 street: "Weitlingstraße"
 housenumber: 33

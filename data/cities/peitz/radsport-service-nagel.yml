@@ -3,7 +3,7 @@ type: way
 shop: Fahrrad
 latitude: 51.859484200000004
 longitude: 14.412922100000001
-postcode: 03185
+postcode: "03185"
 city: Peitz
 street: "Gubener Straße"
 housenumber: 17a

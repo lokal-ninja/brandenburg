@@ -1,12 +1,12 @@
-id: 5493910328
+id: 5255259069
 type: node
 shop: Drogerie
-latitude: 52.510020100000006
-longitude: 13.379762900000001
-postcode: 10117
+latitude: 52.5289731
+longitude: 13.4564275
+postcode: "10407"
 city: Berlin
-street: "Leipziger Platz"
-housenumber: 12
-phone: "+49 30 20626938"
-opening_hours: "Mo-Sa 09:30-21:30; Su,PH off"
+street: "Landsberger Allee"
+housenumber: 117
+phone: ""
+opening_hours: "Mo-Fr 08:00-21:00, Sa 09:00-21:00"
 website: ""

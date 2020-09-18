@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.5096707
 longitude: 13.473256500000002
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Gürtelstraße"
 housenumber: 17

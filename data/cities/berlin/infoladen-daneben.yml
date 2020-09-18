@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.518056400000006
 longitude: 13.4570699
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Liebigstraße"
 housenumber: 34

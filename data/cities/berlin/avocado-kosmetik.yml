@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.540060600000004
 longitude: 13.421769800000002
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Senefelderstraße"
 housenumber: 34

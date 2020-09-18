@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.350931100000004
 longitude: 13.103275600000002
-postcode: 14558
+postcode: "14558"
 city: Nuthetal
 street: "Arthur-Scheunert-Allee"
 housenumber: 73-75

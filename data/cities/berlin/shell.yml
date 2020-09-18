@@ -3,7 +3,7 @@ type: way
 shop: Kiosk
 latitude: 52.5256356
 longitude: 13.3242712
-postcode: 10553
+postcode: "10553"
 city: Berlin
 street: "Kaiserin-Augusta-Allee"
 housenumber: 9-9a

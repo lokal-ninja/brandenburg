@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.391799400000004
 longitude: 13.094913900000002
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Rudolf-Breitscheid-Straße"
 housenumber: 49

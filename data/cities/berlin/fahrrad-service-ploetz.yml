@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4913845
 longitude: 13.560592100000001
-postcode: 12683
+postcode: "12683"
 city: Berlin
 street: "Köpenicker Straße"
 housenumber: 150

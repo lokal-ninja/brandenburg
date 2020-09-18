@@ -3,7 +3,7 @@ type: node
 shop: Autoteile
 latitude: 53.3375451
 longitude: 13.806056700000001
-postcode: 17291
+postcode: "17291"
 city: Klinkow
 street: "Am Quillow"
 housenumber: 38

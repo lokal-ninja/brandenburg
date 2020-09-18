@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.44602020000001
 longitude: 13.3414961
-postcode: 12247
+postcode: "12247"
 city: Berlin
 street: "Siemensstraße"
 housenumber: 74

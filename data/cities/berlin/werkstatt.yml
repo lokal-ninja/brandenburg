@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.5098567
 longitude: 13.464848600000002
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Boxhagener Straße"
 housenumber: 88

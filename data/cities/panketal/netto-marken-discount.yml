@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.647806
 longitude: 13.530107500000002
-postcode: 16341
+postcode: "16341"
 city: Panketal
 street: "Bucher Straße"
 housenumber: 24

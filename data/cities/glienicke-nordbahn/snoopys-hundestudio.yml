@@ -3,7 +3,7 @@ type: node
 shop: Tiere
 latitude: 52.633857500000005
 longitude: 13.312835000000002
-postcode: 16548
+postcode: "16548"
 city: Glienicke/Nordbahn
 street: "Schönfließer Straße"
 housenumber: 13

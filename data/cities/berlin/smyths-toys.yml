@@ -3,7 +3,7 @@ type: way
 shop: Spielzeug
 latitude: 52.584757
 longitude: 13.3094371
-postcode: 13509
+postcode: "13509"
 city: Berlin
 street: "Miraustraße"
 housenumber: 48

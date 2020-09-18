@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.536177200000004
 longitude: 13.433752100000001
-postcode: 10407
+postcode: "10407"
 city: Berlin
 street: "Danziger Straße"
 housenumber: 121

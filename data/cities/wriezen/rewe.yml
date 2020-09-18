@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.7215069
 longitude: 14.1359659
-postcode: 16269
+postcode: "16269"
 city: Wriezen
 street: "Freienwalder Straße"
 housenumber: 51-55

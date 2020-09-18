@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 53.3053685
 longitude: 13.8242595
-postcode: 17291
+postcode: "17291"
 city: Prenzlau
 street: "Berliner Straße"
 housenumber: 8

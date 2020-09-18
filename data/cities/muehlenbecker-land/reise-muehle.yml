@@ -3,10 +3,10 @@ type: node
 shop: Reisebüro
 latitude: 52.665747100000004
 longitude: 13.3787105
-postcode: 16567
+postcode: "16567"
 city: Mühlenbecker Land
 street: "Hauptstraße"
 housenumber: 27
 phone: "+49 33056 20218"
-opening_hours: "Mo-Fr 10:00-12:30,13:00-18:00; Sa,Su,PH off"
+opening_hours: "Mo-Fr 10:00-12:30,13:00-18:00; PH,Sa,Su off"
 website: "https://reise-muehle.de/"

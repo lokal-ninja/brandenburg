@@ -1,12 +1,12 @@
-id: 27481237
+id: 10672229
 type: way
 shop: Supermarkt
-latitude: 52.420995700000006
-longitude: 13.313537100000001
-postcode: 12207
+latitude: 52.570038600000004
+longitude: 13.328365900000001
+postcode: "13403"
 city: Berlin
-street: "Hildburghauser Straße"
-housenumber: 252
-phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: ""
+street: "Auguste-Viktoria-Allee"
+housenumber: 
+phone: "+4930 4174928 0"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.edeka.de"

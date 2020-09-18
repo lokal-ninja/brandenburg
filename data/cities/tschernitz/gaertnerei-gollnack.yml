@@ -3,7 +3,7 @@ type: node
 shop: Garten-Center
 latitude: 51.5822158
 longitude: 14.619015200000002
-postcode: 03130
+postcode: "03130"
 city: Tschernitz
 street: "Friedhofsweg"
 housenumber: 6a

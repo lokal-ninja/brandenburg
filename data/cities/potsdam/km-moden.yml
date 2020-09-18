@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.398960800000005
 longitude: 13.052120700000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Kleine Gasse"
 housenumber: 3

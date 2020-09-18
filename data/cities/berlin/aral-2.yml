@@ -3,7 +3,7 @@ type: way
 shop: Lebensmittel
 latitude: 52.481584000000005
 longitude: 13.441164200000001
-postcode: 12045
+postcode: "12045"
 city: Berlin
 street: "Sonnenallee"
 housenumber: 113

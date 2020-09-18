@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.536227700000005
 longitude: 13.204719800000001
-postcode: 13597
+postcode: "13597"
 city: Berlin
 street: "Breite Straße"
 housenumber: 16

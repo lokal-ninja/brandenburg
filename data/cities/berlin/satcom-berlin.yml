@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.5426702
 longitude: 13.3652119
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 167

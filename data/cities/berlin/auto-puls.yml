@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.478421700000006
 longitude: 13.4436853
-postcode: 12043
+postcode: "12043"
 city: Berlin
 street: "Roseggerstraße"
 housenumber: 48-49

@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 53.10992400000001
 longitude: 13.4993575
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Hindenburger Straße"
 housenumber: 1

@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.461095900000004
 longitude: 13.5243681
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Plönzeile"
 housenumber: 16

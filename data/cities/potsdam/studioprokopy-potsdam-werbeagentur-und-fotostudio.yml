@@ -3,7 +3,7 @@ type: node
 shop: Foto
 latitude: 52.3941396
 longitude: 13.0906187
-postcode: 14482
+postcode: "14482"
 city: Potsdam
 street: "Garnstraße"
 housenumber: 15

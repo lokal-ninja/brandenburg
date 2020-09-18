@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.147832300000005
 longitude: 14.6378701
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Karl-Marx-Straße"
 housenumber: 34

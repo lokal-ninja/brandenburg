@@ -3,7 +3,7 @@ type: node
 shop: Spielzeug
 latitude: 52.613862000000005
 longitude: 13.3158677
-postcode: 13467
+postcode: "13467"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 137

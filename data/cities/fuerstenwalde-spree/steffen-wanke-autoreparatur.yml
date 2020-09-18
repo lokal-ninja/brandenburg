@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.3616195
 longitude: 14.066198000000002
-postcode: 15517
+postcode: "15517"
 city: Fürstenwalde/Spree
 street: "Bergstraße"
 housenumber: 10

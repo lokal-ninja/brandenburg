@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.8408869
 longitude: 13.9007269
-postcode: 16248
+postcode: "16248"
 city: Niederfinow
 street: "Dorfstraße"
 housenumber: 31

@@ -3,7 +3,7 @@ type: node
 shop: Hörgeräte
 latitude: 52.4356796
 longitude: 13.2604547
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Clayallee"
 housenumber: 353

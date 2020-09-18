@@ -3,10 +3,10 @@ type: node
 shop: Schmuck
 latitude: 52.529721
 longitude: 14.3651596
-postcode: 
+postcode: ""
 city: Seelow
-street: "Ebertstraße"
-housenumber: 24
+street: "Diedersdorfer Straße"
+housenumber: 12A
 phone: ""
 opening_hours: ""
 website: ""

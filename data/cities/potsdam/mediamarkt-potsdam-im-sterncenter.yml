@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.3701523
 longitude: 13.134510200000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Sterncenter"
 housenumber: 4

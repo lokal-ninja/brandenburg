@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.532365500000004
 longitude: 13.3417592
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Birkenstraße"
 housenumber: 32

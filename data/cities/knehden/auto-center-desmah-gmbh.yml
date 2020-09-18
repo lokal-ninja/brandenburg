@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.146472900000006
 longitude: 13.531313200000001
-postcode: 17268
+postcode: "17268"
 city: Knehden
 street: "Am Lindenberg"
 housenumber: 19

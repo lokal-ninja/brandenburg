@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 52.2472356
 longitude: 12.982337500000002
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Berliner Straße"
 housenumber: 100

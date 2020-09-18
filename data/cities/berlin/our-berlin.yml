@@ -3,7 +3,7 @@ type: node
 shop: Spirituosen
 latitude: 52.4965545
 longitude: 13.452129800000002
-postcode: 12435
+postcode: "12435"
 city: Berlin
 street: "Am Flutgraben"
 housenumber: 2

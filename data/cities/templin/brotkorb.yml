@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 53.1203567
 longitude: 13.503956200000001
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Heinestraße"
 housenumber: 7

@@ -3,7 +3,7 @@ type: node
 shop: Outdoor
 latitude: 52.5373499
 longitude: 13.408652400000001
-postcode: 10435
+postcode: "10435"
 city: Berlin
 street: "Kastanienallee"
 housenumber: 83

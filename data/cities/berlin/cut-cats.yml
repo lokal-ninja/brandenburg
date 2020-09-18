@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5211163
 longitude: 13.192663900000001
-postcode: 13595
+postcode: "13595"
 city: Berlin
 street: "Adamstraße"
 housenumber: 16

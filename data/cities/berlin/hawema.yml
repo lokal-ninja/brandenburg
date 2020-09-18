@@ -3,7 +3,7 @@ type: node
 shop: Eisenwaren
 latitude: 52.461842600000004
 longitude: 13.5171741
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Wilhelminenhofstraße"
 housenumber: 27

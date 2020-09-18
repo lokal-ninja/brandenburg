@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.479748300000004
 longitude: 13.3267804
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Mainzer Straße"
 housenumber: 13

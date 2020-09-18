@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.3686197
 longitude: 13.1313715
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Gerlachstraße"
 housenumber: 14

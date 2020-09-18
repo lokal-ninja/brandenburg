@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.544288300000005
 longitude: 13.4221339
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Dunckerstraße"
 housenumber: 72

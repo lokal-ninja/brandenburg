@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.7168062
 longitude: 13.4366319
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Prenzlauer Straße"
 housenumber: 38

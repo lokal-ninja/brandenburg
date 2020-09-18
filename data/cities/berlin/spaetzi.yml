@@ -3,7 +3,7 @@ type: node
 shop: Getränke
 latitude: 52.4780646
 longitude: 13.425702300000001
-postcode: 12049
+postcode: "12049"
 city: Berlin
 street: "Hermannstraße"
 housenumber: 50

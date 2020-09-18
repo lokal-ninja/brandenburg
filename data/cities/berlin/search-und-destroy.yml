@@ -3,7 +3,7 @@ type: node
 shop: Sport
 latitude: 52.499982100000004
 longitude: 13.4234451
-postcode: 10999
+postcode: "10999"
 city: Berlin
 street: "Oranienstraße"
 housenumber: 198

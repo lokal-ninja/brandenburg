@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5087953
 longitude: 13.457942200000002
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Simplonstraße"
 housenumber: 14

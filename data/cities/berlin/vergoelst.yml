@@ -3,10 +3,10 @@ type: way
 shop: Autowerkstatt
 latitude: 52.529633200000006
 longitude: 13.3083662
-postcode: 10589
+postcode: "10589"
 city: Berlin
 street: "Gaußstraße"
 housenumber: 15
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
 website: ""

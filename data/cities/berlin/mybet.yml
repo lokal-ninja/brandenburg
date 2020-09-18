@@ -3,7 +3,7 @@ type: node
 shop: Wettbüro
 latitude: 52.5313032
 longitude: 13.343569400000002
-postcode: 10551
+postcode: "10551"
 city: Berlin
 street: "Stromstraße"
 housenumber: 33

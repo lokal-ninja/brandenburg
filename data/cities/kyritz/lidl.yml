@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.950367
 longitude: 12.3784583
-postcode: 16866
+postcode: "16866"
 city: Kyritz
 street: "Perleberger Straße"
 housenumber: 55

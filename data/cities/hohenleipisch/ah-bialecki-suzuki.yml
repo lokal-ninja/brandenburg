@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 51.4938851
 longitude: 13.559587500000001
-postcode: 04934
+postcode: "04934"
 city: Hohenleipisch
 street: "Planweg"
 housenumber: 10

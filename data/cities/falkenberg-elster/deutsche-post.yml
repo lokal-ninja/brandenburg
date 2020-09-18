@@ -3,7 +3,7 @@ type: way
 shop: Schreibwaren
 latitude: 51.5871688
 longitude: 13.2390643
-postcode: 04895
+postcode: "04895"
 city: Falkenberg/Elster
 street: "Markt"
 housenumber: 8

@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.42020230000001
 longitude: 13.492584800000001
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Alt-Rudow"
 housenumber: 

@@ -1,12 +1,12 @@
-id: 4533857105
+id: 4704850355
 type: node
 shop: Lebensmittel
-latitude: 52.5127092
-longitude: 13.4588488
-postcode: 10245
+latitude: 52.468546100000005
+longitude: 13.490950000000002
+postcode: "12437"
 city: Berlin
-street: "Boxhagener Straße"
-housenumber: 105
+street: "Baumschulenstraße"
+housenumber: 
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Su,PH 10:00-22:00"
 website: ""

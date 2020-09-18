@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.519010800000004
 longitude: 13.4521169
-postcode: 10249
+postcode: "10249"
 city: Berlin
 street: "Petersburger Straße"
 housenumber: 74b

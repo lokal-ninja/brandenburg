@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.501910200000005
 longitude: 13.3053685
-postcode: 10629
+postcode: "10629"
 city: Berlin
 street: "Sybelstraße"
 housenumber: 54

@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.508410500000004
 longitude: 13.508050500000001
-postcode: 10315
+postcode: "10315"
 city: Berlin
 street: "Einbecker Straße"
 housenumber: 71

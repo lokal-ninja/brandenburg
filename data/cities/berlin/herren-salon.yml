@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4180453
 longitude: 13.495462700000001
-postcode: 12357
+postcode: "12357"
 city: Berlin
 street: "Alt-Rudow"
 housenumber: 57

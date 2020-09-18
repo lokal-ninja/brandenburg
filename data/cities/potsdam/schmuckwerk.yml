@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.3998026
 longitude: 13.050708
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Brandenburger Straße"
 housenumber: 10

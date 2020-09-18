@@ -3,7 +3,7 @@ type: node
 shop: Gebrauchtwaren
 latitude: 52.53223070000001
 longitude: 13.4308411
-postcode: 
+postcode: ""
 city: Berlin
 street: "Hufelandstraße"
 housenumber: 12

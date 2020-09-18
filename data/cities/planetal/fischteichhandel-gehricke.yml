@@ -3,7 +3,7 @@ type: node
 shop: Fisch
 latitude: 52.0987493
 longitude: 12.6856483
-postcode: 14806
+postcode: "14806"
 city: Planetal
 street: "Komthurmühle"
 housenumber: 1

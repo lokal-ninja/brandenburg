@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.536015500000005
 longitude: 13.2750768
-postcode: 13629
+postcode: "13629"
 city: Berlin
 street: "Siemensdamm"
 housenumber: 43-44

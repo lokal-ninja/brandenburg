@@ -3,7 +3,7 @@ type: node
 shop: Kunst
 latitude: 52.501580600000004
 longitude: 13.3330994
-postcode: 10789
+postcode: "10789"
 city: Berlin
 street: "Rankestraße"
 housenumber: 24

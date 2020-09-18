@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.381801700000004
 longitude: 13.212051800000001
-postcode: 14532
+postcode: "14532"
 city: Stahnsdorf
 street: "Annastraße"
 housenumber: 1

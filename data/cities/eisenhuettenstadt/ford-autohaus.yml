@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 52.1494828
 longitude: 14.649055800000001
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Beeskower Straße"
 housenumber: 22

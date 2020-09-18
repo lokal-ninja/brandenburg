@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.4675348
 longitude: 13.513005300000001
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Edisonstraße"
 housenumber: 36B

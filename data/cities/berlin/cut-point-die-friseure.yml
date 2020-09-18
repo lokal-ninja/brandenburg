@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.450389200000004
 longitude: 13.625488500000001
-postcode: 12587
+postcode: "12587"
 city: Berlin
 street: "Aßmannstraße"
 housenumber: 48

@@ -3,7 +3,7 @@ type: node
 shop: Elektronik
 latitude: 52.86544000000001
 longitude: 14.0437279
-postcode: 16248
+postcode: "16248"
 city: Oderberg
 street: "Berliner Straße"
 housenumber: 5

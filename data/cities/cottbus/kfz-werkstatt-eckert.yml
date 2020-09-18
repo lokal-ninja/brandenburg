@@ -3,7 +3,7 @@ type: way
 shop: Autowerkstatt
 latitude: 51.735399300000005
 longitude: 14.3655158
-postcode: 03042
+postcode: "03042"
 city: Cottbus
 street: "An der Aue"
 housenumber: 3

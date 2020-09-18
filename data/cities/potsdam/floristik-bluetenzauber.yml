@@ -3,7 +3,7 @@ type: node
 shop: Blumen
 latitude: 52.406307000000005
 longitude: 12.967788700000002
-postcode: 14476
+postcode: "14476"
 city: Potsdam
 street: "Reiherbergstraße"
 housenumber: 14e

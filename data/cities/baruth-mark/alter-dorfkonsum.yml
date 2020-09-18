@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.027211400000006
 longitude: 13.579884600000002
-postcode: 15837
+postcode: "15837"
 city: Baruth/Mark
 street: "Hüttenweg"
 housenumber: 7

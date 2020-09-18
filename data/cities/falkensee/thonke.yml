@@ -3,7 +3,7 @@ type: way
 shop: Bäckerei
 latitude: 52.5668936
 longitude: 13.1028462
-postcode: 14612
+postcode: "14612"
 city: Falkensee
 street: "Falkenhagener Straße"
 housenumber: 22

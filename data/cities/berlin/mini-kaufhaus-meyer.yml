@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.55171970000001
 longitude: 13.3574034
-postcode: 13347
+postcode: "13347"
 city: Berlin
 street: "Amsterdamer Straße"
 housenumber: 14

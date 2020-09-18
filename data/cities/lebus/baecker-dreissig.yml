@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.417790600000004
 longitude: 14.5295637
-postcode: 15326
+postcode: "15326"
 city: Lebus
 street: "Gewerbepark Kirschallee"
 housenumber: 1c

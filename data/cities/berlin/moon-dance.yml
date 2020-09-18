@@ -3,7 +3,7 @@ type: node
 shop: Musik
 latitude: 52.542636
 longitude: 13.3652885
-postcode: 13353
+postcode: "13353"
 city: Berlin
 street: "Müllerstraße"
 housenumber: 167

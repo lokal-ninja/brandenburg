@@ -3,7 +3,7 @@ type: node
 shop: Massage
 latitude: 52.466399300000006
 longitude: 13.320703300000002
-postcode: 12163
+postcode: "12163"
 city: Berlin
 street: "Maßmannstraße"
 housenumber: 5

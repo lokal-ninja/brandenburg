@@ -3,7 +3,7 @@ type: node
 shop: Reisebüro
 latitude: 52.58866930000001
 longitude: 13.2842879
-postcode: 13507
+postcode: "13507"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 6

@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.508198400000005
 longitude: 13.462723200000001
-postcode: 10245
+postcode: "10245"
 city: Berlin
 street: "Wühlischstraße"
 housenumber: 49

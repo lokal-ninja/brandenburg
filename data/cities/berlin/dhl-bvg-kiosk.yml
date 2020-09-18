@@ -3,7 +3,7 @@ type: node
 shop: Kiosk
 latitude: 52.492694
 longitude: 13.4219892
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Kottbusser Damm"
 housenumber: 

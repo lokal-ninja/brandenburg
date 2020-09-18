@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.1006117
 longitude: 12.8907357
-postcode: 16831
+postcode: "16831"
 city: Rheinsberg
 street: "Seestraße"
 housenumber: 14

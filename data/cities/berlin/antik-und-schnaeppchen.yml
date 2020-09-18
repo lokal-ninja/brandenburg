@@ -3,7 +3,7 @@ type: node
 shop: Antiquitäten
 latitude: 52.549208300000004
 longitude: 13.347179
-postcode: 13351
+postcode: "13351"
 city: Berlin
 street: "Togostraße"
 housenumber: 79

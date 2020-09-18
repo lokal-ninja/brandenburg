@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.4233087
 longitude: 13.4361694
-postcode: 12349
+postcode: "12349"
 city: Berlin
 street: "Alt-Buckow"
 housenumber: 5

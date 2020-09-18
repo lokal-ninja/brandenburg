@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.3134487
 longitude: 13.061809
-postcode: 14552
+postcode: "14552"
 city: Michendorf
 street: "Straße des Friedens"
 housenumber: 74

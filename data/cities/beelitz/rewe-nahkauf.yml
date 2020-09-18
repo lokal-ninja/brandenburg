@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.2802931
 longitude: 12.883621000000002
-postcode: 14547
+postcode: "14547"
 city: Beelitz
 street: "Am Markt"
 housenumber: 1

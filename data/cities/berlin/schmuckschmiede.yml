@@ -3,7 +3,7 @@ type: node
 shop: Schmuck
 latitude: 52.5417488
 longitude: 13.422190700000002
-postcode: 10437
+postcode: "10437"
 city: Berlin
 street: "Raumerstraße"
 housenumber: 32

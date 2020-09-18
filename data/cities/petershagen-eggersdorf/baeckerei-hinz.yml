@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.523829600000006
 longitude: 13.7695114
-postcode: 15370
+postcode: "15370"
 city: Petershagen/Eggersdorf
 street: "Fredersdorfer Straße"
 housenumber: 1

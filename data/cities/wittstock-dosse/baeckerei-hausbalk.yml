@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 53.169294300000004
 longitude: 12.4953353
-postcode: 16909
+postcode: "16909"
 city: Wittstock/Dosse
 street: "Röbeler Straße"
 housenumber: 44

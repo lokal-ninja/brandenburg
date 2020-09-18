@@ -3,7 +3,7 @@ type: node
 shop: Tauchen
 latitude: 52.3612398
 longitude: 13.1217973
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Nuthedamm"
 housenumber: 29

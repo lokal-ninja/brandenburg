@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.3771719
 longitude: 13.1292532
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Neuendorfer Straße"
 housenumber: 15

@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.531204100000004
 longitude: 13.2813604
-postcode: 13627
+postcode: "13627"
 city: Berlin
 street: "Nonnendamm"
 housenumber: 33-35

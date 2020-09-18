@@ -3,7 +3,7 @@ type: node
 shop: Kopieren
 latitude: 52.56786760000001
 longitude: 13.3989548
-postcode: 13187
+postcode: "13187"
 city: Berlin
 street: "Wollankstraße"
 housenumber: 125

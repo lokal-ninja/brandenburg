@@ -3,7 +3,7 @@ type: node
 shop: Lebensmittel
 latitude: 52.552154300000005
 longitude: 13.4119221
-postcode: 10439
+postcode: "10439"
 city: Berlin
 street: "Paul-Robeson-Straße"
 housenumber: 43

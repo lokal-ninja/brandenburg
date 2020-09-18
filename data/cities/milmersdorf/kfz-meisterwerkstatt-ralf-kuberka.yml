@@ -3,7 +3,7 @@ type: node
 shop: Autowerkstatt
 latitude: 53.112682500000005
 longitude: 13.6390723
-postcode: 17268
+postcode: "17268"
 city: Milmersdorf
 street: "Dorfstraße"
 housenumber: 14b

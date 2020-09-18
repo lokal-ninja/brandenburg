@@ -3,7 +3,7 @@ type: way
 shop: Baumarkt
 latitude: 52.1459392
 longitude: 14.6588743
-postcode: 15890
+postcode: "15890"
 city: Eisenhüttenstadt
 street: "Eisenbahnstraße"
 housenumber: 20

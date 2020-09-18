@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.592691
 longitude: 13.4541746
-postcode: 13129
+postcode: "13129"
 city: Berlin
 street: "Alt-Blankenburg"
 housenumber: 20

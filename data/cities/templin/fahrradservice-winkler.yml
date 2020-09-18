@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 53.1198552
 longitude: 13.4985458
-postcode: 17268
+postcode: "17268"
 city: Templin
 street: "Martin-Luther-Straße"
 housenumber: 28

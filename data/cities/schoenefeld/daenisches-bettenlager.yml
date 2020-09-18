@@ -3,7 +3,7 @@ type: node
 shop: Möbel
 latitude: 52.3666818
 longitude: 13.559778900000001
-postcode: 12529
+postcode: "12529"
 city: Schönefeld
 street: "Lilienthalstraße"
 housenumber: 4

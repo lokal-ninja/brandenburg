@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.555883300000005
 longitude: 13.2049695
-postcode: 13587
+postcode: "13587"
 city: Berlin
 street: "Wansdorfer Steig"
 housenumber: 23

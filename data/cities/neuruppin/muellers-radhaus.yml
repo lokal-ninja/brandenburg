@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.94503460000001
 longitude: 12.850725
-postcode: 16827
+postcode: "16827"
 city: Neuruppin
 street: "Wulkower Chaussee"
 housenumber: 3c

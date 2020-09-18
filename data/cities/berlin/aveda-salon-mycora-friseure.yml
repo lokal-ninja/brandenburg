@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.4348863
 longitude: 13.263129000000001
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Berliner Straße"
 housenumber: 10

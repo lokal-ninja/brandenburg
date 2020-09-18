@@ -3,10 +3,10 @@ type: way
 shop: Getränke
 latitude: 52.4942725
 longitude: 12.457106300000001
-postcode: 14798
+postcode: "14798"
 city: Havelsee
 street: "Kirchstraße"
 housenumber: 5
-phone: "03383451100"
+phone: "+49-338-345-1100"
 opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 07:00-12:00"
 website: ""

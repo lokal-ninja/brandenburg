@@ -3,7 +3,7 @@ type: node
 shop: Baustoffe
 latitude: 52.379505200000004
 longitude: 13.250530900000001
-postcode: 14513
+postcode: "14513"
 city: Teltow
 street: "Stahnsdorfer Straße"
 housenumber: 32

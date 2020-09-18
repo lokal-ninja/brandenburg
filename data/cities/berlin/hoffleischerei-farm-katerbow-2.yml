@@ -3,7 +3,7 @@ type: node
 shop: Metzgerei
 latitude: 52.6067599
 longitude: 13.210315300000001
-postcode: 13503
+postcode: "13503"
 city: Berlin
 street: "Alt-Heiligensee"
 housenumber: 70

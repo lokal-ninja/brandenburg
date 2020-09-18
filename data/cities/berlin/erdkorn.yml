@@ -3,7 +3,7 @@ type: node
 shop: Supermarkt
 latitude: 52.493317100000006
 longitude: 13.3313442
-postcode: 10717
+postcode: "10717"
 city: Berlin
 street: "Bundesallee"
 housenumber: 201-203

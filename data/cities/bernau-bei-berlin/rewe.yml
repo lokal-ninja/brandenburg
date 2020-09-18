@@ -3,7 +3,7 @@ type: way
 shop: Supermarkt
 latitude: 52.6770829
 longitude: 13.544001300000001
-postcode: 16321
+postcode: "16321"
 city: Bernau bei Berlin
 street: "Bernauer Allee"
 housenumber: 18

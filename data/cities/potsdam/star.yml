@@ -3,7 +3,7 @@ type: node
 shop: Allgemein
 latitude: 52.3549834
 longitude: 13.135069600000001
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Am Silbergraben"
 housenumber: 30

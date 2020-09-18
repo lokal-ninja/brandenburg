@@ -3,7 +3,7 @@ type: node
 shop: Babysachen
 latitude: 52.4815022
 longitude: 13.3604316
-postcode: 10829
+postcode: "10829"
 city: Berlin
 street: "Gotenstraße"
 housenumber: 64

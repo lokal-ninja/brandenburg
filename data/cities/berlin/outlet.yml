@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5235794
 longitude: 13.399975000000001
-postcode: 10178
+postcode: "10178"
 city: Berlin
 street: "Oranienburger Straße"
 housenumber: 86

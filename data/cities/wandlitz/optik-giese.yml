@@ -3,7 +3,7 @@ type: node
 shop: Optiker
 latitude: 52.7461148
 longitude: 13.464257600000002
-postcode: 16348
+postcode: "16348"
 city: Wandlitz
 street: "Bernauer Chaussee"
 housenumber: 2

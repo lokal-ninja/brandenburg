@@ -3,7 +3,7 @@ type: node
 shop: Kramladen
 latitude: 52.288624000000006
 longitude: 13.6174645
-postcode: 15711
+postcode: "15711"
 city: Königs Wusterhausen
 street: "Fontaneplatz"
 housenumber: 9

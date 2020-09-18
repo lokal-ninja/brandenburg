@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.4497919
 longitude: 13.252357
-postcode: 14169
+postcode: "14169"
 city: Berlin
 street: "Ladenstraße"
 housenumber: 50-52

@@ -1,12 +1,12 @@
-id: 5545056560
+id: 4434478716
 type: node
 shop: Supermarkt
-latitude: 52.506734300000005
-longitude: 13.394112100000001
-postcode: 10969
+latitude: 52.506955600000005
+longitude: 13.559854900000001
+postcode: "12683"
 city: Berlin
-street: "Rudi-Dutschke-Straße"
-housenumber: 17
+street: "Weißenhöher Straße"
+housenumber: 108
 phone: ""
-opening_hours: "Mo-Sa 07:30-20:00"
+opening_hours: "08:00-20:00"
 website: ""

@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.3633431
 longitude: 12.9331486
-postcode: 14542
+postcode: "14542"
 city: Werder (Havel)
 street: "Auf dem Strengfeld"
 housenumber: 6

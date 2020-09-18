@@ -3,7 +3,7 @@ type: node
 shop: Schreibwaren
 latitude: 52.4000026
 longitude: 13.052156100000001
-postcode: 14467
+postcode: "14467"
 city: Potsdam
 street: "Lindenstraße"
 housenumber: 51

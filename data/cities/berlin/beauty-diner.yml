@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.516302100000004
 longitude: 13.481490800000001
-postcode: 10367
+postcode: "10367"
 city: Berlin
 street: "Normannenstraße"
 housenumber: 39a

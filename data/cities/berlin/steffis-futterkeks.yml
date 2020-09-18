@@ -3,7 +3,7 @@ type: node
 shop: Tierfutter
 latitude: 52.468933500000006
 longitude: 13.342217000000002
-postcode: 12157
+postcode: "12157"
 city: Berlin
 street: "Cranachstraße"
 housenumber: 63

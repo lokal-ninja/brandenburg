@@ -3,7 +3,7 @@ type: way
 shop: Autohaus
 latitude: 52.5629281
 longitude: 13.549921600000001
-postcode: 12681
+postcode: "12681"
 city: Berlin
 street: "Nordring"
 housenumber: 6

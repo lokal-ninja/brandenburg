@@ -3,7 +3,7 @@ type: node
 shop: Fahrrad
 latitude: 52.486026100000004
 longitude: 13.335455600000001
-postcode: 10715
+postcode: "10715"
 city: Berlin
 street: "Babelsberger Straße"
 housenumber: 45

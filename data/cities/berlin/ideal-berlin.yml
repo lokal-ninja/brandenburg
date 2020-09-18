@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5174311
 longitude: 13.4538936
-postcode: 10247
+postcode: "10247"
 city: Berlin
 street: "Petersburger Straße"
 housenumber: 91

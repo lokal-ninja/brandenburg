@@ -3,7 +3,7 @@ type: way
 shop: Drogerie
 latitude: 51.752146700000004
 longitude: 14.259476900000001
-postcode: 03099
+postcode: "03099"
 city: Kolkwitz
 street: "Berliner Straße"
 housenumber: 114b

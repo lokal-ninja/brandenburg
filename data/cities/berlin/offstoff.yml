@@ -3,7 +3,7 @@ type: node
 shop: Textil
 latitude: 52.4928771
 longitude: 13.4143372
-postcode: 10967
+postcode: "10967"
 city: Berlin
 street: "Grimmstraße"
 housenumber: 20

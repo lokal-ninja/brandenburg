@@ -3,7 +3,7 @@ type: node
 shop: Tickets
 latitude: 52.3712176
 longitude: 13.133362600000002
-postcode: 14480
+postcode: "14480"
 city: Potsdam
 street: "Nuthestraße"
 housenumber: 1-10

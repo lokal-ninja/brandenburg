@@ -3,7 +3,7 @@ type: node
 shop: Baumarkt
 latitude: 51.5846579
 longitude: 14.0099943
-postcode: 01983
+postcode: "01983"
 city: Großräschen
 street: "Seestraße"
 housenumber: 

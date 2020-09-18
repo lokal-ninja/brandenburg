@@ -3,7 +3,7 @@ type: way
 shop: Allgemein
 latitude: 51.5200272
 longitude: 14.0127395
-postcode: 01968
+postcode: "01968"
 city: Senftenberg
 street: "Grünstraße"
 housenumber: 13

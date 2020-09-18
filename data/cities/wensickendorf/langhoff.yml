@@ -3,7 +3,7 @@ type: node
 shop: Bäckerei
 latitude: 52.7542868
 longitude: 13.3721346
-postcode: 16515
+postcode: "16515"
 city: Wensickendorf
 street: "Summter Chaussee"
 housenumber: 2

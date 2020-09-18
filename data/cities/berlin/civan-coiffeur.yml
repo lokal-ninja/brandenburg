@@ -3,7 +3,7 @@ type: node
 shop: Friseur
 latitude: 52.5049028
 longitude: 13.322577
-postcode: 10623
+postcode: "10623"
 city: Berlin
 street: ""
 housenumber: 590

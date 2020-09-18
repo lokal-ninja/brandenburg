@@ -3,7 +3,7 @@ type: way
 shop: Süßwaren
 latitude: 52.392189
 longitude: 13.067047700000002
-postcode: 14473
+postcode: "14473"
 city: Potsdam
 street: "Babelsberger Straße"
 housenumber: 16

@@ -3,7 +3,7 @@ type: node
 shop: Kosmetik
 latitude: 52.4613565
 longitude: 13.5193346
-postcode: 12459
+postcode: "12459"
 city: Berlin
 street: "Wilhelminenhofstraße"
 housenumber: 35

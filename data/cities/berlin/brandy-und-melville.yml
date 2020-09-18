@@ -3,7 +3,7 @@ type: node
 shop: Kleidung
 latitude: 52.5038604
 longitude: 13.3398152
-postcode: 10787
+postcode: "10787"
 city: Berlin
 street: "Nürnberger Straße"
 housenumber: 8

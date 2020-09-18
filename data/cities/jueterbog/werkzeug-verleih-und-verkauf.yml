@@ -3,7 +3,7 @@ type: node
 shop: Mieten
 latitude: 51.989412800000004
 longitude: 13.076367800000002
-postcode: 14913
+postcode: "14913"
 city: Jüterbog
 street: "Pferdestraße"
 housenumber: 10
