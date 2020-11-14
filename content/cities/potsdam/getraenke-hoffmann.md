@@ -1,4 +1,4 @@
 ---
-title: "Getränke-Hoffmann"
+title: "Getränke Hoffmann"
 url: /potsdam/getraenke-hoffmann/
 ---

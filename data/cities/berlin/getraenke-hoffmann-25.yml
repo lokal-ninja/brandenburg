@@ -1,12 +1,12 @@
-id: 24667134
-type: way
+id: 6780508575
+type: node
 shop: Getränke
-latitude: 52.5961191
-longitude: 13.2913533
-postcode: "13509"
+latitude: 52.4803359
+longitude: 13.4423724
+postcode: "12045"
 city: Berlin
-street: "Waidmannsluster Damm"
-housenumber: 21a
-phone: "+49 30 41744320"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-20:00"
-website: "https://www.getraenke-hoffmann.de/filiale-2135"
+street: "Sonnenallee"
+housenumber: 124
+phone: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su,PH off"
+website: ""

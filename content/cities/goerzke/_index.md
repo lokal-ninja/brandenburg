@@ -1,6 +1,6 @@
 ---
 title: Görzke
 url: /goerzke/
-latitude: 52.170833300000005
-longitude: 12.370555600000001
+latitude: 52.1719963
+longitude: 12.372060300000001
 ---

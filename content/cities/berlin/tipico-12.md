@@ -1,4 +1,4 @@
 ---
-title: "Tipico"
+title: "tipico"
 url: /berlin/tipico-12/
 ---

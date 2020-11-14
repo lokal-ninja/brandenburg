@@ -1,12 +1,12 @@
-id: 3157747970
+id: 3194403750
 type: node
 shop: Lebensmittel
-latitude: 52.524287
-longitude: 13.3764534
-postcode: "10117"
+latitude: 52.414467200000004
+longitude: 13.2667275
+postcode: "14167"
 city: Berlin
-street: "Virchowweg"
-housenumber: 6
+street: "Teltower Damm"
+housenumber: 213
 phone: ""
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:00; Sa,Su,PH off"
+opening_hours: ""
 website: ""

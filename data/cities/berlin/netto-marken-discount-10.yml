@@ -1,12 +1,12 @@
-id: 513956597
+id: 537753668
 type: node
 shop: Supermarkt
-latitude: 52.515059300000004
-longitude: 13.466081
-postcode: "10247"
+latitude: 52.4716365
+longitude: 13.3350372
+postcode: "12159"
 city: Berlin
-street: "Frankfurter Allee"
-housenumber: 57-59
-phone: "+498002000015"
+street: "Lauterstraße"
+housenumber: 17-18
+phone: "+49 800 2000015"
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://www.netto-online.de"
+website: "https://www.netto-online.de"

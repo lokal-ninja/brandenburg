@@ -1,12 +1,12 @@
-id: 958150532
+id: 1120057650
 type: node
 shop: Supermarkt
-latitude: 52.49131800000001
-longitude: 13.417700600000002
-postcode: "10967"
+latitude: 52.549839600000006
+longitude: 13.414376
+postcode: "10439"
 city: Berlin
-street: "Urbanstraße"
-housenumber: 122
+street: "Schönhauser Allee"
+housenumber: 78
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.netto-online.de/"

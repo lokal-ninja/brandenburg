@@ -1,12 +1,12 @@
-id: 135789956
+id: 135438002
 type: way
 shop: Supermarkt
-latitude: 52.4110516
-longitude: 13.262555500000001
-postcode: "14165"
+latitude: 52.528728400000006
+longitude: 13.4700328
+postcode: "10369"
 city: Berlin
-street: "Ladiusstraße"
-housenumber: 26
-phone: "+493081488838"
-opening_hours: ""
-website: "https://www.rewe.de/meinkaufsbox/markt/marktinfo.html?marketId=4040128"
+street: "Anton-Saefkow-Platz"
+housenumber: 10
+phone: ""
+opening_hours: "Mo-Sa 07:00-23:00"
+website: ""

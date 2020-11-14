@@ -1,12 +1,12 @@
-id: 294036281
+id: 316540435
 type: node
 shop: Supermarkt
-latitude: 52.5947516
-longitude: 13.335278200000001
-postcode: "13435"
+latitude: 52.525595
+longitude: 13.301463700000001
+postcode: "10589"
 city: Berlin
-street: "Wilhelmsruher Damm"
-housenumber: 231
-phone: "+49 30 40999680"
-opening_hours: "Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-23:00"
+street: "Osnabrücker Straße"
+housenumber: 27
+phone: "+49 30 3443636"
+opening_hours: "Mo-Sa 08:00-22:00"
 website: "https://www.edeka.de/"

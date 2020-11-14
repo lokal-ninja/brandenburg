@@ -8,5 +8,5 @@ city: Berlin
 street: "Wiltbergstraße"
 housenumber: 25
 phone: ""
-opening_hours: "Mo,Tu,Th 09:00-18:00, We,Fr 09:00-15:00, Sa 09:00-12:00"
+opening_hours: "Mo,Tu 09:00-16:00; We,Fr 09:00-15:00; Th 09:00-18:00"
 website: ""

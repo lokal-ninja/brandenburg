@@ -1,12 +1,12 @@
-id: 39452274
+id: 40121547
 type: way
 shop: Supermarkt
-latitude: 52.4977048
-longitude: 13.5029345
-postcode: "10319"
+latitude: 52.479277200000006
+longitude: 13.480734
+postcode: "12435"
 city: Berlin
-street: "Sewanstraße"
-housenumber: 44
+street: "Dammweg"
+housenumber: 56
 phone: ""
 opening_hours: "Mo-Sa 07:00-21:00"
-website: ""
+website: "https://www.netto-online.de"

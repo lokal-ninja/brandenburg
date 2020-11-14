@@ -1,4 +1,4 @@
 ---
-title: "Juhler Bikes"
+title: "juhler-bikes"
 url: /neuruppin/juhler-bikes/
 ---

@@ -1,12 +1,12 @@
-id: 2853634779
+id: 2936781767
 type: node
 shop: Supermarkt
-latitude: 52.4284401
-longitude: 13.5845938
-postcode: "12557"
+latitude: 52.622570200000006
+longitude: 13.303260100000001
+postcode: "13467"
 city: Berlin
-street: "Wendenschloßstraße"
-housenumber: 324
+street: "Hohefeldstraße"
+housenumber: 21;23;25;27
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

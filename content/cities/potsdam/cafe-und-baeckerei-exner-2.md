@@ -1,0 +1,4 @@
+---
+title: "Cafe und Bäckerei Exner"
+url: /potsdam/cafe-und-baeckerei-exner-2/
+---

@@ -1,12 +1,12 @@
-id: 1569732349
+id: 1795585824
 type: node
 shop: Kiosk
-latitude: 52.5240537
-longitude: 13.349143300000001
-postcode: "10557"
+latitude: 52.458876100000005
+longitude: 13.527166300000001
+postcode: "12459"
 city: Berlin
-street: "Kirchstraße"
+street: "Rathenaustraße"
 housenumber: 3
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-13:00; Su,PH off"
 website: ""

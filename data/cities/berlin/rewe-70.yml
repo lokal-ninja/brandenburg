@@ -1,12 +1,12 @@
-id: 88720722
+id: 69607716
 type: way
 shop: Supermarkt
-latitude: 52.5663198
-longitude: 13.3959644
-postcode: "13187"
+latitude: 52.4504644
+longitude: 13.508274400000001
+postcode: "12487"
 city: Berlin
-street: "Wollankstraße"
-housenumber: 15-17
+street: "Sterndamm"
+housenumber: 35
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/"
+opening_hours: "Mo-Fr 07:00-24:00, Sa 07:00-23:30"
+website: ""

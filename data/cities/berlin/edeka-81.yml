@@ -1,12 +1,12 @@
-id: 192647261
+id: 254312457
 type: way
 shop: Supermarkt
-latitude: 52.451800600000006
-longitude: 13.270599
-postcode: "14195"
+latitude: 52.482273000000006
+longitude: 13.601038500000001
+postcode: "12623"
 city: Berlin
-street: "Clayallee"
-housenumber: 171
+street: "Hultschiner Damm"
+housenumber: 75
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00, Sa 07:00-23:00"
+opening_hours: "Mo-Th,Sa 07:00-20:00; Fr 07:00-21:00"
 website: ""

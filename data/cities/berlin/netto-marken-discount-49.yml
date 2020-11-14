@@ -1,12 +1,12 @@
-id: 41373823
+id: 41432319
 type: way
 shop: Supermarkt
-latitude: 52.5092165
-longitude: 13.514202500000001
-postcode: "10315"
+latitude: 52.5673454
+longitude: 13.3530548
+postcode: "13407"
 city: Berlin
-street: "Alt-Friedrichsfelde"
-housenumber: 25
+street: "Emmentaler Straße"
+housenumber: 12
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "http://www.netto-online.de/angebote/handzettel.php?DIS=1&id=77291&hz=&lift=&SID="
+website: "https://www.netto-online.de/"

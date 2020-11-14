@@ -1,4 +1,4 @@
 ---
-title: "FAHRRADTECHNIK NORD"
+title: "Fahrradtechnik Nord"
 url: /berlin/fahrradtechnik-nord/
 ---

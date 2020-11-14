@@ -1,12 +1,12 @@
-id: 471301175
+id: 499637619
 type: node
 shop: Supermarkt
-latitude: 52.408948900000006
-longitude: 13.5720983
-postcode: "12526"
+latitude: 52.459073000000004
+longitude: 13.323200900000002
+postcode: "12163"
 city: Berlin
-street: "Buntzelstraße"
-housenumber: 14
-phone: "+49-30-67804706"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: ""
+street: "Schloßstraße"
+housenumber: 98
+phone: ""
+opening_hours: "Mo-Sa 08:00-22:00"
+website: "https://www.edeka.de/"

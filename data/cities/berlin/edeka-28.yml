@@ -1,12 +1,12 @@
-id: 768671097
+id: 988558155
 type: node
 shop: Supermarkt
-latitude: 52.4827099
-longitude: 13.527428700000002
-postcode: "10318"
+latitude: 52.531913700000004
+longitude: 13.3444505
+postcode: "10559"
 city: Berlin
-street: "Rheinsteinstraße"
-housenumber: 4-12
+street: "Stephanstraße"
+housenumber: 37-43
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.edeka.de/"

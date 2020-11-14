@@ -1,12 +1,12 @@
-id: 2935252601
+id: 1507945389
 type: node
-shop: Kiosk
-latitude: 52.497676000000006
-longitude: 13.4237733
-postcode: "10999"
+shop: Zeitungen
+latitude: 52.460157300000006
+longitude: 13.430389900000002
+postcode: "12347"
 city: Berlin
-street: "Reichenberger Straße"
-housenumber: 155
+street: "Germaniapromenade"
+housenumber: 33
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-02:00, Sa 10:00-24:00"
+opening_hours: ""
 website: ""

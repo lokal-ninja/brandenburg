@@ -1,12 +1,12 @@
-id: 2849992213
+id: 553086206
 type: node
 shop: Supermarkt
-latitude: 52.598711400000006
-longitude: 13.343153500000001
-postcode: "13435"
+latitude: 52.5421825
+longitude: 13.490855400000001
+postcode: "13055"
 city: Berlin
-street: "Eichhorster Weg"
-housenumber: 
+street: "Werneuchener Straße"
+housenumber: 31
 phone: ""
 opening_hours: ""
-website: ""
+website: "https://www.np.de/"

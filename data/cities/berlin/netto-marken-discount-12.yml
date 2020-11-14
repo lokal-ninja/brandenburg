@@ -1,12 +1,12 @@
-id: 583760234
+id: 663879954
 type: node
 shop: Supermarkt
-latitude: 52.56938280000001
-longitude: 13.4372073
-postcode: "13089"
+latitude: 52.615282
+longitude: 13.470382
+postcode: "13125"
 city: Berlin
-street: "Rothenbachstraße"
-housenumber: 2
+street: "Hubertusdamm"
+housenumber: 64-65
 phone: ""
-opening_hours: ""
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00; Su off"
+website: "https://www.netto-online.de/"

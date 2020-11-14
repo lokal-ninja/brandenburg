@@ -1,12 +1,12 @@
-id: 552357231
+id: 607953121
 type: node
 shop: Supermarkt
-latitude: 52.5752904
-longitude: 13.2837641
-postcode: "13507"
+latitude: 52.547152800000006
+longitude: 13.409388900000001
+postcode: "10437"
 city: Berlin
-street: "Bernauer Straße"
-housenumber: 69-73
-phone: "+493043743980"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-ulrich-bernauer-str.-69-73/index.jsp"
+street: "Gleimstraße"
+housenumber: 19
+phone: ""
+opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-16:00; Su,PH off"
+website: ""
