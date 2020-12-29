@@ -8,5 +8,5 @@ city: Berlin
 street: "Bismarckstraße"
 housenumber: 72/73
 phone: ""
-opening_hours: "Mo-Tu 10:00-14:00; Th 14:00-19:00"
+opening_hours: "Mo,Tu 10:00-14:00; Th 10:00-14:00"
 website: ""

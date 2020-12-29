@@ -1,12 +1,12 @@
-id: 24862235
+id: 24856368
 type: way
 shop: Supermarkt
-latitude: 52.48666
-longitude: 13.3246061
-postcode: "10715"
+latitude: 52.5040643
+longitude: 13.5889643
+postcode: "12621"
 city: Berlin
-street: "Berliner Straße"
-housenumber: 26/27
+street: "Alt-Kaulsdorf"
+housenumber: 56
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 07:00-21:00"
+website: "http://www.lidl.de"

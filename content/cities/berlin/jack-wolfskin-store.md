@@ -1,4 +1,4 @@
 ---
-title: "Jack Wolfskin-Store"
+title: "Jack Wolfskin Store"
 url: /berlin/jack-wolfskin-store/
 ---

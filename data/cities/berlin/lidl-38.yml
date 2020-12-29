@@ -1,12 +1,12 @@
-id: 25110330
+id: 24862235
 type: way
 shop: Supermarkt
-latitude: 52.528227
-longitude: 13.1877195
-postcode: "13581"
+latitude: 52.48666
+longitude: 13.3246061
+postcode: "10715"
 city: Berlin
-street: "Seeburger Straße"
-housenumber: 18
-phone: "+49 800 4353361"
-opening_hours: ""
-website: "https://www.lidl.de/filialen/berlin-spandau/spandau-seeburger-str-18.html"
+street: "Berliner Straße"
+housenumber: 26/27
+phone: ""
+opening_hours: "Mo-Sa 08:00-22:00"
+website: "https://www.lidl.de/"

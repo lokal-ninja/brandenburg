@@ -8,5 +8,5 @@ city: Berlin
 street: "Einbecker Straße"
 housenumber: 64
 phone: "+49 30 5263790"
-opening_hours: "Tu-Fr 09:00-18:00, Sa 09:00-14:00"
+opening_hours: "Tu,Th,Fr 09:00-20:00; We,Sa 09:00-16:00"
 website: ""

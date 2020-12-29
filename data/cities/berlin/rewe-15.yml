@@ -1,12 +1,12 @@
-id: 395053992
+id: 412196333
 type: node
 shop: Supermarkt
-latitude: 52.4528593
-longitude: 13.1430094
-postcode: "14089"
+latitude: 52.4123748
+longitude: 13.571745600000002
+postcode: "12524"
 city: Berlin
-street: "Sakrower Landstraße"
-housenumber: 1 A
+street: "Bruno-Taut-Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+opening_hours: "Mo-Sa 07:00-22:00; PH off"
+website: "https://www.rewe.de/marktseite.html?wwident=1350078"

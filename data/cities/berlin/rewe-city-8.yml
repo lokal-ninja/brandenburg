@@ -1,12 +1,12 @@
-id: 1681303281
+id: 1468082518
 type: node
 shop: Supermarkt
-latitude: 52.4617585
-longitude: 13.3396427
-postcode: "12157"
+latitude: 52.467044
+longitude: 13.3299032
+postcode: "12161"
 city: Berlin
-street: "Bismarckstraße"
-housenumber: 68-69
-phone: "+49 30 79785494"
+street: "Rheinstraße"
+housenumber: 30
+phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/rewe-city-markt-berlin-bismarckstraße-68-69"
+website: ""

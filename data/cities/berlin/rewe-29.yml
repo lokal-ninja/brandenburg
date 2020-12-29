@@ -1,12 +1,12 @@
-id: 1112868721
+id: 1224801762
 type: node
 shop: Supermarkt
-latitude: 52.478557800000004
-longitude: 13.429777900000001
-postcode: "12053"
+latitude: 52.439903400000006
+longitude: 13.433970400000002
+postcode: "12349"
 city: Berlin
-street: "Rollbergstraße"
-housenumber: 59
+street: "Buckower Damm"
+housenumber: 50
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30; Su,PH off"
 website: ""

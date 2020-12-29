@@ -1,12 +1,12 @@
-id: 653474129
+id: 691484696
 type: node
 shop: Supermarkt
-latitude: 52.459951700000005
-longitude: 13.375421900000001
-postcode: "12103"
+latitude: 52.469774
+longitude: 13.333097500000001
+postcode: "12159"
 city: Berlin
-street: "Kaiserin-Augusta-Straße"
-housenumber: 57
+street: "Rheinstraße"
+housenumber: 14
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
+opening_hours: "Mo-Sa 07:00-23:30"
 website: ""

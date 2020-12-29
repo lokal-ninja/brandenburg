@@ -1,12 +1,12 @@
-id: 218617357
-type: way
+id: 6447316761
+type: node
 shop: Autoteile
-latitude: 52.4737419
-longitude: 13.5081082
-postcode: "12459"
+latitude: 52.4551986
+longitude: 13.3380612
+postcode: "12169"
 city: Berlin
-street: "Rummelsburger Landstraße"
-housenumber: 98
+street: "Bismarckstraße"
+housenumber: 19
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 09:00-14:00; PH,Su off"
-website: ""
+opening_hours: ""
+website: "http://www.topautoteile.de"

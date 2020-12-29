@@ -1,12 +1,12 @@
-id: 43945102
+id: 43831975
 type: way
 shop: Supermarkt
-latitude: 52.4898025
-longitude: 13.3745066
-postcode: "10965"
+latitude: 52.5498616
+longitude: 13.514708800000001
+postcode: "13053"
 city: Berlin
-street: "Kreuzbergstraße"
-housenumber: 40
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 08:00-22:00"
-website: "https://www.lidl.de/filialen/berlin-tempelhof-schoeneberg/schoeneberg-kreuzbergstr-40.html"
+street: "Gehrenseestraße"
+housenumber: 11
+phone: ""
+opening_hours: "Mo-Sa 08:00-21:00"
+website: ""

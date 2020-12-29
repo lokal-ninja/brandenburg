@@ -1,12 +1,12 @@
-id: 54781806
+id: 52523267
 type: way
 shop: Supermarkt
-latitude: 52.457722600000004
-longitude: 13.2633626
-postcode: "14195"
+latitude: 52.593636200000006
+longitude: 13.432679700000001
+postcode: "13127"
 city: Berlin
-street: "Hüttenweg"
-housenumber: 50
+street: "Pasewalker Straße"
+housenumber: 77
 phone: ""
-opening_hours: ""
-website: "https://www.lidl.de/"
+opening_hours: "Mo-Sa 08:00-21:00"
+website: ""

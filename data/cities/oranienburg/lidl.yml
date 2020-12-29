@@ -1,12 +1,12 @@
-id: 29267503
-type: way
+id: 410331202
+type: node
 shop: Supermarkt
-latitude: 52.748367900000005
-longitude: 13.2362154
+latitude: 52.7537135
+longitude: 13.256034600000001
 postcode: "16515"
 city: Oranienburg
-street: "Berliner Straße"
-housenumber: 49
-phone: ""
+street: "Wiesbadener Straße"
+housenumber: 1
+phone: "+49800 435 33 61"
 opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/oranienburg/berliner-str-49.html"
+website: "http://www.lidl.de"

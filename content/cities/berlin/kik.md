@@ -1,4 +1,4 @@
 ---
-title: "KiK"
+title: "Kik"
 url: /berlin/kik/
 ---

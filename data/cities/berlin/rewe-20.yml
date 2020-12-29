@@ -1,12 +1,12 @@
-id: 550113673
+id: 602610690
 type: node
 shop: Supermarkt
-latitude: 52.5565324
-longitude: 13.424508800000002
-postcode: "13189"
+latitude: 52.569616100000005
+longitude: 13.4947789
+postcode: "13051"
 city: Berlin
-street: "Eschengraben"
-housenumber: 47
-phone: ""
+street: "Ribnitzer Straße"
+housenumber: 26
+phone: "+49 30 96204060"
 opening_hours: "Mo-Sa 07:00-22:00"
-website: ""
+website: "https://www.rewe.de/"

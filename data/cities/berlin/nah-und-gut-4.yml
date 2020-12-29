@@ -1,12 +1,12 @@
-id: 1873679231
+id: 1039403106
 type: node
-shop: Lebensmittel
-latitude: 52.4945279
-longitude: 13.400548700000002
-postcode: "10961"
+shop: Supermarkt
+latitude: 52.467351300000004
+longitude: 13.3109506
+postcode: "14197"
 city: Berlin
-street: "Urbanstraße"
-housenumber: 183
+street: "Kreuznacher Straße"
+housenumber: 68
 phone: ""
-opening_hours: "Mo-Fr 07:00-21:00; Sa 08:00-21:00"
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

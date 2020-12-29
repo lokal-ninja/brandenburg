@@ -1,12 +1,12 @@
-id: 2086361728
+id: 1149666418
 type: node
 shop: Supermarkt
-latitude: 52.491404900000006
-longitude: 13.396714200000002
-postcode: "10961"
+latitude: 52.47432920000001
+longitude: 13.3716214
+postcode: "12101"
 city: Berlin
-street: "Gneisenaustraße"
-housenumber: 84
-phone: "+49 30 6936126"
-opening_hours: "Mo-Fr 7:00-20:00; Sa 8:00-1:00"
-website: "https://www.edeka.de/"
+street: "Werner-Voß-Damm"
+housenumber: 37
+phone: ""
+opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-16:00"
+website: ""

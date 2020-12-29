@@ -1,12 +1,12 @@
-id: 2935252601
+id: 1797419737
 type: node
-shop: Kiosk
-latitude: 52.497676000000006
-longitude: 13.4237733
-postcode: "10999"
+shop: Tabak
+latitude: 52.455406
+longitude: 13.5771051
+postcode: "12555"
 city: Berlin
-street: "Reichenberger Straße"
-housenumber: 155
+street: "Bahnhofstraße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-02:00, Sa 10:00-24:00"
+opening_hours: ""
 website: ""

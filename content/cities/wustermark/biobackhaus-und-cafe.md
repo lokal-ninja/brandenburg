@@ -1,4 +1,4 @@
 ---
-title: "Biobackhaus. und Cafe"
+title: "BioBackHaus. und Cafe"
 url: /wustermark/biobackhaus-und-cafe/
 ---

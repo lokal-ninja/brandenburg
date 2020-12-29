@@ -8,5 +8,5 @@ city: Berlin
 street: "Bundesallee"
 housenumber: 85
 phone: "+49-30-40988496"
-opening_hours: "Mo-Fr 10:00-20:00"
+opening_hours: "Mo,Tu 09:00-18:00; Th,Fr 09:00-20:00; Sa 09:00-15:00"
 website: ""

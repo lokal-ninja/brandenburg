@@ -1,12 +1,12 @@
-id: 412196333
+id: 419545767
 type: node
 shop: Supermarkt
-latitude: 52.4123748
-longitude: 13.571745600000002
-postcode: "12524"
+latitude: 52.5513946
+longitude: 13.3828975
+postcode: "13357"
 city: Berlin
-street: "Bruno-Taut-Straße"
-housenumber: 1
+street: "Badstraße"
+housenumber: 57
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite.html?wwident=1350078"
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+website: "http://www.rewe.de"

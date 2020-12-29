@@ -1,12 +1,12 @@
-id: 42049737
+id: 44070264
 type: way
 shop: Supermarkt
-latitude: 52.513911400000005
-longitude: 13.5174105
-postcode: "10315"
+latitude: 52.4444365
+longitude: 13.335385100000002
+postcode: "12247"
 city: Berlin
-street: "Rhinstraße"
-housenumber: 17
+street: "Siemensstraße"
+housenumber: 22
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+opening_hours: "Mo 07:00-24:00; Tu-Fr 00:00-24:00; Sa 00:00-23:00"
 website: ""

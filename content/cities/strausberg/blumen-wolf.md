@@ -1,0 +1,4 @@
+---
+title: "Blumen Wolf"
+url: /strausberg/blumen-wolf/
+---

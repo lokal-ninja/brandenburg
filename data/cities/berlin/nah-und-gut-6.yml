@@ -1,12 +1,12 @@
-id: 122548638
-type: way
-shop: Supermarkt
-latitude: 52.5447585
-longitude: 13.238111600000002
-postcode: "13599"
+id: 1394709850
+type: node
+shop: Lebensmittel
+latitude: 52.5414602
+longitude: 13.2618045
+postcode: "13629"
 city: Berlin
-street: "Haselhorster Damm"
-housenumber: 27
+street: "Rohrdamm"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: ""
 website: ""

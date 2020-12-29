@@ -1,12 +1,12 @@
-id: 5765993296
+id: 2935252601
 type: node
-shop: Zeitungen
-latitude: 52.4557707
-longitude: 13.3251176
-postcode: "12165"
+shop: Kiosk
+latitude: 52.497676000000006
+longitude: 13.4237733
+postcode: "10999"
 city: Berlin
-street: "Albrechtstraße"
-housenumber: 123
+street: "Reichenberger Straße"
+housenumber: 155
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Th 08:00-20:00, Fr 08:00-02:00, Sa 10:00-24:00"
 website: ""

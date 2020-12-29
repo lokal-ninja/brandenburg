@@ -6,7 +6,7 @@ longitude: 13.324024300000001
 postcode: "12209"
 city: Berlin
 street: "Hildburghauser Straße"
-housenumber: 196
+housenumber: 196;198
 phone: "+49 30 7733749"
 opening_hours: "Mo-Sa 07:30-20:00"
 website: "https://www.nahkauf.de/"

@@ -1,12 +1,12 @@
-id: 1493309776
+id: 1500162209
 type: node
 shop: Supermarkt
-latitude: 52.6039283
-longitude: 13.4324718
-postcode: "13127"
+latitude: 52.479925800000004
+longitude: 13.435653400000001
+postcode: "12043"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 70
+street: "Karl-Marx-Straße"
+housenumber: 92-98
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
 website: ""
