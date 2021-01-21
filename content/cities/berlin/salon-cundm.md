@@ -1,4 +1,5 @@
 ---
-title: "Salon  C&M"
+title: "Salon C&M"
 url: /berlin/salon-cundm/
+shop: Friseur
 ---

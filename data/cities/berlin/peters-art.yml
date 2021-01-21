@@ -1,6 +1,5 @@
 id: 4318477528
 type: node
-shop: Basteln
 latitude: 52.552936300000006
 longitude: 13.372572300000002
 postcode: "13357"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Gottschedstraße"
 housenumber: 26
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa 10:00-14:00"
+opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
 website: "http://peters-art.de/"

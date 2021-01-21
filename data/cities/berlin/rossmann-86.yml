@@ -1,12 +1,11 @@
-id: 3908360754
+id: 3727838326
 type: node
-shop: Drogerie
-latitude: 52.4568376
-longitude: 13.5081202
-postcode: "12439"
+latitude: 52.532512800000006
+longitude: 13.428336600000002
+postcode: "10405"
 city: Berlin
-street: "Schnellerstraße"
-housenumber: 21-22
+street: "Greifswalder Straße"
+housenumber: 208
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
+opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-20:00; PH,Su off"
 website: ""

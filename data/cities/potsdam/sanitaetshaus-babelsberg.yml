@@ -1,6 +1,5 @@
 id: 1033547397
 type: node
-shop: Sanitätshaus
 latitude: 52.3939236
 longitude: 13.092993000000002
 postcode: "14482"
@@ -8,5 +7,5 @@ city: Potsdam
 street: "Karl-Liebknecht-Straße"
 housenumber: 21-22
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su off"
+opening_hours: "Mo,We 08:30-14:30; Tu,Th 08:30-18:00; Fr 08:30-13:00; PH,Sa,Su off"
 website: ""

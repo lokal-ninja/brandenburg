@@ -1,12 +1,11 @@
-id: 42716024
-type: way
-shop: Kramladen
-latitude: 52.5290733
-longitude: 13.1278406
-postcode: "13591"
+id: 8330198882
+type: node
+latitude: 52.604419500000006
+longitude: 13.366582500000002
+postcode: "13439"
 city: Berlin
-street: "Nennhauser Damm"
-housenumber: 170
-phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: ""
+street: "Quickborner Straße"
+housenumber: 76
+phone: "+49 211 30146100"
+opening_hours: "Mo-Su off"
+website: "https://www.action.com/"

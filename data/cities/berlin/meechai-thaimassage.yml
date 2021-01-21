@@ -1,6 +1,5 @@
 id: 945491622
 type: node
-shop: Massage
 latitude: 52.4741452
 longitude: 13.3775689
 postcode: "12101"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Boelckestraße"
 housenumber: 108
 phone: "+49 30 78951021"
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: "Mo-Sa 10:00-21:00, Sa 10:00-20:00"
 website: "http://www.meechai.de/"

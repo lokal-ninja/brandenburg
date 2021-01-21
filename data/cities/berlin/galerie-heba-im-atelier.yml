@@ -1,6 +1,5 @@
 id: 1244787397
 type: node
-shop: Kunst
 latitude: 52.498742
 longitude: 13.4428239
 postcode: "10997"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Falckensteinstraße"
 housenumber: 37
 phone: ""
-opening_hours: "Mo-We 11:00-18:00; Fr 11:00-18:00; Su 14:00-17:00"
+opening_hours: "Su 14:00-17:00; Mo,Tu 11:00-18:00; Fr,Sa 11:00-18:00"
 website: ""

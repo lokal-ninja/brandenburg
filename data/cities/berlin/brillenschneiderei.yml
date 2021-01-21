@@ -1,6 +1,5 @@
 id: 1608905744
 type: node
-shop: Optiker
 latitude: 52.527504300000004
 longitude: 13.4047409
 postcode: "10119"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Gormannstraße"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo,Tu 11:00-19:00; We 11:00-15:30; Th,Fr 11:00-20:00; Sa 11:00-18:00"
 website: ""

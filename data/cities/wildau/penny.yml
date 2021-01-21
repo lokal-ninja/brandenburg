@@ -1,6 +1,5 @@
 id: 219822413
 type: way
-shop: Supermarkt
 latitude: 52.318446
 longitude: 13.605103000000002
 postcode: "15745"
@@ -8,5 +7,5 @@ city: Wildau
 street: "Chausseestraße"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 08:00-20:00"
 website: ""

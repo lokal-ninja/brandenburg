@@ -1,6 +1,5 @@
 id: 1311479655
 type: node
-shop: Tiere
 latitude: 52.52553270000001
 longitude: 13.306465800000002
 postcode: "10589"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Kaiserin-Augusta-Allee"
 housenumber: 81
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-14:00;Su off, PH off"
+opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; Su off, PH off"
 website: ""

@@ -1,12 +1,11 @@
-id: 80345507
+id: 75066220
 type: way
-shop: Supermarkt
-latitude: 52.4184581
-longitude: 13.152774800000001
-postcode: "14109"
+latitude: 52.564449800000006
+longitude: 13.420069900000001
+postcode: "13189"
 city: Berlin
-street: "Königstraße"
-housenumber: 49
+street: "Neumannstraße"
+housenumber: 70
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-We 07:00-20:00, Th-Sa 07:00-22:00"
 website: ""

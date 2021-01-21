@@ -1,6 +1,5 @@
 id: 3511990496
 type: node
-shop: Videothek
 latitude: 52.5591439
 longitude: 13.3654995
 postcode: "13409"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Markstraße"
 housenumber: 25
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 09:30-00:30; Su,PH 12:00-24:00"
 website: "http://www.videoworld.de/filialen-184/index.html"

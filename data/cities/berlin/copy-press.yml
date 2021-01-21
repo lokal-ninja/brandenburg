@@ -1,6 +1,5 @@
 id: 3471425375
 type: node
-shop: Kopieren
 latitude: 52.556062100000005
 longitude: 13.3776106
 postcode: "13357"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Koloniestraße"
 housenumber: 13
 phone: "+49 30 4944691"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-14:00; 2019 Jun 24-2019 Aug 3 Mo-Fr 10:00-17:00; 2019 Jun 24-2019 Aug 3 Sa 10:00-13:00; 2019 Jul 20-2019 Jul 27 closed"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-14:00; 2019 Jun 24-Aug 03 Mo-Fr 10:00-17:00; 2019 Jun 24-Aug 03 Sa 10:00-13:00; 2019 Jul 20-27 closed"
 website: "http://www.copy-press.de"

@@ -1,6 +1,5 @@
 id: 619808190
 type: node
-shop: Kramladen
 latitude: 51.6316726
 longitude: 13.7072874
 postcode: "03238"
@@ -8,5 +7,5 @@ city: Finsterwalde
 street: "Leipziger Straße"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
 website: ""

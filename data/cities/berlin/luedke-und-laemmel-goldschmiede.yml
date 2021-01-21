@@ -1,6 +1,5 @@
 id: 1774557617
 type: node
-shop: Schmuck
 latitude: 52.4686102
 longitude: 13.342293300000001
 postcode: "12157"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Cranachstraße"
 housenumber: 61
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 10:00-13:00,13:00-18:00"
 website: "http://www.luedtkeundlaemmel.de/"

@@ -1,6 +1,5 @@
 id: 4405527122
 type: node
-shop: Kleidung
 latitude: 52.52441150000001
 longitude: 13.408540100000002
 postcode: "10178"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Münzstraße"
 housenumber: 8
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Sa 13:00-19:00"
 website: ""

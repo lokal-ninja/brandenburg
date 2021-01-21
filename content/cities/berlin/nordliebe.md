@@ -1,4 +1,5 @@
 ---
-title: "Nordliebe"
+title: "nordliebe"
 url: /berlin/nordliebe/
+shop: Raumausstattung
 ---

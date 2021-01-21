@@ -1,6 +1,5 @@
 id: 7598149824
 type: node
-shop: Schlüsseldienst
 latitude: 52.4747989
 longitude: 13.328776300000001
 postcode: "12161"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Bundesallee"
 housenumber: 135
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:00-16:00"
 website: ""

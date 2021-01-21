@@ -1,4 +1,5 @@
 ---
-title: "Tonerdumping"
+title: "TONERDUMPING"
 url: /berlin/tonerdumping-9/
+shop: Schreibwaren
 ---

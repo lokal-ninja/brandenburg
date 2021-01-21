@@ -1,12 +1,11 @@
-id: 7415668961
+id: 7415745921
 type: node
-shop: Schneiderei
-latitude: 52.49276570000001
-longitude: 13.4164346
+latitude: 52.492816000000005
+longitude: 13.4173802
 postcode: "10967"
 city: Berlin
-street: "Dieffenbachstraße"
-housenumber: 58a
+street: "Graefestraße"
+housenumber: 19
 phone: ""
-opening_hours: "Tu,Fr,Sa 12:00-19:00"
+opening_hours: "Mo-Sa 10:00-19:00"
 website: ""

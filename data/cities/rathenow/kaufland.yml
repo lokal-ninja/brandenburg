@@ -1,12 +1,11 @@
-id: 1198263718
+id: 1088051811
 type: node
-shop: Supermarkt
-latitude: 52.60838570000001
-longitude: 12.3240238
+latitude: 52.5897743
+longitude: 12.3376485
 postcode: "14712"
 city: Rathenow
-street: "Schwedendamm"
-housenumber: 3
-phone: "+49 3385 51980"
+street: "Milower Landstraße"
+housenumber: 6a
+phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+website: ""

@@ -1,6 +1,5 @@
 id: 7139043534
 type: node
-shop: Getränke
 latitude: 52.677128
 longitude: 13.5883964
 postcode: "16321"
@@ -8,5 +7,5 @@ city: Bernau bei Berlin
 street: "An der Stadtmauer"
 housenumber: 10
 phone: ""
-opening_hours: "Fr: 17:00-19:00"
+opening_hours: "Fr 17:00-19:00"
 website: "http://www.braugenosse.de"

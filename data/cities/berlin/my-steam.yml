@@ -1,6 +1,5 @@
 id: 3630746487
 type: node
-shop: E-Zigaretten
 latitude: 52.4543467
 longitude: 13.328645000000002
 postcode: "12167"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Albrechtstraße"
 housenumber: 109
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: "Mo-Sa 12:00-21:00"
 website: ""

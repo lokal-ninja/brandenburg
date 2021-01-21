@@ -1,12 +1,11 @@
-id: 5426133815
+id: 4553089244
 type: node
-shop: Supermarkt
-latitude: 52.49522880000001
-longitude: 13.3416349
-postcode: "10777"
+latitude: 52.5221765
+longitude: 13.163858900000001
+postcode: "13593"
 city: Berlin
-street: "Viktoria-Luise-Platz"
-housenumber: 10
-phone: "+49 30 21018755"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH closed"
+street: "Obstallee"
+housenumber: 28-30
+phone: ""
+opening_hours: "Mo-Sa 07:00-20:00; PH off"
 website: ""

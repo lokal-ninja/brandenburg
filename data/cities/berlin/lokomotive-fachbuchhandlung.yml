@@ -1,6 +1,5 @@
 id: 3666319971
 type: node
-shop: Bücher
 latitude: 52.4958821
 longitude: 13.3343571
 postcode: "10777"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Regensburger Straße"
 housenumber: 25
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 13:00-18:00; Sa 10:00-14:00"
 website: "https://www.lokomotive-fachbuchhandlung.de/"

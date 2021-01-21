@@ -1,12 +1,11 @@
 id: 1534009734
 type: node
-shop: Friseur
-latitude: 52.4628881
-longitude: 13.3211194
+latitude: 52.4628737
+longitude: 13.321129500000001
 postcode: "12163"
 city: Berlin
 street: "Schildhornstraße"
 housenumber: 9
 phone: ""
-opening_hours: ""
+opening_hours: "Mo-Fr 13:00-20:00, Sa 12:00-16:00"
 website: ""

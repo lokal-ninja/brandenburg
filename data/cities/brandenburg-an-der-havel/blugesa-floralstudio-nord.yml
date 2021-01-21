@@ -1,6 +1,5 @@
 id: 8081488890
 type: node
-shop: Blumen
 latitude: 52.422404
 longitude: 12.5483788
 postcode: "14770"
@@ -8,5 +7,5 @@ city: Brandenburg an der Havel
 street: "Werner-Seelenbinder-Straße"
 housenumber: 53
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; So 09:00-11:00"
+opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su 09:00-11:00"
 website: ""

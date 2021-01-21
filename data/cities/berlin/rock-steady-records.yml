@@ -1,6 +1,5 @@
 id: 6198813379
 type: node
-shop: Musik
 latitude: 52.5135085
 longitude: 13.3054953
 postcode: "10585"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Zillestraße"
 housenumber: 74+76
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00 Sa 10:00-16:00"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-16:00"
 website: "http://www.rocksteadyrecords.de/index.htm"

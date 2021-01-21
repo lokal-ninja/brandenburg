@@ -1,12 +1,11 @@
-id: 3959951076
+id: 3959951077
 type: node
-shop: Schreibwaren
-latitude: 52.5383414
-longitude: 13.2045282
-postcode: "13597"
+latitude: 52.5438382
+longitude: 13.545538400000002
+postcode: "12679"
 city: Berlin
-street: "Carl-Schurz-Straße"
-housenumber: 49
-phone: "+49 30 33001939"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-17:00"
+street: "Marzahner Promenade"
+housenumber: 1a
+phone: "+49 30 93025600"
+opening_hours: "Mo-Sa 10:00-20:00"
 website: "https://www.toner-dumping.de"

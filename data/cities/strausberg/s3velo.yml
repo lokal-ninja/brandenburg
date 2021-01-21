@@ -1,6 +1,5 @@
 id: 2660107845
 type: node
-shop: Fahrrad
 latitude: 52.5833403
 longitude: 13.883545900000001
 postcode: "15344"
@@ -8,5 +7,5 @@ city: Strausberg
 street: "Wriezener Straße"
 housenumber: 10
 phone: "+49 3341 216 223"
-opening_hours: "Tu-Fr 09:00-14:00 15:00-18:00, Sa 09:00-14:00 15:00-17:00"
+opening_hours: "Tu-Fr 09:00-14:00,15:00-18:00; Sa 09:00-14:00,15:00-17:00"
 website: "https://www.s3velo.de"

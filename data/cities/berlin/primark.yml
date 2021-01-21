@@ -1,12 +1,11 @@
-id: 6013919054
+id: 3987047652
 type: node
-shop: Kleidung
-latitude: 52.5055555
-longitude: 13.331282100000001
-postcode: "10623"
+latitude: 52.522465600000004
+longitude: 13.413122900000001
+postcode: "10178"
 city: Berlin
-street: "Joachimsthaler Straße"
-housenumber: 4
-phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.primark.com/de/filiale/berlin"
+street: ""
+housenumber: 5-7
+phone: "+493023457162"
+opening_hours: "Mo-We 09:00-21:00; Th-Sa 09:00-22:00"
+website: "http://primark.com"

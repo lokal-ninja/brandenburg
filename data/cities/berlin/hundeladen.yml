@@ -1,6 +1,5 @@
 id: 4136484143
 type: node
-shop: Tiere
 latitude: 52.56054760000001
 longitude: 13.373806900000002
 postcode: "13409"
@@ -8,5 +7,5 @@ city: Berlin
 street: "Ritterlandweg"
 housenumber: 38
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, 15:00-18:30"
+opening_hours: "Mo-Fr 09:00-12:00,15:00-18:30"
 website: ""
