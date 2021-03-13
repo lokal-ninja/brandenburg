@@ -1,11 +1,11 @@
-id: 2642267673
+id: 2025237204
 type: node
-latitude: 52.504916800000004
-longitude: 13.469329400000001
-postcode: "10245"
+latitude: 52.386520600000004
+longitude: 13.4061129
+postcode: "12305"
 city: Berlin
-street: "Neue Bahnhofstraße"
-housenumber: 2
-phone: ""
-opening_hours: "Mo-Fr 06:00-18:30"
-website: ""
+street: "Bahnhofstraße"
+housenumber: 58
+phone: "+49 30 74206123"
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su,PH 07:30-11:00"
+website: "https://www.back-werk.de/"

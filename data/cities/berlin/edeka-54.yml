@@ -1,11 +1,11 @@
-id: 7658861472
-type: node
-latitude: 52.5023465
-longitude: 13.3855468
-postcode: "10963"
+id: 10672229
+type: way
+latitude: 52.570038600000004
+longitude: 13.328365900000001
+postcode: "13403"
 city: Berlin
-street: "Stresemannstraße"
-housenumber: 52
-phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
-website: ""
+street: "Auguste-Viktoria-Allee"
+housenumber: 
+phone: "+4930 4174928 0"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.edeka.de"

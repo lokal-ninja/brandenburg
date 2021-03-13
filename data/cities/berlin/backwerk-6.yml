@@ -1,11 +1,11 @@
-id: 3866668285
+id: 3039050654
 type: node
-latitude: 52.4931744
-longitude: 13.460845800000001
-postcode: "12435"
+latitude: 52.5485672
+longitude: 13.4531103
+postcode: "13088"
 city: Berlin
-street: "Elsenstraße"
-housenumber: 2
-phone: "+49 3033843474"
-opening_hours: "Mo-Fr 06:00-19:00; Sa 08:00-15:00; Su 10:00-16:00"
-website: ""
+street: "Berliner Allee"
+housenumber: 50
+phone: ""
+opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-15:00; Su 08:00-14:00"
+website: "https://www.back-werk.de/"

@@ -1,11 +1,11 @@
-id: 24740811
-type: way
-latitude: 52.6149101
-longitude: 13.2440396
-postcode: "13503"
+id: 6024482762
+type: node
+latitude: 52.520411800000005
+longitude: 13.462901200000001
+postcode: "10247"
 city: Berlin
-street: "Ruppiner Chaussee"
-housenumber: 243
-phone: "+49 30 43605604"
-opening_hours: "Mo-Sa 07:00-22:00; Su 07:00-12:00"
-website: "https://www.rewe.de/marktseite/rewe-city-markt-berlin-ruppiner-chaussee-243/"
+street: "Eldenaer Straße"
+housenumber: 42
+phone: ""
+opening_hours: "Mo-Sa 07:00-23:30; PH off"
+website: ""

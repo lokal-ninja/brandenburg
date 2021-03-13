@@ -1,11 +1,11 @@
 id: 11126906
 type: way
-latitude: 52.4270493
-longitude: 13.7507008
+latitude: 52.4270458
+longitude: 13.7506888
 postcode: "15537"
 city: Erkner
 street: "Ladestraße"
-housenumber: 1
+housenumber: 1;2;3
 phone: ""
 opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

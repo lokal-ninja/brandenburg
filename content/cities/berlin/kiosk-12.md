@@ -1,5 +1,5 @@
 ---
-title: "Kiosk 12"
+title: "Kiosk"
 url: /berlin/kiosk-12/
-shop: Kiosk
+shop: Lebensmittel
 ---

@@ -1,11 +1,11 @@
-id: 41736742
-type: way
-latitude: 52.5388437
-longitude: 13.5568699
-postcode: "12685"
+id: 6402635126
+type: node
+latitude: 52.429635700000006
+longitude: 13.512672
+postcode: "12487"
 city: Berlin
-street: "Scheibenbergstraße"
-housenumber: 20
+street: "Eisenhutweg"
+housenumber: 93
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: ""
 website: ""

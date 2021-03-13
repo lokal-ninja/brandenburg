@@ -1,5 +1,5 @@
 ---
-title: "basic"
+title: "Basic"
 url: /berlin/basic/
 shop: Supermarkt
 ---

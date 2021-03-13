@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
 url: /berlin/woolworth/
-shop: Warenhaus
+shop: Kramladen
 ---

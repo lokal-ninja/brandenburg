@@ -1,11 +1,11 @@
-id: 176944062
-type: way
-latitude: 52.495419000000005
-longitude: 13.523595700000001
-postcode: "10319"
+id: 688769730
+type: node
+latitude: 52.4604155
+longitude: 13.447136800000001
+postcode: "12359"
 city: Berlin
-street: "Am Tierpark"
-housenumber: 124
+street: "Buschkrugallee"
+housenumber: 43
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-13:00"
+opening_hours: "Mo-Fr 08:00-18:30; Sa 09:00-14:00 Verkauf || Mo-Fr 07:00-18:30; Sa 08:00-13:00 Werkstatt; Su,PH off"
 website: ""

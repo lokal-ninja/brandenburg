@@ -1,5 +1,5 @@
 ---
 title: "Sunpoint"
 url: /berlin/sunpoint/
-shop: Allgemein
+shop: Kosmetik
 ---

@@ -1,11 +1,11 @@
-id: 24921792
-type: way
-latitude: 52.564202900000005
-longitude: 13.324646300000001
-postcode: "13405"
+id: 7475632256
+type: node
+latitude: 52.536157900000006
+longitude: 13.356722000000001
+postcode: "10559"
 city: Berlin
-street: "Scharnweberstraße"
-housenumber: 129
-phone: "+4930 41709965"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.schuhcenter.de/siemes-schuhcenter-berlin-reinickendorf-scharnweberstrasse-128-129.html"
+street: "Ellen-Epstein-Straße"
+housenumber: 2
+phone: ""
+opening_hours: "Mo-Sa 09:00-20:00"
+website: ""

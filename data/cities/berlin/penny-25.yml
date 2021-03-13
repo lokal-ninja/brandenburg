@@ -1,11 +1,11 @@
-id: 27579008
-type: way
-latitude: 52.481043400000004
-longitude: 13.384580600000001
-postcode: "12101"
+id: 3488849733
+type: node
+latitude: 52.496386300000005
+longitude: 13.347832400000001
+postcode: "10781"
 city: Berlin
-street: "Tempelhofer Damm"
-housenumber: 24
-phone: ""
-opening_hours: "Mo-Sa 06:30-22:00"
-website: ""
+street: "Winterfeldtstraße"
+housenumber: 74
+phone: "+49 221 20199959"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: "https://www.penny.de"

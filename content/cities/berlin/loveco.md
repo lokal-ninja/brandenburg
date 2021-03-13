@@ -1,5 +1,5 @@
 ---
-title: "loveco"
+title: "Loveco"
 url: /berlin/loveco/
 shop: Kleidung
 ---

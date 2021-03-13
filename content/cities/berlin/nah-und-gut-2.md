@@ -1,5 +1,5 @@
 ---
-title: "Nah und Gut"
+title: "nah und gut"
 url: /berlin/nah-und-gut-2/
-shop: Lebensmittel
+shop: Supermarkt
 ---
