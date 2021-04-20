@@ -1,11 +1,11 @@
-id: 27579008
-type: way
-latitude: 52.481043400000004
-longitude: 13.384580600000001
-postcode: "12101"
+id: 6402635126
+type: node
+latitude: 52.429635700000006
+longitude: 13.512672
+postcode: "12487"
 city: Berlin
-street: "Tempelhofer Damm"
-housenumber: 24
+street: "Eisenhutweg"
+housenumber: 93
 phone: ""
-opening_hours: "Mo-Sa 06:30-22:00"
+opening_hours: ""
 website: ""

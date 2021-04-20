@@ -1,5 +1,5 @@
 ---
-title: "Digital AudionetworX"
+title: "Digital Audionetworx"
 url: /berlin/digital-audionetworx/
-shop: Hifi
+shop: Elektronik
 ---

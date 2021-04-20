@@ -1,6 +1,6 @@
 ---
 title: Neuenhagen bei Berlin
 url: /neuenhagen-bei-berlin/
-latitude: 52.5261676
-longitude: 13.688929300000002
+latitude: 52.5261884
+longitude: 13.688925900000001
 ---

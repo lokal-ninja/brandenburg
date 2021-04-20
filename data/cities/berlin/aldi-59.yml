@@ -1,11 +1,11 @@
-id: 48202910
+id: 44066210
 type: way
-latitude: 52.5251626
-longitude: 13.534426700000001
-postcode: "12681"
+latitude: 52.510612
+longitude: 13.562478100000002
+postcode: "12683"
 city: Berlin
-street: "Marzahner Chaussee"
-housenumber: 200
+street: "Dingolfinger Straße"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: ""
+opening_hours: "Mo-Sa 8:00-20:00"
+website: "http://www.aldi-nord.de"

@@ -1,11 +1,11 @@
-id: 32651652
-type: way
-latitude: 52.505730400000004
-longitude: 13.307121800000001
-postcode: "10627"
+id: 8462242297
+type: node
+latitude: 52.564151700000004
+longitude: 13.5058792
+postcode: "13051"
 city: Berlin
-street: "Wilmersdorfer Straße"
-housenumber: 108
+street: "Prerower Platz"
+housenumber: 1
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
+opening_hours: ""
 website: ""

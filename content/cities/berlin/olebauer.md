@@ -1,5 +1,5 @@
 ---
 title: "OleBauer"
 url: /berlin/olebauer/
-shop: Allgemein
+shop: Nahrungsergänzung
 ---

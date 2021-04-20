@@ -1,11 +1,11 @@
-id: 2966075122
+id: 2850019701
 type: node
-latitude: 52.5531171
-longitude: 13.3462318
-postcode: "13349"
+latitude: 52.599201
+longitude: 13.354166600000001
+postcode: "13439"
 city: Berlin
-street: "Müllerstraße"
-housenumber: 123-125
+street: "Senftenberger Ring"
+housenumber: 15
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+opening_hours: ""
+website: ""

@@ -1,11 +1,11 @@
-id: 153709348
-type: way
-latitude: 52.510295500000005
-longitude: 13.451992200000001
-postcode: "10243"
+id: 8637878902
+type: node
+latitude: 52.4853856
+longitude: 13.354215100000001
+postcode: "10827"
 city: Berlin
-street: "Warschauer Straße"
-housenumber: 63
+street: "Hauptstraße"
+housenumber: 29
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00"
-website: "https://www.denns-biomarkt.de/berlin-warschauer-str-63/marktseite/"
+opening_hours: ""
+website: ""
