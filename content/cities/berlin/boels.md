@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /berlin/boels/
-shop: Mieten
+shop: Allgemein
 ---

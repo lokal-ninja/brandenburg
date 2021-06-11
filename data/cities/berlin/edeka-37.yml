@@ -1,11 +1,11 @@
-id: 3307282338
+id: 2936781767
 type: node
-latitude: 52.5299667
-longitude: 13.6208656
-postcode: "12627"
+latitude: 52.622570200000006
+longitude: 13.303260100000001
+postcode: "13467"
 city: Berlin
-street: "Riesaer Straße"
-housenumber: 102
+street: "Hohefeldstraße"
+housenumber: 21;23;25;27
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: ""

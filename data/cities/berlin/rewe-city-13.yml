@@ -1,11 +1,11 @@
-id: 2463153046
+id: 3644478493
 type: node
-latitude: 52.522330000000004
-longitude: 13.403390900000002
-postcode: "10178"
+latitude: 52.4577394
+longitude: 13.578918400000001
+postcode: "12555"
 city: Berlin
-street: "Litfaß-Platz"
-housenumber: 4
+street: "Bahnhofstraße"
+housenumber: 23-25
 phone: ""
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:00"
-website: "https://www.rewe.de/marktseite/rewe-city-markt-berlin-litfa%C3%9F-platz-4/"
+opening_hours: "Mo-Sa 07:00-22:00"
+website: ""

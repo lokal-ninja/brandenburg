@@ -1,5 +1,5 @@
 ---
-title: "Spätkauf 25"
+title: "Spätkauf"
 url: /berlin/spaetkauf-25/
-shop: Lebensmittel
+shop: Kiosk
 ---

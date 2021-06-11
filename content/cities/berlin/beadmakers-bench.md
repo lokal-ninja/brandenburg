@@ -1,5 +1,5 @@
 ---
 title: "Beadmaker's Bench"
 url: /berlin/beadmakers-bench/
-shop: Allgemein
+shop: Basteln
 ---

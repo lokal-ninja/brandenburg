@@ -1,6 +1,6 @@
 ---
 title: Wittstock/Dosse
 url: /wittstock-dosse/
-latitude: 53.1622227
-longitude: 12.487202900000002
+latitude: 53.162999000000006
+longitude: 12.4868962
 ---

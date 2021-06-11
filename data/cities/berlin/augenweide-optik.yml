@@ -1,11 +1,11 @@
 id: 6595529947
 type: node
-latitude: 52.459623
-longitude: 13.580717600000002
+latitude: 52.459610600000005
+longitude: 13.5808063
 postcode: "12555"
 city: Berlin
 street: "Mahlsdorfer Straße"
 housenumber: 2
 phone: ""
-opening_hours: "Mo-We,Fr 10:00-18:00; Th 10:00-20:00; Sa 10:00-14:00"
+opening_hours: "Tu,Th,Fr 10:00-16:00; We 10:00-18:00"
 website: ""

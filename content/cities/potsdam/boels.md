@@ -1,5 +1,5 @@
 ---
 title: "Boels"
 url: /potsdam/boels/
-shop: Werkzeuge
+shop: Allgemein
 ---
