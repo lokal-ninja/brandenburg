@@ -1,5 +1,5 @@
 ---
-title: "MyPlace Selfstorage"
+title: "MyPlace-SelfStorage"
 url: /berlin/myplace-selfstorage/
 shop: Mieten
 ---
