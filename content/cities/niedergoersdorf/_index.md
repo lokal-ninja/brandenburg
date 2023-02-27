@@ -1,6 +1,6 @@
 ---
 title: Niedergörsdorf
 url: /niedergoersdorf/
-latitude: 51.957
-longitude: 12.886
+latitude: 52.012
+longitude: 13.005
 ---
