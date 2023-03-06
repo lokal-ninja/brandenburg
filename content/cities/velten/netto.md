@@ -1,5 +1,5 @@
 ---
-title: "NETTO"
+title: "Netto"
 url: /velten/netto/
 shop: Supermarkt
 ---
