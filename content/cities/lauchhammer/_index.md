@@ -1,6 +1,6 @@
 ---
 title: Lauchhammer
 url: /lauchhammer/
-latitude: 51.469
-longitude: 13.758
+latitude: 51.471
+longitude: 13.74
 ---

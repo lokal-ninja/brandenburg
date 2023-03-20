@@ -1,11 +1,11 @@
 id: 1811240742
 type: node
 latitude: 52.52364
-longitude: 13.40624
+longitude: 13.4061
 postcode: "10178"
 city: Berlin
 street: "Dircksenstraße"
 housenumber: 42-44
-phone: ""
-opening_hours: "Mo-We 12:00-19:00; Th-Sa 11:00-19:00"
+phone: "+49 30 21808060"
+opening_hours: "Mo 12:00-18:00; Tu-Th 12:00-19:00; Fr-Sa 11:00-19:00"
 website: ""
