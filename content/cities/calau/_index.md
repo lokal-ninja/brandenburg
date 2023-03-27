@@ -1,6 +1,6 @@
 ---
 title: Calau
 url: /calau/
-latitude: 51.725
-longitude: 13.953
+latitude: 51.744
+longitude: 13.95
 ---
