@@ -1,6 +1,6 @@
 ---
 title: Prenzlau
 url: /prenzlau/
-latitude: 53.32
-longitude: 13.857
+latitude: 53.317
+longitude: 13.862
 ---

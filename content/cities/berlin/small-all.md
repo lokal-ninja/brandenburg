@@ -1,5 +1,5 @@
 ---
-title: "small all"
+title: "Small All"
 url: /berlin/small-all/
-shop: Lebensmittel
+shop: Kiosk
 ---
