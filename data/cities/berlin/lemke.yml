@@ -7,5 +7,5 @@ city: Berlin
 street: "Hindenburgdamm"
 housenumber: 42
 phone: ""
-opening_hours: "Mo 14:00-20:00; Tu,Th 09:00-18:00; We 08:00-16:00; Fr 10:00-13:00"
+opening_hours: "Mo 14:00-20:00; Tu,Th,Fr 09:00-18:00; We 08:00-16:00"
 website: ""

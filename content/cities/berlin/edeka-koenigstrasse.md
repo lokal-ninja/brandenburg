@@ -1,5 +1,5 @@
 ---
-title: "Edeka Königstraße"
-url: /berlin/edeka-koenigstrasse/
+title: "Edeka"
+url: /berlin/edeka/
 shop: Supermarkt
 ---

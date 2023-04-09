@@ -7,5 +7,5 @@ city: Berlin
 street: "Plantagenstraße"
 housenumber: 43
 phone: ""
-opening_hours: "Mo-Fr 11:00-17:00"
+opening_hours: "Mo,Th 13:00-17:00; We,Fr 11:00-17:00; Mo off"
 website: "http://www.second-hemd-berlin.de/"
