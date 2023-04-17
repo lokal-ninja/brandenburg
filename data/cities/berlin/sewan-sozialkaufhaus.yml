@@ -7,5 +7,5 @@ city: Berlin
 street: "Sewanstraße"
 housenumber: 186
 phone: "+49 30 50018788"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: "Mo,We,Fr 09:00-16:00; Sa 09:00-15:00; Tu,Th 09:00-18:00"
 website: ""
