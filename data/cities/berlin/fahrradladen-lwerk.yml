@@ -7,5 +7,5 @@ city: Berlin
 street: "Blissestraße"
 housenumber: 12
 phone: ""
-opening_hours: ""
+opening_hours: "Tu,Th 10:00-12:45,13:30-18:00; We,Fr 13:30-18:00; Mo,Sa off"
 website: "https://www.lwerk-berlin.de/"

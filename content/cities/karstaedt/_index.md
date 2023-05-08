@@ -1,6 +1,6 @@
 ---
 title: Karstädt
 url: /karstaedt/
-latitude: 53.167
-longitude: 11.747
+latitude: 53.159
+longitude: 11.74
 ---
