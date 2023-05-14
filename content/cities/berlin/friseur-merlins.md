@@ -1,5 +1,5 @@
 ---
-title: "Friseur Merlin's"
+title: "Friseur Merlins"
 url: /berlin/friseur-merlins/
 shop: Friseur
 ---
