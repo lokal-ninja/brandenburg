@@ -1,6 +1,6 @@
 ---
 title: Baruth/Mark
 url: /baruth-mark/
-latitude: 52.028
-longitude: 13.577
+latitude: 52.027
+longitude: 13.583
 ---

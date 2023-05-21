@@ -1,5 +1,5 @@
 ---
-title: "Grammophon Salon Schumacher"
+title: "Grammophon-Salon-Schumacher"
 url: /berlin/grammophon-salon-schumacher/
 shop: Antiquitäten
 ---
