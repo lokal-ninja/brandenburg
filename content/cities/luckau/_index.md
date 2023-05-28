@@ -1,6 +1,6 @@
 ---
 title: Luckau
 url: /luckau/
-latitude: 51.859
-longitude: 13.703
+latitude: 51.852
+longitude: 13.716
 ---

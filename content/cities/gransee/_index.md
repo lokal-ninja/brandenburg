@@ -1,6 +1,6 @@
 ---
 title: Gransee
 url: /gransee/
-latitude: 53.006
-longitude: 13.174
+latitude: 53.007
+longitude: 13.156
 ---

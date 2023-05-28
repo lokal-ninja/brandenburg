@@ -1,5 +1,5 @@
 ---
 title: "modulor"
 url: /berlin/modulor/
-shop: Schreibwaren
+shop: Basteln
 ---
