@@ -1,5 +1,5 @@
 ---
 title: "Paintballaden"
 url: /berlin/paintballaden/
-shop: Allgemein
+shop: Lebensmittel
 ---
