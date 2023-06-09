@@ -1,6 +1,6 @@
 ---
 title: Eberswalde
 url: /eberswalde/
-latitude: 52.836
-longitude: 13.788
+latitude: 52.834
+longitude: 13.81
 ---

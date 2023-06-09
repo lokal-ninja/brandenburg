@@ -1,5 +1,5 @@
 ---
-title: "Tony's Barbershop"
+title: "Tonys Barbershop"
 url: /berlin/tonys-barbershop/
 shop: Friseur
 ---
