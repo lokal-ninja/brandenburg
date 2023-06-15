@@ -7,5 +7,5 @@ city: Berlin
 street: "Hermann-Blankenstein-Straße"
 housenumber: 44
 phone: "+49 30 46776210"
-opening_hours: "Mo-Th,Sa 08:00-20:00, Fr 08:00-22:00"
+opening_hours: "Mo-Th,Sa 08:00-20:00; Fr 08:00-20:00"
 website: ""
