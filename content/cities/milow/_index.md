@@ -1,6 +1,6 @@
 ---
 title: Milow
 url: /milow/
-latitude: 52.523
-longitude: 12.312
+latitude: 53.176
+longitude: 11.528
 ---
