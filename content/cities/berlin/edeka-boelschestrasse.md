@@ -1,5 +1,5 @@
 ---
-title: "Edeka Bölschestraße"
+title: "EDEKA Bölschestraße"
 url: /berlin/edeka-boelschestrasse/
 shop: Supermarkt
 ---
