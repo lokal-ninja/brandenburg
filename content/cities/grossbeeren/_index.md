@@ -1,6 +1,6 @@
 ---
 title: Großbeeren
 url: /grossbeeren/
-latitude: 52.365
-longitude: 13.314
+latitude: 52.339
+longitude: 13.354
 ---
