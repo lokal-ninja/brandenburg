@@ -1,5 +1,5 @@
 ---
 title: "Inanna"
 url: /berlin/inanna/
-shop: Esoterik
+shop: Kleidung
 ---
