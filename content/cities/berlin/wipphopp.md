@@ -1,5 +1,5 @@
 ---
-title: "wipphopp"
+title: "Wipphopp"
 url: /berlin/wipphopp/
 shop: Kleidung
 ---

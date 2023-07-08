@@ -1,11 +1,11 @@
-id: 667211378
+id: 610202853
 type: node
-latitude: 52.51913
-longitude: 13.25744
-postcode: "14052"
+latitude: 52.38681
+longitude: 13.40428
+postcode: "12305"
 city: Berlin
-street: "Reichsstraße"
-housenumber: 35
+street: "Bahnhofstraße"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
-website: ""
+opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-14:00; PH,Su 07:00-12:00"
+website: "https://baecker-wiedemann.de/"
