@@ -7,5 +7,5 @@ city: Berlin
 street: "Invalidenstraße"
 housenumber: 153
 phone: "+493024083408"
-opening_hours: "Tu-Fr 10:00-21:00; Sa 10:00-16:00; Su,PH off"
+opening_hours: "PH,Su off; Mo-Fr 08:00-20:00; Sa off"
 website: "https://www.hairmueller.de/"
