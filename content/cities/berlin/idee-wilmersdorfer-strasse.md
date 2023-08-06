@@ -1,5 +1,5 @@
 ---
 title: "idee."
 url: /berlin/idee/
-shop: Baumarkt
+shop: Basteln
 ---
