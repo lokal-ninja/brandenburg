@@ -1,5 +1,5 @@
 ---
 title: "Unikaterie"
 url: /potsdam/unikaterie/
-shop: Modehaus
+shop: Kleidung
 ---
