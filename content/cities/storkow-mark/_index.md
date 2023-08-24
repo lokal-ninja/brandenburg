@@ -1,6 +1,6 @@
 ---
 title: Storkow (Mark)
 url: /storkow-mark/
-latitude: 52.253
-longitude: 13.931
+latitude: 52.261
+longitude: 13.937
 ---

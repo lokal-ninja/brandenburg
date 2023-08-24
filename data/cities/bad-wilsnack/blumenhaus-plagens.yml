@@ -7,5 +7,5 @@ city: Bad Wilsnack
 street: "Große Str. 28"
 housenumber: 
 phone: ""
-opening_hours: "Mo 09:00-12:00, Die 09:00-12:00, 14:00-17:00, Mi geschlossen, Do+Fr 09:00-12:00 + 14:00-17:00 Sa: 09:00-12:00"
+opening_hours: "Mo,Sa 09:00-12:00; Tu,Th,Fr 09:00-12:00,14:00-17:00; We off"
 website: ""

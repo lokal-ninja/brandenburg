@@ -1,5 +1,5 @@
 ---
 title: "Byanci"
 url: /luckau/byanci/
-shop: Modehaus
+shop: Kleidung
 ---
