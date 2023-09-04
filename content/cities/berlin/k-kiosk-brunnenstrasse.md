@@ -1,5 +1,5 @@
 ---
-title: "k Kiosk"
+title: "k kiosk"
 url: /berlin/k-kiosk/
 shop: Zeitungen
 ---
