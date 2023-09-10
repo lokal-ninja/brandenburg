@@ -1,5 +1,5 @@
 ---
-title: "Edeka Martin-Luther-Straße"
+title: "EDEKA Martin-Luther-Straße"
 url: /berlin/edeka-martin-luther-strasse/
 shop: Supermarkt
 ---
