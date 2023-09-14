@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /berlin/bonita/
+url: /berlin/bonita-frankfurter-allee/
 shop: Kleidung
 ---

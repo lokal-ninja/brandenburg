@@ -1,5 +1,5 @@
 ---
 title: "Weilands Backstube"
-url: /cottbus/weilands-backstube/
+url: /cottbus/weilands-backstube-bahnhofstrasse/
 shop: Bäckerei
 ---

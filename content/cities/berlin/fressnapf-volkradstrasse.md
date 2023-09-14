@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /berlin/fressnapf/
+url: /berlin/fressnapf-volkradstrasse/
 shop: Tiere
 ---

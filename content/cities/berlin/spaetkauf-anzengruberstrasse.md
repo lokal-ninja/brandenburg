@@ -1,5 +1,5 @@
 ---
 title: "Spätkauf"
-url: /berlin/spaetkauf/
+url: /berlin/spaetkauf-anzengruberstrasse/
 shop: Getränke
 ---

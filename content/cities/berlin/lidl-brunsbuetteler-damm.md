@@ -1,5 +1,5 @@
 ---
 title: "LIDL"
-url: /berlin/lidl/
+url: /berlin/lidl-brunsbuetteler-damm/
 shop: Supermarkt
 ---

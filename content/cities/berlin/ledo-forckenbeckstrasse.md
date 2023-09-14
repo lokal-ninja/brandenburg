@@ -1,5 +1,5 @@
 ---
 title: "Ledo"
-url: /berlin/ledo/
+url: /berlin/ledo-forckenbeckstrasse/
 shop: Supermarkt
 ---

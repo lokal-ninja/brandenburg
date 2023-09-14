@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /berlin/aral/
+url: /berlin/aral-sonnenallee/
 shop: Lebensmittel
 ---

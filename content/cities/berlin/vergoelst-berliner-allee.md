@@ -1,5 +1,5 @@
 ---
 title: "Vergölst"
-url: /berlin/vergoelst/
+url: /berlin/vergoelst-berliner-allee/
 shop: Reifen
 ---

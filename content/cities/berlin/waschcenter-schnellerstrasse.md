@@ -1,5 +1,5 @@
 ---
 title: "Waschcenter"
-url: /berlin/waschcenter/
+url: /berlin/waschcenter-schnellerstrasse/
 shop: Wäscherei
 ---

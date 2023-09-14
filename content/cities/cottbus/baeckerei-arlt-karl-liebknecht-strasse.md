@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Arlt"
-url: /cottbus/baeckerei-arlt/
+url: /cottbus/baeckerei-arlt-karl-liebknecht-strasse/
 shop: Bäckerei
 ---

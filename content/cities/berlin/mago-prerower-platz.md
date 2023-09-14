@@ -1,5 +1,5 @@
 ---
 title: "Mago"
-url: /berlin/mago/
+url: /berlin/mago-prerower-platz/
 shop: Metzgerei
 ---

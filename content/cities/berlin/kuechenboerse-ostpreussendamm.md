@@ -1,5 +1,5 @@
 ---
 title: "Küchenbörse"
-url: /berlin/kuechenboerse/
+url: /berlin/kuechenboerse-ostpreussendamm/
 shop: Küchen
 ---

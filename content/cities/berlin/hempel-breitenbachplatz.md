@@ -1,5 +1,5 @@
 ---
 title: "Hempel"
-url: /berlin/hempel/
+url: /berlin/hempel-breitenbachplatz/
 shop: Sanitätshaus
 ---

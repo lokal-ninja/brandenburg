@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
-url: /berlin/pandora/
+url: /berlin/pandora-prerower-platz/
 shop: Schmuck
 ---

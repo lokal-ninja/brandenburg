@@ -1,5 +1,5 @@
 ---
 title: "Telekom Shop"
-url: /cottbus/telekom-shop/
+url: /cottbus/telekom-shop-karl-liebknecht-strasse/
 shop: Handy
 ---

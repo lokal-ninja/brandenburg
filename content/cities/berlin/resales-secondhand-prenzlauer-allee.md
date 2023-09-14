@@ -1,5 +1,5 @@
 ---
 title: "ReSales Secondhand"
-url: /berlin/resales-secondhand/
+url: /berlin/resales-secondhand-prenzlauer-allee/
 shop: Kleidung
 ---

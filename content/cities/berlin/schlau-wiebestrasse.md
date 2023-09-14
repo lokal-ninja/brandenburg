@@ -1,5 +1,5 @@
 ---
 title: "Schlau"
-url: /berlin/schlau/
+url: /berlin/schlau-wiebestrasse/
 shop: Farben
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Blumenhaus"
-url: /berlin/blumenhaus/
+url: /berlin/blumenhaus-koepenicker-strasse/
 shop: Blumen
 ---

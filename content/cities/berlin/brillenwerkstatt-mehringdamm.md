@@ -1,5 +1,5 @@
 ---
 title: "Brillenwerkstatt"
-url: /berlin/brillenwerkstatt/
+url: /berlin/brillenwerkstatt-mehringdamm/
 shop: Optiker
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /potsdam/penny/
+url: /potsdam/penny-neuendorfer-strasse/
 shop: Supermarkt
 ---

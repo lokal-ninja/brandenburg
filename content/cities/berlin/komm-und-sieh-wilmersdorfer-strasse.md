@@ -1,5 +1,5 @@
 ---
 title: "Komm & Sieh"
-url: /berlin/komm-und-sieh/
+url: /berlin/komm-und-sieh-wilmersdorfer-strasse/
 shop: Gebrauchtwaren
 ---

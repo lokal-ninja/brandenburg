@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
-url: /berlin/uniqlo/
+url: /berlin/uniqlo-leipziger-platz/
 shop: Kleidung
 ---

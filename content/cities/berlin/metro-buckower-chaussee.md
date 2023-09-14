@@ -1,5 +1,5 @@
 ---
 title: "METRO"
-url: /berlin/metro/
+url: /berlin/metro-buckower-chaussee/
 shop: Großhandel
 ---

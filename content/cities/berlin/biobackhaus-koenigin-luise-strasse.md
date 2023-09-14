@@ -1,5 +1,5 @@
 ---
 title: "BioBackHaus"
-url: /berlin/biobackhaus/
+url: /berlin/biobackhaus-koenigin-luise-strasse/
 shop: Bäckerei
 ---

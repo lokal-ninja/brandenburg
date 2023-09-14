@@ -1,5 +1,5 @@
 ---
 title: "Rewe"
-url: /blankenfelde-mahlow/rewe/
+url: /blankenfelde-mahlow/rewe-mittelstrasse/
 shop: Supermarkt
 ---

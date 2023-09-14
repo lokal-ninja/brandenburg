@@ -1,5 +1,5 @@
 ---
 title: "Papiertiger"
-url: /berlin/papiertiger/
+url: /berlin/papiertiger-schoenhauser-allee/
 shop: Schreibwaren
 ---

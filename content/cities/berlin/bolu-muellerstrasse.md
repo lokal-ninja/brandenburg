@@ -1,5 +1,5 @@
 ---
 title: "Bolu"
-url: /berlin/bolu/
+url: /berlin/bolu-muellerstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Glamour"
-url: /berlin/glamour/
+url: /berlin/glamour-ludwig-renn-strasse/
 shop: Friseur
 ---

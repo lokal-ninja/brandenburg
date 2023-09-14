@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /muehlenbecker-land/getraenke-hoffmann/
+url: /muehlenbecker-land/getraenke-hoffmann-hauptstrasse/
 shop: Getränke
 ---

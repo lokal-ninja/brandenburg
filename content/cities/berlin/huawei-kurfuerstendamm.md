@@ -1,5 +1,5 @@
 ---
 title: "Huawei"
-url: /berlin/huawei/
+url: /berlin/huawei-kurfuerstendamm/
 shop: Handy
 ---

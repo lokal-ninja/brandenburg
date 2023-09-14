@@ -1,5 +1,5 @@
 ---
 title: "Renault"
-url: /berlin/renault/
+url: /berlin/renault-schnellerstrasse/
 shop: Autohaus
 ---

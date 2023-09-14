@@ -1,5 +1,5 @@
 ---
 title: "Karstadt"
-url: /berlin/karstadt/
+url: /berlin/karstadt-schlossstrasse/
 shop: Warenhaus
 ---

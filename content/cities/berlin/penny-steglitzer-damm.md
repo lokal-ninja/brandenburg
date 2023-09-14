@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /berlin/penny/
+url: /berlin/penny-steglitzer-damm/
 shop: Supermarkt
 ---

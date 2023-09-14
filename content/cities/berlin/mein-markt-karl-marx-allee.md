@@ -1,5 +1,5 @@
 ---
 title: "Mein Markt"
-url: /berlin/mein-markt/
+url: /berlin/mein-markt-karl-marx-allee/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Das Teehaus"
-url: /berlin/das-teehaus/
+url: /berlin/das-teehaus-ruedesheimer-strasse/
 shop: Tee
 ---

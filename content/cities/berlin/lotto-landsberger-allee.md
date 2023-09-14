@@ -1,5 +1,5 @@
 ---
 title: "LOTTO"
-url: /berlin/lotto/
+url: /berlin/lotto-landsberger-allee/
 shop: Kiosk
 ---

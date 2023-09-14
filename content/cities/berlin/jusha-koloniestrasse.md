@@ -1,5 +1,5 @@
 ---
 title: "Jusha"
-url: /berlin/jusha/
+url: /berlin/jusha-koloniestrasse/
 shop: Kleidung
 ---

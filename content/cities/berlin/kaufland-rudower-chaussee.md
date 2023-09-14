@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /berlin/kaufland/
+url: /berlin/kaufland-rudower-chaussee/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /berlin/thalia/
+url: /berlin/thalia-marzahner-promenade/
 shop: Bücher
 ---

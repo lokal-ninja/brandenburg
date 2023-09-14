@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /berlin/steinecke/
+url: /berlin/steinecke-alex-wedding-strasse/
 shop: Bäckerei
 ---

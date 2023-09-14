@@ -1,5 +1,5 @@
 ---
 title: "Penny"
-url: /neuruppin/penny/
+url: /neuruppin/penny-gerhart-hauptmann-strasse/
 shop: Supermarkt
 ---

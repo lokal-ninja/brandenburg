@@ -1,5 +1,5 @@
 ---
 title: "Copyplanet"
-url: /berlin/copyplanet/
+url: /berlin/copyplanet-brunnenstrasse/
 shop: Kopieren
 ---

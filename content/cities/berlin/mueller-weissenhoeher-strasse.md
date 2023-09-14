@@ -1,5 +1,5 @@
 ---
 title: "Müller"
-url: /berlin/mueller/
+url: /berlin/mueller-weissenhoeher-strasse/
 shop: Drogerie
 ---

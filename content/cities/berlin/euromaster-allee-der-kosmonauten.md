@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /berlin/euromaster/
+url: /berlin/euromaster-allee-der-kosmonauten/
 shop: Autohaus
 ---

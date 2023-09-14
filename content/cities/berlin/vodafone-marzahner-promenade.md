@@ -1,5 +1,5 @@
 ---
 title: "Vodafone"
-url: /berlin/vodafone/
+url: /berlin/vodafone-marzahner-promenade/
 shop: Handy
 ---

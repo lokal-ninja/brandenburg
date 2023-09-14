@@ -1,5 +1,5 @@
 ---
 title: "Velocelli"
-url: /berlin/velocelli/
+url: /berlin/velocelli-jessnerstrasse/
 shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Star"
-url: /berlin/star/
+url: /berlin/star-brunsbuetteler-damm/
 shop: Lebensmittel
 ---

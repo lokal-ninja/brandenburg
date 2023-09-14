@@ -1,5 +1,5 @@
 ---
 title: "Saturn"
-url: /berlin/saturn/
+url: /berlin/saturn-tauentzienstrasse/
 shop: Elektronik
 ---

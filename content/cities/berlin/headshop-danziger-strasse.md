@@ -1,5 +1,5 @@
 ---
 title: "Headshop"
-url: /berlin/headshop/
+url: /berlin/headshop-danziger-strasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Barbarino"
-url: /berlin/barbarino/
+url: /berlin/barbarino-marzahner-promenade/
 shop: Tabak
 ---

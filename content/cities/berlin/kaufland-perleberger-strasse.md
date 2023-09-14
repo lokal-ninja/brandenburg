@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /berlin/kaufland/
+url: /berlin/kaufland-perleberger-strasse/
 shop: Supermarkt
 ---

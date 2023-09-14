@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /teltow/rewe/
+url: /teltow/rewe-schoenower-strasse/
 shop: Supermarkt
 ---

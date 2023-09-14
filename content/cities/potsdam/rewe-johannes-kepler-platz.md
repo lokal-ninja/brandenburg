@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /potsdam/rewe/
+url: /potsdam/rewe-johannes-kepler-platz/
 shop: Supermarkt
 ---

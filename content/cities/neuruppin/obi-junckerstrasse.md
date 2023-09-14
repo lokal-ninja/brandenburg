@@ -1,5 +1,5 @@
 ---
 title: "OBI"
-url: /neuruppin/obi/
+url: /neuruppin/obi-junckerstrasse/
 shop: Garten-Center
 ---

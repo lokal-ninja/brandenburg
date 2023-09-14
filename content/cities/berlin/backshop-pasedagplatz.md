@@ -1,5 +1,5 @@
 ---
 title: "Backshop"
-url: /berlin/backshop/
+url: /berlin/backshop-pasedagplatz/
 shop: Bäckerei
 ---

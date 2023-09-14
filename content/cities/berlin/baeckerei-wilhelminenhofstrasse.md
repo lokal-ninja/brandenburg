@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei"
-url: /berlin/baeckerei/
+url: /berlin/baeckerei-wilhelminenhofstrasse/
 shop: Bäckerei
 ---

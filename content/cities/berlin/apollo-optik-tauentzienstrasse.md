@@ -1,5 +1,5 @@
 ---
 title: "Apollo-Optik"
-url: /berlin/apollo-optik/
+url: /berlin/apollo-optik-tauentzienstrasse/
 shop: Optiker
 ---

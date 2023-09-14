@@ -1,5 +1,5 @@
 ---
 title: "Schleckermäulchen"
-url: /berlin/schleckermaeulchen/
+url: /berlin/schleckermaeulchen-grolmanstrasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Beyaz"
-url: /berlin/beyaz/
+url: /berlin/beyaz-oranienstrasse/
 shop: Friseur
 ---

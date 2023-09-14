@@ -1,5 +1,5 @@
 ---
 title: "Camper"
-url: /berlin/camper/
+url: /berlin/camper-neue-schoenhauser-strasse/
 shop: Schuhe
 ---

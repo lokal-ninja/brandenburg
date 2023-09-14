@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /berlin/rossmann/
+url: /berlin/rossmann-hermann-blankenstein-strasse/
 shop: Drogerie
 ---

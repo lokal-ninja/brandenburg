@@ -1,5 +1,5 @@
 ---
 title: "AWG-Modecenter"
-url: /senftenberg/awg-modecenter/
+url: /senftenberg/awg-modecenter-schulstrasse/
 shop: Kleidung
 ---

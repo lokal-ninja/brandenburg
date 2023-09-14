@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /potsdam/hunkemoeller/
+url: /potsdam/hunkemoeller-brandenburger-strasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tchibo"
-url: /berlin/tchibo/
+url: /berlin/tchibo-muellerstrasse/
 shop: Kaffee
 ---

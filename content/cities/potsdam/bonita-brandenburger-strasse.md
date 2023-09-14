@@ -1,5 +1,5 @@
 ---
 title: "BONITA"
-url: /potsdam/bonita/
+url: /potsdam/bonita-brandenburger-strasse/
 shop: Kleidung
 ---

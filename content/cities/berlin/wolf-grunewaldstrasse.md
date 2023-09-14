@@ -1,5 +1,5 @@
 ---
 title: "Wolf"
-url: /berlin/wolf/
+url: /berlin/wolf-grunewaldstrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "LangerBlomqvist"
-url: /berlin/langerblomqvist/
+url: /berlin/langerblomqvist-kantstrasse/
 shop: Bücher
 ---

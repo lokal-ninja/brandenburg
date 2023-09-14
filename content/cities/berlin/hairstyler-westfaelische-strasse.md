@@ -1,5 +1,5 @@
 ---
 title: "Hairstyler"
-url: /berlin/hairstyler/
+url: /berlin/hairstyler-westfaelische-strasse/
 shop: Friseur
 ---

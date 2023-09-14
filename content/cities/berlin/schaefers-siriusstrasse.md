@@ -1,5 +1,5 @@
 ---
 title: "Schäfer's"
-url: /berlin/schaefers/
+url: /berlin/schaefers-siriusstrasse/
 shop: Bäckerei
 ---

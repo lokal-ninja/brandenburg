@@ -1,5 +1,5 @@
 ---
 title: "Vans"
-url: /berlin/vans/
+url: /berlin/vans-budapester-strasse/
 shop: Schuhe
 ---

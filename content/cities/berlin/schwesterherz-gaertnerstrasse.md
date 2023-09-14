@@ -1,5 +1,5 @@
 ---
 title: "Schwesterherz"
-url: /berlin/schwesterherz/
+url: /berlin/schwesterherz-gaertnerstrasse/
 shop: Schreibwaren
 ---

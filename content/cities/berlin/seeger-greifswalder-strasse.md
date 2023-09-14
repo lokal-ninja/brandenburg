@@ -1,5 +1,5 @@
 ---
 title: "Seeger"
-url: /berlin/seeger/
+url: /berlin/seeger-greifswalder-strasse/
 shop: Sanitätshaus
 ---

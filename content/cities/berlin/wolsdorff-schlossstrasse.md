@@ -1,5 +1,5 @@
 ---
 title: "Wolsdorff"
-url: /berlin/wolsdorff/
+url: /berlin/wolsdorff-schlossstrasse/
 shop: Zeitungen
 ---

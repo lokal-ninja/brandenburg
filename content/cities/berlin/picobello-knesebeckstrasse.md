@@ -1,5 +1,5 @@
 ---
 title: "Picobello"
-url: /berlin/picobello/
+url: /berlin/picobello-knesebeckstrasse/
 shop: Wäscherei
 ---

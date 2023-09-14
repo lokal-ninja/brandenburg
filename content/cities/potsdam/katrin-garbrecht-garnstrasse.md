@@ -1,5 +1,5 @@
 ---
 title: "Katrin Garbrecht"
-url: /potsdam/katrin-garbrecht/
+url: /potsdam/katrin-garbrecht-garnstrasse/
 shop: Friseur
 ---

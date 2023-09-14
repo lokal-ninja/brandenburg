@@ -1,5 +1,5 @@
 ---
 title: "Hörgeräte Klaper"
-url: /potsdam/hoergeraete-klaper/
+url: /potsdam/hoergeraete-klaper-luisenplatz/
 shop: Hörgeräte
 ---

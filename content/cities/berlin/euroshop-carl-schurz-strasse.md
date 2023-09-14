@@ -1,5 +1,5 @@
 ---
 title: "EuroShop"
-url: /berlin/euroshop/
+url: /berlin/euroshop-carl-schurz-strasse/
 shop: Kramladen
 ---

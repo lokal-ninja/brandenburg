@@ -1,5 +1,5 @@
 ---
 title: "vomFASS"
-url: /berlin/vomfass/
+url: /berlin/vomfass-boelschestrasse/
 shop: Feinkost
 ---

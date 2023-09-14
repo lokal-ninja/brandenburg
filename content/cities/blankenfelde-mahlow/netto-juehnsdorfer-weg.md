@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /blankenfelde-mahlow/netto/
+url: /blankenfelde-mahlow/netto-juehnsdorfer-weg/
 shop: Supermarkt
 ---

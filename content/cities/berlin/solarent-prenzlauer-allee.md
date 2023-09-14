@@ -1,5 +1,5 @@
 ---
 title: "Solarent"
-url: /berlin/solarent/
+url: /berlin/solarent-prenzlauer-allee/
 shop: Kosmetik
 ---

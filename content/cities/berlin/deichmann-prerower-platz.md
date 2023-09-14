@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /berlin/deichmann/
+url: /berlin/deichmann-prerower-platz/
 shop: Schuhe
 ---

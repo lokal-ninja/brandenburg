@@ -1,5 +1,5 @@
 ---
 title: "Harmonie"
-url: /berlin/harmonie/
+url: /berlin/harmonie-ystader-strasse/
 shop: Bäckerei
 ---

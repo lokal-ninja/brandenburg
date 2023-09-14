@@ -1,5 +1,5 @@
 ---
 title: "Blumen"
-url: /berlin/blumen/
+url: /berlin/blumen-baumschulenstrasse/
 shop: Blumen
 ---

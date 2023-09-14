@@ -1,5 +1,5 @@
 ---
 title: "Comobike"
-url: /berlin/comobike/
+url: /berlin/comobike-gneisenaustrasse/
 shop: Fahrrad
 ---

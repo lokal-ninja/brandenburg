@@ -1,5 +1,5 @@
 ---
 title: "Kumru Kuruyemiş"
-url: /berlin/kumru-kuruyemis/
+url: /berlin/kumru-kuruyemis-wrangelstrasse/
 shop: Feinkost
 ---

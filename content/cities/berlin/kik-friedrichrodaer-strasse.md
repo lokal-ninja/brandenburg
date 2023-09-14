@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /berlin/kik/
+url: /berlin/kik-friedrichrodaer-strasse/
 shop: Kleidung
 ---

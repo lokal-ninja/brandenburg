@@ -1,5 +1,5 @@
 ---
 title: "Muji"
-url: /berlin/muji/
+url: /berlin/muji-kurfuerstendamm/
 shop: Warenhaus
 ---

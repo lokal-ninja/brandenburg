@@ -1,5 +1,5 @@
 ---
 title: "Calzedonia"
-url: /berlin/calzedonia/
+url: /berlin/calzedonia-marzahner-promenade/
 shop: Kleidung
 ---

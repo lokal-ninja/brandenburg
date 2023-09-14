@@ -1,5 +1,5 @@
 ---
 title: "Exner"
-url: /michendorf/exner/
+url: /michendorf/exner-peter-huchel-chaussee/
 shop: Bäckerei
 ---

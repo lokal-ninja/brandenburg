@@ -1,5 +1,5 @@
 ---
 title: "Exner"
-url: /potsdam/exner/
+url: /potsdam/exner-carl-daehne-strasse/
 shop: Bäckerei
 ---

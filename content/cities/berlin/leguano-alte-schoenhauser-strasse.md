@@ -1,5 +1,5 @@
 ---
 title: "Leguano"
-url: /berlin/leguano/
+url: /berlin/leguano-alte-schoenhauser-strasse/
 shop: Schuhe
 ---

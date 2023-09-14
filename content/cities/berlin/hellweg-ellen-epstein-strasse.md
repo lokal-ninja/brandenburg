@@ -1,5 +1,5 @@
 ---
 title: "Hellweg"
-url: /berlin/hellweg/
+url: /berlin/hellweg-ellen-epstein-strasse/
 shop: Baumarkt
 ---

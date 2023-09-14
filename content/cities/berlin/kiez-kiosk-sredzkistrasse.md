@@ -1,5 +1,5 @@
 ---
 title: "Kiez Kiosk"
-url: /berlin/kiez-kiosk/
+url: /berlin/kiez-kiosk-sredzkistrasse/
 shop: Kiosk
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Granit"
-url: /berlin/granit/
+url: /berlin/granit-hauptstrasse/
 shop: Möbel
 ---

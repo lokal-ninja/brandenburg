@@ -1,5 +1,5 @@
 ---
 title: "HORNBACH"
-url: /berlin/hornbach/
+url: /berlin/hornbach-maerkische-spitze/
 shop: Baumarkt
 ---

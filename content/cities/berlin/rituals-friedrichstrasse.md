@@ -1,5 +1,5 @@
 ---
 title: "Rituals"
-url: /berlin/rituals/
+url: /berlin/rituals-friedrichstrasse/
 shop: Kosmetik
 ---

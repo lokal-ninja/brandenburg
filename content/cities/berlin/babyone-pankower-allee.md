@@ -1,5 +1,5 @@
 ---
 title: "BabyOne"
-url: /berlin/babyone/
+url: /berlin/babyone-pankower-allee/
 shop: Babysachen
 ---

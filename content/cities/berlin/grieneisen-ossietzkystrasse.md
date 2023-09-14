@@ -1,5 +1,5 @@
 ---
 title: "Grieneisen"
-url: /berlin/grieneisen/
+url: /berlin/grieneisen-ossietzkystrasse/
 shop: Bestattungen
 ---

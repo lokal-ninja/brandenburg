@@ -1,5 +1,5 @@
 ---
 title: "Shoeting"
-url: /berlin/shoeting/
+url: /berlin/shoeting-goltzstrasse/
 shop: Schuhe
 ---

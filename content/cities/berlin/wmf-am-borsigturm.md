@@ -1,5 +1,5 @@
 ---
 title: "WMF"
-url: /berlin/wmf/
+url: /berlin/wmf-am-borsigturm/
 shop: Haushaltsartikel
 ---

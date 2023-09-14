@@ -1,5 +1,5 @@
 ---
 title: "Dreißig"
-url: /berlin/dreissig/
+url: /berlin/dreissig-dammweg/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cutman"
-url: /berlin/cutman/
+url: /berlin/cutman-hauptstrasse/
 shop: Friseur
 ---

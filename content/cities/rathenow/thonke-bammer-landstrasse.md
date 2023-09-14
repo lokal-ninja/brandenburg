@@ -1,5 +1,5 @@
 ---
 title: "Thonke"
-url: /rathenow/thonke/
+url: /rathenow/thonke-bammer-landstrasse/
 shop: Bäckerei
 ---

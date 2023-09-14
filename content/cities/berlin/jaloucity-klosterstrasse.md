@@ -1,5 +1,5 @@
 ---
 title: "Jaloucity"
-url: /berlin/jaloucity/
+url: /berlin/jaloucity-klosterstrasse/
 shop: Raumausstattung
 ---

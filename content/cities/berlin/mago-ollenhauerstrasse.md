@@ -1,5 +1,5 @@
 ---
 title: "MAGO"
-url: /berlin/mago/
+url: /berlin/mago-ollenhauerstrasse/
 shop: Metzgerei
 ---

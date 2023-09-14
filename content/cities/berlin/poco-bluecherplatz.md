@@ -1,5 +1,5 @@
 ---
 title: "POCO"
-url: /berlin/poco/
+url: /berlin/poco-bluecherplatz/
 shop: Möbel
 ---

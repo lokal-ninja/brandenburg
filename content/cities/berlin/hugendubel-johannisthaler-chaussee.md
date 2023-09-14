@@ -1,5 +1,5 @@
 ---
 title: "Hugendubel"
-url: /berlin/hugendubel/
+url: /berlin/hugendubel-johannisthaler-chaussee/
 shop: Bücher
 ---

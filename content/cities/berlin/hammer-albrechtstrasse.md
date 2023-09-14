@@ -1,5 +1,5 @@
 ---
 title: "Hammer"
-url: /berlin/hammer/
+url: /berlin/hammer-albrechtstrasse/
 shop: Baumarkt
 ---

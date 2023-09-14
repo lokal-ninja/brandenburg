@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /rathenow/kik/
+url: /rathenow/kik-maerkischer-platz/
 shop: Kleidung
 ---

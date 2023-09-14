@@ -1,5 +1,5 @@
 ---
 title: "Dampfbank"
-url: /berlin/dampfbank/
+url: /berlin/dampfbank-wexstrasse/
 shop: E-Zigaretten
 ---

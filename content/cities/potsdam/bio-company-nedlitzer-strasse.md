@@ -1,5 +1,5 @@
 ---
 title: "Bio Company"
-url: /potsdam/bio-company/
+url: /potsdam/bio-company-nedlitzer-strasse/
 shop: Supermarkt
 ---

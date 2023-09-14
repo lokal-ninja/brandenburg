@@ -1,5 +1,5 @@
 ---
 title: "Wurst und Schinken Haase"
-url: /berlin/wurst-und-schinken-haase/
+url: /berlin/wurst-und-schinken-haase-obstallee/
 shop: Metzgerei
 ---

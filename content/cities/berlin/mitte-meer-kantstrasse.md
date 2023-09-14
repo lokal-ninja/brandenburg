@@ -1,5 +1,5 @@
 ---
 title: "Mitte Meer"
-url: /berlin/mitte-meer/
+url: /berlin/mitte-meer-kantstrasse/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Roller"
-url: /berlin/roller/
+url: /berlin/roller-adlergestell/
 shop: Möbel
 ---

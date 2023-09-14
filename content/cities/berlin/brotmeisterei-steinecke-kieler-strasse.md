@@ -1,5 +1,5 @@
 ---
 title: "Brotmeisterei Steinecke"
-url: /berlin/brotmeisterei-steinecke/
+url: /berlin/brotmeisterei-steinecke-kieler-strasse/
 shop: Bäckerei
 ---

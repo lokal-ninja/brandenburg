@@ -1,5 +1,5 @@
 ---
 title: "Żabka"
-url: /slubice/zabka/
+url: /slubice/zabka-mikolaja-kopernika/
 shop: Lebensmittel
 ---

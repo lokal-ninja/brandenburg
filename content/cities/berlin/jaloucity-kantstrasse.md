@@ -1,5 +1,5 @@
 ---
 title: "JalouCity"
-url: /berlin/jaloucity/
+url: /berlin/jaloucity-kantstrasse/
 shop: Jalousien
 ---

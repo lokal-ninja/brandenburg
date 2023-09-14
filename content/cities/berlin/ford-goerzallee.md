@@ -1,5 +1,5 @@
 ---
 title: "Ford"
-url: /berlin/ford/
+url: /berlin/ford-goerzallee/
 shop: Autohaus
 ---

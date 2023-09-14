@@ -1,5 +1,5 @@
 ---
 title: "Hair Styling"
-url: /berlin/hair-styling/
+url: /berlin/hair-styling-harzer-strasse/
 shop: Friseur
 ---

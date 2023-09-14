@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /cottbus/deichmann/
+url: /cottbus/deichmann-karl-liebknecht-strasse/
 shop: Schuhe
 ---

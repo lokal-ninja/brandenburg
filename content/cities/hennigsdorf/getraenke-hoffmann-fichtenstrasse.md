@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /hennigsdorf/getraenke-hoffmann/
+url: /hennigsdorf/getraenke-hoffmann-fichtenstrasse/
 shop: Getränke
 ---

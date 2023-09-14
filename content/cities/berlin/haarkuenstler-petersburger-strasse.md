@@ -1,5 +1,5 @@
 ---
 title: "Haarkünstler"
-url: /berlin/haarkuenstler/
+url: /berlin/haarkuenstler-petersburger-strasse/
 shop: Friseur
 ---

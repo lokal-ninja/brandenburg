@@ -1,5 +1,5 @@
 ---
 title: "Grieneisen Bestattungen"
-url: /berlin/grieneisen-bestattungen/
+url: /berlin/grieneisen-bestattungen-bismarckstrasse/
 shop: Bestattungen
 ---

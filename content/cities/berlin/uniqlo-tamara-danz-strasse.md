@@ -1,5 +1,5 @@
 ---
 title: "Uniqlo"
-url: /berlin/uniqlo/
+url: /berlin/uniqlo-tamara-danz-strasse/
 shop: Kleidung
 ---

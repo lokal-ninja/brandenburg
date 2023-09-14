@@ -1,5 +1,5 @@
 ---
 title: "Queen Nails"
-url: /berlin/queen-nails/
+url: /berlin/queen-nails-schillerstrasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Eurogida"
-url: /berlin/eurogida/
+url: /berlin/eurogida-bundesallee/
 shop: Supermarkt
 ---

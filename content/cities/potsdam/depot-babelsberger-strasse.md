@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /potsdam/depot/
+url: /potsdam/depot-babelsberger-strasse/
 shop: Raumausstattung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Edeka"
-url: /wandlitz/edeka/
+url: /wandlitz/edeka-klosterfelder-hauptstrasse/
 shop: Supermarkt
 ---

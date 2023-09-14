@@ -1,5 +1,5 @@
 ---
 title: "Klemke"
-url: /berlin/klemke/
+url: /berlin/klemke-joachimstrasse/
 shop: Autowerkstatt
 ---

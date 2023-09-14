@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /rathenow/kaufland/
+url: /rathenow/kaufland-schwedendamm/
 shop: Supermarkt
 ---

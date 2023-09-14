@@ -1,5 +1,5 @@
 ---
 title: "Parfümerie Krüger"
-url: /berlin/parfuemerie-krueger/
+url: /berlin/parfuemerie-krueger-frankfurter-allee/
 shop: Parfümerie
 ---

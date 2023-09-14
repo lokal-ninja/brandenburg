@@ -1,5 +1,5 @@
 ---
 title: "1 2 3 Küchen"
-url: /potsdam/1-2-3-kuechen/
+url: /potsdam/1-2-3-kuechen-rueckertstrasse/
 shop: Küchen
 ---

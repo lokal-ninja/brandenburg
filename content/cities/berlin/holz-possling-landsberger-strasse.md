@@ -1,5 +1,5 @@
 ---
 title: "Holz Possling"
-url: /berlin/holz-possling/
+url: /berlin/holz-possling-landsberger-strasse/
 shop: Baumarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Smyths"
-url: /berlin/smyths/
+url: /berlin/smyths-walther-schreiber-platz/
 shop: Spielzeug
 ---

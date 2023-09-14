@@ -1,5 +1,5 @@
 ---
 title: "Nessler"
-url: /templin/nessler/
+url: /templin/nessler-muehlenstrasse-2/
 shop: Kleidung
 ---

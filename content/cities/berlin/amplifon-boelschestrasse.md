@@ -1,5 +1,5 @@
 ---
 title: "Amplifon"
-url: /berlin/amplifon/
+url: /berlin/amplifon-boelschestrasse/
 shop: Hörgeräte
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /berlin/netto/
+url: /berlin/netto-kiefholzstrasse/
 shop: Supermarkt
 ---

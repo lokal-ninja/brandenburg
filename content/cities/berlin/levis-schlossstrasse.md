@@ -1,5 +1,5 @@
 ---
 title: "Levi's"
-url: /berlin/levis/
+url: /berlin/levis-schlossstrasse/
 shop: Kleidung
 ---

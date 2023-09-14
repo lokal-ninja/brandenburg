@@ -1,5 +1,5 @@
 ---
 title: "Tranquillo"
-url: /berlin/tranquillo/
+url: /berlin/tranquillo-bergmannstrasse/
 shop: Kleidung
 ---

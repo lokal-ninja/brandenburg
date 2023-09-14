@@ -1,5 +1,5 @@
 ---
 title: "Sofi"
-url: /berlin/sofi/
+url: /berlin/sofi-wuehlischstrasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /potsdam/mcpaper/
+url: /potsdam/mcpaper-friedrich-ebert-strasse/
 shop: Schreibwaren
 ---

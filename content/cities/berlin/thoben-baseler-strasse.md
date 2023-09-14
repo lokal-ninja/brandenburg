@@ -1,5 +1,5 @@
 ---
 title: "Thoben"
-url: /berlin/thoben/
+url: /berlin/thoben-baseler-strasse/
 shop: Bäckerei
 ---

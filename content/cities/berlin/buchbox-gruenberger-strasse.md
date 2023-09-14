@@ -1,5 +1,5 @@
 ---
 title: "Buchbox"
-url: /berlin/buchbox/
+url: /berlin/buchbox-gruenberger-strasse/
 shop: Bücher
 ---

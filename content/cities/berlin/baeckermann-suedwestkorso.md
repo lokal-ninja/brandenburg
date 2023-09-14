@@ -1,5 +1,5 @@
 ---
 title: "BäckerMann"
-url: /berlin/baeckermann/
+url: /berlin/baeckermann-suedwestkorso/
 shop: Bäckerei
 ---

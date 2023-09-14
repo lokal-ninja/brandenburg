@@ -1,5 +1,5 @@
 ---
 title: "Salon Haarmonie"
-url: /potsdam/salon-haarmonie/
+url: /potsdam/salon-haarmonie-grossbeerenstrasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Fressnapf"
-url: /berlin/fressnapf/
+url: /berlin/fressnapf-quedlinburger-strasse/
 shop: Tiere
 ---

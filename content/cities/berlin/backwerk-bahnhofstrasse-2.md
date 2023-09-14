@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /berlin/backwerk/
+url: /berlin/backwerk-bahnhofstrasse-2/
 shop: Bäckerei
 ---

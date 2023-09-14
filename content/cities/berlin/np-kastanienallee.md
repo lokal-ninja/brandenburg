@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /berlin/np/
+url: /berlin/np-kastanienallee/
 shop: Supermarkt
 ---

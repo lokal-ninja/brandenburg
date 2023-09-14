@@ -1,5 +1,5 @@
 ---
 title: "Goldsprint"
-url: /berlin/goldsprint/
+url: /berlin/goldsprint-plesser-strasse/
 shop: Fahrrad
 ---

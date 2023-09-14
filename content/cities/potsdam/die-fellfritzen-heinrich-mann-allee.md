@@ -1,5 +1,5 @@
 ---
 title: "Die Fellfritzen"
-url: /potsdam/die-fellfritzen/
+url: /potsdam/die-fellfritzen-heinrich-mann-allee/
 shop: Friseur
 ---

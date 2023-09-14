@@ -1,5 +1,5 @@
 ---
 title: "Schwäbische Bäckerei"
-url: /berlin/schwaebische-baeckerei/
+url: /berlin/schwaebische-baeckerei-samariterstrasse/
 shop: Bäckerei
 ---

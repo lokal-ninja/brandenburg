@@ -1,5 +1,5 @@
 ---
 title: "Photo Huber"
-url: /berlin/photo-huber/
+url: /berlin/photo-huber-budapester-strasse/
 shop: Foto
 ---

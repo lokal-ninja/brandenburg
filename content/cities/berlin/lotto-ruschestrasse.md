@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
-url: /berlin/lotto/
+url: /berlin/lotto-ruschestrasse/
 shop: Lotterie
 ---

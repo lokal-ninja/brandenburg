@@ -1,5 +1,5 @@
 ---
 title: "Oska"
-url: /berlin/oska/
+url: /berlin/oska-bleibtreustrasse/
 shop: Kleidung
 ---

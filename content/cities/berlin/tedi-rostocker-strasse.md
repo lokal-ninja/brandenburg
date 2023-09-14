@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /berlin/tedi/
+url: /berlin/tedi-rostocker-strasse/
 shop: Kramladen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /koenigs-wusterhausen/rewe/
+url: /koenigs-wusterhausen/rewe-karl-marx-strasse/
 shop: Supermarkt
 ---

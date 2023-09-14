@@ -1,5 +1,5 @@
 ---
 title: "Brillenwerkstatt"
-url: /berlin/brillenwerkstatt/
+url: /berlin/brillenwerkstatt-dircksenstrasse/
 shop: Optiker
 ---

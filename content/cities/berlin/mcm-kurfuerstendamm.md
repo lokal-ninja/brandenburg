@@ -1,5 +1,5 @@
 ---
 title: "MCM"
-url: /berlin/mcm/
+url: /berlin/mcm-kurfuerstendamm/
 shop: Modehaus
 ---

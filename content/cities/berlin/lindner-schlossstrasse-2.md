@@ -1,5 +1,5 @@
 ---
 title: "Lindner"
-url: /berlin/lindner/
+url: /berlin/lindner-schlossstrasse-2/
 shop: Feinkost
 ---

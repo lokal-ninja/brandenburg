@@ -1,5 +1,5 @@
 ---
 title: "Schiesser"
-url: /berlin/schiesser/
+url: /berlin/schiesser-schlossstrasse/
 shop: Kleidung
 ---

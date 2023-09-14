@@ -1,5 +1,5 @@
 ---
 title: "Schuhwa e.G."
-url: /potsdam/schuhwa-e-g/
+url: /potsdam/schuhwa-e-g-charlottenstrasse/
 shop: Schuhe
 ---

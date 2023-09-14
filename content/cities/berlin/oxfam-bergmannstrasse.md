@@ -1,5 +1,5 @@
 ---
 title: "Oxfam"
-url: /berlin/oxfam/
+url: /berlin/oxfam-bergmannstrasse/
 shop: Gebrauchtwaren
 ---

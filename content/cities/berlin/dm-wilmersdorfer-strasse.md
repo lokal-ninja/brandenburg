@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /berlin/dm/
+url: /berlin/dm-wilmersdorfer-strasse/
 shop: Drogerie
 ---

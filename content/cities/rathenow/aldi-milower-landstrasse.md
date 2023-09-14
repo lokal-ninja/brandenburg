@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /rathenow/aldi/
+url: /rathenow/aldi-milower-landstrasse/
 shop: Supermarkt
 ---

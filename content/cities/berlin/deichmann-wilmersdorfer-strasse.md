@@ -1,5 +1,5 @@
 ---
 title: "Deichmann"
-url: /berlin/deichmann/
+url: /berlin/deichmann-wilmersdorfer-strasse/
 shop: Schuhe
 ---

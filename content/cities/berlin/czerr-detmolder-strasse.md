@@ -1,5 +1,5 @@
 ---
 title: "Czerr"
-url: /berlin/czerr/
+url: /berlin/czerr-detmolder-strasse/
 shop: Bäckerei
 ---

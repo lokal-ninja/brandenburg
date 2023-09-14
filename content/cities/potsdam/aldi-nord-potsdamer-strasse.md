@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /potsdam/aldi-nord/
+url: /potsdam/aldi-nord-potsdamer-strasse/
 shop: Supermarkt
 ---

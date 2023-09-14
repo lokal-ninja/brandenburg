@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /cottbus/norma/
+url: /cottbus/norma-boxberger-strasse/
 shop: Supermarkt
 ---

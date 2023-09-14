@@ -1,5 +1,5 @@
 ---
 title: "Total"
-url: /berlin/total/
+url: /berlin/total-am-feuchten-winkel/
 shop: Lebensmittel
 ---

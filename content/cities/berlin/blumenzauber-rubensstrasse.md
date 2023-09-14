@@ -1,5 +1,5 @@
 ---
 title: "Blumenzauber"
-url: /berlin/blumenzauber/
+url: /berlin/blumenzauber-rubensstrasse/
 shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "KoederWahnsinn"
-url: /berlin/koederwahnsinn/
+url: /berlin/koederwahnsinn-plauener-strasse/
 shop: Angeln
 ---

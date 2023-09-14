@@ -1,5 +1,5 @@
 ---
 title: "Becon"
-url: /berlin/becon/
+url: /berlin/becon-eldenaer-strasse/
 shop: Kleidung
 ---

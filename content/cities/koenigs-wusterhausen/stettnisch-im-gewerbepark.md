@@ -1,5 +1,5 @@
 ---
 title: "Stettnisch"
-url: /koenigs-wusterhausen/stettnisch/
+url: /koenigs-wusterhausen/stettnisch-im-gewerbepark/
 shop: Sanitätshaus
 ---

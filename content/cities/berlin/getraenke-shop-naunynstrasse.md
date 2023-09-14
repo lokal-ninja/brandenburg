@@ -1,5 +1,5 @@
 ---
 title: "Getränke Shop"
-url: /berlin/getraenke-shop/
+url: /berlin/getraenke-shop-naunynstrasse/
 shop: Getränke
 ---

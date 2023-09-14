@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
-url: /berlin/ikea/
+url: /berlin/ikea-landsberger-allee/
 shop: Möbel
 ---

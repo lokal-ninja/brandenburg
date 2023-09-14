@@ -1,5 +1,5 @@
 ---
 title: "Monki"
-url: /berlin/monki/
+url: /berlin/monki-muenzstrasse/
 shop: Kleidung
 ---

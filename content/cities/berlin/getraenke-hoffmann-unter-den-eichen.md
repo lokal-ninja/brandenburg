@@ -1,5 +1,5 @@
 ---
 title: "Getränke Hoffmann"
-url: /berlin/getraenke-hoffmann/
+url: /berlin/getraenke-hoffmann-unter-den-eichen/
 shop: Getränke
 ---

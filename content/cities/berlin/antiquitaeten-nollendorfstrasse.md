@@ -1,5 +1,5 @@
 ---
 title: "Antiquitäten"
-url: /berlin/antiquitaeten/
+url: /berlin/antiquitaeten-nollendorfstrasse/
 shop: Antiquitäten
 ---

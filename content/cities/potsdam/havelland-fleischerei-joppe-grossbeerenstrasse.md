@@ -1,5 +1,5 @@
 ---
 title: "Havelland Fleischerei Joppe"
-url: /potsdam/havelland-fleischerei-joppe/
+url: /potsdam/havelland-fleischerei-joppe-grossbeerenstrasse/
 shop: Metzgerei
 ---

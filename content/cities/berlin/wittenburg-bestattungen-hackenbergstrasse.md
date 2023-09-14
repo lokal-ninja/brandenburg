@@ -1,5 +1,5 @@
 ---
 title: "Wittenburg Bestattungen"
-url: /berlin/wittenburg-bestattungen/
+url: /berlin/wittenburg-bestattungen-hackenbergstrasse/
 shop: Bestattungen
 ---

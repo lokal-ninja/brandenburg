@@ -1,5 +1,5 @@
 ---
 title: "Schleudertraum"
-url: /berlin/schleudertraum/
+url: /berlin/schleudertraum-martin-luther-strasse/
 shop: Wäscherei
 ---

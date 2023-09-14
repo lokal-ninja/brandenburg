@@ -1,5 +1,5 @@
 ---
 title: "Nike"
-url: /berlin/nike/
+url: /berlin/nike-schlossstrasse/
 shop: Kleidung
 ---

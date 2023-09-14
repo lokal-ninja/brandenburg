@@ -1,5 +1,5 @@
 ---
 title: "Kiosk"
-url: /berlin/kiosk/
+url: /berlin/kiosk-kochhannstrasse/
 shop: Lebensmittel
 ---

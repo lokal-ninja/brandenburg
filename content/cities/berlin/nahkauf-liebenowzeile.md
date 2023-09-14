@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /berlin/nahkauf/
+url: /berlin/nahkauf-liebenowzeile/
 shop: Supermarkt
 ---

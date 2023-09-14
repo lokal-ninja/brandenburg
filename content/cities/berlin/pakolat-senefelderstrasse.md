@@ -1,5 +1,5 @@
 ---
 title: "Pakolat"
-url: /berlin/pakolat/
+url: /berlin/pakolat-senefelderstrasse/
 shop: Kaffee
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /berlin/bauhaus/
+url: /berlin/bauhaus-nahmitzer-damm/
 shop: Baumarkt
 ---

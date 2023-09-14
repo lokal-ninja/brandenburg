@@ -1,5 +1,5 @@
 ---
 title: "L'Occitane"
-url: /berlin/loccitane/
+url: /berlin/loccitane-friedrichstrasse/
 shop: Kosmetik
 ---

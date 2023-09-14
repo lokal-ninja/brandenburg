@@ -1,5 +1,5 @@
 ---
 title: "GameStop"
-url: /berlin/gamestop/
+url: /berlin/gamestop-bahnhofstrasse/
 shop: Videospiele
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Trollby"
-url: /berlin/trollby/
+url: /berlin/trollby-eisenacher-strasse/
 shop: Kleidung
 ---

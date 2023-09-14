@@ -1,5 +1,5 @@
 ---
 title: "Humana"
-url: /berlin/humana/
+url: /berlin/humana-oranienburger-strasse/
 shop: Kleidung
 ---

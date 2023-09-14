@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus Morscheck"
-url: /berlin/sanitaetshaus-morscheck/
+url: /berlin/sanitaetshaus-morscheck-hermannstrasse/
 shop: Sanitätshaus
 ---

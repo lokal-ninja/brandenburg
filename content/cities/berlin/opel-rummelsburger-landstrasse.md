@@ -1,5 +1,5 @@
 ---
 title: "Opel"
-url: /berlin/opel/
+url: /berlin/opel-rummelsburger-landstrasse/
 shop: Autohaus
 ---

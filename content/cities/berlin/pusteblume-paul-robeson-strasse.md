@@ -1,5 +1,5 @@
 ---
 title: "Pusteblume"
-url: /berlin/pusteblume/
+url: /berlin/pusteblume-paul-robeson-strasse/
 shop: Babysachen
 ---

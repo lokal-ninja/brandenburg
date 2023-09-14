@@ -1,5 +1,5 @@
 ---
 title: "Leckerback"
-url: /berlin/leckerback/
+url: /berlin/leckerback-kaiserdamm/
 shop: Bäckerei
 ---

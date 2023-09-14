@@ -1,5 +1,5 @@
 ---
 title: "Spät Shop"
-url: /berlin/spaet-shop/
+url: /berlin/spaet-shop-wildenbruchstrasse/
 shop: Getränke
 ---

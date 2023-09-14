@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /berlin/tui/
+url: /berlin/tui-bergstrasse/
 shop: Reisebüro
 ---

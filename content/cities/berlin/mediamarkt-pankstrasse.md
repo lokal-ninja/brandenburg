@@ -1,5 +1,5 @@
 ---
 title: "MediaMarkt"
-url: /berlin/mediamarkt/
+url: /berlin/mediamarkt-pankstrasse/
 shop: Elektronik
 ---

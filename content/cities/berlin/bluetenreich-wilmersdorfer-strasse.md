@@ -1,5 +1,5 @@
 ---
 title: "Blütenreich"
-url: /berlin/bluetenreich/
+url: /berlin/bluetenreich-wilmersdorfer-strasse/
 shop: Blumen
 ---

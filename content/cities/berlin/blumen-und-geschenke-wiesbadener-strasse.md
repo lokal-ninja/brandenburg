@@ -1,5 +1,5 @@
 ---
 title: "Blumen & Geschenke"
-url: /berlin/blumen-und-geschenke/
+url: /berlin/blumen-und-geschenke-wiesbadener-strasse/
 shop: Baumarkt
 ---

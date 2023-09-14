@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
-url: /berlin/carglass/
+url: /berlin/carglass-grossbeerenstrasse/
 shop: Autowerkstatt
 ---

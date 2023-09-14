@@ -1,5 +1,5 @@
 ---
 title: "Kleine Fabriek"
-url: /berlin/kleine-fabriek/
+url: /berlin/kleine-fabriek-kastanienallee/
 shop: Babysachen
 ---

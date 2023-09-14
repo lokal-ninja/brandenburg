@@ -1,5 +1,5 @@
 ---
 title: "Backwerk"
-url: /berlin/backwerk/
+url: /berlin/backwerk-seegefelder-strasse/
 shop: Bäckerei
 ---

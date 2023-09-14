@@ -1,5 +1,5 @@
 ---
 title: "Lululemon"
-url: /berlin/lululemon/
+url: /berlin/lululemon-kurfuerstendamm/
 shop: Kleidung
 ---

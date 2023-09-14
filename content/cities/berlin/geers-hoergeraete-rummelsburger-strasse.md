@@ -1,5 +1,5 @@
 ---
 title: "GEERS Hörgeräte"
-url: /berlin/geers-hoergeraete/
+url: /berlin/geers-hoergeraete-rummelsburger-strasse/
 shop: Hörgeräte
 ---

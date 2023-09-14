@@ -1,5 +1,5 @@
 ---
 title: "Wolford"
-url: /berlin/wolford/
+url: /berlin/wolford-friedrichstrasse/
 shop: Kleidung
 ---

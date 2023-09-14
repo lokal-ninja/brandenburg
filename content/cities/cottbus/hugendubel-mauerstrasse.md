@@ -1,5 +1,5 @@
 ---
 title: "Hugendubel"
-url: /cottbus/hugendubel/
+url: /cottbus/hugendubel-mauerstrasse/
 shop: Bücher
 ---

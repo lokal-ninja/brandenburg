@@ -1,5 +1,5 @@
 ---
 title: "Dehning"
-url: /berlin/dehning/
+url: /berlin/dehning-bahnhofstrasse/
 shop: Metzgerei
 ---

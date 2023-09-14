@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /berlin/jysk/
+url: /berlin/jysk-karl-marx-strasse/
 shop: Möbel
 ---

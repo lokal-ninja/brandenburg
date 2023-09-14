@@ -1,5 +1,5 @@
 ---
 title: "Weinladen"
-url: /berlin/weinladen/
+url: /berlin/weinladen-simon-dach-strasse/
 shop: Spirituosen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Zweirad Frömming"
-url: /premnitz/zweirad-froemming/
+url: /premnitz/zweirad-froemming-moegeliner-bahnhofstrasse/
 shop: Fahrrad
 ---

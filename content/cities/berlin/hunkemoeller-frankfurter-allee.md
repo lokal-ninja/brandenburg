@@ -1,5 +1,5 @@
 ---
 title: "Hunkemöller"
-url: /berlin/hunkemoeller/
+url: /berlin/hunkemoeller-frankfurter-allee/
 shop: Kleidung
 ---

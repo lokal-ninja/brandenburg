@@ -1,5 +1,5 @@
 ---
 title: "Haarkünste"
-url: /berlin/haarkuenste/
+url: /berlin/haarkuenste-frankfurter-allee/
 shop: Friseur
 ---

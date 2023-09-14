@@ -1,5 +1,5 @@
 ---
 title: "Aveda"
-url: /berlin/aveda/
+url: /berlin/aveda-rosenthaler-strasse/
 shop: Parfümerie
 ---

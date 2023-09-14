@@ -1,5 +1,5 @@
 ---
 title: "Spätkauf"
-url: /berlin/spaetkauf/
+url: /berlin/spaetkauf-choriner-strasse/
 shop: Lebensmittel
 ---

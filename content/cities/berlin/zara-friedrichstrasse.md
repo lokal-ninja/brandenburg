@@ -1,5 +1,5 @@
 ---
 title: "Zara"
-url: /berlin/zara/
+url: /berlin/zara-friedrichstrasse/
 shop: Kleidung
 ---

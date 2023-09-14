@@ -1,5 +1,5 @@
 ---
 title: "Lush"
-url: /berlin/lush/
+url: /berlin/lush-schlossstrasse/
 shop: Kosmetik
 ---

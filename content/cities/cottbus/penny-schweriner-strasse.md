@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /cottbus/penny/
+url: /cottbus/penny-schweriner-strasse/
 shop: Supermarkt
 ---

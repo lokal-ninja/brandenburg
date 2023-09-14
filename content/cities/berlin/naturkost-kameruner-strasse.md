@@ -1,5 +1,5 @@
 ---
 title: "Naturkost"
-url: /berlin/naturkost/
+url: /berlin/naturkost-kameruner-strasse/
 shop: Lebensmittel
 ---

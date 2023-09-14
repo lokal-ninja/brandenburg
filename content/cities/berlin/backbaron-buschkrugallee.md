@@ -1,5 +1,5 @@
 ---
 title: "BackBaron"
-url: /berlin/backbaron/
+url: /berlin/backbaron-buschkrugallee/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /potsdam/douglas/
+url: /potsdam/douglas-brandenburger-strasse/
 shop: Kosmetik
 ---

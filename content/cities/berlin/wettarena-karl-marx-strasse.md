@@ -1,5 +1,5 @@
 ---
 title: "Wettarena"
-url: /berlin/wettarena/
+url: /berlin/wettarena-karl-marx-strasse/
 shop: Wettbüro
 ---

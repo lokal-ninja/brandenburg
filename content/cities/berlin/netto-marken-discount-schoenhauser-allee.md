@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /berlin/netto-marken-discount/
+url: /berlin/netto-marken-discount-schoenhauser-allee/
 shop: Supermarkt
 ---

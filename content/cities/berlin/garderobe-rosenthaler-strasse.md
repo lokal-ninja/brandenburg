@@ -1,5 +1,5 @@
 ---
 title: "Garderobe"
-url: /berlin/garderobe/
+url: /berlin/garderobe-rosenthaler-strasse/
 shop: Kleidung
 ---

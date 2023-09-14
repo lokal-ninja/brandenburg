@@ -1,5 +1,5 @@
 ---
 title: "ATALA"
-url: /berlin/atala/
+url: /berlin/atala-alt-mahlsdorf/
 shop: Fliesen
 ---

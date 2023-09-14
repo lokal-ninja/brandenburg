@@ -1,5 +1,5 @@
 ---
 title: "Douglas"
-url: /berlin/douglas/
+url: /berlin/douglas-leipziger-platz/
 shop: Parfümerie
 ---

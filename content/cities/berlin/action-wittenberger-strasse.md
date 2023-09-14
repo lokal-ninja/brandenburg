@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /berlin/action/
+url: /berlin/action-wittenberger-strasse/
 shop: Kramladen
 ---

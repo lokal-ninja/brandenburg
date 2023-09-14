@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /frankfurt-oder/netto/
+url: /frankfurt-oder/netto-spartakusring/
 shop: Supermarkt
 ---

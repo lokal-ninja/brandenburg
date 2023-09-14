@@ -1,5 +1,5 @@
 ---
 title: "Kaminpalast"
-url: /berlin/kaminpalast/
+url: /berlin/kaminpalast-tegeler-weg/
 shop: Werkzeuge
 ---

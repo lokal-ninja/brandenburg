@@ -1,5 +1,5 @@
 ---
 title: "Søstrene Grene"
-url: /berlin/sostrene-grene/
+url: /berlin/sostrene-grene-schlossstrasse/
 shop: Raumausstattung
 ---

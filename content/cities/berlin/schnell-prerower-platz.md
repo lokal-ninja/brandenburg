@@ -1,5 +1,5 @@
 ---
 title: "Schnell"
-url: /berlin/schnell/
+url: /berlin/schnell-prerower-platz/
 shop: Bäckerei
 ---

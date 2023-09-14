@@ -1,5 +1,5 @@
 ---
 title: "Mälzer"
-url: /berlin/maelzer/
+url: /berlin/maelzer-akazienstrasse/
 shop: Bäckerei
 ---

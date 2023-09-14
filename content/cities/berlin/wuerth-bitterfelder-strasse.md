@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /berlin/wuerth/
+url: /berlin/wuerth-bitterfelder-strasse/
 shop: Eisenwaren
 ---

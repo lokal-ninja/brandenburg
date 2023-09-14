@@ -1,5 +1,5 @@
 ---
 title: "Euromaster"
-url: /berlin/euromaster/
+url: /berlin/euromaster-teltower-damm/
 shop: Autowerkstatt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kühnbaum"
-url: /potsdam/kuehnbaum/
+url: /potsdam/kuehnbaum-am-kanal/
 shop: Bäckerei
 ---

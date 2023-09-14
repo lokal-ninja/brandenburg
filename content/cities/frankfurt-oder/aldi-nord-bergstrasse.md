@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /frankfurt-oder/aldi-nord/
+url: /frankfurt-oder/aldi-nord-bergstrasse/
 shop: Supermarkt
 ---

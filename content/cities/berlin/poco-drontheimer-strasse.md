@@ -1,5 +1,5 @@
 ---
 title: "Poco"
-url: /berlin/poco/
+url: /berlin/poco-drontheimer-strasse/
 shop: Möbel
 ---

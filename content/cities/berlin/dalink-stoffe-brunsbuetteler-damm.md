@@ -1,5 +1,5 @@
 ---
 title: "Dalink Stoffe"
-url: /berlin/dalink-stoffe/
+url: /berlin/dalink-stoffe-brunsbuetteler-damm/
 shop: Textil
 ---

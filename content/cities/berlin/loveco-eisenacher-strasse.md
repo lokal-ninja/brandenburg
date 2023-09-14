@@ -1,5 +1,5 @@
 ---
 title: "Loveco"
-url: /berlin/loveco/
+url: /berlin/loveco-eisenacher-strasse/
 shop: Kleidung
 ---

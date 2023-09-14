@@ -1,5 +1,5 @@
 ---
 title: "Ditsch"
-url: /berlin/ditsch/
+url: /berlin/ditsch-senftenberger-ring/
 shop: Bäckerei
 ---

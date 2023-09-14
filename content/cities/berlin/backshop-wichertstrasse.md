@@ -1,5 +1,5 @@
 ---
 title: "Backshop"
-url: /berlin/backshop/
+url: /berlin/backshop-wichertstrasse/
 shop: Bäckerei
 ---

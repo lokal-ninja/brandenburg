@@ -1,5 +1,5 @@
 ---
 title: "Textilreinigung"
-url: /berlin/textilreinigung/
+url: /berlin/textilreinigung-berliner-allee/
 shop: Wäscherei
 ---

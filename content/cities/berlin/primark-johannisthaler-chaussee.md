@@ -1,5 +1,5 @@
 ---
 title: "Primark"
-url: /berlin/primark/
+url: /berlin/primark-johannisthaler-chaussee/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hausbalk"
-url: /wittstock-dosse/hausbalk/
+url: /wittstock-dosse/hausbalk-roebeler-strasse/
 shop: Bäckerei
 ---

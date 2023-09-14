@@ -1,5 +1,5 @@
 ---
 title: "IKEA"
-url: /berlin/ikea/
+url: /berlin/ikea-gewerbehof/
 shop: Möbel
 ---

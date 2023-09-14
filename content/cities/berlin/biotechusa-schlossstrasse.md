@@ -1,5 +1,5 @@
 ---
 title: "BioTechUSA"
-url: /berlin/biotechusa/
+url: /berlin/biotechusa-schlossstrasse/
 shop: Nahrungsergänzung
 ---

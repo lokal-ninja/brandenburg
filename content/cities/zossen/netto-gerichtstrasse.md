@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /zossen/netto/
+url: /zossen/netto-gerichtstrasse/
 shop: Supermarkt
 ---

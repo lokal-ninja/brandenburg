@@ -1,5 +1,5 @@
 ---
 title: "Butlers"
-url: /berlin/butlers/
+url: /berlin/butlers-teltower-damm/
 shop: Raumausstattung
 ---

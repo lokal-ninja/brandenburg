@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /berlin/mcpaper/
+url: /berlin/mcpaper-karl-marx-strasse/
 shop: Schreibwaren
 ---

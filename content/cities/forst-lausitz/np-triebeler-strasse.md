@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /forst-lausitz/np/
+url: /forst-lausitz/np-triebeler-strasse/
 shop: Supermarkt
 ---

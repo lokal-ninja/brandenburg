@@ -1,5 +1,5 @@
 ---
 title: "GEA"
-url: /berlin/gea/
+url: /berlin/gea-koertestrasse/
 shop: Schuhe
 ---

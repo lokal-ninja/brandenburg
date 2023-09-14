@@ -1,5 +1,5 @@
 ---
 title: "GECO"
-url: /berlin/geco/
+url: /berlin/geco-marktstrasse/
 shop: Kiosk
 ---

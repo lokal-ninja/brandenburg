@@ -1,5 +1,5 @@
 ---
 title: "Hussel"
-url: /berlin/hussel/
+url: /berlin/hussel-bahnhofstrasse/
 shop: Süßwaren
 ---

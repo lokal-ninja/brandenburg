@@ -1,5 +1,5 @@
 ---
 title: "Haarwerkstatt"
-url: /berlin/haarwerkstatt/
+url: /berlin/haarwerkstatt-nollendorfstrasse/
 shop: Friseur
 ---

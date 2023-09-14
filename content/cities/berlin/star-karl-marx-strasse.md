@@ -1,5 +1,5 @@
 ---
 title: "Star"
-url: /berlin/star/
+url: /berlin/star-karl-marx-strasse/
 shop: Friseur
 ---

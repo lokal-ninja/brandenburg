@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /berlin/kamps/
+url: /berlin/kamps-hardenbergplatz/
 shop: Bäckerei
 ---

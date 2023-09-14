@@ -1,5 +1,5 @@
 ---
 title: "Schönhauser Design"
-url: /berlin/schoenhauser-design/
+url: /berlin/schoenhauser-design-kastanienallee/
 shop: Raumausstattung
 ---

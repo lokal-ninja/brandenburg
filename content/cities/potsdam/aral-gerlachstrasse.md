@@ -1,5 +1,5 @@
 ---
 title: "Aral"
-url: /potsdam/aral/
+url: /potsdam/aral-gerlachstrasse/
 shop: Allgemein
 ---

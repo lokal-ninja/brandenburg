@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /luckenwalde/klier/
+url: /luckenwalde/klier-frankenfelder-chaussee/
 shop: Friseur
 ---

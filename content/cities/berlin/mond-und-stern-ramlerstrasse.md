@@ -1,5 +1,5 @@
 ---
 title: "Mond & Stern"
-url: /berlin/mond-und-stern/
+url: /berlin/mond-und-stern-ramlerstrasse/
 shop: Bäckerei
 ---

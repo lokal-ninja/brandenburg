@@ -1,5 +1,5 @@
 ---
 title: "TONERDUMPING"
-url: /berlin/tonerdumping/
+url: /berlin/tonerdumping-schoenhauser-allee/
 shop: Schreibwaren
 ---

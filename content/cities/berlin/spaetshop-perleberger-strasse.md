@@ -1,5 +1,5 @@
 ---
 title: "Spätshop"
-url: /berlin/spaetshop/
+url: /berlin/spaetshop-perleberger-strasse/
 shop: Lebensmittel
 ---

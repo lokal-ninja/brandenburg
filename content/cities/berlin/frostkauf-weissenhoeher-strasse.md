@@ -1,5 +1,5 @@
 ---
 title: "Frostkauf"
-url: /berlin/frostkauf/
+url: /berlin/frostkauf-weissenhoeher-strasse/
 shop: Tiefkühl
 ---

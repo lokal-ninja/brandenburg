@@ -1,5 +1,5 @@
 ---
 title: "Orion"
-url: /berlin/orion/
+url: /berlin/orion-greifswalder-strasse/
 shop: Erotik
 ---

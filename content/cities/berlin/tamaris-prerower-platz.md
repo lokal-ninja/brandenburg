@@ -1,5 +1,5 @@
 ---
 title: "Tamaris"
-url: /berlin/tamaris/
+url: /berlin/tamaris-prerower-platz/
 shop: Schuhe
 ---

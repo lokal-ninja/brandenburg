@@ -1,5 +1,5 @@
 ---
 title: "Eurogida"
-url: /berlin/eurogida/
+url: /berlin/eurogida-tempelhofer-damm/
 shop: Supermarkt
 ---

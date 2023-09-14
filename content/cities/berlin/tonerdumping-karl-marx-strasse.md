@@ -1,5 +1,5 @@
 ---
 title: "Tonerdumping"
-url: /berlin/tonerdumping/
+url: /berlin/tonerdumping-karl-marx-strasse/
 shop: Schreibwaren
 ---

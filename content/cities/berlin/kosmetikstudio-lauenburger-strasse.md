@@ -1,5 +1,5 @@
 ---
 title: "Kosmetikstudio"
-url: /berlin/kosmetikstudio/
+url: /berlin/kosmetikstudio-lauenburger-strasse/
 shop: Kosmetik
 ---

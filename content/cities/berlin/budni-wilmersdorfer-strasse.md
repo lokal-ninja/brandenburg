@@ -1,5 +1,5 @@
 ---
 title: "Budni"
-url: /berlin/budni/
+url: /berlin/budni-wilmersdorfer-strasse/
 shop: Drogerie
 ---

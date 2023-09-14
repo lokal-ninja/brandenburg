@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /eberswalde/rossmann/
+url: /eberswalde/rossmann-breite-strasse/
 shop: Drogerie
 ---

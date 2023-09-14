@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /eberswalde/netto/
+url: /eberswalde/netto-freienwalder-strasse/
 shop: Supermarkt
 ---

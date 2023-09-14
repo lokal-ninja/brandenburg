@@ -1,5 +1,5 @@
 ---
 title: "KiK"
-url: /potsdam/kik/
+url: /potsdam/kik-grossbeerenstrasse/
 shop: Kleidung
 ---

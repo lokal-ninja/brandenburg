@@ -1,5 +1,5 @@
 ---
 title: "Weinhandlung Hertz"
-url: /berlin/weinhandlung-hertz/
+url: /berlin/weinhandlung-hertz-ruedesheimer-platz/
 shop: Spirituosen
 ---

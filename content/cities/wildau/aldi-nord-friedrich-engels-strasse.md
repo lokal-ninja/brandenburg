@@ -1,5 +1,5 @@
 ---
 title: "ALDI Nord"
-url: /wildau/aldi-nord/
+url: /wildau/aldi-nord-friedrich-engels-strasse/
 shop: Supermarkt
 ---

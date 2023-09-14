@@ -1,5 +1,5 @@
 ---
 title: "ROSSMANN"
-url: /cottbus/rossmann/
+url: /cottbus/rossmann-madlower-chaussee/
 shop: Drogerie
 ---

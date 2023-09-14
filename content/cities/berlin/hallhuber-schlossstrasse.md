@@ -1,5 +1,5 @@
 ---
 title: "Hallhuber"
-url: /berlin/hallhuber/
+url: /berlin/hallhuber-schlossstrasse/
 shop: Kleidung
 ---

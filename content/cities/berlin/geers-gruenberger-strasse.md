@@ -1,5 +1,5 @@
 ---
 title: "GEERS"
-url: /berlin/geers/
+url: /berlin/geers-gruenberger-strasse/
 shop: Hörgeräte
 ---

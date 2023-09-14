@@ -1,5 +1,5 @@
 ---
 title: "dm"
-url: /berlin/dm/
+url: /berlin/dm-albrechtstrasse/
 shop: Drogerie
 ---

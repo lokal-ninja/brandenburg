@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /berlin/aldi/
+url: /berlin/aldi-tangermuender-strasse/
 shop: Supermarkt
 ---

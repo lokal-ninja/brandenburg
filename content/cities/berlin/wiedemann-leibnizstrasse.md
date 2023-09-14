@@ -1,5 +1,5 @@
 ---
 title: "Wiedemann"
-url: /berlin/wiedemann/
+url: /berlin/wiedemann-leibnizstrasse/
 shop: Bäckerei
 ---

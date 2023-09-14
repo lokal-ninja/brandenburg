@@ -1,5 +1,5 @@
 ---
 title: "Queen of Waxing"
-url: /berlin/queen-of-waxing/
+url: /berlin/queen-of-waxing-zimmermannstrasse/
 shop: Kosmetik
 ---

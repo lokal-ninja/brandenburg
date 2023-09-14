@@ -1,5 +1,5 @@
 ---
 title: "Tatem"
-url: /berlin/tatem/
+url: /berlin/tatem-zeltinger-platz/
 shop: Kleidung
 ---

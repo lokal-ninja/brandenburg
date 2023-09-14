@@ -1,5 +1,5 @@
 ---
 title: "Blütenzauber"
-url: /berlin/bluetenzauber/
+url: /berlin/bluetenzauber-rudower-strasse/
 shop: Blumen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "McPaper"
-url: /berlin/mcpaper/
+url: /berlin/mcpaper-schlossstrasse-2/
 shop: Schreibwaren
 ---

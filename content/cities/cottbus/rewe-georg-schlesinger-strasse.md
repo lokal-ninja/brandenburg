@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /cottbus/rewe/
+url: /cottbus/rewe-georg-schlesinger-strasse/
 shop: Supermarkt
 ---

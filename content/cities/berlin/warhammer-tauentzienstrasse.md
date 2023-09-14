@@ -1,5 +1,5 @@
 ---
 title: "Warhammer"
-url: /berlin/warhammer/
+url: /berlin/warhammer-tauentzienstrasse/
 shop: Spiele
 ---

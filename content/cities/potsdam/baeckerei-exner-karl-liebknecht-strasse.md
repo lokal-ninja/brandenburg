@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Exner"
-url: /potsdam/baeckerei-exner/
+url: /potsdam/baeckerei-exner-karl-liebknecht-strasse/
 shop: Bäckerei
 ---

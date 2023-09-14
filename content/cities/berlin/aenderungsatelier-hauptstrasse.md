@@ -1,5 +1,5 @@
 ---
 title: "Änderungsatelier"
-url: /berlin/aenderungsatelier/
+url: /berlin/aenderungsatelier-hauptstrasse/
 shop: Schneiderei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Foot Locker"
-url: /berlin/foot-locker/
+url: /berlin/foot-locker-marzahner-promenade/
 shop: Schuhe
 ---

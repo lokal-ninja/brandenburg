@@ -1,5 +1,5 @@
 ---
 title: "Höffner"
-url: /berlin/hoeffner/
+url: /berlin/hoeffner-landsberger-allee/
 shop: Möbel
 ---

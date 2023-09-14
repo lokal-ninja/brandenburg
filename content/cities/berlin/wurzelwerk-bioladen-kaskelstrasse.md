@@ -1,5 +1,5 @@
 ---
 title: "Wurzelwerk Bioladen"
-url: /berlin/wurzelwerk-bioladen/
+url: /berlin/wurzelwerk-bioladen-kaskelstrasse/
 shop: Supermarkt
 ---

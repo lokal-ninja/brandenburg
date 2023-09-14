@@ -1,5 +1,5 @@
 ---
 title: "Hagebaumarkt"
-url: /bad-belzig/hagebaumarkt/
+url: /bad-belzig/hagebaumarkt-bruecker-landstrasse/
 shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dinnebier"
-url: /berlin/dinnebier/
+url: /berlin/dinnebier-knobelsdorffstrasse/
 shop: Autohaus
 ---

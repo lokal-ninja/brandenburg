@@ -1,5 +1,5 @@
 ---
 title: "Woolworth"
-url: /berlin/woolworth/
+url: /berlin/woolworth-paul-junius-strasse/
 shop: Warenhaus
 ---

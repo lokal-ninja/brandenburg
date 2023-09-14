@@ -1,5 +1,5 @@
 ---
 title: "MAC Cosmetics"
-url: /berlin/mac-cosmetics/
+url: /berlin/mac-cosmetics-schlossstrasse/
 shop: Kosmetik
 ---

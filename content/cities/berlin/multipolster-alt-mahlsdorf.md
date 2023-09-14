@@ -1,5 +1,5 @@
 ---
 title: "Multipolster"
-url: /berlin/multipolster/
+url: /berlin/multipolster-alt-mahlsdorf/
 shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schnell"
-url: /berlin/baeckerei-schnell/
+url: /berlin/baeckerei-schnell-einbecker-strasse/
 shop: Bäckerei
 ---

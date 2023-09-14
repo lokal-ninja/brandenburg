@@ -1,5 +1,5 @@
 ---
 title: "Lila Bäcker"
-url: /templin/lila-baecker/
+url: /templin/lila-baecker-vietmannsdorfer-strasse/
 shop: Bäckerei
 ---

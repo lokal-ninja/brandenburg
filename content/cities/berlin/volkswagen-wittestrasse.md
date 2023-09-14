@@ -1,5 +1,5 @@
 ---
 title: "Volkswagen"
-url: /berlin/volkswagen/
+url: /berlin/volkswagen-wittestrasse/
 shop: Autohaus
 ---

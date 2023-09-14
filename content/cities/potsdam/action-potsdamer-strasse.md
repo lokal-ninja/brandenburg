@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /potsdam/action/
+url: /potsdam/action-potsdamer-strasse/
 shop: Kramladen
 ---

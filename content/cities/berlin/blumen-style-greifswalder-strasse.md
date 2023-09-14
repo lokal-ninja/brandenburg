@@ -1,5 +1,5 @@
 ---
 title: "Blumen Style"
-url: /berlin/blumen-style/
+url: /berlin/blumen-style-greifswalder-strasse/
 shop: Blumen
 ---

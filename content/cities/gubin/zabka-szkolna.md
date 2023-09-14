@@ -1,5 +1,5 @@
 ---
 title: "Żabka"
-url: /gubin/zabka/
+url: /gubin/zabka-szkolna/
 shop: Lebensmittel
 ---

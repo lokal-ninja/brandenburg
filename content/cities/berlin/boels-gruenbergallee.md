@@ -1,5 +1,5 @@
 ---
 title: "Boels"
-url: /berlin/boels/
+url: /berlin/boels-gruenbergallee/
 shop: Werkzeuge
 ---

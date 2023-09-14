@@ -1,5 +1,5 @@
 ---
 title: "Skate & Glide"
-url: /berlin/skate-und-glide/
+url: /berlin/skate-und-glide-greifswalder-strasse/
 shop: Sport
 ---

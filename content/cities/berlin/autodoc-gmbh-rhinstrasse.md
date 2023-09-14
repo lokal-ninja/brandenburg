@@ -1,5 +1,5 @@
 ---
 title: "Autodoc GmbH"
-url: /berlin/autodoc-gmbh/
+url: /berlin/autodoc-gmbh-rhinstrasse/
 shop: Autoteile
 ---

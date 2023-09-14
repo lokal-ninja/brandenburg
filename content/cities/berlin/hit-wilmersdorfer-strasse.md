@@ -1,5 +1,5 @@
 ---
 title: "HIT"
-url: /berlin/hit/
+url: /berlin/hit-wilmersdorfer-strasse/
 shop: Supermarkt
 ---

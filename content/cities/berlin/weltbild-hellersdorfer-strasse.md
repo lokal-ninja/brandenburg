@@ -1,5 +1,5 @@
 ---
 title: "Weltbild"
-url: /berlin/weltbild/
+url: /berlin/weltbild-hellersdorfer-strasse/
 shop: Bücher
 ---

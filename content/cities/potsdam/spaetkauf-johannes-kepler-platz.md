@@ -1,5 +1,5 @@
 ---
 title: "Spätkauf"
-url: /potsdam/spaetkauf/
+url: /potsdam/spaetkauf-johannes-kepler-platz/
 shop: Lebensmittel
 ---

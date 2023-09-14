@@ -1,5 +1,5 @@
 ---
 title: "Action"
-url: /berlin/action/
+url: /berlin/action-am-juliusturm/
 shop: Kramladen
 ---

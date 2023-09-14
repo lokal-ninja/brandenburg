@@ -1,5 +1,5 @@
 ---
 title: "Rösler"
-url: /berlin/roesler/
+url: /berlin/roesler-falkenseer-chaussee/
 shop: Bäckerei
 ---

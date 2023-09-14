@@ -1,5 +1,5 @@
 ---
 title: "Zartbitter"
-url: /berlin/zartbitter/
+url: /berlin/zartbitter-kastanienallee/
 shop: Kleidung
 ---

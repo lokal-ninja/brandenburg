@@ -1,5 +1,5 @@
 ---
 title: "MedienPoint"
-url: /berlin/medienpoint/
+url: /berlin/medienpoint-senefelderstrasse/
 shop: Bücher
 ---

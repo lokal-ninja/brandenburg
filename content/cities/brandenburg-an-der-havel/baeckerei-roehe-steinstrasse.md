@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Röhe"
-url: /brandenburg-an-der-havel/baeckerei-roehe/
+url: /brandenburg-an-der-havel/baeckerei-roehe-steinstrasse/
 shop: Bäckerei
 ---

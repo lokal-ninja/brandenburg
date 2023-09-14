@@ -1,5 +1,5 @@
 ---
 title: "Wahl"
-url: /koenigs-wusterhausen/wahl/
+url: /koenigs-wusterhausen/wahl-werftstrasse/
 shop: Bäckerei
 ---

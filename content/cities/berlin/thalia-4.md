@@ -1,5 +1,5 @@
 ---
 title: "Thalia"
-url: /berlin/thalia/
+url: /berlin/thalia-4/
 shop: Bücher
 ---

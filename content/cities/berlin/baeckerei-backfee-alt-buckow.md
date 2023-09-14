@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Backfee"
-url: /berlin/baeckerei-backfee/
+url: /berlin/baeckerei-backfee-alt-buckow/
 shop: Bäckerei
 ---

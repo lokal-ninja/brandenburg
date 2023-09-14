@@ -1,5 +1,5 @@
 ---
 title: "Ballonhelden"
-url: /berlin/ballonhelden/
+url: /berlin/ballonhelden-greifswalder-strasse/
 shop: Partyzubehör
 ---

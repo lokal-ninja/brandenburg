@@ -1,5 +1,5 @@
 ---
 title: "Vitalymp"
-url: /berlin/vitalymp/
+url: /berlin/vitalymp-turmstrasse/
 shop: Nahrungsergänzung
 ---

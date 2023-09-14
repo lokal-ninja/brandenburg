@@ -1,5 +1,5 @@
 ---
 title: "Florentine"
-url: /berlin/florentine/
+url: /berlin/florentine-bismarckstrasse/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Schneider"
-url: /eichwalde/schneider/
+url: /eichwalde/schneider-uhlandallee/
 shop: Bäckerei
 ---

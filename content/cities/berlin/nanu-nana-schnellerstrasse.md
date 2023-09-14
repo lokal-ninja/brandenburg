@@ -1,5 +1,5 @@
 ---
 title: "Nanu-Nana"
-url: /berlin/nanu-nana/
+url: /berlin/nanu-nana-schnellerstrasse/
 shop: Andenken
 ---

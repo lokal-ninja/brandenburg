@@ -1,5 +1,5 @@
 ---
 title: "Parfümerie Harbeck"
-url: /berlin/parfuemerie-harbeck/
+url: /berlin/parfuemerie-harbeck-fischerhuettenstrasse/
 shop: Parfümerie
 ---

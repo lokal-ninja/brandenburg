@@ -1,5 +1,5 @@
 ---
 title: "Bolia"
-url: /berlin/bolia/
+url: /berlin/bolia-fasanenstrasse/
 shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Thürmann"
-url: /berlin/thuermann/
+url: /berlin/thuermann-wiesbadener-strasse/
 shop: Bäckerei
 ---

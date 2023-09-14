@@ -1,5 +1,5 @@
 ---
 title: "Hair Station"
-url: /berlin/hair-station/
+url: /berlin/hair-station-doerpfeldstrasse/
 shop: Friseur
 ---

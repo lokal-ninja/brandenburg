@@ -1,5 +1,5 @@
 ---
 title: "Berufsbekleidung"
-url: /berlin/berufsbekleidung/
+url: /berlin/berufsbekleidung-britzer-damm/
 shop: Kleidung
 ---

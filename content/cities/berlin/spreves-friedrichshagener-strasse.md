@@ -1,5 +1,5 @@
 ---
 title: "Spreves"
-url: /berlin/spreves/
+url: /berlin/spreves-friedrichshagener-strasse/
 shop: Autohaus
 ---

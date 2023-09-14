@@ -1,5 +1,5 @@
 ---
 title: "Oska"
-url: /berlin/oska/
+url: /berlin/oska-oranienburger-strasse/
 shop: Kleidung
 ---

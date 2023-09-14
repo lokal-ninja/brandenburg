@@ -1,5 +1,5 @@
 ---
 title: "Frida"
-url: /berlin/frida/
+url: /berlin/frida-hubertusstrasse/
 shop: Kleidung
 ---

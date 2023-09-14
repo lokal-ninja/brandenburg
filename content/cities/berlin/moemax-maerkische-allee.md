@@ -1,5 +1,5 @@
 ---
 title: "Mömax"
-url: /berlin/moemax/
+url: /berlin/moemax-maerkische-allee/
 shop: Möbel
 ---

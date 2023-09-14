@@ -1,5 +1,5 @@
 ---
 title: "Lotto"
-url: /berlin/lotto/
+url: /berlin/lotto-soldiner-strasse/
 shop: Kiosk
 ---

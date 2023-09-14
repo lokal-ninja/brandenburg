@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /berlin/aenderungsschneiderei/
+url: /berlin/aenderungsschneiderei-danziger-strasse-2/
 shop: Schneiderei
 ---

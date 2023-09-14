@@ -1,5 +1,5 @@
 ---
 title: "Tipico"
-url: /berlin/tipico/
+url: /berlin/tipico-greifswalder-strasse-2/
 shop: Wettbüro
 ---

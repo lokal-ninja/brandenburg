@@ -1,5 +1,5 @@
 ---
 title: "Janke"
-url: /wittstock-dosse/janke/
+url: /wittstock-dosse/janke-roebeler-strasse/
 shop: Bäckerei
 ---

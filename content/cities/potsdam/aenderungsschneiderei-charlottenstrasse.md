@@ -1,5 +1,5 @@
 ---
 title: "Änderungsschneiderei"
-url: /potsdam/aenderungsschneiderei/
+url: /potsdam/aenderungsschneiderei-charlottenstrasse/
 shop: Schneiderei
 ---

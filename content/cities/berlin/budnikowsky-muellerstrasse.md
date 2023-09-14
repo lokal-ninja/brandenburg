@@ -1,5 +1,5 @@
 ---
 title: "Budnikowsky"
-url: /berlin/budnikowsky/
+url: /berlin/budnikowsky-muellerstrasse/
 shop: Drogerie
 ---

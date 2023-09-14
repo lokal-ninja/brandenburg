@@ -1,5 +1,5 @@
 ---
 title: "NP"
-url: /finsterwalde/np/
+url: /finsterwalde/np-dresdener-strasse/
 shop: Supermarkt
 ---

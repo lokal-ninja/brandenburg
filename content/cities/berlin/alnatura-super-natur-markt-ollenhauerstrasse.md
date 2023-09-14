@@ -1,5 +1,5 @@
 ---
 title: "Alnatura Super Natur Markt"
-url: /berlin/alnatura-super-natur-markt/
+url: /berlin/alnatura-super-natur-markt-ollenhauerstrasse/
 shop: Supermarkt
 ---

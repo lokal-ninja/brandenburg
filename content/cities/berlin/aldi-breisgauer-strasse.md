@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /berlin/aldi/
+url: /berlin/aldi-breisgauer-strasse/
 shop: Supermarkt
 ---

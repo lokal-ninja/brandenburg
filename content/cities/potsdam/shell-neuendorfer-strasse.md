@@ -1,5 +1,5 @@
 ---
 title: "Shell"
-url: /potsdam/shell/
+url: /potsdam/shell-neuendorfer-strasse/
 shop: Allgemein
 ---

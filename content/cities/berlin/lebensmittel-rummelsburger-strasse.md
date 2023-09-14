@@ -1,5 +1,5 @@
 ---
 title: "Lebensmittel"
-url: /berlin/lebensmittel/
+url: /berlin/lebensmittel-rummelsburger-strasse/
 shop: Lebensmittel
 ---

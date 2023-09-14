@@ -1,5 +1,5 @@
 ---
 title: "Zyguła"
-url: /slubice/zygula/
+url: /slubice/zygula-tadeusza-kosciuszki/
 shop: Metzgerei
 ---

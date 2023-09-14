@@ -1,5 +1,5 @@
 ---
 title: "Dino"
-url: /gubin/dino/
+url: /gubin/dino-zlota/
 shop: Supermarkt
 ---

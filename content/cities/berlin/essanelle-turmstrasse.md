@@ -1,5 +1,5 @@
 ---
 title: "essanelle"
-url: /berlin/essanelle/
+url: /berlin/essanelle-turmstrasse/
 shop: Friseur
 ---

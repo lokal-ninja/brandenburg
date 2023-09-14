@@ -1,5 +1,5 @@
 ---
 title: "New Yorker"
-url: /berlin/new-yorker/
+url: /berlin/new-yorker-karl-marx-strasse/
 shop: Kleidung
 ---

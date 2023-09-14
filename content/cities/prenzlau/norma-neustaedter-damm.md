@@ -1,5 +1,5 @@
 ---
 title: "Norma"
-url: /prenzlau/norma/
+url: /prenzlau/norma-neustaedter-damm/
 shop: Supermarkt
 ---

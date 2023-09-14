@@ -1,5 +1,5 @@
 ---
 title: "Orient Cut"
-url: /berlin/orient-cut/
+url: /berlin/orient-cut-mahlsdorfer-strasse/
 shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Netto Marken-Discount"
-url: /oberkraemer/netto-marken-discount/
+url: /oberkraemer/netto-marken-discount-fennstrasse/
 shop: Supermarkt
 ---

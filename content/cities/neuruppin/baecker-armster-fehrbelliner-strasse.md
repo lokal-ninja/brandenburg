@@ -1,5 +1,5 @@
 ---
 title: "Bäcker Armster"
-url: /neuruppin/baecker-armster/
+url: /neuruppin/baecker-armster-fehrbelliner-strasse/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picknweight"
-url: /berlin/picknweight/
+url: /berlin/picknweight-bergmannstrasse/
 shop: Kleidung
 ---

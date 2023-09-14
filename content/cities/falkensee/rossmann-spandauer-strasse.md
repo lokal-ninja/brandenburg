@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /falkensee/rossmann/
+url: /falkensee/rossmann-spandauer-strasse/
 shop: Drogerie
 ---

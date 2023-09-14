@@ -1,5 +1,5 @@
 ---
 title: "Schrauben Witte"
-url: /berlin/schrauben-witte/
+url: /berlin/schrauben-witte-ringbahnstrasse/
 shop: Eisenwaren
 ---

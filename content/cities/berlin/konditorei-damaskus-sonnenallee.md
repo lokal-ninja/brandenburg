@@ -1,5 +1,5 @@
 ---
 title: "Konditorei Damaskus"
-url: /berlin/konditorei-damaskus/
+url: /berlin/konditorei-damaskus-sonnenallee/
 shop: Konditorei
 ---

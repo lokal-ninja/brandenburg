@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /berlin/bauhaus/
+url: /berlin/bauhaus-wilhelmsruher-damm/
 shop: Baumarkt
 ---

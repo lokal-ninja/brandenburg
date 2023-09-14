@@ -1,5 +1,5 @@
 ---
 title: "EDEKA"
-url: /templin/edeka/
+url: /templin/edeka-dargersdorfer-strasse/
 shop: Supermarkt
 ---

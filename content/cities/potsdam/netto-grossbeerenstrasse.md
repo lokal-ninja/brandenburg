@@ -1,5 +1,5 @@
 ---
 title: "NETTO"
-url: /potsdam/netto/
+url: /potsdam/netto-grossbeerenstrasse/
 shop: Supermarkt
 ---

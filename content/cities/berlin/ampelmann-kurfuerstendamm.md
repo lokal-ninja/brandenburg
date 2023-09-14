@@ -1,5 +1,5 @@
 ---
 title: "Ampelmann"
-url: /berlin/ampelmann/
+url: /berlin/ampelmann-kurfuerstendamm/
 shop: Andenken
 ---

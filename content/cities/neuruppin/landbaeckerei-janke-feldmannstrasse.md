@@ -1,5 +1,5 @@
 ---
 title: "Landbäckerei Janke"
-url: /neuruppin/landbaeckerei-janke/
+url: /neuruppin/landbaeckerei-janke-feldmannstrasse/
 shop: Bäckerei
 ---

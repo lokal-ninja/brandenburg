@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /berlin/norma/
+url: /berlin/norma-anton-saefkow-platz/
 shop: Supermarkt
 ---

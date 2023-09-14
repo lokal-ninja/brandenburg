@@ -1,5 +1,5 @@
 ---
 title: "Eckert"
-url: /brandenburg-an-der-havel/eckert/
+url: /brandenburg-an-der-havel/eckert-tschirchdamm/
 shop: Zeitungen
 ---

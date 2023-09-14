@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /berlin/kamps/
+url: /berlin/kamps-an-der-spandauer-bruecke/
 shop: Bäckerei
 ---

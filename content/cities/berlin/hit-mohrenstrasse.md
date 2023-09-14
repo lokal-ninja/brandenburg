@@ -1,5 +1,5 @@
 ---
 title: "HIT"
-url: /berlin/hit/
+url: /berlin/hit-mohrenstrasse/
 shop: Supermarkt
 ---

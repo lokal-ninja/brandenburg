@@ -1,5 +1,5 @@
 ---
 title: "C&A"
-url: /berlin/cunda/
+url: /berlin/cunda-lankwitzer-strasse/
 shop: Kleidung
 ---

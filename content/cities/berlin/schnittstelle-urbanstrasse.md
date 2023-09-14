@@ -1,5 +1,5 @@
 ---
 title: "Schnittstelle"
-url: /berlin/schnittstelle/
+url: /berlin/schnittstelle-urbanstrasse/
 shop: Supermarkt
 ---

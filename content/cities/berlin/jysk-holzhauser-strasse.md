@@ -1,5 +1,5 @@
 ---
 title: "JYSK"
-url: /berlin/jysk/
+url: /berlin/jysk-holzhauser-strasse/
 shop: Möbel
 ---

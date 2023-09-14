@@ -1,5 +1,5 @@
 ---
 title: "NKD"
-url: /berlin/nkd/
+url: /berlin/nkd-storkower-strasse/
 shop: Kleidung
 ---

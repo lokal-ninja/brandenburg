@@ -1,5 +1,5 @@
 ---
 title: "Asia Markt"
-url: /berlin/asia-markt/
+url: /berlin/asia-markt-alte-jakobstrasse/
 shop: Lebensmittel
 ---

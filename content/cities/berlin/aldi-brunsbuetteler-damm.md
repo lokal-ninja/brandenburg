@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
-url: /berlin/aldi/
+url: /berlin/aldi-brunsbuetteler-damm/
 shop: Supermarkt
 ---

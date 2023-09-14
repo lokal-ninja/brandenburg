@@ -1,5 +1,5 @@
 ---
 title: "Barrio"
-url: /berlin/barrio/
+url: /berlin/barrio-simon-dach-strasse/
 shop: Sport
 ---

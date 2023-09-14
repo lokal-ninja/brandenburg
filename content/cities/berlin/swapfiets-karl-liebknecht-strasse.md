@@ -1,5 +1,5 @@
 ---
 title: "Swapfiets"
-url: /berlin/swapfiets/
+url: /berlin/swapfiets-karl-liebknecht-strasse/
 shop: Fahrrad
 ---

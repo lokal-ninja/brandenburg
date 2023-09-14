@@ -1,5 +1,5 @@
 ---
 title: "Fielmann"
-url: /berlin/fielmann/
+url: /berlin/fielmann-teltower-damm/
 shop: Optiker
 ---

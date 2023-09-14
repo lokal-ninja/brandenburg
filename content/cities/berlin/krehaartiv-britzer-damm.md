@@ -1,5 +1,5 @@
 ---
 title: "KreHAARtiv"
-url: /berlin/krehaartiv/
+url: /berlin/krehaartiv-britzer-damm/
 shop: Friseur
 ---

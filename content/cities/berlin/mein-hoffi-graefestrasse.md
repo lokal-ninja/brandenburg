@@ -1,5 +1,5 @@
 ---
 title: "Mein Hoffi"
-url: /berlin/mein-hoffi/
+url: /berlin/mein-hoffi-graefestrasse/
 shop: Getränke
 ---

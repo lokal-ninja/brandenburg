@@ -1,5 +1,5 @@
 ---
 title: "Biedronka"
-url: /slubice/biedronka/
+url: /slubice/biedronka-wroclawska/
 shop: Supermarkt
 ---

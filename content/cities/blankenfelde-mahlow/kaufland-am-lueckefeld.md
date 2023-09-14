@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /blankenfelde-mahlow/kaufland/
+url: /blankenfelde-mahlow/kaufland-am-lueckefeld/
 shop: Einkaufszentrum
 ---

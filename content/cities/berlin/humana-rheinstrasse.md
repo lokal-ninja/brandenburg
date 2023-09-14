@@ -1,5 +1,5 @@
 ---
 title: "Humana"
-url: /berlin/humana/
+url: /berlin/humana-rheinstrasse/
 shop: Gebrauchtwaren
 ---

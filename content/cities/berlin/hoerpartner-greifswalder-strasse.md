@@ -1,5 +1,5 @@
 ---
 title: "Hörpartner"
-url: /berlin/hoerpartner/
+url: /berlin/hoerpartner-greifswalder-strasse/
 shop: Hörgeräte
 ---

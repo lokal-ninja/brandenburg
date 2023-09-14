@@ -1,5 +1,5 @@
 ---
 title: "Reno"
-url: /berlin/reno/
+url: /berlin/reno-prerower-platz/
 shop: Schuhe
 ---

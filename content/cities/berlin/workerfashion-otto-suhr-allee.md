@@ -1,5 +1,5 @@
 ---
 title: "Workerfashion"
-url: /berlin/workerfashion/
+url: /berlin/workerfashion-otto-suhr-allee/
 shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Haareszeiten"
-url: /berlin/haareszeiten/
+url: /berlin/haareszeiten-bergstrasse/
 shop: Friseur
 ---

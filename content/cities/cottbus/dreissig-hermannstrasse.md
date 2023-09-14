@@ -1,5 +1,5 @@
 ---
 title: "Dreißig"
-url: /cottbus/dreissig/
+url: /cottbus/dreissig-hermannstrasse/
 shop: Bäckerei
 ---

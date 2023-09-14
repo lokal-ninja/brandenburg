@@ -1,5 +1,5 @@
 ---
 title: "H&M"
-url: /potsdam/hundm/
+url: /potsdam/hundm-stern-center/
 shop: Kleidung
 ---

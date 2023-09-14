@@ -1,5 +1,5 @@
 ---
 title: "Lidl"
-url: /oranienburg/lidl/
+url: /oranienburg/lidl-berliner-strasse/
 shop: Supermarkt
 ---

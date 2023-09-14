@@ -1,5 +1,5 @@
 ---
 title: "Optiker Bode"
-url: /berlin/optiker-bode/
+url: /berlin/optiker-bode-rheinstrasse/
 shop: Optiker
 ---

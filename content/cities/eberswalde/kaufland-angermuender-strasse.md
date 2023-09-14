@@ -1,5 +1,5 @@
 ---
 title: "Kaufland"
-url: /eberswalde/kaufland/
+url: /eberswalde/kaufland-angermuender-strasse/
 shop: Supermarkt
 ---

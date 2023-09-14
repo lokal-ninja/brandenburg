@@ -1,5 +1,5 @@
 ---
 title: "Fein Bäckerei"
-url: /berlin/fein-baeckerei/
+url: /berlin/fein-baeckerei-adamstrasse/
 shop: Bäckerei
 ---

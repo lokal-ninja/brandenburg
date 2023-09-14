@@ -1,5 +1,5 @@
 ---
 title: "Confiserie Reichert"
-url: /berlin/confiserie-reichert/
+url: /berlin/confiserie-reichert-schlossstrasse/
 shop: Süßwaren
 ---

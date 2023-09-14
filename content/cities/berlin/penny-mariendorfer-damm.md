@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /berlin/penny/
+url: /berlin/penny-mariendorfer-damm/
 shop: Supermarkt
 ---

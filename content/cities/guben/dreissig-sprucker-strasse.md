@@ -1,5 +1,5 @@
 ---
 title: "Dreißig"
-url: /guben/dreissig/
+url: /guben/dreissig-sprucker-strasse/
 shop: Bäckerei
 ---

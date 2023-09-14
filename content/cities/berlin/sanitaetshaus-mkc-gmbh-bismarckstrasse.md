@@ -1,5 +1,5 @@
 ---
 title: "Sanitätshaus MKC GmbH"
-url: /berlin/sanitaetshaus-mkc-gmbh/
+url: /berlin/sanitaetshaus-mkc-gmbh-bismarckstrasse/
 shop: Sanitätshaus
 ---

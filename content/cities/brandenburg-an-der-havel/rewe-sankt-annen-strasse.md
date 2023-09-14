@@ -1,5 +1,5 @@
 ---
 title: "REWE"
-url: /brandenburg-an-der-havel/rewe/
+url: /brandenburg-an-der-havel/rewe-sankt-annen-strasse/
 shop: Supermarkt
 ---

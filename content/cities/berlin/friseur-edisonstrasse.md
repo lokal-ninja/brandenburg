@@ -1,5 +1,5 @@
 ---
 title: "Friseur"
-url: /berlin/friseur/
+url: /berlin/friseur-edisonstrasse/
 shop: Friseur
 ---

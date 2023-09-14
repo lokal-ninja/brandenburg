@@ -1,5 +1,5 @@
 ---
 title: "Vintage Berlin"
-url: /berlin/vintage-berlin/
+url: /berlin/vintage-berlin-bouchestrasse/
 shop: Kleidung
 ---

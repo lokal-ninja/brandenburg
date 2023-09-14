@@ -1,5 +1,5 @@
 ---
 title: "Klier"
-url: /berlin/klier/
+url: /berlin/klier-hellersdorfer-strasse/
 shop: Friseur
 ---

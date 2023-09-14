@@ -1,5 +1,5 @@
 ---
 title: "Blumen Simon"
-url: /berlin/blumen-simon/
+url: /berlin/blumen-simon-potsdamer-chaussee/
 shop: Blumen
 ---

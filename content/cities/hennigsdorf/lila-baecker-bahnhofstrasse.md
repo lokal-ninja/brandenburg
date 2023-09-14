@@ -1,5 +1,5 @@
 ---
 title: "Lila Bäcker"
-url: /hennigsdorf/lila-baecker/
+url: /hennigsdorf/lila-baecker-bahnhofstrasse/
 shop: Bäckerei
 ---

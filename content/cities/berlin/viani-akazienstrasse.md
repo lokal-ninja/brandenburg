@@ -1,5 +1,5 @@
 ---
 title: "Viani"
-url: /berlin/viani/
+url: /berlin/viani-akazienstrasse/
 shop: Lebensmittel
 ---

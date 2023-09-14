@@ -1,5 +1,5 @@
 ---
 title: "PENNY"
-url: /berlin/penny/
+url: /berlin/penny-schoenerlinder-strasse/
 shop: Supermarkt
 ---

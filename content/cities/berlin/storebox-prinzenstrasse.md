@@ -1,5 +1,5 @@
 ---
 title: "Storebox"
-url: /berlin/storebox/
+url: /berlin/storebox-prinzenstrasse/
 shop: Mieten
 ---

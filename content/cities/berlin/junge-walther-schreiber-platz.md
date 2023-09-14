@@ -1,5 +1,5 @@
 ---
 title: "Junge"
-url: /berlin/junge/
+url: /berlin/junge-walther-schreiber-platz/
 shop: Bäckerei
 ---

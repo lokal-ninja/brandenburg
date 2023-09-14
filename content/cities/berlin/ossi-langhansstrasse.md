@@ -1,5 +1,5 @@
 ---
 title: "Ossi"
-url: /berlin/ossi/
+url: /berlin/ossi-langhansstrasse/
 shop: Lebensmittel
 ---

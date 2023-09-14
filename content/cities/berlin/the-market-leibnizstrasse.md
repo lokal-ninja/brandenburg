@@ -1,5 +1,5 @@
 ---
 title: "The Market"
-url: /berlin/the-market/
+url: /berlin/the-market-leibnizstrasse/
 shop: Lebensmittel
 ---

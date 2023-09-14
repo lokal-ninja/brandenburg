@@ -1,5 +1,5 @@
 ---
 title: "idee."
-url: /berlin/idee/
+url: /berlin/idee-wilmersdorfer-strasse/
 shop: Basteln
 ---

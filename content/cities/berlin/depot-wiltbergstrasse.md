@@ -1,5 +1,5 @@
 ---
 title: "Depot"
-url: /berlin/depot/
+url: /berlin/depot-wiltbergstrasse/
 shop: Raumausstattung
 ---

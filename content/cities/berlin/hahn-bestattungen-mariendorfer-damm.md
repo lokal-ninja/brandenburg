@@ -1,5 +1,5 @@
 ---
 title: "HAHN Bestattungen"
-url: /berlin/hahn-bestattungen/
+url: /berlin/hahn-bestattungen-mariendorfer-damm/
 shop: Bestattungen
 ---

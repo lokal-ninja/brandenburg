@@ -1,5 +1,5 @@
 ---
 title: "NORMA"
-url: /berlin/norma/
+url: /berlin/norma-blumberger-damm/
 shop: Supermarkt
 ---

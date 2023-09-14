@@ -1,5 +1,5 @@
 ---
 title: "Gravis"
-url: /berlin/gravis/
+url: /berlin/gravis-friedrichstrasse/
 shop: Computer
 ---

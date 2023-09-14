@@ -1,5 +1,5 @@
 ---
 title: "JE Computer"
-url: /berlin/je-computer/
+url: /berlin/je-computer-woennichstrasse/
 shop: Computer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kamps"
-url: /berlin/kamps/
+url: /berlin/kamps-hackescher-markt/
 shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Union Zeughaus"
-url: /berlin/union-zeughaus/
+url: /berlin/union-zeughaus-frankfurter-allee/
 shop: Kleidung
 ---

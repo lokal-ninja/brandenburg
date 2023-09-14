@@ -1,5 +1,5 @@
 ---
 title: "MFO Matratzen"
-url: /berlin/mfo-matratzen/
+url: /berlin/mfo-matratzen-bismarckstrasse/
 shop: Betten
 ---

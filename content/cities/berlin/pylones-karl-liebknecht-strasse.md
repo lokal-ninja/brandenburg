@@ -1,5 +1,5 @@
 ---
 title: "Pylones"
-url: /berlin/pylones/
+url: /berlin/pylones-karl-liebknecht-strasse/
 shop: Spielzeug
 ---

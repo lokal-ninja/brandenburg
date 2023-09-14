@@ -1,5 +1,5 @@
 ---
 title: "HörPartner"
-url: /berlin/hoerpartner/
+url: /berlin/hoerpartner-marzahner-promenade/
 shop: Hörgeräte
 ---

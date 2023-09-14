@@ -1,5 +1,5 @@
 ---
 title: "PŸUR"
-url: /berlin/pyur/
+url: /berlin/pyur-frankfurter-allee/
 shop: Handy
 ---

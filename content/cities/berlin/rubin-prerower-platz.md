@@ -1,5 +1,5 @@
 ---
 title: "Rubin"
-url: /berlin/rubin/
+url: /berlin/rubin-prerower-platz/
 shop: Schmuck
 ---

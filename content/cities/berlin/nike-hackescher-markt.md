@@ -1,5 +1,5 @@
 ---
 title: "Nike"
-url: /berlin/nike/
+url: /berlin/nike-hackescher-markt/
 shop: Kleidung
 ---

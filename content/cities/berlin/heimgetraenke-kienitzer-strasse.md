@@ -1,5 +1,5 @@
 ---
 title: "Heimgetränke"
-url: /berlin/heimgetraenke/
+url: /berlin/heimgetraenke-kienitzer-strasse/
 shop: Getränke
 ---

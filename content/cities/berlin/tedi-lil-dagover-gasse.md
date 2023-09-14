@@ -1,5 +1,5 @@
 ---
 title: "TEDi"
-url: /berlin/tedi/
+url: /berlin/tedi-lil-dagover-gasse/
 shop: Kramladen
 ---

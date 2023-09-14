@@ -1,5 +1,5 @@
 ---
 title: "Haase"
-url: /berlin/haase/
+url: /berlin/haase-lankwitzer-strasse/
 shop: Metzgerei
 ---

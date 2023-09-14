@@ -1,5 +1,5 @@
 ---
 title: "Robin Look"
-url: /berlin/robin-look/
+url: /berlin/robin-look-hermann-blankenstein-strasse/
 shop: Optiker
 ---

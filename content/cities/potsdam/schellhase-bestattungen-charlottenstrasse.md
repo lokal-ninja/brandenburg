@@ -1,5 +1,5 @@
 ---
 title: "Schellhase Bestattungen"
-url: /potsdam/schellhase-bestattungen/
+url: /potsdam/schellhase-bestattungen-charlottenstrasse/
 shop: Bestattungen
 ---

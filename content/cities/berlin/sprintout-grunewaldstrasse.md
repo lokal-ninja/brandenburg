@@ -1,5 +1,5 @@
 ---
 title: "Sprintout"
-url: /berlin/sprintout/
+url: /berlin/sprintout-grunewaldstrasse/
 shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weinladen Schmidt"
-url: /berlin/weinladen-schmidt/
+url: /berlin/weinladen-schmidt-reichsstrasse/
 shop: Spirituosen
 ---

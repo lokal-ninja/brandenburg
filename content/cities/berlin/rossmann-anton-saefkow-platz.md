@@ -1,5 +1,5 @@
 ---
 title: "Rossmann"
-url: /berlin/rossmann/
+url: /berlin/rossmann-anton-saefkow-platz/
 shop: Drogerie
 ---

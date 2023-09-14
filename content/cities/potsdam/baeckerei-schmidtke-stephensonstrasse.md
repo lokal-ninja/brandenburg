@@ -1,5 +1,5 @@
 ---
 title: "Bäckerei Schmidtke"
-url: /potsdam/baeckerei-schmidtke/
+url: /potsdam/baeckerei-schmidtke-stephensonstrasse/
 shop: Bäckerei
 ---

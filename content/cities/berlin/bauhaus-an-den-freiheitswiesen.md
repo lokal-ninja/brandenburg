@@ -1,5 +1,5 @@
 ---
 title: "Bauhaus"
-url: /berlin/bauhaus/
+url: /berlin/bauhaus-an-den-freiheitswiesen/
 shop: Baumarkt
 ---

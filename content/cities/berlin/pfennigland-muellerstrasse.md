@@ -1,5 +1,5 @@
 ---
 title: "Pfennigland"
-url: /berlin/pfennigland/
+url: /berlin/pfennigland-muellerstrasse/
 shop: Kramladen
 ---

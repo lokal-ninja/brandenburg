@@ -1,5 +1,5 @@
 ---
 title: "Urban Outfitters"
-url: /berlin/urban-outfitters/
+url: /berlin/urban-outfitters-weinmeisterstrasse/
 shop: Kleidung
 ---

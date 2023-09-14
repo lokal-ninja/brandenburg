@@ -1,5 +1,5 @@
 ---
 title: "Netto"
-url: /oranienburg/netto/
+url: /oranienburg/netto-germendorfer-allee/
 shop: Supermarkt
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Autohaus König"
-url: /teltow/autohaus-koenig/
+url: /teltow/autohaus-koenig-warthestrasse/
 shop: Autohaus
 ---

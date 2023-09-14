@@ -1,5 +1,5 @@
 ---
 title: "Marc O'Polo"
-url: /berlin/marc-opolo/
+url: /berlin/marc-opolo-friedrichstrasse/
 shop: Kleidung
 ---

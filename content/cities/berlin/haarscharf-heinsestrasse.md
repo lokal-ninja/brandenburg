@@ -1,5 +1,5 @@
 ---
 title: "Haarscharf"
-url: /berlin/haarscharf/
+url: /berlin/haarscharf-heinsestrasse/
 shop: Friseur
 ---

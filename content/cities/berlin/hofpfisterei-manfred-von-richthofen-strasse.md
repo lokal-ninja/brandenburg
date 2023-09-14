@@ -1,5 +1,5 @@
 ---
 title: "Hofpfisterei"
-url: /berlin/hofpfisterei/
+url: /berlin/hofpfisterei-manfred-von-richthofen-strasse/
 shop: Bäckerei
 ---

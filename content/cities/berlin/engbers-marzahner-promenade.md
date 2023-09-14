@@ -1,5 +1,5 @@
 ---
 title: "engbers"
-url: /berlin/engbers/
+url: /berlin/engbers-marzahner-promenade/
 shop: Kleidung
 ---

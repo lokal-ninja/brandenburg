@@ -1,5 +1,5 @@
 ---
 title: "Leiser"
-url: /berlin/leiser/
+url: /berlin/leiser-badstrasse/
 shop: Schuhe
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Birkenstock"
-url: /berlin/birkenstock/
+url: /berlin/birkenstock-friedrichstrasse/
 shop: Schuhe
 ---

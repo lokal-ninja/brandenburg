@@ -1,5 +1,5 @@
 ---
 title: "La Bodega"
-url: /berlin/la-bodega/
+url: /berlin/la-bodega-senefelderstrasse/
 shop: Lebensmittel
 ---

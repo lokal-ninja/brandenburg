@@ -1,5 +1,5 @@
 ---
 title: "Nicolai"
-url: /berlin/nicolai/
+url: /berlin/nicolai-prenzlauer-allee/
 shop: Konditorei
 ---

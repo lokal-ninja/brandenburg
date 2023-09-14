@@ -1,5 +1,5 @@
 ---
 title: "Steinecke"
-url: /potsdam/steinecke/
+url: /potsdam/steinecke-grossbeerenstrasse/
 shop: Bäckerei
 ---

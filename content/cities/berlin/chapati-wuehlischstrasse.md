@@ -1,5 +1,5 @@
 ---
 title: "Chapati"
-url: /berlin/chapati/
+url: /berlin/chapati-wuehlischstrasse/
 shop: Kleidung
 ---

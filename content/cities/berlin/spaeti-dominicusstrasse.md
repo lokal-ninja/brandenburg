@@ -1,5 +1,5 @@
 ---
 title: "Späti"
-url: /berlin/spaeti/
+url: /berlin/spaeti-dominicusstrasse/
 shop: Kiosk
 ---

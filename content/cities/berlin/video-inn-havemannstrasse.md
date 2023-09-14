@@ -1,5 +1,5 @@
 ---
 title: "Video Inn"
-url: /berlin/video-inn/
+url: /berlin/video-inn-havemannstrasse/
 shop: Videothek
 ---

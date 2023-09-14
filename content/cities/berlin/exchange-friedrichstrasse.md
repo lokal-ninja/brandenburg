@@ -1,5 +1,5 @@
 ---
 title: "Exchange"
-url: /berlin/exchange/
+url: /berlin/exchange-friedrichstrasse/
 shop: Leiher
 ---

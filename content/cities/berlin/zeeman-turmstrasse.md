@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
-url: /berlin/zeeman/
+url: /berlin/zeeman-turmstrasse/
 shop: Kleidung
 ---

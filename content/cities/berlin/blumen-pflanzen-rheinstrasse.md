@@ -1,5 +1,5 @@
 ---
 title: "Blumen Pflanzen"
-url: /berlin/blumen-pflanzen/
+url: /berlin/blumen-pflanzen-rheinstrasse/
 shop: Blumen
 ---

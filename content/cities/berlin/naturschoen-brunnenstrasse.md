@@ -1,5 +1,5 @@
 ---
 title: "Naturschön"
-url: /berlin/naturschoen/
+url: /berlin/naturschoen-brunnenstrasse/
 shop: Kosmetik
 ---

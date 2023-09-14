@@ -1,5 +1,5 @@
 ---
 title: "Fahrradschmiede"
-url: /berlin/fahrradschmiede/
+url: /berlin/fahrradschmiede-erich-weinert-strasse/
 shop: Fahrrad
 ---

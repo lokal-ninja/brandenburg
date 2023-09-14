@@ -1,5 +1,5 @@
 ---
 title: "Nails"
-url: /berlin/nails/
+url: /berlin/nails-kranoldplatz/
 shop: Kosmetik
 ---

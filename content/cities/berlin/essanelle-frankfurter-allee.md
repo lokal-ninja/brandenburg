@@ -1,5 +1,5 @@
 ---
-title: "Essanelle"
-url: /berlin/essanelle/
+title: "essanelle"
+url: /berlin/essanelle-frankfurter-allee/
 shop: Friseur
 ---

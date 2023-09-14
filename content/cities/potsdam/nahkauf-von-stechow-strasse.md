@@ -1,5 +1,5 @@
 ---
 title: "Nahkauf"
-url: /potsdam/nahkauf/
+url: /potsdam/nahkauf-von-stechow-strasse/
 shop: Supermarkt
 ---

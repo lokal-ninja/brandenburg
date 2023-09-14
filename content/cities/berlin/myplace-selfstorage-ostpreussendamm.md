@@ -1,5 +1,5 @@
 ---
 title: "MyPlace-SelfStorage"
-url: /berlin/myplace-selfstorage/
+url: /berlin/myplace-selfstorage-ostpreussendamm/
 shop: Mieten
 ---

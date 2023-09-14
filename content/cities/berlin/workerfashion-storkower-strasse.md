@@ -1,5 +1,5 @@
 ---
 title: "workerfashion"
-url: /berlin/workerfashion/
+url: /berlin/workerfashion-storkower-strasse/
 shop: Kleidung
 ---

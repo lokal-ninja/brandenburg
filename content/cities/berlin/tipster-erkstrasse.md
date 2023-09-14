@@ -1,5 +1,5 @@
 ---
 title: "tipster"
-url: /berlin/tipster/
+url: /berlin/tipster-erkstrasse/
 shop: Wettbüro
 ---

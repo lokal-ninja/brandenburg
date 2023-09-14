@@ -1,5 +1,5 @@
 ---
 title: "Boesner"
-url: /berlin/boesner/
+url: /berlin/boesner-franklinstrasse/
 shop: Basteln
 ---

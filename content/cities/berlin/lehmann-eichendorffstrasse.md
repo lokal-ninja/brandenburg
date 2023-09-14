@@ -1,5 +1,5 @@
 ---
 title: "Lehmann"
-url: /berlin/lehmann/
+url: /berlin/lehmann-eichendorffstrasse/
 shop: Getränke
 ---

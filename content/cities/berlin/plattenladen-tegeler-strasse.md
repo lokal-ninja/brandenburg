@@ -1,5 +1,5 @@
 ---
 title: "Plattenladen"
-url: /berlin/plattenladen/
+url: /berlin/plattenladen-tegeler-strasse/
 shop: Fahrrad
 ---

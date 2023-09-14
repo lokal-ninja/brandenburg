@@ -1,5 +1,5 @@
 ---
 title: "Tartel"
-url: /berlin/tartel/
+url: /berlin/tartel-hauptstrasse/
 shop: Handy
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Die Perücke"
-url: /berlin/die-peruecke/
+url: /berlin/die-peruecke-schlossstrasse/
 shop: Allgemein
 ---

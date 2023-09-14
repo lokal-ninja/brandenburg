@@ -1,5 +1,5 @@
 ---
 title: "Würth"
-url: /berlin/wuerth/
+url: /berlin/wuerth-alt-mahlsdorf/
 shop: Großhandel
 ---

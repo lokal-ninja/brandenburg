@@ -1,5 +1,5 @@
 ---
 title: "Reifendiscount Berlin"
-url: /berlin/reifendiscount-berlin/
+url: /berlin/reifendiscount-berlin-bundesallee/
 shop: Reifen
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
-url: /berlin/decathlon/
+url: /berlin/decathlon-schlossstrasse/
 shop: Sport
 ---

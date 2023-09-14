@@ -1,5 +1,5 @@
 ---
 title: "Lehmann"
-url: /berlin/lehmann/
+url: /berlin/lehmann-oranienburger-strasse/
 shop: Getränke
 ---

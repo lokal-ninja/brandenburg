@@ -1,5 +1,5 @@
 ---
 title: "Heimgetränke"
-url: /berlin/heimgetraenke/
+url: /berlin/heimgetraenke-alte-schoenhauser-strasse/
 shop: Lebensmittel
 ---

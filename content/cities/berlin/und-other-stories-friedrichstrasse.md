@@ -1,5 +1,5 @@
 ---
 title: "& Other Stories"
-url: /berlin/und-other-stories/
+url: /berlin/und-other-stories-friedrichstrasse/
 shop: Kleidung
 ---

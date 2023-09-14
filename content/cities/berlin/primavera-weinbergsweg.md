@@ -1,5 +1,5 @@
 ---
 title: "Primavera"
-url: /berlin/primavera/
+url: /berlin/primavera-weinbergsweg/
 shop: Drogerie
 ---

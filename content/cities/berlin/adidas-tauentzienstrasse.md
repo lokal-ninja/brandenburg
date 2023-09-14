@@ -1,5 +1,5 @@
 ---
 title: "Adidas"
-url: /berlin/adidas/
+url: /berlin/adidas-tauentzienstrasse/
 shop: Sport
 ---

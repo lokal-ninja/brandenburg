@@ -1,5 +1,5 @@
 ---
 title: "Cöpenicker Coiffeure"
-url: /berlin/coepenicker-coiffeure/
+url: /berlin/coepenicker-coiffeure-wendenschlossstrasse/
 shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "TUI"
-url: /berlin/tui/
+url: /berlin/tui-frankfurter-allee/
 shop: Reisebüro
 ---
