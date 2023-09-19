@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /berlin/norma-john-locke-strasse/
 shop: Supermarkt
 ---
