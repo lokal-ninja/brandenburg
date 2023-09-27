@@ -1,5 +1,5 @@
 ---
 title: "Braumanufaktur"
 url: /boitzenburger-land/braumanufaktur/
-shop: Allgemein
+shop: Getränke
 ---

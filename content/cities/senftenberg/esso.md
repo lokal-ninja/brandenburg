@@ -1,5 +1,5 @@
 ---
 title: "Esso"
 url: /senftenberg/esso/
-shop: Allgemein
+shop: Lotterie
 ---

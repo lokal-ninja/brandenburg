@@ -1,5 +1,5 @@
 ---
-title: "NETTO"
+title: "Netto"
 url: /pritzwalk/netto/
 shop: Supermarkt
 ---
