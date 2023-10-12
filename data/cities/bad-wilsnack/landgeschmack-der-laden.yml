@@ -7,5 +7,5 @@ city: Bad Wilsnack
 street: "Große Straße"
 housenumber: 6
 phone: ""
-opening_hours: "Donnerstag+Freitag 09:00-18:00 + Samstag 07:00-12:00"
+opening_hours: "Th,Fr 09:00-18:00; Sa 07:00-12:00"
 website: ""

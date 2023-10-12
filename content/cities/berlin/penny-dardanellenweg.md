@@ -1,5 +1,5 @@
 ---
-title: "PENNY"
+title: "PENNY Dardanellenweg"
 url: /berlin/penny-dardanellenweg/
 shop: Supermarkt
 ---
