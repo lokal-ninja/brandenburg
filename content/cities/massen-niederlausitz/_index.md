@@ -1,6 +1,6 @@
 ---
 title: Massen-Niederlausitz
 url: /massen-niederlausitz/
-latitude: 51.635
-longitude: 13.737
+latitude: 51.634
+longitude: 13.736
 ---

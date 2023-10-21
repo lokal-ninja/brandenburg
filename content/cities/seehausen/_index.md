@@ -1,6 +1,6 @@
 ---
 title: Seehausen
 url: /seehausen/
-latitude: 52.938
-longitude: 11.791
+latitude: 52.94
+longitude: 11.787
 ---
