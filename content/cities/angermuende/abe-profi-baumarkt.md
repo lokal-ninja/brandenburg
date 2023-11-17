@@ -1,5 +1,5 @@
 ---
 title: "ABE Profi Baumarkt"
 url: /angermuende/abe-profi-baumarkt/
-shop: Baumarkt
+shop: Baustoffe
 ---

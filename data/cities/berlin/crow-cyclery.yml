@@ -7,5 +7,5 @@ city: Berlin
 street: "Neuenburger Straße"
 housenumber: 23a
 phone: "+493091557873"
-opening_hours: "Mo-Fr 09:00-18:00"
+opening_hours: "Mo,Di,Do,Fr: 11-19h / Mi,Sa: geschlossen"
 website: "https://crowcyclery.de"

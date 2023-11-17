@@ -1,11 +1,11 @@
-id: 2018958606
+id: 2018959799
 type: node
-latitude: 52.44948
-longitude: 13.25193
-postcode: "14169"
+latitude: 52.44208
+longitude: 13.24107
+postcode: "14163"
 city: Berlin
-street: "Onkel-Tom-Straße"
-housenumber: 99
+street: "Fischerhüttenstraße"
+housenumber: 64
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:30-14:00"
-website: "http://www.demski.de/filialen/onkel-tom-strasse/"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+website: "https://demski.de/filialen/fischerhuettenstrasse/"
