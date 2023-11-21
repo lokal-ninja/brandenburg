@@ -1,5 +1,5 @@
 ---
 title: "Birkhölzer Raumaustattung"
 url: /berlin/birkhoelzer-raumaustattung/
-shop: Gardinen
+shop: Raumausstattung
 ---
