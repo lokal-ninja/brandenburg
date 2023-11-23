@@ -1,6 +1,6 @@
 ---
 title: Petershagen/Eggersdorf
 url: /petershagen-eggersdorf/
-latitude: 52.527
-longitude: 13.791
+latitude: 52.556
+longitude: 13.83
 ---

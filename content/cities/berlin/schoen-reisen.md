@@ -1,5 +1,5 @@
 ---
-title: "Schön-Reisen"
+title: "schön reisen"
 url: /berlin/schoen-reisen/
 shop: Reisebüro
 ---
