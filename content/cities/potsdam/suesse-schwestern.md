@@ -1,5 +1,5 @@
 ---
 title: "Süße Schwestern"
 url: /potsdam/suesse-schwestern/
-shop: Bäckerei
+shop: Haushaltsartikel
 ---
