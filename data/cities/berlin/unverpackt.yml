@@ -7,5 +7,5 @@ city: Berlin
 street: "Bölschestraße"
 housenumber: 120
 phone: ""
-opening_hours: "Tu 09:30-19:30; We-Fr 09:30-18:00; Sa 09:30-16:00"
+opening_hours: "Tu,Th-Fr 11:30-18:00; Sa 09:30-16:00"
 website: ""
