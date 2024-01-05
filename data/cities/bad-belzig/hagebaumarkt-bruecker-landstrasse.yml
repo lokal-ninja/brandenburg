@@ -1,11 +1,11 @@
-id: 2647874565
-type: node
-latitude: 52.14443
-longitude: 12.6117
+id: 174449365
+type: way
+latitude: 52.14386
+longitude: 12.61108
 postcode: "14806"
 city: Bad Belzig
 street: "Brücker Landstraße"
-housenumber: 20
-phone: ""
-opening_hours: ""
-website: ""
+housenumber: 20;20a
+phone: "+49 33841 5810"
+opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-15:30"
+website: "https://m.hagebau.de/baumarkt/buerger-bau-und-heimwerkermaerkte-gmbh-hbm-belzig-bad-belzig-sn132521/"

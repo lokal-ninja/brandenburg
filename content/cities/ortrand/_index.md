@@ -1,6 +1,6 @@
 ---
 title: Ortrand
 url: /ortrand/
-latitude: 51.375
-longitude: 13.753
+latitude: 51.374
+longitude: 13.758
 ---
