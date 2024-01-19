@@ -1,11 +1,11 @@
 id: 4050182809
 type: node
-latitude: 52.45494
-longitude: 13.57677
+latitude: 52.45491
+longitude: 13.57674
 postcode: "12555"
 city: Berlin
 street: "Bahnhofstraße"
 housenumber: 7a
-phone: ""
-opening_hours: ""
-website: ""
+phone: "+49 30 65660583"
+opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00; PH off"
+website: "https://www.haarkuenste.de/"
