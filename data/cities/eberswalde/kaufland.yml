@@ -1,11 +1,11 @@
-id: 1647175093
-type: node
-latitude: 52.83753
-longitude: 13.73724
-postcode: "16227"
+id: 150832391
+type: way
+latitude: 52.84998
+longitude: 13.77959
+postcode: "16225"
 city: Eberswalde
-street: "Eberswalder Straße"
-housenumber: 87
+street: "Angermünder Straße"
+housenumber: 66
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00; PH off"
+opening_hours: "Mo-Sa 07:00-22:00"
 website: "https://www.kaufland.de/"
