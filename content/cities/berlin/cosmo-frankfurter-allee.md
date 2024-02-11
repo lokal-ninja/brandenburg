@@ -1,5 +1,5 @@
 ---
-title: "cosmo"
+title: "Cosmo"
 url: /berlin/cosmo-frankfurter-allee/
-shop: Friseur
+shop: Friseurbedarf
 ---
