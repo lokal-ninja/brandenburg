@@ -1,5 +1,5 @@
 ---
 title: "My Handel"
 url: /berlin/my-handel/
-shop: Wasserpfeife
+shop: E-Zigaretten
 ---

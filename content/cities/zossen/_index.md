@@ -1,6 +1,6 @@
 ---
 title: Zossen
 url: /zossen/
-latitude: 52.191
-longitude: 13.469
+latitude: 52.225
+longitude: 13.442
 ---
