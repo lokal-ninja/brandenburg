@@ -1,5 +1,5 @@
 ---
-title: "L'TUR"
+title: "ltur"
 url: /potsdam/ltur/
 shop: Reisebüro
 ---

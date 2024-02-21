@@ -1,11 +1,11 @@
-id: 61648343
-type: way
-latitude: 52.39236
-longitude: 13.06464
-postcode: "14473"
+id: 3337852286
+type: node
+latitude: 52.40021
+longitude: 13.05264
+postcode: "14467"
 city: Potsdam
-street: "Babelsberger Straße"
-housenumber: 16
-phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; PH,Su off"
-website: "https://www.freenet-mobilfunk.de/shops/potsdam-innenstadt"
+street: "Brandenburger Straße"
+housenumber: 59
+phone: "+49 331 2708022"
+opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-14:00"
+website: "https://www.freenet-internet.de/"

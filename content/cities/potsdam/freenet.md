@@ -1,5 +1,5 @@
 ---
-title: "freenet"
+title: "Freenet"
 url: /potsdam/freenet/
 shop: Handy
 ---
