@@ -1,5 +1,5 @@
 ---
 title: "Bourbon"
 url: /berlin/bourbon/
-shop: Modehaus
+shop: Kleidung
 ---

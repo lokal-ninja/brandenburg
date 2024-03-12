@@ -7,5 +7,5 @@ city: Berlin
 street: "Treskowstraße"
 housenumber: 5
 phone: "+49 30 74072379"
-opening_hours: "Mo-Fr 10:00-19:00;Mar-Sep: Sa 10:00-18:00;Oct-Feb: Sa 10:00-16:00"
+opening_hours: "Mo-Sa 10:00-19:00"
 website: "https://www.das-radhaus.de/filiale-berlin-pankow/"

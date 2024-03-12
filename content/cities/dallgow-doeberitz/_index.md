@@ -1,6 +1,6 @@
 ---
 title: Dallgow-Döberitz
 url: /dallgow-doeberitz/
-latitude: 52.544
-longitude: 13.091
+latitude: 52.533
+longitude: 13.06
 ---

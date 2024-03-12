@@ -1,6 +1,6 @@
 ---
 title: Bad Wilsnack
 url: /bad-wilsnack/
-latitude: 52.955
-longitude: 11.945
+latitude: 52.958
+longitude: 11.949
 ---

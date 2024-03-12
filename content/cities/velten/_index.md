@@ -1,6 +1,6 @@
 ---
 title: Velten
 url: /velten/
-latitude: 52.683
-longitude: 13.178
+latitude: 52.688
+longitude: 13.177
 ---
