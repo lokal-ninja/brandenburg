@@ -1,5 +1,5 @@
 ---
 title: "Chuchichäschtli"
 url: /berlin/chuchichaeschtli/
-shop: Allgemein
+shop: Lebensmittel
 ---

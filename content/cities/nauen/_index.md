@@ -1,6 +1,6 @@
 ---
 title: Nauen
 url: /nauen/
-latitude: 52.611
-longitude: 12.856
+latitude: 52.607
+longitude: 12.878
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Sidestep"
+title: "SIDESTEP"
 url: /potsdam/sidestep/
 shop: Schuhe
 ---
