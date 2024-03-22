@@ -1,5 +1,5 @@
 ---
 title: "Helbig"
 url: /potsdam/helbig/
-shop: Modehaus
+shop: Kleidung
 ---

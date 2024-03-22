@@ -1,6 +1,6 @@
 ---
 title: Letschin
 url: /letschin/
-latitude: 52.699
-longitude: 14.412
+latitude: 52.64
+longitude: 14.356
 ---
