@@ -1,5 +1,5 @@
 ---
 title: "Reitsport-Center"
 url: /berlin/reitsport-center/
-shop: Kleidung
+shop: Sport
 ---
