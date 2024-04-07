@@ -1,6 +1,6 @@
 ---
 title: Brieskow-Finkenheerd
 url: /brieskow-finkenheerd/
-latitude: 52.246
-longitude: 14.568
+latitude: 52.255
+longitude: 14.576
 ---
