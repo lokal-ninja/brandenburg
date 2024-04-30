@@ -7,5 +7,5 @@ city: Berlin
 street: "Petersburger Straße"
 housenumber: 91
 phone: "+49 30 39973484"
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
 website: "https://velocelli.com/"

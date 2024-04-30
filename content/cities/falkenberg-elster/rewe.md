@@ -1,5 +1,5 @@
 ---
-title: "Rewe"
+title: "REWE"
 url: /falkenberg-elster/rewe/
 shop: Supermarkt
 ---
