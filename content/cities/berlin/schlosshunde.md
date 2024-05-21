@@ -1,5 +1,5 @@
 ---
 title: "Schloßhunde"
 url: /berlin/schlosshunde/
-shop: Tiere
+shop: Tiersalon
 ---
