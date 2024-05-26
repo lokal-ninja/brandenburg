@@ -7,5 +7,5 @@ city: Berlin
 street: "Hackenbergstraße"
 housenumber: 3
 phone: "+49 30 677 31 00"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-16:00; PH off"
+opening_hours: "Mo,Su,PH off; Tu-Fr 11:00-18:00; Sa 11:00-15:00"
 website: "http://sesam-adlershof.de"

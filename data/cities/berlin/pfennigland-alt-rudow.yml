@@ -1,11 +1,11 @@
-id: 11878657408
-type: node
-latitude: 52.42053
-longitude: 13.49252
+id: 210920896
+type: way
+latitude: 52.42057
+longitude: 13.49278
 postcode: "12357"
 city: Berlin
-street: "Alt- Rudow"
+street: "Alt-Rudow"
 housenumber: 21
 phone: ""
-opening_hours: "Mo- Fr 09.00 - 19.00, SA 09.00 bis 13.00"
+opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
 website: ""
