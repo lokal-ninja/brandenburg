@@ -1,6 +1,6 @@
 ---
 title: Treuenbrietzen
 url: /treuenbrietzen/
-latitude: 52.097
-longitude: 12.87
+latitude: 52.094
+longitude: 12.873
 ---
