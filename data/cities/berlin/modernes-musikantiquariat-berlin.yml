@@ -7,5 +7,5 @@ city: Berlin
 street: "Knobelsdorffstraße"
 housenumber: 32
 phone: ""
-opening_hours: "Th-Sa 14:30-19:00; Su-We off"
+opening_hours: "Th,Fr 14:30-19:00; Sa 12:00-16:00; Su-We off"
 website: ""
