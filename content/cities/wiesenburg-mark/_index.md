@@ -1,6 +1,6 @@
 ---
 title: Wiesenburg/Mark
 url: /wiesenburg-mark/
-latitude: 52.111
-longitude: 12.37
+latitude: 52.14
+longitude: 12.483
 ---

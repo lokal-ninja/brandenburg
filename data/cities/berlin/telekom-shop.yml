@@ -7,5 +7,5 @@ city: Berlin
 street: "Teltower Damm"
 housenumber: 3
 phone: "+49 30 80581811"
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00; Su off"
+opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-15:00; Su,PH off"
 website: "https://shopseite.telekom.de/nord-ost/berlin/teltower-damm-3"

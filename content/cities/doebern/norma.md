@@ -1,5 +1,5 @@
 ---
-title: "Norma"
+title: "NORMA"
 url: /doebern/norma/
 shop: Supermarkt
 ---

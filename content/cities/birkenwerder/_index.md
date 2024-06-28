@@ -1,6 +1,6 @@
 ---
 title: Birkenwerder
 url: /birkenwerder/
-latitude: 52.694
-longitude: 13.277
+latitude: 52.686
+longitude: 13.282
 ---

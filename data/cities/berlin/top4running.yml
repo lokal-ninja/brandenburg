@@ -7,5 +7,5 @@ city: Berlin
 street: "Albrechtstraße"
 housenumber: 132
 phone: "+49 30 34505920"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; PH,Su off"
+opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00; Su,PH off"
 website: "https://top4running.de/"
