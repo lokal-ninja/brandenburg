@@ -7,5 +7,5 @@ city: Berlin
 street: "Rheinstraße"
 housenumber: 57
 phone: "+49 30 497694900"
-opening_hours: "Mo-Fr 09:30-18:30; Sa 10:00-14:00"
+opening_hours: "Mo,We 09:00-16:00; Tu,Th 09:00-18:00; Fr 09:00-15:00"
 website: "https://www.inpetto-berlin.de"

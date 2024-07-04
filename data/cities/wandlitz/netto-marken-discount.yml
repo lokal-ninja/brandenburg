@@ -1,11 +1,11 @@
-id: 10770265613
-type: node
-latitude: 52.85766
-longitude: 13.5337
+id: 47514252
+type: way
+latitude: 52.71895
+longitude: 13.43428
 postcode: "16348"
 city: Wandlitz
-street: "Neue Straße"
-housenumber: 1
+street: "Bahnstraße"
+housenumber: 49
 phone: ""
 opening_hours: "Mo-Sa 07:00-20:00"
-website: ""
+website: "https://www.netto-online.de/"
