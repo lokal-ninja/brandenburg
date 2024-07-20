@@ -1,6 +1,6 @@
 ---
 title: Welzow
 url: /welzow/
-latitude: 51.585
-longitude: 14.166
+latitude: 51.58
+longitude: 14.174
 ---

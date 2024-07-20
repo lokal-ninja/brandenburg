@@ -1,5 +1,5 @@
 ---
 title: "Briefmarken"
 url: /berlin/briefmarken/
-shop: Spirituosen
+shop: Wein
 ---
