@@ -1,5 +1,5 @@
 ---
-title: "FIX FOTO digital"
+title: "Fix Foto digital"
 url: /berlin/fix-foto-digital/
 shop: Foto
 ---
