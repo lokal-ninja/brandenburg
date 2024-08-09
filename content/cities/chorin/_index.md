@@ -1,6 +1,6 @@
 ---
 title: Chorin
 url: /chorin/
-latitude: 52.916
-longitude: 13.956
+latitude: 52.904
+longitude: 13.872
 ---
