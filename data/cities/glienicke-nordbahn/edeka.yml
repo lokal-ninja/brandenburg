@@ -1,11 +1,11 @@
-id: 1409546433
-type: node
-latitude: 52.63139
-longitude: 13.32284
+id: 42267803
+type: way
+latitude: 52.63103
+longitude: 13.31673
 postcode: "16548"
 city: Glienicke/Nordbahn
-street: "Märkische Allee"
-housenumber: 76
-phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
-website: "http://www.edeka-nemitz.com/"
+street: "Hauptstraße"
+housenumber: 16
+phone: "+49 33056 41599 0"
+opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+website: "https://www.edeka.de/"

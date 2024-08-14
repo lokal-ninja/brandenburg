@@ -1,5 +1,5 @@
 ---
 title: "Sawade"
 url: /berlin/sawade/
-shop: Schokolade
+shop: Süßwaren
 ---
