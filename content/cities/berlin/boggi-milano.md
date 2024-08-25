@@ -1,5 +1,5 @@
 ---
-title: "Boggi Milano"
+title: "BOGGI Milano"
 url: /berlin/boggi-milano/
 shop: Kleidung
 ---
