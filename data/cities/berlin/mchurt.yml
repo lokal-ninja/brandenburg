@@ -6,6 +6,6 @@ postcode: "12099"
 city: Berlin
 street: "Tempelhofer Damm"
 housenumber: 141
-phone: "+49 30 48821644"
-opening_hours: "Mo-Sa 13:00-18:00; PH,Su off"
+phone: ""
+opening_hours: "Mo,Th,Fr,Sa 13:00-18:00; PH,Su,Tu,We off"
 website: ""

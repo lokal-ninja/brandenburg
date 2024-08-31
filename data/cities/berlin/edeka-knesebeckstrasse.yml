@@ -7,5 +7,5 @@ city: Berlin
 street: "Knesebeckstraße"
 housenumber: 56
 phone: ""
-opening_hours: "Mo-Fr 08:00-24:00; Sa 08:00-23:30; PH,Su off"
+opening_hours: "Mo-Fr 08:00-24:00; Sa 08:00-23:30; Su,PH off"
 website: ""

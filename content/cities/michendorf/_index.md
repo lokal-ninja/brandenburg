@@ -1,6 +1,6 @@
 ---
 title: Michendorf
 url: /michendorf/
-latitude: 52.31
-longitude: 13.029
+latitude: 52.311
+longitude: 13.03
 ---
