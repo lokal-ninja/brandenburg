@@ -1,5 +1,5 @@
 ---
 title: "Käthe Wohlfahrt"
 url: /berlin/kaethe-wohlfahrt/
-shop: Allgemein
+shop: Andenken
 ---

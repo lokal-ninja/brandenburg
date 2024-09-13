@@ -1,5 +1,5 @@
 ---
 title: "Montblanc"
 url: /berlin/montblanc/
-shop: Allgemein
+shop: Modehaus
 ---
