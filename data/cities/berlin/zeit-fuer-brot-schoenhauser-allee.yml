@@ -4,8 +4,8 @@ latitude: 52.54123
 longitude: 13.41175
 postcode: "10435"
 city: Berlin
-street: "Schönhauser Allee"
-housenumber: 144
+street: Schönhauser Allee
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su 08:00-20:00"
-website: "https://zeitfuerbrot.com/"
+opening_hours: Mo-Sa 07:00-20:00; Su 08:00-20:00
+website: https://zeitfuerbrot.com/

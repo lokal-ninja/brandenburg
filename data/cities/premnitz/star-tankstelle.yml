@@ -1,11 +1,11 @@
 id: 307063879
-type: way
+type: node
 latitude: 52.53062
 longitude: 12.33291
 postcode: "14727"
 city: Premnitz
-street: "Alte Hauptstraße"
-housenumber: 41
+street: Alte Hauptstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Su 06:00-22:00"
+opening_hours: Mo-Su 06:00-22:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.45402
 longitude: 13.32848
 postcode: "12167"
 city: Berlin
-street: "Albrechtstraße"
-housenumber: 21
+street: Albrechtstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

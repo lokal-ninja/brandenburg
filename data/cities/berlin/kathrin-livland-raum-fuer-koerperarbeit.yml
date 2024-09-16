@@ -4,8 +4,8 @@ latitude: 52.53158
 longitude: 13.4213
 postcode: "10405"
 city: Berlin
-street: "Heinrich-Roller-Straße"
-housenumber: 25
+street: Heinrich-Roller-Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
-website: "https://www.raum-für-körperarbeit.de"
+website: https://www.raum-für-körperarbeit.de

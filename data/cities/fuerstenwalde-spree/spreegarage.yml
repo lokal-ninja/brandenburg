@@ -1,11 +1,11 @@
 id: 96433804
-type: way
+type: node
 latitude: 52.33529
 longitude: 14.07323
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Saarower Chaussee"
-housenumber: 2
+street: Saarower Chaussee
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://buzziol.schwarzmedia.de"
+website: http://buzziol.schwarzmedia.de

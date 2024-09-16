@@ -4,8 +4,8 @@ latitude: 52.4445
 longitude: 13.38623
 postcode: "12109"
 city: Berlin
-street: "Mariendorfer Damm"
-housenumber: 93
-phone: "+49 30 497694720"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.hempel-berlin.de/standorte/mariendorf-3/"
+street: Mariendorfer Damm
+housenumber: "93"
+phone: +49 30 497694720
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.hempel-berlin.de/standorte/mariendorf-3/

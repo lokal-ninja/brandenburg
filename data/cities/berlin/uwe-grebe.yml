@@ -4,8 +4,8 @@ latitude: 52.50717
 longitude: 13.39556
 postcode: "10969"
 city: Berlin
-street: "Rudi-Dutschke-Straße"
-housenumber: 6
-phone: "+49 30 25927192"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-18:00"
-website: "https://www.grebe-schmuck.de"
+street: Rudi-Dutschke-Straße
+housenumber: "6"
+phone: +49 30 25927192
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-18:00
+website: https://www.grebe-schmuck.de

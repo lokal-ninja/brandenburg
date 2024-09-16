@@ -1,11 +1,11 @@
 id: 28359666
-type: way
+type: node
 latitude: 51.65643
 longitude: 14.22554
 postcode: "03116"
 city: Drebkau
-street: "Mühlenweg"
-housenumber: 5
+street: Mühlenweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00 - 20:00"
+opening_hours: Mo-Sa 08:00 - 20:00
 website: ""

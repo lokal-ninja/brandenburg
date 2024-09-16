@@ -4,8 +4,8 @@ latitude: 52.50247
 longitude: 13.33675
 postcode: "10789"
 city: Berlin
-street: "Marburger Straße"
-housenumber: 14
+street: Marburger Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.tall-berlin.de/"
+website: https://www.tall-berlin.de/

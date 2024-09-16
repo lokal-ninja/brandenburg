@@ -1,11 +1,11 @@
 id: 331969967
-type: way
+type: node
 latitude: 52.36975
 longitude: 14.06235
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Nordstraße"
-housenumber: 2
+street: Nordstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

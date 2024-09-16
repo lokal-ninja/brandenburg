@@ -1,11 +1,11 @@
 id: 259267396
-type: way
+type: node
 latitude: 52.23874
 longitude: 12.9732
 postcode: "14547"
 city: Beelitz
-street: "Virchowstraße"
-housenumber: 48
-phone: "+49 33204 627891"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su,PH off"
+street: Virchowstraße
+housenumber: "48"
+phone: +49 33204 627891
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00; Su,PH off
 website: ""

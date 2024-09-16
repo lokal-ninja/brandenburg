@@ -1,11 +1,11 @@
 id: 168135486
-type: way
+type: node
 latitude: 52.74474
 longitude: 13.23814
 postcode: "16515"
 city: Oranienburg
-street: "Berliner Straße"
-housenumber: 78
-phone: "+49 3301 576554"
+street: Berliner Straße
+housenumber: "78"
+phone: +49 3301 576554
 opening_hours: ""
 website: ""

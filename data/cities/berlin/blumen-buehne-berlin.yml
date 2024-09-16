@@ -4,8 +4,8 @@ latitude: 52.48074
 longitude: 13.37884
 postcode: "12101"
 city: Berlin
-street: "Schreiberring"
-housenumber: 24
+street: Schreiberring
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://www.nicolaplonz.de/"
+website: http://www.nicolaplonz.de/

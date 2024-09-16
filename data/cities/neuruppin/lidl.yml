@@ -1,11 +1,11 @@
 id: 148961604
-type: way
+type: node
 latitude: 52.94572
 longitude: 12.84984
 postcode: "16827"
 city: Neuruppin
-street: "Wulkower Chaussee"
-housenumber: 5
+street: Wulkower Chaussee
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

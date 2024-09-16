@@ -1,11 +1,11 @@
 id: 617762777
-type: way
+type: node
 latitude: 52.3148
 longitude: 13.44441
 postcode: "15827"
 city: Blankenfelde-Mahlow
-street: "Mittelstraße"
-housenumber: 22
+street: Mittelstraße
+housenumber: "22"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

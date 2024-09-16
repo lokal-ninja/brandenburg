@@ -4,8 +4,8 @@ latitude: 52.46292
 longitude: 13.32526
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 10
-phone: "+49 30 26308167"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Schloßstraße
+housenumber: "10"
+phone: +49 30 26308167
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

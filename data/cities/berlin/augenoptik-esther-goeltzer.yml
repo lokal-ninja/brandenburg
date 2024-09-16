@@ -4,8 +4,8 @@ latitude: 52.49449
 longitude: 13.45981
 postcode: "12435"
 city: Berlin
-street: "Martin-Hoffmann-Straße"
-housenumber: 16
-phone: "+49 30 53218241"
-opening_hours: "Mo-Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.esthergoeltzer.de/"
+street: Martin-Hoffmann-Straße
+housenumber: "16"
+phone: +49 30 53218241
+opening_hours: Mo-Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.esthergoeltzer.de/

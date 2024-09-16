@@ -4,8 +4,8 @@ latitude: 52.54998
 longitude: 13.38619
 postcode: "13357"
 city: Berlin
-street: "Badstraße"
-housenumber: 8
+street: Badstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://www.pfennigland.de/pfennigland-wedd.html"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: http://www.pfennigland.de/pfennigland-wedd.html

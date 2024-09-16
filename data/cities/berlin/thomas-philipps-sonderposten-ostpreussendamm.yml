@@ -4,8 +4,8 @@ latitude: 52.4209
 longitude: 13.30865
 postcode: "12207"
 city: Berlin
-street: "Ostpreußendamm"
-housenumber: 67
+street: Ostpreußendamm
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

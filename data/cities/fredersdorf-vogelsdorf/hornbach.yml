@@ -1,11 +1,11 @@
 id: 24732011
-type: way
+type: node
 latitude: 52.49723
 longitude: 13.74635
 postcode: "15370"
 city: Fredersdorf-Vogelsdorf
-street: "Frankfurter Chaussee"
-housenumber: 51
-phone: "+49 33439 689 0"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Frankfurter Chaussee
+housenumber: "51"
+phone: +49 33439 689 0
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

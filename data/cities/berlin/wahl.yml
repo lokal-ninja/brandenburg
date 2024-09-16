@@ -4,8 +4,8 @@ latitude: 52.39942
 longitude: 13.57459
 postcode: "12526"
 city: Berlin
-street: "Waltersdorfer Straße"
-housenumber: 19
-phone: "+49-30-84416161"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; PH off"
-website: "https://baeckerwahl.de"
+street: Waltersdorfer Straße
+housenumber: "19"
+phone: +49-30-84416161
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; PH off
+website: https://baeckerwahl.de

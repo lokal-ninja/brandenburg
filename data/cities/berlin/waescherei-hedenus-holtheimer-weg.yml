@@ -1,11 +1,11 @@
 id: 123216722
-type: way
+type: node
 latitude: 52.40972
 longitude: 13.30329
 postcode: "12207"
 city: Berlin
-street: "Holtheimer Weg"
-housenumber: 29
+street: Holtheimer Weg
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

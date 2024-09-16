@@ -1,11 +1,11 @@
 id: 318254669
-type: way
+type: node
 latitude: 52.32489
 longitude: 12.75217
 postcode: "14797"
 city: Kloster Lehnin
-street: "Damsdorfer Chaussee"
-housenumber: 10
-phone: "+49 3382 702918"
-opening_hours: "24/7"
-website: "https://www.hoyer-tankstellen.de/tankstelle?tID=128"
+street: Damsdorfer Chaussee
+housenumber: "10"
+phone: +49 3382 702918
+opening_hours: 24/7
+website: https://www.hoyer-tankstellen.de/tankstelle?tID=128

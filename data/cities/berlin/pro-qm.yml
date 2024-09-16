@@ -4,8 +4,8 @@ latitude: 52.527
 longitude: 13.4102
 postcode: "10119"
 city: Berlin
-street: "Almstadtstraße"
-housenumber: 48
+street: Almstadtstraße
+housenumber: "48"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
+opening_hours: Mo-Sa 11:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 215485939
-type: way
+type: node
 latitude: 52.33179
 longitude: 13.39377
 postcode: "15827"
 city: Blankenfelde-Mahlow
-street: "Blankenfelder Dorfstraße"
-housenumber: 51
-phone: "+49 3379 371067"
-opening_hours: "Mo- Fr 09:00-12:30,13:00-18:00;Sa 9:00-13:00"
-website: "https://www.schwimmbadtechnik-bloch.de/"
+street: Blankenfelder Dorfstraße
+housenumber: "51"
+phone: +49 3379 371067
+opening_hours: Mo- Fr 09:00-12:30,13:00-18:00;Sa 9:00-13:00
+website: https://www.schwimmbadtechnik-bloch.de/

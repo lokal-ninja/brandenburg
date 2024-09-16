@@ -1,11 +1,11 @@
 id: 191678622
-type: way
+type: node
 latitude: 52.74854
 longitude: 13.22885
 postcode: "16515"
 city: Oranienburg
-street: "Dr.-Kurt-Schumacher-Straße"
-housenumber: 25
+street: Dr.-Kurt-Schumacher-Straße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

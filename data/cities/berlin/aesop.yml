@@ -4,8 +4,8 @@ latitude: 52.5042
 longitude: 13.33194
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 17
+street: Kurfürstendamm
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

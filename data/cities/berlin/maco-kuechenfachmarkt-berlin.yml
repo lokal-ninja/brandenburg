@@ -1,11 +1,11 @@
 id: 156957324
-type: way
+type: node
 latitude: 52.5692
 longitude: 13.50948
 postcode: "13059"
 city: Berlin
-street: "Egon-Erwin-Kisch-Straße"
-housenumber: 76
+street: Egon-Erwin-Kisch-Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://maco-berlin.de/"
+website: https://maco-berlin.de/

@@ -4,8 +4,8 @@ latitude: 52.4743
 longitude: 13.33293
 postcode: "12159"
 city: Berlin
-street: "Handjerystraße"
-housenumber: 90
+street: Handjerystraße
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://weinbeisser-berlin.de/"
+website: https://weinbeisser-berlin.de/

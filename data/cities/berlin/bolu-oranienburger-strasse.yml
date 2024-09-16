@@ -4,8 +4,8 @@ latitude: 52.59624
 longitude: 13.33314
 postcode: "13437"
 city: Berlin
-street: "Oranienburger Straße"
-housenumber: 90
-phone: "+49 30 437 210 02"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-18:00"
-website: "https://www.bolu.de"
+street: Oranienburger Straße
+housenumber: "90"
+phone: +49 30 437 210 02
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-18:00
+website: https://www.bolu.de

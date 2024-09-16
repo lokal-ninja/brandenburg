@@ -4,8 +4,8 @@ latitude: 52.53757
 longitude: 13.26891
 postcode: "13629"
 city: Berlin
-street: "Quellweg"
-housenumber: 27
+street: Quellweg
+housenumber: "27"
 phone: ""
 opening_hours: ""
-website: "https://sci-nutrition.de/"
+website: https://sci-nutrition.de/

@@ -1,11 +1,11 @@
 id: 725795181
-type: way
+type: node
 latitude: 52.93728
 longitude: 12.39545
 postcode: "16866"
 city: Kyritz
-street: "Holzhausener Straße"
-housenumber: 33
+street: Holzhausener Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

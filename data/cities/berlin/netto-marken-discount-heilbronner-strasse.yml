@@ -1,11 +1,11 @@
 id: 43104445
-type: way
+type: node
 latitude: 52.5011
 longitude: 13.29232
 postcode: "10711"
 city: Berlin
-street: "Heilbronner Straße"
-housenumber: 19
+street: Heilbronner Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

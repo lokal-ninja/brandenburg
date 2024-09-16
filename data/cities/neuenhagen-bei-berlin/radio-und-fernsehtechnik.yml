@@ -1,11 +1,11 @@
 id: 199441001
-type: way
+type: node
 latitude: 52.52903
 longitude: 13.68835
 postcode: "15366"
 city: Neuenhagen bei Berlin
-street: "Rudolf-Breitscheid-Allee"
-housenumber: 5
+street: Rudolf-Breitscheid-Allee
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

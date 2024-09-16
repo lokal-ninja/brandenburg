@@ -4,8 +4,8 @@ latitude: 52.48711
 longitude: 13.3532
 postcode: "10823"
 city: Berlin
-street: "Belziger Straße"
-housenumber: 28
+street: Belziger Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "https://friedlandundpartner.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: https://friedlandundpartner.de/

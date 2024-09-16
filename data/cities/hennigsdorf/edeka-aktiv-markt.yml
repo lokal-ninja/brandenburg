@@ -1,11 +1,11 @@
 id: 31508018
-type: way
+type: node
 latitude: 52.63468
 longitude: 13.19654
 postcode: "16761"
 city: Hennigsdorf
-street: "Paul-Schreier-Straße"
+street: Paul-Schreier-Straße
 housenumber: 9 a
-phone: "+49 3302 229940"
+phone: +49 3302 229940
 opening_hours: ""
-website: "https://www.edeka.de/homepage.jsp"
+website: https://www.edeka.de/homepage.jsp

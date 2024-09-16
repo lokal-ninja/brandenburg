@@ -1,11 +1,11 @@
 id: 240042193
-type: way
+type: node
 latitude: 52.31392
 longitude: 13.61163
 postcode: "15745"
 city: Wildau
-street: "Chausseestraße"
-housenumber: 1
+street: Chausseestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
 website: ""

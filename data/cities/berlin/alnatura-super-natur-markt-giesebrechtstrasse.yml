@@ -4,8 +4,8 @@ latitude: 52.50221
 longitude: 13.30917
 postcode: "10629"
 city: Berlin
-street: "Giesebrechtstraße"
-housenumber: 4
+street: Giesebrechtstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; PH off"
-website: "https://www.alnatura.de/de-de/alnatura-maerkte/alnatura-filialen-detailseiten/b/berlin-alnatura-super-natur-markt-b085"
+opening_hours: Mo-Sa 07:30-21:00; PH off
+website: https://www.alnatura.de/de-de/alnatura-maerkte/alnatura-filialen-detailseiten/b/berlin-alnatura-super-natur-markt-b085

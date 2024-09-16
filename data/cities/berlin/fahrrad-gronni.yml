@@ -1,11 +1,11 @@
 id: 254100212
-type: way
+type: node
 latitude: 52.48325
 longitude: 13.6034
 postcode: "12623"
 city: Berlin
-street: "Erich-Baron-Weg"
-housenumber: 132
+street: Erich-Baron-Weg
+housenumber: "132"
 phone: ""
-opening_hours: "Mo 12:00-18:00; PH off"
+opening_hours: Mo 12:00-18:00; PH off
 website: ""

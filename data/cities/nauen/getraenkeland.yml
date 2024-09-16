@@ -1,11 +1,11 @@
 id: 319148134
-type: way
+type: node
 latitude: 52.61275
 longitude: 12.8819
 postcode: "14641"
 city: Nauen
-street: "Dammstraße"
-housenumber: 25
-phone: "+49 3321 4600111"
-opening_hours: "Mo-We 08:00-18:30; Th,Fr 08:00-19:00; Sa 08:00-13:00"
-website: "https://www.getraenkeland.com/"
+street: Dammstraße
+housenumber: "25"
+phone: +49 3321 4600111
+opening_hours: Mo-We 08:00-18:30; Th,Fr 08:00-19:00; Sa 08:00-13:00
+website: https://www.getraenkeland.com/

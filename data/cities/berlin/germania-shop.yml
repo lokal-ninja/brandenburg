@@ -4,8 +4,8 @@ latitude: 52.46016
 longitude: 13.43039
 postcode: "12347"
 city: Berlin
-street: "Germaniapromenade"
-housenumber: 33
+street: Germaniapromenade
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 06:30-22:30; Sa 07:00-23:00"
+opening_hours: Mo-Fr 06:30-22:30; Sa 07:00-23:00
 website: ""

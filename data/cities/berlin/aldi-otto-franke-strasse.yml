@@ -1,11 +1,11 @@
 id: 23925125
-type: way
+type: node
 latitude: 52.4326
 longitude: 13.54688
 postcode: "12489"
 city: Berlin
-street: "Otto-Franke-Straße"
-housenumber: 98
+street: Otto-Franke-Straße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

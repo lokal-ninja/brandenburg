@@ -4,8 +4,8 @@ latitude: 51.7589
 longitude: 14.33387
 postcode: "03046"
 city: Cottbus
-street: "Schloßkirchplatz"
-housenumber: 6
+street: Schloßkirchplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-14:00; Su off"
-website: "https://www.presse-zentrum-cottbus.de/"
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-14:00; Su off
+website: https://www.presse-zentrum-cottbus.de/

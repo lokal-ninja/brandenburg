@@ -4,8 +4,8 @@ latitude: 52.44574
 longitude: 13.30391
 postcode: "12203"
 city: Berlin
-street: "Gardeschützenweg"
-housenumber: 90
+street: Gardeschützenweg
+housenumber: "90"
 phone: "+491794495541"
-opening_hours: "Di 12:00-16:00, Do 12:00-16:00 und Termine nach Vereinbarung"
-website: "https://www.evelynsdottir.de"
+opening_hours: Di 12:00-16:00, Do 12:00-16:00 und "Termine nach Vereinbarung"
+website: https://www.evelynsdottir.de

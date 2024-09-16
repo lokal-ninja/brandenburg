@@ -1,11 +1,11 @@
 id: 332240594
-type: way
+type: node
 latitude: 52.36162
 longitude: 14.0662
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Bergstraße"
-housenumber: 10
+street: Bergstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

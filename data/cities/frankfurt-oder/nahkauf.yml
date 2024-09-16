@@ -1,11 +1,11 @@
 id: 82494416
-type: way
+type: node
 latitude: 52.34519
 longitude: 14.5445
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Dr.-Salvador-Allende-Höhe"
-housenumber: 1
+street: Dr.-Salvador-Allende-Höhe
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00, Sa 07:00-18:00; PH off"
+opening_hours: Mo-Fr 07:00-20:00, Sa 07:00-18:00; PH off
 website: ""

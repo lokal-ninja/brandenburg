@@ -1,11 +1,11 @@
 id: 72119029
-type: way
+type: node
 latitude: 51.74682
 longitude: 13.95256
 postcode: "03205"
 city: Calau
-street: "Cottbuser Straße"
-housenumber: 31
+street: Cottbuser Straße
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

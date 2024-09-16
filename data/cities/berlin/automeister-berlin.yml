@@ -1,11 +1,11 @@
 id: 192323749
-type: way
+type: node
 latitude: 52.47884
 longitude: 13.36828
 postcode: "12101"
 city: Berlin
-street: "General-Pape-Straße"
-housenumber: 48
-phone: "+49 30 7854533"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-15:00"
-website: "http://www.automeister-berlin.de"
+street: General-Pape-Straße
+housenumber: "48"
+phone: +49 30 7854533
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-15:00
+website: http://www.automeister-berlin.de

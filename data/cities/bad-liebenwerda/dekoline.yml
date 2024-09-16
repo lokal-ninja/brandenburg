@@ -1,11 +1,11 @@
 id: 766373077
-type: way
+type: node
 latitude: 51.51552
 longitude: 13.39316
 postcode: "04924"
 city: Bad Liebenwerda
-street: "Markt"
-housenumber: 25
-phone: "+49 35341 30733"
+street: Markt
+housenumber: "25"
+phone: +49 35341 30733
 opening_hours: ""
-website: "http://www.dekoline.info"
+website: http://www.dekoline.info

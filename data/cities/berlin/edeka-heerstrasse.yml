@@ -1,11 +1,11 @@
 id: 24641952
-type: way
+type: node
 latitude: 52.51585
 longitude: 13.18543
 postcode: "13595"
 city: Berlin
-street: "Heerstraße"
-housenumber: 284
+street: Heerstraße
+housenumber: "284"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:30"
+opening_hours: Mo-Sa 07:00-21:30
 website: ""

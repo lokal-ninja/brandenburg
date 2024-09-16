@@ -4,8 +4,8 @@ latitude: 52.51149
 longitude: 13.53357
 postcode: "10315"
 city: Berlin
-street: "Gensinger Straße"
-housenumber: 103
+street: Gensinger Straße
+housenumber: "103"
 phone: ""
-opening_hours: "Tu-Th 09:00-15:00; Fr 09:00-14:00"
+opening_hours: Tu-Th 09:00-15:00; Fr 09:00-14:00
 website: ""

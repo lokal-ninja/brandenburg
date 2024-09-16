@@ -1,11 +1,11 @@
 id: 108120697
-type: way
+type: node
 latitude: 51.58574
 longitude: 13.24113
 postcode: "04895"
 city: Falkenberg/Elster
-street: "Walther-Rathenau-Straße"
-housenumber: 21
-phone: "+49 35365 34628"
+street: Walther-Rathenau-Straße
+housenumber: "21"
+phone: +49 35365 34628
 opening_hours: ""
-website: "http://www.uhren-wartenburger.de/"
+website: http://www.uhren-wartenburger.de/

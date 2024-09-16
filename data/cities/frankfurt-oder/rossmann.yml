@@ -4,8 +4,8 @@ latitude: 52.34224
 longitude: 14.55244
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Logenstraße"
-housenumber: 8
+street: Logenstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off; PH off"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00; Su off; PH off
 website: ""

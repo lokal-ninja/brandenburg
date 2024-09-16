@@ -1,11 +1,11 @@
 id: 655083408
-type: way
+type: node
 latitude: 52.83459
 longitude: 13.82611
 postcode: "16225"
 city: Eberswalde
-street: "Eichwerderstraße"
-housenumber: 10
+street: Eichwerderstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

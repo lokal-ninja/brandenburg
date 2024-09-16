@@ -1,11 +1,11 @@
 id: 1157706944
-type: way
+type: node
 latitude: 51.96172
 longitude: 13.74725
 postcode: "15910"
 city: Bersteland
-street: "Am Stieg"
-housenumber: 38
+street: Am Stieg
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

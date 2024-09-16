@@ -4,8 +4,8 @@ latitude: 52.54591
 longitude: 13.55504
 postcode: "12679"
 city: Berlin
-street: "Marzahner Promenade"
-housenumber: 46
-phone: "+49 30 5450294"
-opening_hours: "Mo-Sa 11:00-16:00"
-website: "https://www.kultur-marzahn-hellersdorf.de/GALERIE-M.10.0.html"
+street: Marzahner Promenade
+housenumber: "46"
+phone: +49 30 5450294
+opening_hours: Mo-Sa 11:00-16:00
+website: https://www.kultur-marzahn-hellersdorf.de/GALERIE-M.10.0.html

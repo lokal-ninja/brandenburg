@@ -4,8 +4,8 @@ latitude: 52.50847
 longitude: 13.45035
 postcode: "10243"
 city: Berlin
-street: "Warschauer Straße"
-housenumber: 32
-phone: "+49 30 200031890"
-opening_hours: "Mo-Sa 09:00-22:00"
-website: "https://www.dm.de/store/d5ad/berlin/warschauer-strasse-32"
+street: Warschauer Straße
+housenumber: "32"
+phone: +49 30 200031890
+opening_hours: Mo-Sa 09:00-22:00
+website: https://www.dm.de/store/d5ad/berlin/warschauer-strasse-32

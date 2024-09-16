@@ -4,8 +4,8 @@ latitude: 53.1026
 longitude: 13.4758
 postcode: "17268"
 city: Templin
-street: "Zehdenicker Straße"
-housenumber: 34
-phone: "+49 3987 2263"
-opening_hours: "Mo-Fr 09:00-18:00; Sa Nach Vereinbarung; Su,PH off"
-website: "http://www.auto-kerner.de/"
+street: Zehdenicker Straße
+housenumber: "34"
+phone: +49 3987 2263
+opening_hours: Mo-Fr 09:00-18:00; Sa "Nach Vereinbarung"; Su,PH off
+website: http://www.auto-kerner.de/

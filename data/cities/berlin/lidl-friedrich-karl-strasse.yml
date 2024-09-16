@@ -1,11 +1,11 @@
 id: 29005347
-type: way
+type: node
 latitude: 52.56488
 longitude: 13.32927
 postcode: "13403"
 city: Berlin
-street: "Friedrich-Karl-Straße"
-housenumber: 2
+street: Friedrich-Karl-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

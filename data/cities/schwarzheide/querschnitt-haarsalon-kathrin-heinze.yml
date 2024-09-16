@@ -1,11 +1,11 @@
 id: 865602929
-type: way
+type: node
 latitude: 51.4799
 longitude: 13.85226
 postcode: "01987"
 city: Schwarzheide
-street: "Am Bahnhof Wandelhof"
-housenumber: 11
-phone: "+49 35752 7682"
+street: Am Bahnhof Wandelhof
+housenumber: "11"
+phone: +49 35752 7682
 opening_hours: ""
-website: "http://www.querschnitt.biz"
+website: http://www.querschnitt.biz

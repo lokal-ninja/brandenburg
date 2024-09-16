@@ -1,11 +1,11 @@
 id: 97633716
-type: way
+type: node
 latitude: 52.17013
 longitude: 14.2443
 postcode: "15848"
 city: Beeskow
-street: "Breitscheidstraße"
-housenumber: 2
+street: Breitscheidstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

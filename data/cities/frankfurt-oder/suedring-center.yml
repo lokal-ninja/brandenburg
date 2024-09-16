@@ -1,11 +1,11 @@
 id: 70083540
-type: way
+type: node
 latitude: 52.32752
 longitude: 14.51826
 postcode: "15236"
 city: Frankfurt (Oder)
-street: "Alexej-Leonow-Straße"
+street: Alexej-Leonow-Straße
 housenumber: 2A
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "http://suedring-center.info/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: http://suedring-center.info/

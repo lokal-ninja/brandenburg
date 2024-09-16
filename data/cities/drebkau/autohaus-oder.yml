@@ -1,11 +1,11 @@
 id: 164687361
-type: way
+type: node
 latitude: 51.69899
 longitude: 14.24319
 postcode: "03116"
 city: Drebkau
-street: "Hinter den Gärten"
-housenumber: 4
+street: Hinter den Gärten
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.ford-oder.de/"
+website: https://www.ford-oder.de/

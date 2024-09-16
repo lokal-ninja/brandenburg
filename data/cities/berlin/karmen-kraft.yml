@@ -4,8 +4,8 @@ latitude: 52.52592
 longitude: 13.49806
 postcode: "10365"
 city: Berlin
-street: "Herzbergstraße"
-housenumber: 55
+street: Herzbergstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Atelierbesuch nach Vereinbarung / Studio visit by appointment"
-website: "https://www.karmenkraft.com/"
+opening_hours: '"Atelierbesuch nach Vereinbarung / Studio visit by appointment"'
+website: https://www.karmenkraft.com/

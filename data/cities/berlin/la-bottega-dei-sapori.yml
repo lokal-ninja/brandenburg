@@ -4,8 +4,8 @@ latitude: 52.52521
 longitude: 13.30462
 postcode: "10589"
 city: Berlin
-street: "Mierendorffplatz"
-housenumber: 8
+street: Mierendorffplatz
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-21:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-21:00; Sa 09:00-14:00
 website: ""

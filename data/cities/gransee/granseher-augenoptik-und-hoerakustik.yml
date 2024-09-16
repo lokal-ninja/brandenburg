@@ -1,11 +1,11 @@
 id: 676515683
-type: way
+type: node
 latitude: 53.00697
 longitude: 13.15685
 postcode: "16775"
 city: Gransee
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 28
+street: Rudolf-Breitscheid-Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "http://www.granseher.de/"
+website: http://www.granseher.de/

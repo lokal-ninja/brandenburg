@@ -5,7 +5,7 @@ longitude: 13.93801
 postcode: "17291"
 city: Oberuckersee
 street: ""
-housenumber: 5
+housenumber: "5"
 phone: ""
-opening_hours: "on appointment"
+opening_hours: '"on appointment"'
 website: ""

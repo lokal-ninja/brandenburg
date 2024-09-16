@@ -1,11 +1,11 @@
 id: 874269152
-type: way
+type: node
 latitude: 52.51891
 longitude: 13.49653
 postcode: "10365"
 city: Berlin
-street: "Gotlindestraße"
+street: Gotlindestraße
 housenumber: 40A
-phone: "+49 (0)30 346455620"
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.rewe.de/angebote/berlin-stadt/1766134/rewe-markt-gotlindestrasse-40-a/"
+phone: +49 (0)30 346455620
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.rewe.de/angebote/berlin-stadt/1766134/rewe-markt-gotlindestrasse-40-a/

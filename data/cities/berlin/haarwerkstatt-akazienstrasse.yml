@@ -4,8 +4,8 @@ latitude: 52.48679
 longitude: 13.35506
 postcode: "10823"
 city: Berlin
-street: "Akazienstraße"
-housenumber: 27
+street: Akazienstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-18:00"
-website: "https://www.haarwerkstatt.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-18:00
+website: https://www.haarwerkstatt.de/

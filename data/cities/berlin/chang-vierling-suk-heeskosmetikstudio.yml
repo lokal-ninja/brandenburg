@@ -4,8 +4,8 @@ latitude: 52.59058
 longitude: 13.28518
 postcode: "13507"
 city: Berlin
-street: "Bernstorffstraße"
-housenumber: 14
+street: Bernstorffstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 11:00-18:00"
-website: "http://www.suk-hees-kosmetik.de/"
+opening_hours: Tu,Th,Fr 09:00-18:00; We 11:00-18:00
+website: http://www.suk-hees-kosmetik.de/

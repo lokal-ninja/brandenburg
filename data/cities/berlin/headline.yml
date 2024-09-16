@@ -4,8 +4,8 @@ latitude: 52.46879
 longitude: 13.32662
 postcode: "12161"
 city: Berlin
-street: "Odenwaldstraße"
-housenumber: 27
-phone: "+49 30 8522839"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://headline-friseur.de/"
+street: Odenwaldstraße
+housenumber: "27"
+phone: +49 30 8522839
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://headline-friseur.de/

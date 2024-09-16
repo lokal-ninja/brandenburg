@@ -1,11 +1,11 @@
 id: 223397179
-type: way
+type: node
 latitude: 51.74742
 longitude: 14.63043
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Cottbuser Straße"
-housenumber: 131
+street: Cottbuser Straße
+housenumber: "131"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

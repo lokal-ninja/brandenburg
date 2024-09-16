@@ -1,11 +1,11 @@
 id: 678820043
-type: way
+type: node
 latitude: 52.36388
 longitude: 14.5252
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Spitzkrugring"
-housenumber: 2
+street: Spitzkrugring
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.aldi-nord.de/

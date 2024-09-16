@@ -1,11 +1,11 @@
 id: 42015432
-type: way
+type: node
 latitude: 51.71899
 longitude: 14.29246
 postcode: "03099"
 city: Kolkwitz
-street: "Drebkauer Straße"
-housenumber: 67
+street: Drebkauer Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-12:00
 website: ""

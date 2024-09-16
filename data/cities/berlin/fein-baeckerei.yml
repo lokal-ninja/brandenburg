@@ -4,8 +4,8 @@ latitude: 52.52112
 longitude: 13.19444
 postcode: "13595"
 city: Berlin
-street: "Adamstraße"
-housenumber: 10
+street: Adamstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

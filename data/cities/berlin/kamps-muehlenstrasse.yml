@@ -4,8 +4,8 @@ latitude: 52.5043
 longitude: 13.44289
 postcode: "10243"
 city: Berlin
-street: "Mühlenstraße"
-housenumber: 13
+street: Mühlenstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-16:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-18:00; Su 08:00-16:00
 website: ""

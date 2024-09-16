@@ -1,11 +1,11 @@
 id: 51202337
-type: way
+type: node
 latitude: 52.54155
 longitude: 13.43975
 postcode: "10409"
 city: Berlin
-street: "Greifswalder Straße"
-housenumber: 86
+street: Greifswalder Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-23:30"
+opening_hours: Mo-Fr 07:00-00:00; Sa 07:00-23:30
 website: ""

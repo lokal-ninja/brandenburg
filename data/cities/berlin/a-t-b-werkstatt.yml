@@ -4,8 +4,8 @@ latitude: 52.54665
 longitude: 13.3153
 postcode: "13627"
 city: Berlin
-street: "Riedemannweg"
-housenumber: 66
+street: Riedemannweg
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "http://www.atb-bs.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: http://www.atb-bs.de/

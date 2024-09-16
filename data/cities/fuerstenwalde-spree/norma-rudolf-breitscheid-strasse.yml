@@ -1,11 +1,11 @@
 id: 760766405
-type: way
+type: node
 latitude: 52.35847
 longitude: 14.04945
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 13
+street: Rudolf-Breitscheid-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

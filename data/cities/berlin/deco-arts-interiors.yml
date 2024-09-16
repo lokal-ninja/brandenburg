@@ -4,8 +4,8 @@ latitude: 52.49899
 longitude: 13.35141
 postcode: "10777"
 city: Berlin
-street: "Motzstraße"
-housenumber: 6
+street: Motzstraße
+housenumber: "6"
 phone: ""
-opening_hours: "We-Fr 15:00-19:00; Sa 12:00-17:00"
-website: "https://www.decoarts.eu/"
+opening_hours: We-Fr 15:00-19:00; Sa 12:00-17:00
+website: https://www.decoarts.eu/

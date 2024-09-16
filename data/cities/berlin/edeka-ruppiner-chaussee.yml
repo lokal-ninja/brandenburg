@@ -1,11 +1,11 @@
 id: 24754887
-type: way
+type: node
 latitude: 52.61841
 longitude: 13.23948
 postcode: "13503"
 city: Berlin
-street: "Ruppiner Chaussee"
-housenumber: 301
-phone: "+49 30 43662800"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-tozlu-ruppiner-chaussee-301/index.jsp"
+street: Ruppiner Chaussee
+housenumber: "301"
+phone: +49 30 43662800
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-tozlu-ruppiner-chaussee-301/index.jsp

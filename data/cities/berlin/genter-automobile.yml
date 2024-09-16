@@ -4,8 +4,8 @@ latitude: 52.54893
 longitude: 13.35093
 postcode: "13353"
 city: Berlin
-street: "Genter Straße"
-housenumber: 69
+street: Genter Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.genter-automobile.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.genter-automobile.de/

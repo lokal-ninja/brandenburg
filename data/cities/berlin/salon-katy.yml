@@ -4,8 +4,8 @@ latitude: 52.54479
 longitude: 13.36099
 postcode: "13353"
 city: Berlin
-street: "Triftstraße"
-housenumber: 1
+street: Triftstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 148503441
-type: way
+type: node
 latitude: 52.14232
 longitude: 12.59156
 postcode: "14806"
 city: Bad Belzig
-street: "Niemegker Straße"
-housenumber: 19
+street: Niemegker Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
-website: "https://www.netto-online.de/filialen/bad-belzig/niemegker-str-19/7738"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
+website: https://www.netto-online.de/filialen/bad-belzig/niemegker-str-19/7738

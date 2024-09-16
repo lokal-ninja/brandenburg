@@ -4,8 +4,8 @@ latitude: 52.54876
 longitude: 13.36344
 postcode: "13347"
 city: Berlin
-street: "Schulstraße"
-housenumber: 19
+street: Schulstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:00"
-website: "http://orthopaedie-schuhtechnik-greifendorf.de"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-16:00
+website: http://orthopaedie-schuhtechnik-greifendorf.de

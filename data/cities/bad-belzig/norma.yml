@@ -1,11 +1,11 @@
 id: 126114469
-type: way
+type: node
 latitude: 52.14133
 longitude: 12.60692
 postcode: "14806"
 city: Bad Belzig
-street: "Erich-Weinert-Straße"
-housenumber: 11
+street: Erich-Weinert-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

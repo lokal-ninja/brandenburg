@@ -4,8 +4,8 @@ latitude: 52.48296
 longitude: 13.38224
 postcode: "12101"
 city: Berlin
-street: "Manfred-von-Richthofen-Straße"
-housenumber: 15
+street: Manfred-von-Richthofen-Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00"
-website: "https://www.petit-cochon.de/"
+opening_hours: Mo-Fr 10:00-14:00
+website: https://www.petit-cochon.de/

@@ -4,8 +4,8 @@ latitude: 52.47985
 longitude: 13.34622
 postcode: "10827"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 103
+street: Hauptstraße
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

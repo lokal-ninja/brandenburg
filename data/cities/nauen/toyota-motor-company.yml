@@ -1,11 +1,11 @@
 id: 151158898
-type: way
+type: node
 latitude: 52.59845
 longitude: 12.88834
 postcode: "14641"
 city: Nauen
-street: "Robert-Bosch-Straße"
-housenumber: 5
-phone: "+49 3321 44370"
-opening_hours: "Mo-Fr 07:15-18:00; Sa 09:00-13:00"
-website: "https://www.motor-company.de/standorte/toyota-betriebe/nauen.html"
+street: Robert-Bosch-Straße
+housenumber: "5"
+phone: +49 3321 44370
+opening_hours: Mo-Fr 07:15-18:00; Sa 09:00-13:00
+website: https://www.motor-company.de/standorte/toyota-betriebe/nauen.html

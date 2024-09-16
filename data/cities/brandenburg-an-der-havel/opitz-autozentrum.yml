@@ -1,11 +1,11 @@
 id: 88086098
-type: way
+type: node
 latitude: 52.43763
 longitude: 12.5305
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Kaiserslauterner Straße"
-housenumber: 8
+street: Kaiserslauterner Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-16:45"
+opening_hours: Mo-Fr 08:00-16:45
 website: ""

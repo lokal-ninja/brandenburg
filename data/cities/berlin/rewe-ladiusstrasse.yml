@@ -1,11 +1,11 @@
 id: 135789956
-type: way
+type: node
 latitude: 52.41105
 longitude: 13.26256
 postcode: "14165"
 city: Berlin
-street: "Ladiusstraße"
-housenumber: 26
+street: Ladiusstraße
+housenumber: "26"
 phone: "+493081488838"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/meinkaufsbox/markt/marktinfo.html?marketId=4040128"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/meinkaufsbox/markt/marktinfo.html?marketId=4040128

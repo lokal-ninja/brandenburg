@@ -1,11 +1,11 @@
 id: 910940785
-type: way
+type: node
 latitude: 51.52233
 longitude: 14.00394
 postcode: "01968"
 city: Senftenberg
-street: "Bahnhofstraße"
-housenumber: 30
+street: Bahnhofstraße
+housenumber: "30"
 phone: "+4935732323"
-opening_hours: ""
-website: "https://www.bretschneider-sicherheit.com/"
+opening_hours: '"Termin nach Vereinbarung"'
+website: https://www.bretschneider-sicherheit.com/

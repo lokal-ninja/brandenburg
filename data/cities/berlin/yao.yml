@@ -4,8 +4,8 @@ latitude: 52.4887
 longitude: 13.3539
 postcode: "10823"
 city: Berlin
-street: "Akazienstraße"
-housenumber: 13
+street: Akazienstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu-Fr 10:00-20:00; Mo,Sa 10:00-18:00"
-website: "https://www.yao-berlin.de/"
+opening_hours: Tu-Fr 10:00-20:00; Mo,Sa 10:00-18:00
+website: https://www.yao-berlin.de/

@@ -4,8 +4,8 @@ latitude: 52.45932
 longitude: 13.58034
 postcode: "12555"
 city: Berlin
-street: "Mahlsdorfer Straße"
-housenumber: 1
-phone: "+49 30 98370595"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off"
-website: "https://www.dampfbank-koepenick.de/"
+street: Mahlsdorfer Straße
+housenumber: "1"
+phone: +49 30 98370595
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; PH off
+website: https://www.dampfbank-koepenick.de/

@@ -4,8 +4,8 @@ latitude: 52.51379
 longitude: 13.31214
 postcode: "10585"
 city: Berlin
-street: "Zillestraße"
-housenumber: 22
+street: Zillestraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

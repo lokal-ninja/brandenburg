@@ -1,11 +1,11 @@
 id: 88975566
-type: way
+type: node
 latitude: 52.59156
 longitude: 13.28603
 postcode: "13507"
 city: Berlin
-street: "Bernstorffstraße"
+street: Bernstorffstraße
 housenumber: 13a
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 87535960
-type: way
+type: node
 latitude: 52.43232
 longitude: 12.53184
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Willibald-Alexis-Straße"
-housenumber: 40
+street: Willibald-Alexis-Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00 - 20:00"
+opening_hours: Mo-Sa 07:00 - 20:00
 website: ""

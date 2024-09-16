@@ -1,11 +1,11 @@
 id: 868603146
-type: way
+type: node
 latitude: 51.86762
 longitude: 13.4219
 postcode: "15936"
 city: Dahme/Mark
-street: "Tränkestraße"
-housenumber: 2
-phone: "+49 35451 346"
-opening_hours: "Tu-Fr 08:00-18:00, Sa 08:00-12:00, PH off"
-website: "https://www.blatthaus-erler.de/"
+street: Tränkestraße
+housenumber: "2"
+phone: +49 35451 346
+opening_hours: Tu-Fr 08:00-18:00, Sa 08:00-12:00, PH off
+website: https://www.blatthaus-erler.de/

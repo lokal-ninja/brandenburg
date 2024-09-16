@@ -4,8 +4,8 @@ latitude: 52.56136
 longitude: 13.42259
 postcode: "13189"
 city: Berlin
-street: "Neumannstraße"
-housenumber: 13
+street: Neumannstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/berlin/neumannstrasse-13/3182714"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/berlin/neumannstrasse-13/3182714

@@ -4,8 +4,8 @@ latitude: 52.42282
 longitude: 13.48475
 postcode: "12355"
 city: Berlin
-street: "Sattlerstraße"
-housenumber: 4
+street: Sattlerstraße
+housenumber: "4"
 phone: ""
-opening_hours: "May-Sep Tu-Fr 09:00-18:00; May-Sep Sa 09:00-13:00"
+opening_hours: May-Sep Tu-Fr 09:00-18:00; May-Sep Sa 09:00-13:00
 website: ""

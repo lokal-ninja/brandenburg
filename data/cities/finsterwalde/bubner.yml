@@ -4,8 +4,8 @@ latitude: 51.62949
 longitude: 13.70849
 postcode: "03238"
 city: Finsterwalde
-street: "Markt"
-housenumber: 28
-phone: "+49 3531 7186177"
-opening_hours: "Mo-Fr 06:00-18:30; Sa 06:00-18:00; Su 07:00-18:00"
-website: "https://www.bubner.de/"
+street: Markt
+housenumber: "28"
+phone: +49 3531 7186177
+opening_hours: Mo-Fr 06:00-18:30; Sa 06:00-18:00; Su 07:00-18:00
+website: https://www.bubner.de/

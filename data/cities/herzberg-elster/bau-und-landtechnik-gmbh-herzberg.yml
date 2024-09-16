@@ -1,11 +1,11 @@
 id: 203363681
-type: way
+type: node
 latitude: 51.69475
 longitude: 13.24807
 postcode: "04916"
 city: Herzberg (Elster)
-street: "Frankfurter Straße"
-housenumber: 6
+street: Frankfurter Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

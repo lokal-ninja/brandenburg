@@ -4,8 +4,8 @@ latitude: 52.50715
 longitude: 13.29557
 postcode: "14057"
 city: Berlin
-street: "Suarezstraße"
-housenumber: 47
-phone: "+49 30 6252573"
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-17:00"
-website: "https://berliner-sammelsurium.de/"
+street: Suarezstraße
+housenumber: "47"
+phone: +49 30 6252573
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-17:00
+website: https://berliner-sammelsurium.de/

@@ -1,11 +1,11 @@
 id: 304398282
-type: way
+type: node
 latitude: 52.64142
 longitude: 13.21072
 postcode: "16761"
 city: Hennigsdorf
-street: "Fabrikstraße"
-housenumber: 8
+street: Fabrikstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.46299
 longitude: 13.32507
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 15
-phone: "+49 30 79016278"
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "https://www.hunkemoller.de/filiale/berlin/schlossstrasse-15"
+street: Schloßstraße
+housenumber: "15"
+phone: +49 30 79016278
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: https://www.hunkemoller.de/filiale/berlin/schlossstrasse-15

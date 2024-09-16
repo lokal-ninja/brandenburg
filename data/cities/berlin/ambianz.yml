@@ -4,8 +4,8 @@ latitude: 52.55268
 longitude: 13.38133
 postcode: "13357"
 city: Berlin
-street: "Prinzenallee"
-housenumber: 90
+street: Prinzenallee
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

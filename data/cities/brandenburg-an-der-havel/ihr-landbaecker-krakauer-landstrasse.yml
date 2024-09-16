@@ -4,8 +4,8 @@ latitude: 52.42386
 longitude: 12.58012
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Krakauer Landstraße"
-housenumber: 33
-phone: "+49 1520 9010128"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:00-10:00"
-website: "https://www.ihrlandbaecker.de/sonntagsfilialen"
+street: Krakauer Landstraße
+housenumber: "33"
+phone: +49 1520 9010128
+opening_hours: Mo-Sa 07:00-20:00; Su 07:00-10:00
+website: https://www.ihrlandbaecker.de/sonntagsfilialen

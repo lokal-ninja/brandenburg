@@ -1,11 +1,11 @@
 id: 1022212870
-type: way
+type: node
 latitude: 52.35704
 longitude: 13.59784
 postcode: "15732"
 city: Schulzendorf
-street: "Rosa-Luxemburg-Straße"
+street: Rosa-Luxemburg-Straße
 housenumber: 120E
-phone: "+49 33762 40810"
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-18:00"
+phone: +49 33762 40810
+opening_hours: Mo-Fr 08:00-12:00, 13:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 326954064
-type: way
+type: node
 latitude: 52.74978
 longitude: 13.19815
 postcode: "16515"
 city: Oranienburg
-street: "Birkenweg"
-housenumber: 166
+street: Birkenweg
+housenumber: "166"
 phone: ""
 opening_hours: ""
-website: "https://www.nast-holz.de/"
+website: https://www.nast-holz.de/

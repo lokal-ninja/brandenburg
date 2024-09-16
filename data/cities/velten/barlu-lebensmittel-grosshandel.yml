@@ -1,11 +1,11 @@
 id: 183473924
-type: way
+type: node
 latitude: 52.67095
 longitude: 13.22118
 postcode: "16727"
 city: Velten
-street: "Havelring"
-housenumber: 11
-phone: "+49 3304 399399"
+street: Havelring
+housenumber: "11"
+phone: +49 3304 399399
 opening_hours: ""
-website: "https://www.barlu.de/"
+website: https://www.barlu.de/

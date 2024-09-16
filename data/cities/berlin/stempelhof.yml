@@ -4,8 +4,8 @@ latitude: 52.48357
 longitude: 13.38352
 postcode: "12101"
 city: Berlin
-street: "Manfred-von-Richthofen-Straße"
-housenumber: 11
+street: Manfred-von-Richthofen-Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 12:00-17:00"
-website: "https://www.stempelhof.de/"
+opening_hours: Mo-Fr 12:00-17:00
+website: https://www.stempelhof.de/

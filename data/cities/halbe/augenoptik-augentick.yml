@@ -4,8 +4,8 @@ latitude: 52.10607
 longitude: 13.70164
 postcode: "15757"
 city: Halbe
-street: "Kirchstraße"
-housenumber: 3
+street: Kirchstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; We,Sa open nach Vereinbarung"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; We,Sa open "nach Vereinbarung"
 website: ""

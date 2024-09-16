@@ -4,8 +4,8 @@ latitude: 52.58799
 longitude: 13.28123
 postcode: "13507"
 city: Berlin
-street: "Schulstraße"
-housenumber: 11
-phone: "+49 30 4339981"
-opening_hours: "Mo-Fr 11:00-13:00,15:00-18:00; We 11:00-13:00"
-website: "http://www.elektro-wannicke.de"
+street: Schulstraße
+housenumber: "11"
+phone: +49 30 4339981
+opening_hours: Mo-Fr 11:00-13:00,15:00-18:00; We 11:00-13:00
+website: http://www.elektro-wannicke.de

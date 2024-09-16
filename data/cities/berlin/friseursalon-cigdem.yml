@@ -4,8 +4,8 @@ latitude: 52.48073
 longitude: 13.3514
 postcode: "10827"
 city: Berlin
-street: "Dominicusstraße"
-housenumber: 41
+street: Dominicusstraße
+housenumber: "41"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00
 website: ""

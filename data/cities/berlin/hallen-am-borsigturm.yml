@@ -1,11 +1,11 @@
 id: 10632546
-type: way
+type: node
 latitude: 52.58442
 longitude: 13.28647
 postcode: "13507"
 city: Berlin
-street: "Am Borsigturm"
-housenumber: 2
-phone: "+49 30 72626600"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://www.hab-2.de"
+street: Am Borsigturm
+housenumber: "2"
+phone: +49 30 72626600
+opening_hours: Mo-Sa 10:00-20:00
+website: http://www.hab-2.de

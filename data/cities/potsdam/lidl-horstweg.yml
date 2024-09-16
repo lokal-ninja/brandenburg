@@ -1,11 +1,11 @@
 id: 27455147
-type: way
+type: node
 latitude: 52.37903
 longitude: 13.08606
 postcode: "14478"
 city: Potsdam
-street: "Horstweg"
-housenumber: 98
+street: Horstweg
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00, PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00, PH,Su off
 website: ""

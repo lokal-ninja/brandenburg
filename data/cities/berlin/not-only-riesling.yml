@@ -4,8 +4,8 @@ latitude: 52.48803
 longitude: 13.41355
 postcode: "10967"
 city: Berlin
-street: "Hasenheide"
-housenumber: 78
-phone: "+49 30 61209303"
-opening_hours: "Mo-Sa 14:00-22:00"
+street: Hasenheide
+housenumber: "78"
+phone: +49 30 61209303
+opening_hours: Mo-Sa 14:00-22:00
 website: ""

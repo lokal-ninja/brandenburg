@@ -4,8 +4,8 @@ latitude: 52.45616
 longitude: 13.38133
 postcode: "12103"
 city: Berlin
-street: "Friedrich-Karl-Straße"
-housenumber: 16
+street: Friedrich-Karl-Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:30; Sa 10:00-14:00"
-website: "https://www.betten-bunge-berlin.de/"
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:00
+website: https://www.betten-bunge-berlin.de/

@@ -1,11 +1,11 @@
 id: 5105769
-type: way
+type: node
 latitude: 52.53618
 longitude: 13.20206
 postcode: "13597"
 city: Berlin
-street: "Carl-Schurz-Straße"
-housenumber: 24
-phone: "+49 30 330920"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.karstadt.de/on/demandware.store/Sites-Karstadt-Site/de/Stores-Details?StoreID=001355"
+street: Carl-Schurz-Straße
+housenumber: "24"
+phone: +49 30 330920
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.karstadt.de/on/demandware.store/Sites-Karstadt-Site/de/Stores-Details?StoreID=001355

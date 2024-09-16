@@ -1,11 +1,11 @@
 id: 242146465
-type: way
+type: node
 latitude: 52.21619
 longitude: 14.111
 postcode: "15848"
 city: Rietz-Neuendorf
-street: "Seestraße"
-housenumber: 23
+street: Seestraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

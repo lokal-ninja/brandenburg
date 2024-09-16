@@ -4,8 +4,8 @@ latitude: 52.55032
 longitude: 13.20222
 postcode: "13585"
 city: Berlin
-street: "Neue Bergstraße"
-housenumber: 10
+street: Neue Bergstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://auto-ulli.de/"
+website: https://auto-ulli.de/

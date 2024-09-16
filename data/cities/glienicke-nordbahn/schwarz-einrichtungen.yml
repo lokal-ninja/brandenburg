@@ -1,11 +1,11 @@
 id: 127313069
-type: way
+type: node
 latitude: 52.63598
 longitude: 13.30759
 postcode: "16548"
 city: Glienicke/Nordbahn
-street: "Oranienburger Chaussee"
+street: Oranienburger Chaussee
 housenumber: 31-33
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-16:00
 website: ""

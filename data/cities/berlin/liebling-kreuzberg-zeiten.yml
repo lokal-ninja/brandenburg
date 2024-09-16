@@ -4,8 +4,8 @@ latitude: 52.56606
 longitude: 13.40886
 postcode: "13187"
 city: Berlin
-street: "Florastraße"
-housenumber: 42
+street: Florastraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00"
-website: "http://www.lieblingkreuzberg.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00
+website: http://www.lieblingkreuzberg.de/

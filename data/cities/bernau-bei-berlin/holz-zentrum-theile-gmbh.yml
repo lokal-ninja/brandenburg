@@ -1,11 +1,11 @@
 id: 297007803
-type: way
+type: node
 latitude: 52.65912
 longitude: 13.5761
 postcode: "16321"
 city: Bernau bei Berlin
-street: "Schwanebecker Chaussee"
-housenumber: 107
+street: Schwanebecker Chaussee
+housenumber: "107"
 phone: ""
 opening_hours: ""
 website: ""

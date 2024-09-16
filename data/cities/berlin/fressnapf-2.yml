@@ -1,11 +1,11 @@
 id: 11777990
-type: way
+type: node
 latitude: 52.5689
 longitude: 13.32755
 postcode: ""
 city: Berlin
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.fressnapf.de/maerkte/fressnapf-xxl-berlin-auguste-viktoria-allee"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.fressnapf.de/maerkte/fressnapf-xxl-berlin-auguste-viktoria-allee

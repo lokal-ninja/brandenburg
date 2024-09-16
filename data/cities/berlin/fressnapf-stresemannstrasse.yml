@@ -4,8 +4,8 @@ latitude: 52.50312
 longitude: 13.38438
 postcode: "10963"
 city: Berlin
-street: "Stresemannstraße"
-housenumber: 68
+street: Stresemannstraße
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

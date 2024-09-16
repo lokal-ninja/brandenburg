@@ -1,11 +1,11 @@
 id: 188509500
-type: way
+type: node
 latitude: 52.48507
 longitude: 13.44916
 postcode: "12059"
 city: Berlin
-street: "Harzer Straße"
-housenumber: 85
+street: Harzer Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 08:00-01:00+"
+opening_hours: Mo-Sa 08:00-01:00+
 website: ""

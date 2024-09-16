@@ -1,11 +1,11 @@
 id: 1191222520
-type: way
+type: node
 latitude: 52.95772
 longitude: 11.94624
 postcode: "19336"
 city: Bad Wilsnack
-street: "Im Gutshof"
-housenumber: 5
-phone: "0172 3283061"
+street: Im Gutshof
+housenumber: "5"
+phone: 0172 3283061
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 64400029
-type: way
+type: node
 latitude: 52.43797
 longitude: 13.38851
 postcode: "12107"
 city: Berlin
-street: "Mariendorfer Damm"
+street: Mariendorfer Damm
 housenumber: 153-157
-phone: "+49 221 201 999 59"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/"
+phone: +49 221 201 999 59
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/

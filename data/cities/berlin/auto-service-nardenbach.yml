@@ -1,11 +1,11 @@
 id: 93951385
-type: way
+type: node
 latitude: 52.51638
 longitude: 13.29244
 postcode: "14059"
 city: Berlin
-street: "Christstraße"
-housenumber: 39
+street: Christstraße
+housenumber: "39"
 phone: "+49303255654"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.autoservice-nardenbach.de/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.autoservice-nardenbach.de/

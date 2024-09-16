@@ -4,8 +4,8 @@ latitude: 52.47938
 longitude: 13.34932
 postcode: "10827"
 city: Berlin
-street: "Ebersstraße"
-housenumber: 33
+street: Ebersstraße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:00, Mo-Th 13:00-17:00"
-website: "http://www.a-hesselmann.de/"
+opening_hours: Mo-Fr 09:00-12:00, Mo-Th 13:00-17:00
+website: http://www.a-hesselmann.de/

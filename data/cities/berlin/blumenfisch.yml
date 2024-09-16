@@ -4,8 +4,8 @@ latitude: 52.53204
 longitude: 13.41204
 postcode: "10119"
 city: Berlin
-street: "Schönhauser Allee"
-housenumber: 175
-phone: "+49 30 31 98 81 930"
-opening_hours: "Mo-Fr 08:00-17:00; Sa 10:00-14:00"
-website: "https://blumenfisch-floristik.de/"
+street: Schönhauser Allee
+housenumber: "175"
+phone: +49 30 31 98 81 930
+opening_hours: Mo-Fr 08:00-17:00; Sa 10:00-14:00
+website: https://blumenfisch-floristik.de/

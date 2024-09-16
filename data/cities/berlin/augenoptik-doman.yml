@@ -4,8 +4,8 @@ latitude: 52.43705
 longitude: 13.26127
 postcode: "14169"
 city: Berlin
-street: "Clayallee"
-housenumber: 337
-phone: "+49 30 801 27 85"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-16:00"
-website: "https://www.augenoptik-doman.de/"
+street: Clayallee
+housenumber: "337"
+phone: +49 30 801 27 85
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-16:00
+website: https://www.augenoptik-doman.de/

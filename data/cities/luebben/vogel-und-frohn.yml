@@ -1,11 +1,11 @@
 id: 430418423
-type: way
+type: node
 latitude: 51.9055
 longitude: 13.85402
 postcode: "15907"
 city: Lübben
-street: "Mühlbergweg"
-housenumber: 5
+street: Mühlbergweg
+housenumber: "5"
 phone: "+493546225525"
 opening_hours: ""
 website: ""

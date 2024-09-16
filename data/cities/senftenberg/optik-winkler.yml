@@ -4,8 +4,8 @@ latitude: 51.51936
 longitude: 14.00418
 postcode: "01968"
 city: Senftenberg
-street: "Markt"
-housenumber: 6
+street: Markt
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 511468329
-type: way
+type: node
 latitude: 52.37708
 longitude: 13.10985
 postcode: "14482"
 city: Potsdam
-street: "Ulmenstraße"
-housenumber: 2
+street: Ulmenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-12:30; PH,Su closed"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-12:30; PH,Su closed
 website: ""

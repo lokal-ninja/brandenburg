@@ -4,8 +4,8 @@ latitude: 52.52318
 longitude: 13.47791
 postcode: "10369"
 city: Berlin
-street: "Alfred-Jung-Straße"
-housenumber: 12
-phone: "+49 30 959997610"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/berlin-stadt/1931604/rewe-markt-alfred-jung-strasse-12"
+street: Alfred-Jung-Straße
+housenumber: "12"
+phone: +49 30 959997610
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/berlin-stadt/1931604/rewe-markt-alfred-jung-strasse-12

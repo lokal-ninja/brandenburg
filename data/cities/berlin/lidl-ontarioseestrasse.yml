@@ -4,8 +4,8 @@ latitude: 52.4951
 longitude: 13.52265
 postcode: "10319"
 city: Berlin
-street: "Ontarioseestraße"
-housenumber: 17
+street: Ontarioseestraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.lidl.de/f/berlin-lichtenberg/friedrichsfelde-ontarioseestr-17.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.lidl.de/f/berlin-lichtenberg/friedrichsfelde-ontarioseestr-17.html

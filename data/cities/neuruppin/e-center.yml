@@ -1,11 +1,11 @@
 id: 145126178
-type: way
+type: node
 latitude: 52.94123
 longitude: 12.81039
 postcode: "16816"
 city: Neuruppin
-street: "Babimost-Ring"
-housenumber: 25
+street: Babimost-Ring
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 1235025410
-type: way
+type: node
 latitude: 52.35472
 longitude: 13.0434
 postcode: "14473"
 city: Potsdam
-street: "Michendorfer Chaussee"
-housenumber: 115
+street: Michendorfer Chaussee
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00; Sa 09:00-12:00; PH off
 website: ""

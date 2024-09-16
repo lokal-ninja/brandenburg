@@ -1,11 +1,11 @@
 id: 439456950
-type: way
+type: node
 latitude: 52.40586
 longitude: 13.26882
 postcode: "14167"
 city: Berlin
-street: "Teltower Damm"
-housenumber: 301
-phone: "+49 30 61781 0"
-opening_hours: "Mo-Fr 06:00-17:00"
-website: "https://www.daemmisol.de/standorte/berlin-zehlendorf/"
+street: Teltower Damm
+housenumber: "301"
+phone: +49 30 61781 0
+opening_hours: Mo-Fr 06:00-17:00
+website: https://www.daemmisol.de/standorte/berlin-zehlendorf/

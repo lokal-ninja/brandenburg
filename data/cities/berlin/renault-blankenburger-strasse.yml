@@ -1,11 +1,11 @@
 id: 257171321
-type: way
+type: node
 latitude: 52.58492
 longitude: 13.41817
 postcode: "13156"
 city: Berlin
-street: "Blankenburger Straße"
-housenumber: 
+street: Blankenburger Straße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-14:00
 website: ""

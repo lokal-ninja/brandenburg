@@ -1,11 +1,11 @@
 id: 25343073
-type: way
+type: node
 latitude: 52.01251
 longitude: 14.1825
 postcode: "15913"
 city: Schwielochsee
-street: "Am Bahnhof"
-housenumber: 33
-phone: "+4935478 604"
-opening_hours: "Mo-Su, PH off"
-website: "https://bhg-handelszentren.de/goyatz/"
+street: Am Bahnhof
+housenumber: "33"
+phone: +4935478 604
+opening_hours: Mo-Su, PH off
+website: https://bhg-handelszentren.de/goyatz/

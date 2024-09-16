@@ -4,8 +4,8 @@ latitude: 52.55374
 longitude: 13.33911
 postcode: "13351"
 city: Berlin
-street: "Otawistraße"
-housenumber: 23
+street: Otawistraße
+housenumber: "23"
 phone: ""
-opening_hours: "PH,Mo-Su 07:00-12:00,14:00-23:00"
+opening_hours: PH,Mo-Su 07:00-12:00,14:00-23:00
 website: ""

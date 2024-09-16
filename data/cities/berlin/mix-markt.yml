@@ -1,11 +1,11 @@
 id: 92458845
-type: way
+type: node
 latitude: 52.54969
 longitude: 13.56515
 postcode: "12679"
 city: Berlin
-street: "Jan-Petersen-Straße"
-housenumber: 18
-phone: "+49 30 97891881"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.mixmarkt.eu/de/germany/maerkte/14/"
+street: Jan-Petersen-Straße
+housenumber: "18"
+phone: +49 30 97891881
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.mixmarkt.eu/de/germany/maerkte/14/

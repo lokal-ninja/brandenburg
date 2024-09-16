@@ -4,8 +4,8 @@ latitude: 51.76313
 longitude: 14.34746
 postcode: "03042"
 city: Cottbus
-street: "Hermannstraße"
-housenumber: 16
-phone: "+49 355 3556779"
-opening_hours: "Mo-Sa 06:00-18:00; Su 07:00-18:00"
-website: "https://www.baeckerei-dreissig.de/"
+street: Hermannstraße
+housenumber: "16"
+phone: +49 355 3556779
+opening_hours: Mo-Sa 06:00-18:00; Su 07:00-18:00
+website: https://www.baeckerei-dreissig.de/

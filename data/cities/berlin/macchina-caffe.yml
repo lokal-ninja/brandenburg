@@ -4,8 +4,8 @@ latitude: 52.52574
 longitude: 13.40685
 postcode: "10119"
 city: Berlin
-street: "Alte Schönhauser Straße"
-housenumber: 26
+street: Alte Schönhauser Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo,Su off; Tu-We,Fr-Sa 11:00-18:00; Th 11:00-20:00"
+opening_hours: Mo,Su off; Tu-We,Fr-Sa 11:00-18:00; Th 11:00-20:00
 website: ""

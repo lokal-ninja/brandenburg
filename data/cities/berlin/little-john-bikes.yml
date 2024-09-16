@@ -4,8 +4,8 @@ latitude: 52.55082
 longitude: 13.38528
 postcode: "13357"
 city: Berlin
-street: "Grüntaler Straße"
-housenumber: 2
-phone: "+49 30 49308080"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.littlejohnbikes.de/shops/berlin-gesundbrunnen.html"
+street: Grüntaler Straße
+housenumber: "2"
+phone: +49 30 49308080
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.littlejohnbikes.de/shops/berlin-gesundbrunnen.html

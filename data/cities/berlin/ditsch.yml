@@ -4,8 +4,8 @@ latitude: 52.54981
 longitude: 13.38782
 postcode: "13357"
 city: Berlin
-street: "Badstraße"
-housenumber: 4
+street: Badstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://www.ditsch.de/startseite/nocache.html"
+website: https://www.ditsch.de/startseite/nocache.html

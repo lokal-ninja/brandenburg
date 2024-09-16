@@ -4,8 +4,8 @@ latitude: 52.56309
 longitude: 13.32433
 postcode: "13405"
 city: Berlin
-street: "Meteorstraße"
-housenumber: 8
-phone: "+49 30412108486"
+street: Meteorstraße
+housenumber: "8"
+phone: +49 30412108486
 opening_hours: ""
-website: "http://www.jacob-berlin.de"
+website: http://www.jacob-berlin.de

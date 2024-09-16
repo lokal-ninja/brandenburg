@@ -4,8 +4,8 @@ latitude: 52.4873
 longitude: 13.38786
 postcode: "10965"
 city: Berlin
-street: "Fidicinstraße"
-housenumber: 42
-phone: "+49 30 32533398"
-opening_hours: "By appointment"
-website: "https://fussgerecht-berlin.de/"
+street: Fidicinstraße
+housenumber: "42"
+phone: +49 30 32533398
+opening_hours: '"By appointment"'
+website: https://fussgerecht-berlin.de/

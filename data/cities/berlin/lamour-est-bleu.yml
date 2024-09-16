@@ -4,8 +4,8 @@ latitude: 52.54135
 longitude: 13.42254
 postcode: "10437"
 city: Berlin
-street: "Senefelderstraße"
-housenumber: 29
+street: Senefelderstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Tu,We 12:00-16:00; Th,Fr,Sa[1] 12:00-18:00"
+opening_hours: Tu,We 12:00-16:00; Th,Fr,Sa[1] 12:00-18:00
 website: ""

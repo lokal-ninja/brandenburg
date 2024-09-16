@@ -1,11 +1,11 @@
 id: 264729344
-type: way
+type: node
 latitude: 52.35335
 longitude: 14.09536
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Lindenstraße"
-housenumber: 61
-phone: "+49 3361 77900"
+street: Lindenstraße
+housenumber: "61"
+phone: +49 3361 77900
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.51113
 longitude: 13.45012
 postcode: "10243"
 city: Berlin
-street: "Kopernikusstraße"
-housenumber: 34
-phone: "+49 30 914 81 545"
-opening_hours: "Mo-Sa 11:00-18:00"
-website: "http://www.eppenpriem.de"
+street: Kopernikusstraße
+housenumber: "34"
+phone: +49 30 914 81 545
+opening_hours: Mo-Sa 11:00-18:00
+website: http://www.eppenpriem.de

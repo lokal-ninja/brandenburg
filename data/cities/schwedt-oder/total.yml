@@ -1,11 +1,11 @@
 id: 529388672
-type: way
+type: node
 latitude: 53.07141
 longitude: 14.25447
 postcode: "16303"
 city: Schwedt/Oder
-street: "Steinstraße"
-housenumber: 11
+street: Steinstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

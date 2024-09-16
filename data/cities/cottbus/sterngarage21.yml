@@ -1,11 +1,11 @@
 id: 142603240
-type: way
+type: node
 latitude: 51.71636
 longitude: 14.31451
 postcode: "03051"
 city: Cottbus
-street: "Studentenweg"
-housenumber: 6
+street: Studentenweg
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

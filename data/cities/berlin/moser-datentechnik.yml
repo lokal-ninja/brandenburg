@@ -4,8 +4,8 @@ latitude: 52.5548
 longitude: 13.3927
 postcode: "13359"
 city: Berlin
-street: "Bornholmer Straße"
-housenumber: 50
+street: Bornholmer Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-We,Fr 14:00-20:00; Th 14:00-17:45"
-website: "https://www.moser-datentechnik.de/"
+opening_hours: Mo-We,Fr 14:00-20:00; Th 14:00-17:45
+website: https://www.moser-datentechnik.de/

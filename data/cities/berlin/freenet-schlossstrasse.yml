@@ -4,8 +4,8 @@ latitude: 52.45791
 longitude: 13.32042
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
+street: Schloßstraße
 housenumber: 34-36
-phone: "+49 30 79747739"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.freenet-mobilfunk.de/shops/berlin-das-schloss"
+phone: +49 30 79747739
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.freenet-mobilfunk.de/shops/berlin-das-schloss

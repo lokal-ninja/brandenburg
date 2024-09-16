@@ -1,11 +1,11 @@
 id: 178288910
-type: way
+type: node
 latitude: 52.51562
 longitude: 13.58907
 postcode: "12621"
 city: Berlin
-street: "Hellersdorfer Straße"
-housenumber: 23
+street: Hellersdorfer Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-13:00; PH off"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-13:00; PH off
 website: ""

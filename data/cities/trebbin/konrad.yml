@@ -1,11 +1,11 @@
 id: 290712391
-type: way
+type: node
 latitude: 52.21537
 longitude: 13.21388
 postcode: "14959"
 city: Trebbin
-street: "Berliner Straße"
-housenumber: 23
-phone: "+49 33731 316 460"
-opening_hours: "Mo-Fr 06:30-17:30; Sa 07:00-12:00; Su 07:00-17:00"
-website: "https://konrad-baeckerei.de/"
+street: Berliner Straße
+housenumber: "23"
+phone: +49 33731 316 460
+opening_hours: Mo-Fr 06:30-17:30; Sa 07:00-12:00; Su 07:00-17:00
+website: https://konrad-baeckerei.de/

@@ -4,8 +4,10 @@ latitude: 51.91473
 longitude: 13.58173
 postcode: "15938"
 city: Drahnsdorf
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 5A
-phone: "+49 35453 227"
-opening_hours: "Mar-Sep: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Apr-May: Su 09:00-11:00; Oct-Dec: Mo-Fr 08:00-17:00; Sa 09:00-12:00; Jan-Feb: Mo-Fr 08:00-17:00; Sa off; PH off"
+phone: +49 35453 227
+opening_hours: 'Mar-Sep: Mo-Fr 08:00-18:00; Sa 09:00-12:00; Apr-May: Su 09:00-11:00;
+    Oct-Dec: Mo-Fr 08:00-17:00; Sa 09:00-12:00; Jan-Feb: Mo-Fr 08:00-17:00; Sa off;
+    PH off'
 website: ""

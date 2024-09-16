@@ -4,8 +4,8 @@ latitude: 52.47846
 longitude: 13.4238
 postcode: "12049"
 city: Berlin
-street: "Weisestraße"
-housenumber: 58
+street: Weisestraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo,Su off; Tu-Fr 13:00-19:00; Sa 12:00-19:00"
+opening_hours: Mo,Su off; Tu-Fr 13:00-19:00; Sa 12:00-19:00
 website: ""

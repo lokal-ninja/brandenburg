@@ -4,8 +4,8 @@ latitude: 52.34928
 longitude: 14.51881
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Josef-Gesing-Straße"
-housenumber: 6
-phone: "+49 335 413590"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://filiale.kaufland.de/service/filiale/frankfurt-oder-josef-gesing-str--3440.html"
+street: Josef-Gesing-Straße
+housenumber: "6"
+phone: +49 335 413590
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://filiale.kaufland.de/service/filiale/frankfurt-oder-josef-gesing-str--3440.html

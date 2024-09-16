@@ -1,11 +1,11 @@
 id: 109137984
-type: way
+type: node
 latitude: 52.54216
 longitude: 13.45664
 postcode: "10407"
 city: Berlin
-street: "Kniprodestraße"
-housenumber: 64
+street: Kniprodestraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.norma-online.de/de/filialfinder/suchergebnis?lng=13.4550252&lat=52.5412684&r=3000"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.norma-online.de/de/filialfinder/suchergebnis?lng=13.4550252&lat=52.5412684&r=3000

@@ -1,11 +1,11 @@
 id: 142539281
-type: way
+type: node
 latitude: 51.71749
 longitude: 14.30937
 postcode: "03051"
 city: Cottbus
-street: "Am Seegraben"
-housenumber: 14
+street: Am Seegraben
+housenumber: "14"
 phone: ""
 opening_hours: ""
-website: "https://www.lidzba.de/"
+website: https://www.lidzba.de/

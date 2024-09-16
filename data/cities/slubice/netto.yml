@@ -1,11 +1,11 @@
 id: 197526256
-type: way
+type: node
 latitude: 52.35426
 longitude: 14.56215
-postcode: "69-100"
+postcode: 69-100
 city: Słubice
-street: "Wojska Polskiego"
+street: Wojska Polskiego
 housenumber: 6B
 phone: ""
-opening_hours: "Mo-Sa 06:00-21:00; Su 08:00-20:00"
+opening_hours: Mo-Sa 06:00-21:00; Su 08:00-20:00
 website: ""

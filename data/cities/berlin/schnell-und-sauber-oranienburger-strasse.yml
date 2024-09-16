@@ -4,8 +4,8 @@ latitude: 52.5949
 longitude: 13.33283
 postcode: "13437"
 city: Berlin
-street: "Oranienburger Straße"
-housenumber: 196
+street: Oranienburger Straße
+housenumber: "196"
 phone: ""
-opening_hours: "Mo-Su 06:00-23:00"
-website: "https://www.schnell-u-sauber.de/berlin-wittenau"
+opening_hours: Mo-Su 06:00-23:00
+website: https://www.schnell-u-sauber.de/berlin-wittenau

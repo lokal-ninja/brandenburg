@@ -1,11 +1,11 @@
 id: 120123265
-type: way
+type: node
 latitude: 52.61445
 longitude: 13.46971
 postcode: "13125"
 city: Berlin
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

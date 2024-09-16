@@ -4,8 +4,8 @@ latitude: 52.548
 longitude: 13.3547
 postcode: "13353"
 city: Berlin
-street: "Ostender Straße"
-housenumber: 2
+street: Ostender Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 10:00-16:00; Sa 09:00-12:00"
+opening_hours: Tu-Fr 10:00-16:00; Sa 09:00-12:00
 website: ""

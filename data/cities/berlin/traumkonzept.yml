@@ -4,8 +4,8 @@ latitude: 52.48569
 longitude: 13.33648
 postcode: "10715"
 city: Berlin
-street: "Badensche Straße"
-housenumber: 49
+street: Badensche Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
-website: "https://www.traumkonzept.com/berlin/"
+website: https://www.traumkonzept.com/berlin/

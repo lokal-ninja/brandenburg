@@ -1,11 +1,11 @@
 id: 1268132507
-type: way
+type: node
 latitude: 51.37453
 longitude: 13.75963
 postcode: "01990"
 city: Ortrand
-street: "Großenhainer Straße"
-housenumber: 5
+street: Großenhainer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

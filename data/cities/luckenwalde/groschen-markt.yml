@@ -1,11 +1,11 @@
 id: 699286578
-type: way
+type: node
 latitude: 52.0965
 longitude: 13.15596
 postcode: "14943"
 city: Luckenwalde
-street: "Fontanestraße"
-housenumber: 9
+street: Fontanestraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.66575
 longitude: 13.37871
 postcode: "16567"
 city: Mühlenbecker Land
-street: "Hauptstraße"
-housenumber: 27
-phone: "+49 33056 20218"
-opening_hours: "Mo-Fr 10:00-12:30,13:00-18:00; PH,Sa,Su off"
-website: "https://reise-muehle.de/"
+street: Hauptstraße
+housenumber: "27"
+phone: +49 33056 20218
+opening_hours: Mo-Fr 10:00-12:30,13:00-18:00; PH,Sa,Su off
+website: https://reise-muehle.de/

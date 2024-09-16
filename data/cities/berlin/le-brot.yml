@@ -4,8 +4,8 @@ latitude: 52.48346
 longitude: 13.43524
 postcode: "12043"
 city: Berlin
-street: "Fuldastraße"
-housenumber: 54
+street: Fuldastraße
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00; Su,PH 08:00-15:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00; Su,PH 08:00-15:00
 website: ""

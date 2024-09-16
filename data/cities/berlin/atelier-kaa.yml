@@ -4,8 +4,8 @@ latitude: 52.56576
 longitude: 13.40184
 postcode: "13187"
 city: Berlin
-street: "Florastraße"
-housenumber: 80
+street: Florastraße
+housenumber: "80"
 phone: ""
-opening_hours: "Mo,We,Fr 10:00-17:00; Tu,Th 10:00-18:00"
-website: "https://www.kaa-berlin.de/"
+opening_hours: Mo,We,Fr 10:00-17:00; Tu,Th 10:00-18:00
+website: https://www.kaa-berlin.de/

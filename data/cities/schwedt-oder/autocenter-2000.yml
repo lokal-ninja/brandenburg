@@ -1,11 +1,11 @@
 id: 289933141
-type: way
+type: node
 latitude: 53.05956
 longitude: 14.25396
 postcode: "16303"
 city: Schwedt/Oder
-street: "Berkholzer Allee"
-housenumber: 23
+street: Berkholzer Allee
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.53211
 longitude: 13.39427
 postcode: "10115"
 city: Berlin
-street: "Invalidenstraße"
-housenumber: 148
+street: Invalidenstraße
+housenumber: "148"
 phone: "+493028598543"
-opening_hours: "Mo-Sa 13:00-19:00; Su,PH off"
-website: "https://www.lindes-kornblume.de/"
+opening_hours: Mo-Sa 13:00-19:00; Su,PH off
+website: https://www.lindes-kornblume.de/

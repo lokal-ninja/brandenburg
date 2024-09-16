@@ -1,11 +1,11 @@
 id: 290323455
-type: way
+type: node
 latitude: 52.49589
 longitude: 13.7607
 postcode: "15370"
 city: Fredersdorf-Vogelsdorf
-street: "Industriestraße"
-housenumber: 9
+street: Industriestraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

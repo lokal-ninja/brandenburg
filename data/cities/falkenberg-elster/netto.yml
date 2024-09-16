@@ -1,11 +1,11 @@
 id: 108191779
-type: way
+type: node
 latitude: 51.58795
 longitude: 13.23552
 postcode: "04895"
 city: Falkenberg/Elster
-street: "Lindenstraße"
-housenumber: 3
+street: Lindenstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.netto.de/

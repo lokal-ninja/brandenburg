@@ -4,8 +4,8 @@ latitude: 52.4852
 longitude: 13.31979
 postcode: "10713"
 city: Berlin
-street: "Wilhelmsaue"
+street: Wilhelmsaue
 housenumber: 108a
 phone: ""
-opening_hours: "Sa 11:00-16:00; und nach Vereinbarung"
+opening_hours: Sa 11:00-16:00; "und nach Vereinbarung"
 website: ""

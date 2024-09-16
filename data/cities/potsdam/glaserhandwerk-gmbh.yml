@@ -4,8 +4,8 @@ latitude: 52.39
 longitude: 13.08584
 postcode: "14482"
 city: Potsdam
-street: "Friedrich-Engels-Straße"
-housenumber: 38
-phone: "+49 331 707026"
-opening_hours: "Mo-Th 07:00-18:00;Fr 07:00-14:00"
-website: "https://www.glaserhandwerk-potsdam.de/"
+street: Friedrich-Engels-Straße
+housenumber: "38"
+phone: +49 331 707026
+opening_hours: Mo-Th 07:00-18:00;Fr 07:00-14:00
+website: https://www.glaserhandwerk-potsdam.de/

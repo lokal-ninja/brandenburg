@@ -1,11 +1,11 @@
 id: 88503696
-type: way
+type: node
 latitude: 51.43231
 longitude: 14.0083
 postcode: "01945"
 city: Hohenbocka
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

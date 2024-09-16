@@ -4,8 +4,8 @@ latitude: 52.47854
 longitude: 13.32005
 postcode: "10713"
 city: Berlin
-street: "Blissestraße"
-housenumber: 70
+street: Blissestraße
+housenumber: "70"
 phone: ""
 opening_hours: ""
-website: "https://www.naalimbeauty.com/"
+website: https://www.naalimbeauty.com/

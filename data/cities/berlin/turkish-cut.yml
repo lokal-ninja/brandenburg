@@ -4,8 +4,8 @@ latitude: 52.55015
 longitude: 13.45993
 postcode: "13088"
 city: Berlin
-street: "Berliner Allee"
-housenumber: 112
-phone: "+49163 83 07 909"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-17:30"
-website: "https://friseur-berlin.info/"
+street: Berliner Allee
+housenumber: "112"
+phone: +49163 83 07 909
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-17:30
+website: https://friseur-berlin.info/

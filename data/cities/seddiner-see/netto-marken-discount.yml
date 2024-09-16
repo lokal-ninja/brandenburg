@@ -1,11 +1,11 @@
 id: 372510387
-type: way
+type: node
 latitude: 52.28692
 longitude: 12.99422
 postcode: "14554"
 city: Seddiner See
-street: "Kunersdorfer Straße"
-housenumber: 19
+street: Kunersdorfer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

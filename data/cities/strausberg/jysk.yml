@@ -4,8 +4,8 @@ latitude: 52.55748
 longitude: 13.87084
 postcode: "15344"
 city: Strausberg
-street: "Herrenseeallee"
-housenumber: 15
-phone: "+49 3341 33480"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://www.daenischesbettenlager.de/"
+street: Herrenseeallee
+housenumber: "15"
+phone: +49 3341 33480
+opening_hours: Mo-Sa 09:30-19:00
+website: https://www.daenischesbettenlager.de/

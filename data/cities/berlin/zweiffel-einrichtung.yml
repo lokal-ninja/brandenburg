@@ -4,8 +4,8 @@ latitude: 52.50593
 longitude: 13.32419
 postcode: "10623"
 city: Berlin
-street: "Kantstraße"
-housenumber: 17
+street: Kantstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.zweiffel-einrichtung.de/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.zweiffel-einrichtung.de/

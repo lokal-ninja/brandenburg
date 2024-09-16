@@ -1,11 +1,11 @@
 id: 5229643
-type: way
+type: node
 latitude: 52.25519
 longitude: 13.93359
 postcode: "15859"
 city: Storkow (Mark)
-street: "Hinter den Höfen"
-housenumber: 10
+street: Hinter den Höfen
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

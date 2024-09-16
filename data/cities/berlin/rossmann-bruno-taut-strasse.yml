@@ -4,8 +4,8 @@ latitude: 52.41222
 longitude: 13.57256
 postcode: "12524"
 city: Berlin
-street: "Bruno-Taut-Straße"
-housenumber: 1
+street: Bruno-Taut-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00; PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00; PH off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.49162
 longitude: 13.32125
 postcode: "10717"
 city: Berlin
-street: "Pfalzburger Straße"
-housenumber: 28
+street: Pfalzburger Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://zuckerglatt.mytreatwell.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://zuckerglatt.mytreatwell.de/

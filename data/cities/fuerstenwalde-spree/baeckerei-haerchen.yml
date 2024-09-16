@@ -1,11 +1,11 @@
 id: 340116195
-type: way
+type: node
 latitude: 52.37862
 longitude: 14.05429
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Trebuser Straße"
-housenumber: 8
+street: Trebuser Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

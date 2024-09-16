@@ -1,11 +1,11 @@
 id: 439445863
-type: way
+type: node
 latitude: 52.61939
 longitude: 14.07351
 postcode: ""
 city: Oberbarnim
-street: "Ihlower Ring"
-housenumber: 19
+street: Ihlower Ring
+housenumber: "19"
 phone: ""
 opening_hours: ""
-website: "https://tp.grammat.de/antiquariat/ihlow/"
+website: https://tp.grammat.de/antiquariat/ihlow/

@@ -1,11 +1,11 @@
 id: 30126830
-type: way
+type: node
 latitude: 52.34209
 longitude: 14.50778
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Nuhnenstraße"
-housenumber: 19
+street: Nuhnenstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-20:00; Sa 08:00-20:00
 website: ""

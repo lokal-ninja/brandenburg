@@ -1,11 +1,11 @@
 id: 141548597
-type: way
+type: node
 latitude: 51.72564
 longitude: 14.32116
 postcode: "03048"
 city: Cottbus
-street: "Turower Straße"
-housenumber: 62
+street: Turower Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

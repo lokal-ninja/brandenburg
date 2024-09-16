@@ -1,11 +1,11 @@
 id: 486656312
-type: way
+type: node
 latitude: 52.45615
 longitude: 13.58756
 postcode: "12555"
 city: Berlin
-street: "Seelenbinderstraße"
-housenumber: 89
-phone: "+49 30 64326441"
+street: Seelenbinderstraße
+housenumber: "89"
+phone: +49 30 64326441
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 87550572
-type: way
+type: node
 latitude: 52.4095
 longitude: 12.5614
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Hauptstraße"
-housenumber: 16
+street: Hauptstraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-19:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-19:00
 website: ""

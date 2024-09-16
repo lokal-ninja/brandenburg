@@ -1,11 +1,11 @@
 id: 374423531
-type: way
+type: node
 latitude: 52.48213
 longitude: 12.85001
 postcode: "14669"
 city: Ketzin/Havel
-street: "Am Mühlenweg"
+street: Am Mühlenweg
 housenumber: 3e
-phone: "+49 33233731744"
-opening_hours: "Mo-Fr 10:00-18:00"
+phone: +49 33233731744
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

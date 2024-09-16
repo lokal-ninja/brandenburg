@@ -4,8 +4,8 @@ latitude: 52.49968
 longitude: 13.3163
 postcode: "10707"
 city: Berlin
-street: "Olivaer Platz"
-housenumber: 11
+street: Olivaer Platz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 141873648
-type: way
+type: node
 latitude: 52.43452
 longitude: 13.50147
 postcode: "12487"
 city: Berlin
-street: "Eisenhutweg"
-housenumber: 2
+street: Eisenhutweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.globus-baumarkt.de/marketsites/start/?markt=53"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.globus-baumarkt.de/marketsites/start/?markt=53

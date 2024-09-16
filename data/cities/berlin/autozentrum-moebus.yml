@@ -1,11 +1,11 @@
 id: 45727372
-type: way
+type: node
 latitude: 52.5593
 longitude: 13.49228
 postcode: "13051"
 city: Berlin
-street: "Hansastraße"
-housenumber: 211
+street: Hansastraße
+housenumber: "211"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 180559460
-type: way
+type: node
 latitude: 52.50887
 longitude: 14.13851
 postcode: "15374"
 city: Müncheberg
-street: "Münchehofer Weg"
-housenumber: 2
+street: Münchehofer Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

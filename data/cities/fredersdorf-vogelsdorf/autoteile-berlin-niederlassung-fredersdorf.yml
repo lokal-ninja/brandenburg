@@ -1,11 +1,11 @@
 id: 111976643
-type: way
+type: node
 latitude: 52.549
 longitude: 13.74509
 postcode: "15370"
 city: Fredersdorf-Vogelsdorf
-street: "Zeppelinstraße"
-housenumber: 35
+street: Zeppelinstraße
+housenumber: "35"
 phone: ""
 opening_hours: ""
-website: "https://www.autoteile-berlin.de"
+website: https://www.autoteile-berlin.de

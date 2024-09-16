@@ -1,11 +1,13 @@
 id: 157188086
-type: way
+type: node
 latitude: 52.51274
 longitude: 13.58811
 postcode: "12621"
 city: Berlin
-street: "Heinrich-Grüber-Straße"
-housenumber: 3
-phone: "+49 30 91148770"
-opening_hours: "Tu,We 09:30-16:00, Th 09:30-21:00, Fr 09:30-20:00, Sa 09:30-18:00, week 02-52/2 Su 09:30-16:00 || Nach Vereinbarung.; Mo off; 2024 Jul-Aug Mo,Tu off"
-website: "https://www.salzlounge.de/"
+street: Heinrich-Grüber-Straße
+housenumber: "3"
+phone: +49 30 91148770
+opening_hours: Tu,We 09:30-16:00, Th 09:30-21:00, Fr 09:30-20:00, Sa 09:30-18:00,
+    week 02-52/2 Su 09:30-16:00 || "Nach Vereinbarung."; Mo off; 2024 Jul-Aug Mo,Tu
+    off
+website: https://www.salzlounge.de/

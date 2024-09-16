@@ -4,8 +4,8 @@ latitude: 52.44412
 longitude: 13.38634
 postcode: "12109"
 city: Berlin
-street: "Mariendorfer Damm"
-housenumber: 95
+street: Mariendorfer Damm
+housenumber: "95"
 phone: ""
 opening_hours: ""
-website: "https://www.kosmetik-mariendorf.de/"
+website: https://www.kosmetik-mariendorf.de/

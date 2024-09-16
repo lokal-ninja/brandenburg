@@ -1,11 +1,11 @@
 id: 35555816
-type: way
+type: node
 latitude: 52.64886
 longitude: 13.51568
 postcode: "16341"
 city: Panketal
-street: "Heinestraße"
+street: Heinestraße
 housenumber: 52;53
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

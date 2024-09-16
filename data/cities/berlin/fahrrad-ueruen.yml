@@ -4,8 +4,8 @@ latitude: 52.48
 longitude: 13.35176
 postcode: "10827"
 city: Berlin
-street: "Ebersstraße"
-housenumber: 27
+street: Ebersstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

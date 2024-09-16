@@ -1,11 +1,11 @@
 id: 80529405
-type: way
+type: node
 latitude: 51.93041
 longitude: 13.89303
 postcode: "15907"
 city: Lübben (Spreewald)
-street: "Cottbuser Straße"
-housenumber: 50
+street: Cottbuser Straße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

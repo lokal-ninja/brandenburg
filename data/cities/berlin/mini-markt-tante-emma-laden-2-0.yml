@@ -4,8 +4,8 @@ latitude: 52.5667
 longitude: 13.41536
 postcode: "13189"
 city: Berlin
-street: "Stubnitzstraße"
-housenumber: 32
+street: Stubnitzstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-14:00
 website: ""

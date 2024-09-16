@@ -4,8 +4,8 @@ latitude: 52.52558
 longitude: 13.33973
 postcode: "10555"
 city: Berlin
-street: "Alt-Moabit"
-housenumber: 84
+street: Alt-Moabit
+housenumber: "84"
 phone: "+493039884984"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 09:00-16:00"
-website: "https://www.kama-hair-club.de"
+opening_hours: Tu-Fr 10:00-19:00; Sa 09:00-16:00
+website: https://www.kama-hair-club.de

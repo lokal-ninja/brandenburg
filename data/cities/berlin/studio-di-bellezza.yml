@@ -4,8 +4,8 @@ latitude: 52.54354
 longitude: 13.37729
 postcode: "13357"
 city: Berlin
-street: "Hochstraße"
-housenumber: 42
+street: Hochstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Termine nach telefonischer Vereinbarung; Mo off"
+opening_hours: '"Termine nach telefonischer Vereinbarung"; Mo off'
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.52074
 longitude: 13.32802
 postcode: "10587"
 city: Berlin
-street: "Franklinstraße"
+street: Franklinstraße
 housenumber: 12a
-phone: "+49 30 39743699"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://tennis-point-berlin.de"
+phone: +49 30 39743699
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://tennis-point-berlin.de

@@ -1,11 +1,11 @@
 id: 137158240
-type: way
+type: node
 latitude: 52.32994
 longitude: 13.05596
 postcode: "14552"
 city: Michendorf
-street: "Peter-Huchel-Chaussee"
-housenumber: 65
+street: Peter-Huchel-Chaussee
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

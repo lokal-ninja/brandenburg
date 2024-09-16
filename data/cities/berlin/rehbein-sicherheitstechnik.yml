@@ -4,8 +4,8 @@ latitude: 52.46901
 longitude: 13.3321
 postcode: "12161"
 city: Berlin
-street: "Schmiljanstraße"
-housenumber: 16
-phone: "+49 30 85965500"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.rehbein.berlin/"
+street: Schmiljanstraße
+housenumber: "16"
+phone: +49 30 85965500
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.rehbein.berlin/

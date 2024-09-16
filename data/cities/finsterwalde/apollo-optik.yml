@@ -1,11 +1,11 @@
 id: 1239667330
-type: way
+type: node
 latitude: 51.62954
 longitude: 13.70881
 postcode: "03238"
 city: Finsterwalde
-street: "Markt"
-housenumber: 30
-phone: "+49 3531 7162919"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-12:00"
+street: Markt
+housenumber: "30"
+phone: +49 3531 7162919
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-12:00
 website: ""

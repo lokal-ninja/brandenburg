@@ -1,11 +1,11 @@
 id: 40916789
-type: way
+type: node
 latitude: 52.60283
 longitude: 13.33398
 postcode: "13435"
 city: Berlin
-street: "Eichhorster Weg"
-housenumber: 91
+street: Eichhorster Weg
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00
 website: ""

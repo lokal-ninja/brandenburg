@@ -4,8 +4,8 @@ latitude: 52.47338
 longitude: 13.32144
 postcode: "12161"
 city: Berlin
-street: "Südwestkorso"
-housenumber: 15
-phone: "+49 30 8221625"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://standorte.getraenke-hoffmann.de/berlin/berlin/s%C3%BCdwestkorso-15"
+street: Südwestkorso
+housenumber: "15"
+phone: +49 30 8221625
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://standorte.getraenke-hoffmann.de/berlin/berlin/s%C3%BCdwestkorso-15

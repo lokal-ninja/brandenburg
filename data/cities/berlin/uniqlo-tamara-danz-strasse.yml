@@ -1,11 +1,11 @@
 id: 739592389
-type: way
+type: node
 latitude: 52.50633
 longitude: 13.44779
 postcode: "10243"
 city: Berlin
-street: "Tamara-Danz-Straße"
-housenumber: 11
+street: Tamara-Danz-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

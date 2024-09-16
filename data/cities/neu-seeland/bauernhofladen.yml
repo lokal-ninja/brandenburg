@@ -4,8 +4,8 @@ latitude: 51.60457
 longitude: 14.12875
 postcode: "03103"
 city: Neu-Seeland
-street: "Senftenberger Straße"
-housenumber: 1
-phone: "+49 35751 20775"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Senftenberger Straße
+housenumber: "1"
+phone: +49 35751 20775
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

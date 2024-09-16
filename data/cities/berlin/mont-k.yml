@@ -4,8 +4,8 @@ latitude: 52.53734
 longitude: 13.40867
 postcode: "10435"
 city: Berlin
-street: "Kastanienallee"
-housenumber: 83
+street: Kastanienallee
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-20:00"
-website: "http://mont-k.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-20:00
+website: http://mont-k.de/

@@ -4,8 +4,8 @@ latitude: 52.54335
 longitude: 13.37823
 postcode: "13357"
 city: Berlin
-street: "Hochstraße"
-housenumber: 43
-phone: "+49 30 41 95 39 70"
+street: Hochstraße
+housenumber: "43"
+phone: +49 30 41 95 39 70
 opening_hours: ""
-website: "https://www.flyingroasters.de"
+website: https://www.flyingroasters.de

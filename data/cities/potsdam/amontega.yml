@@ -1,11 +1,11 @@
 id: 511468316
-type: way
+type: node
 latitude: 52.38433
 longitude: 13.10767
 postcode: "14482"
 city: Potsdam
-street: "Weidendamm"
-housenumber: 15
+street: Weidendamm
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

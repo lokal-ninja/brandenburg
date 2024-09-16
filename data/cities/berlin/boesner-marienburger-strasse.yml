@@ -1,11 +1,11 @@
 id: 148007881
-type: way
+type: node
 latitude: 52.53289
 longitude: 13.42597
 postcode: "10405"
 city: Berlin
-street: "Marienburger Straße"
-housenumber: 16
+street: Marienburger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00
 website: ""

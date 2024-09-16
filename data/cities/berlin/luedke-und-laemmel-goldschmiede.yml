@@ -4,8 +4,8 @@ latitude: 52.46861
 longitude: 13.34229
 postcode: "12157"
 city: Berlin
-street: "Cranachstraße"
-housenumber: 61
+street: Cranachstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Fr 10:00-13:00,14:00-18:00; Sa 12:00-18:00"
-website: "https://www.luedtkeundlaemmel.de/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-18:00; Sa 12:00-18:00
+website: https://www.luedtkeundlaemmel.de/

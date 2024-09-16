@@ -1,11 +1,11 @@
 id: 110526190
-type: way
+type: node
 latitude: 51.6032
 longitude: 14.61092
 postcode: "03159"
 city: Döbern
-street: "Gewerbegebiet Süd"
-housenumber: 7
+street: Gewerbegebiet Süd
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

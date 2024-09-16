@@ -1,11 +1,11 @@
 id: 288350210
-type: way
+type: node
 latitude: 53.0741
 longitude: 14.25006
 postcode: "16303"
 city: Schwedt/Oder
-street: "Werner-Seelenbinder-Straße"
-housenumber: 2
+street: Werner-Seelenbinder-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

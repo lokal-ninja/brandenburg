@@ -1,11 +1,11 @@
 id: 468078506
-type: way
+type: node
 latitude: 52.58306
 longitude: 13.41323
 postcode: "13156"
 city: Berlin
-street: "Blankenburger Straße"
-housenumber: 61
+street: Blankenburger Straße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

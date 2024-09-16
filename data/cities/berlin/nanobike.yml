@@ -4,8 +4,8 @@ latitude: 52.44485
 longitude: 13.56894
 postcode: "12555"
 city: Berlin
-street: "Oberspreestraße"
+street: Oberspreestraße
 housenumber: 183-185
-phone: "+49 30 67821888"
-opening_hours: "Mo-Fr 10:00-13:00, 13:45-19:00; Sa 10:00-16:00; PH off"
-website: "https://nanobike.de/"
+phone: +49 30 67821888
+opening_hours: Mo-Fr 10:00-13:00, 13:45-19:00; Sa 10:00-16:00; PH off
+website: https://nanobike.de/

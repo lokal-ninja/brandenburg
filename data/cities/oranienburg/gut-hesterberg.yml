@@ -4,8 +4,8 @@ latitude: 52.74724
 longitude: 13.18993
 postcode: "16515"
 city: Oranienburg
-street: "Straße am Globus"
-housenumber: 1
-phone: "+49 3301 576542"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.guthesterberg.de/"
+street: Straße am Globus
+housenumber: "1"
+phone: +49 3301 576542
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.guthesterberg.de/

@@ -1,11 +1,11 @@
 id: 98026515
-type: way
+type: node
 latitude: 52.26889
 longitude: 14.068
 postcode: "15526"
 city: Bad Saarow
-street: "Diensdorfer Straße"
-housenumber: 16
-phone: "+49 33631 3350"
+street: Diensdorfer Straße
+housenumber: "16"
+phone: +49 33631 3350
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.49111
 longitude: 13.34876
 postcode: "10781"
 city: Berlin
-street: "Freisinger Straße"
-housenumber: 10
+street: Freisinger Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

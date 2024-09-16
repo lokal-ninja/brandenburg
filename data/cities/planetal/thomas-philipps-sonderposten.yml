@@ -1,11 +1,11 @@
 id: 760450353
-type: way
+type: node
 latitude: 52.10276
 longitude: 12.67741
 postcode: "14806"
 city: Planetal
-street: "Waldstraße"
+street: Waldstraße
 housenumber: 1a
 phone: ""
 opening_hours: ""
-website: "https://www.thomas-philipps.de/"
+website: https://www.thomas-philipps.de/

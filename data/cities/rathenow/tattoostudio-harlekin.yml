@@ -4,8 +4,8 @@ latitude: 52.60803
 longitude: 12.34129
 postcode: "14712"
 city: Rathenow
-street: "Mittelstraße"
-housenumber: 26
+street: Mittelstraße
+housenumber: "26"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

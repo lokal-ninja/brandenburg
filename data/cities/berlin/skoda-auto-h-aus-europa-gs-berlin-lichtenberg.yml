@@ -1,11 +1,11 @@
 id: 332909268
-type: way
+type: node
 latitude: 52.52896
 longitude: 13.4988
 postcode: "10365"
 city: Berlin
-street: "Siegfriedstraße"
-housenumber: 150
+street: Siegfriedstraße
+housenumber: "150"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:00-14:00
 website: ""

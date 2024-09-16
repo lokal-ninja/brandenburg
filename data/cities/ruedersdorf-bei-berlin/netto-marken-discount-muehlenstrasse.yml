@@ -1,11 +1,11 @@
 id: 264959034
-type: way
+type: node
 latitude: 52.47398
 longitude: 13.77009
 postcode: "15562"
 city: Rüdersdorf bei Berlin
-street: "Mühlenstraße"
-housenumber: 7
-phone: "+49 800 2000015"
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de/Filial-Angebote.chtm"
+street: Mühlenstraße
+housenumber: "7"
+phone: +49 800 2000015
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de/Filial-Angebote.chtm

@@ -4,8 +4,8 @@ latitude: 52.45694
 longitude: 13.43716
 postcode: "12347"
 city: Berlin
-street: "Britzer Damm"
-housenumber: 59
+street: Britzer Damm
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-19:00
 website: ""

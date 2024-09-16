@@ -4,8 +4,8 @@ latitude: 52.44267
 longitude: 13.57695
 postcode: "12557"
 city: Berlin
-street: "Kietz"
-housenumber: 14
-phone: "+49 30 65018889"
-opening_hours: "Nach Vereinbarung"
-website: "https://www.keramik-dekor-koepenick.de/"
+street: Kietz
+housenumber: "14"
+phone: +49 30 65018889
+opening_hours: '"Nach Vereinbarung"'
+website: https://www.keramik-dekor-koepenick.de/

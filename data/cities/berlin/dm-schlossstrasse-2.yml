@@ -4,8 +4,8 @@ latitude: 52.4634
 longitude: 13.32396
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 15
-phone: "+49 30 72011889"
-opening_hours: "Mo-Sa 09:30-20:00; PH,Su off"
-website: "https://www.dm.de/store/de-1944/berlin/schlossstrasse-15"
+street: Schloßstraße
+housenumber: "15"
+phone: +49 30 72011889
+opening_hours: Mo-Sa 09:30-20:00; PH,Su off
+website: https://www.dm.de/store/de-1944/berlin/schlossstrasse-15

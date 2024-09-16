@@ -1,11 +1,11 @@
 id: 211685636
-type: way
+type: node
 latitude: 52.14708
 longitude: 12.61105
 postcode: "14806"
 city: Bad Belzig
-street: "Im Gewerbepark Seedoche"
-housenumber: 10
+street: Im Gewerbepark Seedoche
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

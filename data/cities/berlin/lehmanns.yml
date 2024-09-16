@@ -4,8 +4,8 @@ latitude: 52.52604
 longitude: 13.37875
 postcode: "10117"
 city: Berlin
-street: "Luisenstraße"
-housenumber: 9
+street: Luisenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "https://www.lehmanns.de/buchhandlung/130-berlin"
+opening_hours: Mo-Fr 11:00-18:00
+website: https://www.lehmanns.de/buchhandlung/130-berlin

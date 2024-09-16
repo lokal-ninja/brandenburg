@@ -1,11 +1,11 @@
 id: 179506113
-type: way
+type: node
 latitude: 51.95349
 longitude: 14.7232
-postcode: "66-620"
+postcode: 66-620
 city: Gubin
-street: "Franklina Delano Roosevelta"
-housenumber: 11
+street: Franklina Delano Roosevelta
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:30; Su 08:30-20:00"
-website: "https://www.marketdino.pl/"
+opening_hours: Mo-Sa 06:00-22:30; Su 08:30-20:00
+website: https://www.marketdino.pl/

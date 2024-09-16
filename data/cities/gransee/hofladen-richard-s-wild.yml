@@ -4,8 +4,8 @@ latitude: 53.07828
 longitude: 13.18274
 postcode: "16775"
 city: Gransee
-street: "Fürstenberger Straße"
-housenumber: 2
+street: Fürstenberger Straße
+housenumber: "2"
 phone: ""
-opening_hours: "May-Sep: Mo-Su 09:00-17:00; Oct-Apr: We-Su 09:00-17:00"
-website: "http://richards-wild.de"
+opening_hours: 'May-Sep: Mo-Su 09:00-17:00; Oct-Apr: We-Su 09:00-17:00'
+website: http://richards-wild.de

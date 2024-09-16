@@ -1,11 +1,11 @@
 id: 266566558
-type: way
+type: node
 latitude: 52.95798
 longitude: 11.94622
 postcode: "19336"
 city: Bad Wilsnack
-street: "Bahnstraße"
-housenumber: 25
-phone: "038791-79321"
+street: Bahnstraße
+housenumber: "25"
+phone: 038791-79321
 opening_hours: ""
-website: "http://www.auto-frahm.de/html/bad_wilsnack.html"
+website: http://www.auto-frahm.de/html/bad_wilsnack.html

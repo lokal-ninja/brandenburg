@@ -4,8 +4,8 @@ latitude: 52.49319
 longitude: 13.36686
 postcode: "10783"
 city: Berlin
-street: "Goebenstraße"
-housenumber: 15
+street: Goebenstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 05:30-24:00, Sa 06:30-01:00, Su,PH 07:30-01:00"
+opening_hours: Mo-Fr 05:30-24:00, Sa 06:30-01:00, Su,PH 07:30-01:00
 website: ""

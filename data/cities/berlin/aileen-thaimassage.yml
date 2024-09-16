@@ -4,8 +4,8 @@ latitude: 52.47901
 longitude: 13.31912
 postcode: "10713"
 city: Berlin
-street: "Detmolder Straße"
-housenumber: 21
+street: Detmolder Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; Su 11:00-19:00"
-website: "http://www.aileen-tm.de/"
+opening_hours: Mo-Sa 09:30-20:00; Su 11:00-19:00
+website: http://www.aileen-tm.de/

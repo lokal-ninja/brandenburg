@@ -4,8 +4,8 @@ latitude: 52.46977
 longitude: 13.3331
 postcode: "12159"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 14
+street: Rheinstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 06:00-23:30"
-website: "https://www.rewe.de/angebote/berlin-friedenau/4040239/rewe-markt-rheinstr-14/"
+opening_hours: Mo-Sa 06:00-23:30
+website: https://www.rewe.de/angebote/berlin-friedenau/4040239/rewe-markt-rheinstr-14/

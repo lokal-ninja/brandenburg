@@ -1,11 +1,11 @@
 id: 290401560
-type: way
+type: node
 latitude: 52.39098
 longitude: 12.59581
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Belziger Chaussee"
-housenumber: 6
+street: Belziger Chaussee
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 52.56828
 longitude: 13.39997
 postcode: "13187"
 city: Berlin
-street: "Wollankstraße"
-housenumber: 130
+street: Wollankstraße
+housenumber: "130"
 phone: ""
-opening_hours: "Tu,We,Fr 15:00-18:00; Mo,Th,Sa,Su,PH off || closed während der Berliner Schulferien und an Brückentagen geschlossen"
+opening_hours: Tu,We,Fr 15:00-18:00; Mo,Th,Sa,Su,PH off || closed "während der Berliner
+    Schulferien und an Brückentagen geschlossen"
 website: ""

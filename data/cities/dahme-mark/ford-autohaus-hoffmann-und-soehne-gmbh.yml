@@ -1,11 +1,11 @@
 id: 313295655
-type: way
+type: node
 latitude: 51.86555
 longitude: 13.43883
 postcode: "15936"
 city: Dahme/Mark
-street: "Luckauer Chaussee"
-housenumber: 34
+street: Luckauer Chaussee
+housenumber: "34"
 phone: ""
 opening_hours: ""
-website: "https://www.ford-hoffmann-dahme.de"
+website: https://www.ford-hoffmann-dahme.de

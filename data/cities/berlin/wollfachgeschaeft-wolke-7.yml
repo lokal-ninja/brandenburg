@@ -4,8 +4,8 @@ latitude: 52.52678
 longitude: 13.54
 postcode: "12681"
 city: Berlin
-street: "Helene-Weigel-Platz"
-housenumber: 13
+street: Helene-Weigel-Platz
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00,16:00-19:00; Sa 10:00-14:00"
+opening_hours: Mo-Fr 10:00-14:00,16:00-19:00; Sa 10:00-14:00
 website: ""

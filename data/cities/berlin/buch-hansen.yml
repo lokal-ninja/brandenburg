@@ -4,8 +4,8 @@ latitude: 52.43922
 longitude: 13.21427
 postcode: "14129"
 city: Berlin
-street: "Altvaterstraße"
-housenumber: 2
-phone: "+49 30 80401540"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://buch-hansen.de/"
+street: Altvaterstraße
+housenumber: "2"
+phone: +49 30 80401540
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://buch-hansen.de/

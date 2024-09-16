@@ -1,11 +1,11 @@
 id: 268578644
-type: way
+type: node
 latitude: 52.34573
 longitude: 14.08209
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Langewahler Straße"
+street: Langewahler Straße
 housenumber: 58C
-phone: "+49 3361 371420"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 09:00-12:00"
+phone: +49 3361 371420
+opening_hours: Mo-Fr 07:00-18:00, Sa 09:00-12:00
 website: ""

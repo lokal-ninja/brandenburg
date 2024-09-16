@@ -4,8 +4,8 @@ latitude: 52.50657
 longitude: 13.50327
 postcode: "10315"
 city: Berlin
-street: "Zachertstraße"
-housenumber: 14
+street: Zachertstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 05:30-17:00; PH,Su 06:30-16:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 05:30-17:00; PH,Su 06:30-16:00
 website: ""

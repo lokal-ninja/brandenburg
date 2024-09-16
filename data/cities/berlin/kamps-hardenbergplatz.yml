@@ -1,11 +1,11 @@
 id: 850548278
-type: way
+type: node
 latitude: 52.50657
 longitude: 13.33229
 postcode: "10623"
 city: Berlin
-street: "Hardenbergplatz"
+street: Hardenbergplatz
 housenumber: 9-11
 phone: ""
-opening_hours: "06:00-19:00"
+opening_hours: 06:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 243391051
-type: way
+type: node
 latitude: 53.01593
 longitude: 13.99403
 postcode: "16278"
 city: Angermünde
-street: "Grundmühlenweg"
-housenumber: 5
+street: Grundmühlenweg
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

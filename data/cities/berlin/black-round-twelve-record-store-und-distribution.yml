@@ -4,8 +4,8 @@ latitude: 52.50186
 longitude: 13.47706
 postcode: "10317"
 city: Berlin
-street: "Nöldnerstraße"
-housenumber: 6
+street: Nöldnerstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 14:00-20:00; Sa 14:00-18:00"
-website: "https://blackroundtwelve.de"
+opening_hours: Tu-Fr 14:00-20:00; Sa 14:00-18:00
+website: https://blackroundtwelve.de

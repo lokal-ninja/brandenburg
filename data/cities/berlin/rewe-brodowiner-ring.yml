@@ -1,11 +1,11 @@
 id: 28654835
-type: way
+type: node
 latitude: 52.55035
 longitude: 13.57883
 postcode: "12679"
 city: Berlin
-street: "Brodowiner Ring"
-housenumber: 8
+street: Brodowiner Ring
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

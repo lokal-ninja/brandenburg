@@ -1,11 +1,12 @@
 id: 660605726
-type: way
+type: node
 latitude: 52.47976
 longitude: 12.85349
 postcode: "14669"
 city: Ketzin/Havel
-street: "Am Mühlenweg"
-housenumber: 1
+street: Am Mühlenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mar-Nov: Mo-Fr 08:00-13:00,13:30-18:00, Sa 08:00-12:00; Dec-Feb: Mo-Fr 08:00-13:00,13:30-17:00, Sa 09:00-12:00; PH off"
-website: "https://www.ketzinerbaustoffhandel.de/"
+opening_hours: 'Mar-Nov: Mo-Fr 08:00-13:00,13:30-18:00, Sa 08:00-12:00; Dec-Feb: Mo-Fr
+    08:00-13:00,13:30-17:00, Sa 09:00-12:00; PH off'
+website: https://www.ketzinerbaustoffhandel.de/

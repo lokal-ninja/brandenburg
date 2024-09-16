@@ -4,8 +4,8 @@ latitude: 52.52751
 longitude: 13.39351
 postcode: "10115"
 city: Berlin
-street: "Linienstraße"
-housenumber: 154
+street: Linienstraße
+housenumber: "154"
 phone: ""
-opening_hours: "Tu-Fr 14:00-19:00; Sa 12:00-16:00"
-website: "https://www.knitknit.de/"
+opening_hours: Tu-Fr 14:00-19:00; Sa 12:00-16:00
+website: https://www.knitknit.de/

@@ -1,11 +1,11 @@
 id: 31795316
-type: way
+type: node
 latitude: 52.58476
 longitude: 13.30944
 postcode: "13509"
 city: Berlin
-street: "Miraustraße"
-housenumber: 48
+street: Miraustraße
+housenumber: "48"
 phone: ""
 opening_hours: ""
-website: "https://www.smythstoys.com"
+website: https://www.smythstoys.com

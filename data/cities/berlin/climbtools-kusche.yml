@@ -4,8 +4,8 @@ latitude: 52.53697
 longitude: 13.26547
 postcode: "13629"
 city: Berlin
-street: "Nonnendammallee"
-housenumber: 99
+street: Nonnendammallee
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

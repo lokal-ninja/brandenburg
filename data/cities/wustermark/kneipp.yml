@@ -1,11 +1,11 @@
 id: 198679005
-type: way
+type: node
 latitude: 52.53851
 longitude: 12.98143
 postcode: "14641"
 city: Wustermark
-street: "Alter Spandauer Weg"
-housenumber: 1
-phone: "+49 33234 229817"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mcarthurglen.com/de/outlets/de/designer-outlet-berlin/shops/kneipp/"
+street: Alter Spandauer Weg
+housenumber: "1"
+phone: +49 33234 229817
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mcarthurglen.com/de/outlets/de/designer-outlet-berlin/shops/kneipp/

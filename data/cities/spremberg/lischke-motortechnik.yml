@@ -1,11 +1,11 @@
 id: 163245486
-type: way
+type: node
 latitude: 51.5538
 longitude: 14.3491
 postcode: "03130"
 city: Spremberg
-street: "Hoyerswerdaer Straße"
+street: Hoyerswerdaer Straße
 housenumber: 33a
 phone: ""
 opening_hours: ""
-website: "https://lischke-motortechnik.de/"
+website: https://lischke-motortechnik.de/

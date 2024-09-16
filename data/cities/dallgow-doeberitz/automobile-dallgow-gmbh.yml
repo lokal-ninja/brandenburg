@@ -4,8 +4,8 @@ latitude: 52.53423
 longitude: 13.08118
 postcode: "14624"
 city: Dallgow-Döberitz
-street: "Schulgasse"
-housenumber: 1
-phone: "+49 3322 24640"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://www.automobile-dallgow.de/"
+street: Schulgasse
+housenumber: "1"
+phone: +49 3322 24640
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://www.automobile-dallgow.de/

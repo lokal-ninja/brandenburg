@@ -1,11 +1,11 @@
 id: 932153078
-type: way
+type: node
 latitude: 52.50192
 longitude: 13.40986
 postcode: "10969"
 city: Berlin
-street: "Prinzenstraße"
-housenumber: 29
+street: Prinzenstraße
+housenumber: "29"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.51774
 longitude: 13.43255
 postcode: "10243"
 city: Berlin
-street: "Karl-Marx-Allee"
-housenumber: 68
-phone: "+49 30-2495523"
-opening_hours: "Mo-We 09:00-18:00; Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-13:00"
+street: Karl-Marx-Allee
+housenumber: "68"
+phone: +49 30-2495523
+opening_hours: Mo-We 09:00-18:00; Th 09:00-18:30; Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

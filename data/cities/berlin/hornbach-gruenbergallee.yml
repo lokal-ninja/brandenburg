@@ -1,11 +1,11 @@
 id: 154734861
-type: way
+type: node
 latitude: 52.39828
 longitude: 13.54536
 postcode: "12526"
 city: Berlin
-street: "Grünbergallee"
-housenumber: 279
-phone: "+49 30 634176 0"
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
+street: Grünbergallee
+housenumber: "279"
+phone: +49 30 634176 0
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
 website: ""

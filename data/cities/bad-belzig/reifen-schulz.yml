@@ -1,11 +1,11 @@
 id: 342899583
-type: way
+type: node
 latitude: 52.14962
 longitude: 12.60036
 postcode: "14806"
 city: Bad Belzig
-street: "Brandenburger Straße"
-housenumber: 56
+street: Brandenburger Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 09:00-12:00
 website: ""

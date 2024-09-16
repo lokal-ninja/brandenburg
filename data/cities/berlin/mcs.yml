@@ -1,11 +1,11 @@
 id: 25767083
-type: way
+type: node
 latitude: 52.54723
 longitude: 13.46855
 postcode: "13053"
 city: Berlin
-street: "Hansastraße"
-housenumber: 5
-phone: "+493096 24 86 11"
-opening_hours: "Mo-Th 08:00-18:00; Fr 08:00-17:00"
-website: "https://www.mcs-werkstatt.de/"
+street: Hansastraße
+housenumber: "5"
+phone: +493096 24 86 11
+opening_hours: Mo-Th 08:00-18:00; Fr 08:00-17:00
+website: https://www.mcs-werkstatt.de/

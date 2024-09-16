@@ -1,11 +1,11 @@
 id: 285603576
-type: way
+type: node
 latitude: 52.53546
 longitude: 13.17543
 postcode: "13581"
 city: Berlin
-street: "Brunsbütteler Damm"
-housenumber: 144
+street: Brunsbütteler Damm
+housenumber: "144"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
 website: ""

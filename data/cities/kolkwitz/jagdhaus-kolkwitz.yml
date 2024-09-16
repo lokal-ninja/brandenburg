@@ -1,11 +1,11 @@
 id: 337227839
-type: way
+type: node
 latitude: 51.73914
 longitude: 14.25868
 postcode: "03099"
 city: Kolkwitz
-street: "Gewerbeparkstraße"
-housenumber: 2
-phone: "+49355 288 63 740"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"
-website: "https://www.jagdhaus-kolkwitz.de/"
+street: Gewerbeparkstraße
+housenumber: "2"
+phone: +49355 288 63 740
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:00
+website: https://www.jagdhaus-kolkwitz.de/

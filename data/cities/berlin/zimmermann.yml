@@ -4,8 +4,8 @@ latitude: 52.53461
 longitude: 13.15747
 postcode: "13591"
 city: Berlin
-street: "Magistratsweg"
-housenumber: 130
+street: Magistratsweg
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-15:00; Su 06:00-16:00"
+opening_hours: Mo-Fr 05:00-19:00; Sa 05:00-15:00; Su 06:00-16:00
 website: ""

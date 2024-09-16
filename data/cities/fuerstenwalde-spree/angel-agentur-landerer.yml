@@ -1,11 +1,11 @@
 id: 323604208
-type: way
+type: node
 latitude: 52.36493
 longitude: 14.0616
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Eisenbahnstraße"
-housenumber: 36
+street: Eisenbahnstraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 9:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 9:00-12:00
 website: ""

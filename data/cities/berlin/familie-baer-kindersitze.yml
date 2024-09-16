@@ -4,8 +4,8 @@ latitude: 52.43319
 longitude: 13.28665
 postcode: "12205"
 city: Berlin
-street: "Ringstraße"
-housenumber: 49
+street: Ringstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Tu-Fr 10:00-12:00,14:00-17:00, Sa 10:00-15:00; PH off"
-website: "https://familiebaer.com/"
+opening_hours: Tu-Fr 10:00-12:00,14:00-17:00, Sa 10:00-15:00; PH off
+website: https://familiebaer.com/

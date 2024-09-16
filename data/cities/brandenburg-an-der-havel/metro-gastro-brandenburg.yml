@@ -1,11 +1,11 @@
 id: 88081060
-type: way
+type: node
 latitude: 52.40556
 longitude: 12.53185
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Caasmannstraße"
-housenumber: 3
-phone: "+49 3381 3356-0"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-13:00"
-website: "https://www.metro.de/standorte/brandenburg"
+street: Caasmannstraße
+housenumber: "3"
+phone: +49 3381 3356-0
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-13:00
+website: https://www.metro.de/standorte/brandenburg

@@ -1,11 +1,11 @@
 id: 1037336124
-type: way
+type: node
 latitude: 52.74667
 longitude: 13.17318
 postcode: "16515"
 city: Oranienburg
-street: "Veltener Straße"
-housenumber: 3
-phone: "+49 3301 530663"
+street: Veltener Straße
+housenumber: "3"
+phone: +49 3301 530663
 opening_hours: ""
-website: "https://www.putzbaer.de/"
+website: https://www.putzbaer.de/

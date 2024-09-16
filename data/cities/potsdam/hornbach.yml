@@ -1,11 +1,11 @@
 id: 30076358
-type: way
+type: node
 latitude: 52.47487
 longitude: 12.95752
 postcode: "14476"
 city: Potsdam
-street: "Am Friedrichspark"
-housenumber: 101
+street: Am Friedrichspark
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH,Su off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00; PH,Su off
 website: ""

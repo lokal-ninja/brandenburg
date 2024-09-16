@@ -4,8 +4,8 @@ latitude: 52.4884
 longitude: 13.42703
 postcode: "12047"
 city: Berlin
-street: "Weserstraße"
-housenumber: 212
+street: Weserstraße
+housenumber: "212"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.robinhood.store/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.robinhood.store/

@@ -1,11 +1,11 @@
 id: 103271567
-type: way
+type: node
 latitude: 51.58008
 longitude: 14.02864
 postcode: "01983"
 city: Großräschen
-street: "Gewerbestraße"
-housenumber: 7
+street: Gewerbestraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

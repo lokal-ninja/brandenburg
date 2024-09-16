@@ -4,8 +4,8 @@ latitude: 52.45382
 longitude: 13.32305
 postcode: "12165"
 city: Berlin
-street: "Schützenstraße"
-housenumber: 13
-phone: "+49 30 7924230"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00"
+street: Schützenstraße
+housenumber: "13"
+phone: +49 30 7924230
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-13:00; Su 08:00-11:00
 website: ""

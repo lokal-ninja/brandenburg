@@ -4,8 +4,8 @@ latitude: 52.52331
 longitude: 13.58641
 postcode: "12619"
 city: Berlin
-street: "Hellersdorfer Straße"
-housenumber: 83
-phone: "+49 2303 5938 100"
-opening_hours: "Mo-Fr 09:00-19:30, Sa 09:00-18:00; PH off"
-website: "https://woolworth.de"
+street: Hellersdorfer Straße
+housenumber: "83"
+phone: +49 2303 5938 100
+opening_hours: Mo-Fr 09:00-19:30, Sa 09:00-18:00; PH off
+website: https://woolworth.de

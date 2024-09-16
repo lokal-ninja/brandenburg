@@ -1,11 +1,11 @@
 id: 244576547
-type: way
+type: node
 latitude: 53.01631
 longitude: 13.98517
 postcode: "16278"
 city: Angermünde
-street: "Rudolf-Harbig-Straße"
-housenumber: 15
-phone: "+49 3331 36 56 636"
+street: Rudolf-Harbig-Straße
+housenumber: "15"
+phone: +49 3331 36 56 636
 opening_hours: ""
-website: "https://elektronik-service-voss.de/"
+website: https://elektronik-service-voss.de/

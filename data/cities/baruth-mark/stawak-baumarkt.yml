@@ -1,11 +1,11 @@
 id: 461109028
-type: way
+type: node
 latitude: 52.04865
 longitude: 13.48959
 postcode: "15837"
 city: Baruth/Mark
-street: "Luckenwalder Straße"
-housenumber: 29
+street: Luckenwalder Straße
+housenumber: "29"
 phone: "+4933704708637"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-15:00"
-website: "https://baumarkt.stawak.de/"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-15:00
+website: https://baumarkt.stawak.de/

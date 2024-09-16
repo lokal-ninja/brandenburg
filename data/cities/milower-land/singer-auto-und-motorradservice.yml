@@ -1,11 +1,11 @@
 id: 673451747
-type: way
+type: node
 latitude: 52.51585
 longitude: 12.30873
 postcode: "14715"
 city: Milower Land
-street: "Bergstraße"
-housenumber: 15
+street: Bergstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo 09:00-18:00; We-Fr 09:00-18:00; Sa 09:00-12:00; Tu,Su off"
-website: "http://www.singer-auto-motorrad-service.de/"
+opening_hours: Mo 09:00-18:00; We-Fr 09:00-18:00; Sa 09:00-12:00; Tu,Su off
+website: http://www.singer-auto-motorrad-service.de/

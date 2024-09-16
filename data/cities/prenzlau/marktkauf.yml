@@ -1,11 +1,11 @@
 id: 40977645
-type: way
+type: node
 latitude: 53.30361
 longitude: 13.88021
 postcode: "17291"
 city: Prenzlau
-street: "Seelübber Weg"
-housenumber: 3
-phone: "+49 3984 864 00"
-opening_hours: "Mo-We,Sa 08:00-20:00; Th,Fr 08:00-21:00"
+street: Seelübber Weg
+housenumber: "3"
+phone: +49 3984 864 00
+opening_hours: Mo-We,Sa 08:00-20:00; Th,Fr 08:00-21:00
 website: ""

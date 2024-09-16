@@ -1,11 +1,11 @@
 id: 254399098
-type: way
+type: node
 latitude: 51.63706
 longitude: 13.73557
 postcode: "03238"
 city: Massen-Niederlausitz
-street: "Hertzstraße"
-housenumber: 6
+street: Hertzstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-16:00"
+opening_hours: Mo-Th 06:30-17:00; Fr 06:30-16:00
 website: ""

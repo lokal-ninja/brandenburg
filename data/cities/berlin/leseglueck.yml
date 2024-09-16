@@ -4,8 +4,8 @@ latitude: 52.4947
 longitude: 13.4297
 postcode: "10999"
 city: Berlin
-street: "Ohlauer Straße"
-housenumber: 37
-phone: "+49 30 32518641"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.leseglueck-berlin.de/"
+street: Ohlauer Straße
+housenumber: "37"
+phone: +49 30 32518641
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.leseglueck-berlin.de/

@@ -1,11 +1,11 @@
 id: 92201577
-type: way
+type: node
 latitude: 52.5816
 longitude: 13.3061
 postcode: "13509"
 city: Berlin
-street: "Holzhauser Straße"
-housenumber: 88
-phone: "+49 3043605932"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 09:30-15:00"
-website: "https://www.shurgard.de/lagerraum-mieten-in-Deutschland/Berlin/Berlin-Reinickendorf"
+street: Holzhauser Straße
+housenumber: "88"
+phone: +49 3043605932
+opening_hours: Mo-Fr 09:30-18:00; Sa 09:30-15:00
+website: https://www.shurgard.de/lagerraum-mieten-in-Deutschland/Berlin/Berlin-Reinickendorf

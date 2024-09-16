@@ -1,11 +1,11 @@
 id: 62123679
-type: way
+type: node
 latitude: 52.34857
 longitude: 14.51462
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Rathenaustraße"
-housenumber: 4
+street: Rathenaustraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

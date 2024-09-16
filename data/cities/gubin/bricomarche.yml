@@ -1,11 +1,11 @@
 id: 488659080
-type: way
+type: node
 latitude: 51.94889
 longitude: 14.72225
-postcode: "66-620"
+postcode: 66-620
 city: Gubin
-street: "Żołnierzy II Armii Wojska Polskiego"
-housenumber: 9
+street: Żołnierzy II Armii Wojska Polskiego
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-17:00"
-website: "http://gubin.bricomarche.pl/"
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-17:00
+website: http://gubin.bricomarche.pl/

@@ -4,8 +4,8 @@ latitude: 52.47441
 longitude: 13.3384
 postcode: "12159"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 75
-phone: "+49 30 8735505"
-opening_hours: "Tu-Fr 09:00-19:00; Sa 09:00-14:00; Mo off"
-website: "https://www.augenoptik-bruske.de/"
+street: Hauptstraße
+housenumber: "75"
+phone: +49 30 8735505
+opening_hours: Tu-Fr 09:00-19:00; Sa 09:00-14:00; Mo off
+website: https://www.augenoptik-bruske.de/

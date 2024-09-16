@@ -4,8 +4,8 @@ latitude: 52.42293
 longitude: 13.48761
 postcode: "12357"
 city: Berlin
-street: "Kleestraße"
-housenumber: 33
-phone: "+49 30 74393296"
-opening_hours: "Tu 11:00-13:00,14:00-17:00; Fr 14:00-17:00"
-website: "https://www.modellbahneninberlin.de/"
+street: Kleestraße
+housenumber: "33"
+phone: +49 30 74393296
+opening_hours: Tu 11:00-13:00,14:00-17:00; Fr 14:00-17:00
+website: https://www.modellbahneninberlin.de/

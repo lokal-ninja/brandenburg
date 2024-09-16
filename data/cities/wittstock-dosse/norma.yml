@@ -1,11 +1,11 @@
 id: 259741590
-type: way
+type: node
 latitude: 53.15909
 longitude: 12.47808
 postcode: "16909"
 city: Wittstock/Dosse
-street: "Am Rosenplan"
-housenumber: 1
+street: Am Rosenplan
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

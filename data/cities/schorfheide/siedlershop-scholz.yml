@@ -1,11 +1,11 @@
 id: 316023616
-type: way
+type: node
 latitude: 52.86277
 longitude: 13.74454
 postcode: "16244"
 city: Schorfheide
-street: "Messingwerkstraße"
-housenumber: 17
+street: Messingwerkstraße
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

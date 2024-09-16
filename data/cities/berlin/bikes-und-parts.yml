@@ -4,8 +4,8 @@ latitude: 52.46443
 longitude: 13.37774
 postcode: "12103"
 city: Berlin
-street: "Manteuffelstraße"
-housenumber: 64
+street: Manteuffelstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Mo,Tu,Th-Sa 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:00"
-website: "https://www.bike-parts-shop.de"
+opening_hours: Mo,Tu,Th-Sa 10:00-13:00, Mo,Tu,Th,Fr 14:30-18:00
+website: https://www.bike-parts-shop.de

@@ -4,8 +4,8 @@ latitude: 52.17209
 longitude: 14.24916
 postcode: "15848"
 city: Beeskow
-street: "Breite Straße"
-housenumber: 3
-phone: "+49 3366 20427"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://meng-beeskow.de/"
+street: Breite Straße
+housenumber: "3"
+phone: +49 3366 20427
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://meng-beeskow.de/

@@ -4,8 +4,8 @@ latitude: 52.1983
 longitude: 12.60738
 postcode: "14806"
 city: Bad Belzig
-street: "Chausseestraße"
-housenumber: 48
+street: Chausseestraße
+housenumber: "48"
 phone: ""
-opening_hours: "Tu 09:00-15:00; Th 09:00-18:00; Fr 12:00-18:00 || nach Vereinbarung"
+opening_hours: Tu 09:00-15:00; Th 09:00-18:00; Fr 12:00-18:00 || "nach Vereinbarung"
 website: ""

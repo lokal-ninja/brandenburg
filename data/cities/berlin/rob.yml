@@ -4,8 +4,8 @@ latitude: 52.4978
 longitude: 13.34866
 postcode: "10777"
 city: Berlin
-street: "Motzstraße"
-housenumber: 25
+street: Motzstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.rob.eu"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.rob.eu

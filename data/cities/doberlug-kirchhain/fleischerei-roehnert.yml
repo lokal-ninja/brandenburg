@@ -1,11 +1,11 @@
 id: 1033171504
-type: way
+type: node
 latitude: 51.64145
 longitude: 13.5687
 postcode: "03253"
 city: Doberlug-Kirchhain
-street: "Luckauer Straße"
-housenumber: 58
+street: Luckauer Straße
+housenumber: "58"
 phone: ""
 opening_hours: ""
 website: ""

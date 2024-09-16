@@ -4,8 +4,8 @@ latitude: 52.47445
 longitude: 13.32056
 postcode: "14197"
 city: Berlin
-street: "Deidesheimer Straße"
-housenumber: 6
-phone: "+49 30 8227422"
-opening_hours: "Mo-Fr 10:00-19:00; Su Vereinbarung"
+street: Deidesheimer Straße
+housenumber: "6"
+phone: +49 30 8227422
+opening_hours: Mo-Fr 10:00-19:00; Su "Vereinbarung"
 website: ""

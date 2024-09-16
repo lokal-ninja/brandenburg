@@ -1,11 +1,11 @@
 id: 596567523
-type: way
+type: node
 latitude: 52.50473
 longitude: 13.61158
 postcode: "12623"
 city: Berlin
-street: "Alt-Mahlsdorf"
+street: Alt-Mahlsdorf
 housenumber: 112 - 115
 phone: ""
 opening_hours: ""
-website: "https://acb24.de/"
+website: https://acb24.de/

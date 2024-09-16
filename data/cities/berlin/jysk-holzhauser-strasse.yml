@@ -1,11 +1,11 @@
 id: 12089422
-type: way
+type: node
 latitude: 52.58527
 longitude: 13.31435
 postcode: "13509"
 city: Berlin
-street: "Holzhauser Straße"
-housenumber: 154
+street: Holzhauser Straße
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00, Sa 09:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00, Sa 09:30-18:00
 website: ""

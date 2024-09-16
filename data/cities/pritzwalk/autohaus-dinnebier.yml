@@ -1,11 +1,11 @@
 id: 137307903
-type: way
+type: node
 latitude: 53.13508
 longitude: 12.17207
 postcode: "16928"
 city: Pritzwalk
-street: "Fritz-Reuter-Straße"
-housenumber: 1
-phone: "+49 3395 7643920"
+street: Fritz-Reuter-Straße
+housenumber: "1"
+phone: +49 3395 7643920
 opening_hours: ""
 website: ""

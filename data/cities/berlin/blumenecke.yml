@@ -4,8 +4,8 @@ latitude: 52.516
 longitude: 13.48235
 postcode: "10367"
 city: Berlin
-street: "Normannenstraße"
-housenumber: 6
+street: Normannenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "http://www.blumen-lichtenberg.de/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-13:00
+website: http://www.blumen-lichtenberg.de/

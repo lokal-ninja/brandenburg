@@ -1,11 +1,11 @@
 id: 353470186
-type: way
+type: node
 latitude: 52.48533
 longitude: 13.57232
 postcode: "12621"
 city: Berlin
-street: "Lindenstraße"
-housenumber: 51
-phone: "+49 30 5678719"
-opening_hours: "Mo-Fr 08:00-18:00; PH off"
+street: Lindenstraße
+housenumber: "51"
+phone: +49 30 5678719
+opening_hours: Mo-Fr 08:00-18:00; PH off
 website: ""

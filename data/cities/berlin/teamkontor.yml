@@ -4,8 +4,8 @@ latitude: 52.48825
 longitude: 13.33857
 postcode: "10825"
 city: Berlin
-street: "Grunewaldstraße"
-housenumber: 55
+street: Grunewaldstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo,We,Fr 12:00-18:00; Tu,Th 12:00-20:00"
-website: "https://www.teamkontor.de"
+opening_hours: Mo,We,Fr 12:00-18:00; Tu,Th 12:00-20:00
+website: https://www.teamkontor.de

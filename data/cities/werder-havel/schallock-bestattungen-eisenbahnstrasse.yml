@@ -1,11 +1,11 @@
 id: 214374434
-type: way
+type: node
 latitude: 52.37847
 longitude: 12.9334
 postcode: "14542"
 city: Werder (Havel)
-street: "Eisenbahnstraße"
-housenumber: 204
+street: Eisenbahnstraße
+housenumber: "204"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 27160381
-type: way
+type: node
 latitude: 52.46854
 longitude: 13.37655
 postcode: "12103"
 city: Berlin
-street: "Schöneberger Straße"
-housenumber: 7
-phone: "+49 30 7109610"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://filiale.kaufland.de/service/filiale/berlin-tempelhof-1960.html"
+street: Schöneberger Straße
+housenumber: "7"
+phone: +49 30 7109610
+opening_hours: Mo-Sa 07:00-22:00
+website: https://filiale.kaufland.de/service/filiale/berlin-tempelhof-1960.html

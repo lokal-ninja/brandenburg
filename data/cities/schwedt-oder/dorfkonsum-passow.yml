@@ -1,11 +1,11 @@
 id: 364796993
-type: way
+type: node
 latitude: 53.14197
 longitude: 14.11137
 postcode: "16303"
 city: Schwedt/Oder
-street: "Schwedter Chaussee"
-housenumber: 56
+street: Schwedter Chaussee
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

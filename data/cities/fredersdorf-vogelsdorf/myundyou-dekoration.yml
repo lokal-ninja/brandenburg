@@ -4,8 +4,8 @@ latitude: 52.52689
 longitude: 13.74793
 postcode: "15370"
 city: Fredersdorf-Vogelsdorf
-street: "Scheererstraße"
-housenumber: 10
+street: Scheererstraße
+housenumber: "10"
 phone: "+4915112301985"
-opening_hours: "Mi-Fr: 14-18 Uhr; Sa: 11-13 Uhr"
-website: "https://myandyou.de"
+opening_hours: 'Mi-Fr: 14-18 Uhr; Sa: 11-13 Uhr'
+website: https://myandyou.de

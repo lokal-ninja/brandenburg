@@ -1,11 +1,11 @@
 id: 336351317
-type: way
+type: node
 latitude: 52.32828
 longitude: 14.07865
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Saarower Chaussee"
-housenumber: 34
+street: Saarower Chaussee
+housenumber: "34"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.09873
 longitude: 12.89345
 postcode: "16831"
 city: Rheinsberg
-street: "Schloßstraße"
-housenumber: 5
-phone: "+49 33931 38076"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.rheinsberg-jagd.de"
+street: Schloßstraße
+housenumber: "5"
+phone: +49 33931 38076
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.rheinsberg-jagd.de

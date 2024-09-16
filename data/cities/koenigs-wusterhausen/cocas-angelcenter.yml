@@ -4,8 +4,8 @@ latitude: 52.29918
 longitude: 13.69864
 postcode: "15712"
 city: Königs Wusterhausen
-street: "Friedensaue"
-housenumber: 8
+street: Friedensaue
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00;Sa 09:00-13:00;PH off"
-website: "https://www.cocas-angelcenter.de/"
+opening_hours: Mo-Fr 09:00-18:00;Sa 09:00-13:00;PH off
+website: https://www.cocas-angelcenter.de/

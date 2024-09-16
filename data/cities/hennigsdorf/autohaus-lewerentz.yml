@@ -1,11 +1,11 @@
 id: 95341225
-type: way
+type: node
 latitude: 52.64245
 longitude: 13.21075
 postcode: "16761"
 city: Hennigsdorf
-street: "Fabrikstraße"
+street: Fabrikstraße
 housenumber: 8 A
-phone: "+49 3302 803850"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "https://www.ford-lewerentz-hennigsdorf.de/"
+phone: +49 3302 803850
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: https://www.ford-lewerentz-hennigsdorf.de/

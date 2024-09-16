@@ -4,8 +4,8 @@ latitude: 51.72456
 longitude: 13.38246
 postcode: "04936"
 city: Schlieben
-street: "Lange Straße"
-housenumber: 80
-phone: "+49 35361 899236"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.np.de/"
+street: Lange Straße
+housenumber: "80"
+phone: +49 35361 899236
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.np.de/

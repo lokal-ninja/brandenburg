@@ -4,8 +4,8 @@ latitude: 52.43555
 longitude: 13.26104
 postcode: "14169"
 city: Berlin
-street: "Clayallee"
-housenumber: 354
-phone: "+49 30 8113322"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 10:00-15:00"
-website: "http://www.brillenatelier.de/Index.html"
+street: Clayallee
+housenumber: "354"
+phone: +49 30 8113322
+opening_hours: Mo-Fr 09:00-18:30; Sa 10:00-15:00
+website: http://www.brillenatelier.de/Index.html

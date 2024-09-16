@@ -1,11 +1,11 @@
 id: 1256013074
-type: way
+type: node
 latitude: 52.56514
 longitude: 13.44636
 postcode: "13089"
 city: Berlin
-street: "Romain-Rolland-Straße"
-housenumber: 14
-phone: "+49 30 58909698"
-opening_hours: "Mo Tu Fr 09:00-19:00, We Th 16:00-19:00, Sa 09:00-14:00"
+street: Romain-Rolland-Straße
+housenumber: "14"
+phone: +49 30 58909698
+opening_hours: Mo Tu Fr 09:00-19:00, We Th 16:00-19:00, Sa 09:00-14:00
 website: ""

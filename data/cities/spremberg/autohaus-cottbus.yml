@@ -1,11 +1,11 @@
 id: 111536901
-type: way
+type: node
 latitude: 51.55954
 longitude: 14.35484
 postcode: "03130"
 city: Spremberg
-street: "Otto-von-Guericke-Straße"
-housenumber: 1
+street: Otto-von-Guericke-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

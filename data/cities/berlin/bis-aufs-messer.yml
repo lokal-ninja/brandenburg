@@ -4,8 +4,8 @@ latitude: 52.50813
 longitude: 13.44947
 postcode: "10243"
 city: Berlin
-street: "Marchlewskistraße"
-housenumber: 107
+street: Marchlewskistraße
+housenumber: "107"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-18:00"
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-18:00
 website: ""

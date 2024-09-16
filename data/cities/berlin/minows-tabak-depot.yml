@@ -4,8 +4,8 @@ latitude: 52.38651
 longitude: 13.40551
 postcode: "12305"
 city: Berlin
-street: "Bahnhofstraße"
-housenumber: 56
-phone: "+49 30 744 01 00"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+street: Bahnhofstraße
+housenumber: "56"
+phone: +49 30 744 01 00
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

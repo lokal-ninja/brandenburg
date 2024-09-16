@@ -1,11 +1,11 @@
 id: 118354754
-type: way
+type: node
 latitude: 52.43712
 longitude: 13.21637
 postcode: "14129"
 city: Berlin
-street: "Breisgauer Straße"
-housenumber: 17
+street: Breisgauer Straße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
+opening_hours: Mo-Sa 08:00-20:00; PH off
 website: ""

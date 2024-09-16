@@ -4,8 +4,8 @@ latitude: 52.45103
 longitude: 13.34021
 postcode: "12169"
 city: Berlin
-street: "Steglitzer Damm"
-housenumber: 23
-phone: "+49 30 7965317"
+street: Steglitzer Damm
+housenumber: "23"
+phone: +49 30 7965317
 opening_hours: ""
-website: "http://www.bernd-masche.de"
+website: http://www.bernd-masche.de

@@ -4,8 +4,8 @@ latitude: 51.75872
 longitude: 14.32756
 postcode: "03046"
 city: Cottbus
-street: "Bahnhofstraße"
-housenumber: 68
-phone: "+49 355 22631"
-opening_hours: "Mo-Fr 06:30-18:00, Sa 06:30-12:00, Su 07:30-11:30"
-website: "https://www.cottbuser-aehren.de/filialen/"
+street: Bahnhofstraße
+housenumber: "68"
+phone: +49 355 22631
+opening_hours: Mo-Fr 06:30-18:00, Sa 06:30-12:00, Su 07:30-11:30
+website: https://www.cottbuser-aehren.de/filialen/

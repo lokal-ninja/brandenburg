@@ -1,11 +1,11 @@
 id: 566145932
-type: way
+type: node
 latitude: 52.54916
 longitude: 13.41425
 postcode: "10439"
 city: Berlin
-street: "Schönhauser Allee"
-housenumber: 
-phone: "+49 30 447 117 17"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.schoenhauser-allee-arcaden.de/"
+street: Schönhauser Allee
+housenumber: ""
+phone: +49 30 447 117 17
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.schoenhauser-allee-arcaden.de/

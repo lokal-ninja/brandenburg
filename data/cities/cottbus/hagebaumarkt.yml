@@ -1,11 +1,11 @@
 id: 26277020
-type: way
+type: node
 latitude: 51.7506
 longitude: 14.32957
 postcode: "03046"
 city: Cottbus
-street: "Görlitzer Straße"
-housenumber: 17
-phone: "+49 355 472038"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-14:00"
+street: Görlitzer Straße
+housenumber: "17"
+phone: +49 355 472038
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-14:00
 website: ""

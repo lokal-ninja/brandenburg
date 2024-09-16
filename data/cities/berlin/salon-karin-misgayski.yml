@@ -4,8 +4,8 @@ latitude: 52.5066
 longitude: 13.50289
 postcode: "10315"
 city: Berlin
-street: "Archenholdstraße"
-housenumber: 32
+street: Archenholdstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo,We,Fr 09:00-13:00; Tu,Th 12:00-18:00|| nach Vereinbarung"
+opening_hours: Mo,We,Fr 09:00-13:00; Tu,Th 12:00-18:00|| "nach Vereinbarung"
 website: ""

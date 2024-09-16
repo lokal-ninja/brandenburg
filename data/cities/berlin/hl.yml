@@ -4,8 +4,8 @@ latitude: 52.45954
 longitude: 13.32464
 postcode: "12163"
 city: Berlin
-street: "Deitmerstraße"
-housenumber: 12
+street: Deitmerstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.hl-haarexperten.de/"
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.hl-haarexperten.de/

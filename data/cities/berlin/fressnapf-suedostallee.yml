@@ -1,11 +1,11 @@
 id: 69607652
-type: way
+type: node
 latitude: 52.45316
 longitude: 13.50835
 postcode: "12487"
 city: Berlin
-street: "Südostallee"
-housenumber: 243
+street: Südostallee
+housenumber: "243"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00; Su,PH off
 website: ""

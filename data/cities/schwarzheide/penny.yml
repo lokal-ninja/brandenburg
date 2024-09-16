@@ -1,11 +1,11 @@
 id: 211639522
-type: way
+type: node
 latitude: 51.47252
 longitude: 13.86898
 postcode: "01987"
 city: Schwarzheide
-street: "Ruhlander Straße"
-housenumber: 73
+street: Ruhlander Straße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH closed"
+opening_hours: Mo-Sa 07:00-20:00; PH closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.52777
 longitude: 13.3892
 postcode: "10115"
 city: Berlin
-street: "Novalisstraße"
-housenumber: 1
-phone: "0176 41519630"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://sanft-schön.de"
+street: Novalisstraße
+housenumber: "1"
+phone: 0176 41519630
+opening_hours: Mo-Sa 10:00-19:00
+website: https://sanft-schön.de

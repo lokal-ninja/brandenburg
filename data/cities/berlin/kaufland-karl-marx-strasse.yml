@@ -4,8 +4,8 @@ latitude: 52.48222
 longitude: 13.43162
 postcode: "12043"
 city: Berlin
-street: "Karl-Marx-Straße"
-housenumber: 66
+street: Karl-Marx-Straße
+housenumber: "66"
 phone: "+49306273070"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://filiale.kaufland.de/service/filiale.storeName=DE7300.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://filiale.kaufland.de/service/filiale.storeName=DE7300.html

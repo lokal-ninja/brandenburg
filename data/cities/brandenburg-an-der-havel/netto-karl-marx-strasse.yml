@@ -1,11 +1,11 @@
 id: 146921936
-type: way
+type: node
 latitude: 52.41573
 longitude: 12.53813
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Karl-Marx-Straße"
-housenumber: 10
+street: Karl-Marx-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "PH off; Mo-Sa 07:00-20:00"
+opening_hours: PH off; Mo-Sa 07:00-20:00
 website: ""

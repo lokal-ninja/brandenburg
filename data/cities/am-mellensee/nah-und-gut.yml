@@ -1,11 +1,11 @@
 id: 219131621
-type: way
+type: node
 latitude: 52.18129
 longitude: 13.39808
 postcode: "15838"
 city: Am Mellensee
-street: "Luckenwalder Straße"
-housenumber: 21
+street: Luckenwalder Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

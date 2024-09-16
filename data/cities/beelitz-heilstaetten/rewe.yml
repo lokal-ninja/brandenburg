@@ -1,11 +1,11 @@
 id: 1261855642
-type: way
+type: node
 latitude: 52.261
 longitude: 12.92615
 postcode: "14547"
 city: Beelitz-Heilstätten
-street: "Straße am Bahnhof"
-housenumber: 7
+street: Straße am Bahnhof
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

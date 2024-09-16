@@ -1,11 +1,11 @@
 id: 832512426
-type: way
+type: node
 latitude: 51.57223
 longitude: 14.17302
 postcode: "03119"
 city: Welzow
-street: "Spremberger Straße"
-housenumber: 4
+street: Spremberger Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.49883
 longitude: 13.43119
 postcode: "10999"
 city: Berlin
-street: "Spreewaldplatz"
-housenumber: 4
+street: Spreewaldplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00
 website: ""

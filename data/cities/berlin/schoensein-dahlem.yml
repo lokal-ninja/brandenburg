@@ -4,8 +4,8 @@ latitude: 52.45328
 longitude: 13.27141
 postcode: "14195"
 city: Berlin
-street: "Clayallee"
-housenumber: 163
-phone: "+49 30 80480806"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://schoensein-dahlem.com"
+street: Clayallee
+housenumber: "163"
+phone: +49 30 80480806
+opening_hours: Mo-Fr 10:00-19:00
+website: https://schoensein-dahlem.com

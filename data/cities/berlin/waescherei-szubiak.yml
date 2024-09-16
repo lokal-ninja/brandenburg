@@ -4,8 +4,8 @@ latitude: 52.4393
 longitude: 13.54815
 postcode: "12489"
 city: Berlin
-street: "Hackenbergstraße"
-housenumber: 5
-phone: "+49 30 6717247"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:00"
-website: "http://www.waescherei-szubiak.de"
+street: Hackenbergstraße
+housenumber: "5"
+phone: +49 30 6717247
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-16:00
+website: http://www.waescherei-szubiak.de

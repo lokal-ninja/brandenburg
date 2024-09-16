@@ -1,11 +1,11 @@
 id: 183023905
-type: way
+type: node
 latitude: 52.41028
 longitude: 13.27302
 postcode: "14167"
 city: Berlin
-street: "Goerzallee"
-housenumber: 251
-phone: "+49 30 66 60 77-6 00"
+street: Goerzallee
+housenumber: "251"
+phone: +49 30 66 60 77-6 00
 opening_hours: ""
-website: "http://www.audi-partner.de/de_partner/p_22350/de.html?csref=sea_40869067623"
+website: http://www.audi-partner.de/de_partner/p_22350/de.html?csref=sea_40869067623

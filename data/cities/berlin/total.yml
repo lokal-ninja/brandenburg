@@ -1,11 +1,11 @@
 id: 24161230
-type: way
+type: node
 latitude: 52.45383
 longitude: 13.51268
 postcode: "12439"
 city: Berlin
-street: "Michael-Brückner-Straße"
+street: Michael-Brückner-Straße
 housenumber: 26-31
 phone: ""
-opening_hours: "Mo-Fr 04:30-23:00; Sa 07:00-22:00"
+opening_hours: Mo-Fr 04:30-23:00; Sa 07:00-22:00
 website: ""

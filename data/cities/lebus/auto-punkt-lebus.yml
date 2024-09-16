@@ -1,11 +1,11 @@
 id: 180951531
-type: way
+type: node
 latitude: 52.42766
 longitude: 14.51902
 postcode: "15326"
 city: Lebus
-street: "Goethestraße"
-housenumber: 2
+street: Goethestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00"
+opening_hours: Mo-Fr 08:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 110775772
-type: way
+type: node
 latitude: 52.55095
 longitude: 13.10288
 postcode: "14612"
 city: Falkensee
-street: "Leipziger Straße"
-housenumber: 50
-phone: "+49 3322 504190"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 08:00-12:00"
+street: Leipziger Straße
+housenumber: "50"
+phone: +49 3322 504190
+opening_hours: Mo-Fr 06:00-18:00; Sa 08:00-12:00
 website: ""

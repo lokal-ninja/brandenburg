@@ -4,8 +4,8 @@ latitude: 52.46663
 longitude: 13.32801
 postcode: "12161"
 city: Berlin
-street: "Bundesallee"
-housenumber: 94
-phone: "+49 30 8528046"
+street: Bundesallee
+housenumber: "94"
+phone: +49 30 8528046
 opening_hours: ""
-website: "https://leihhausberlin.com/"
+website: https://leihhausberlin.com/

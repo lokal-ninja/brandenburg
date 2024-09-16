@@ -4,8 +4,8 @@ latitude: 52.57117
 longitude: 13.40914
 postcode: "13187"
 city: Berlin
-street: "Breite Straße"
-housenumber: 10
-phone: "+4930 927 40 50"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.lichthaushuebner.de/"
+street: Breite Straße
+housenumber: "10"
+phone: +4930 927 40 50
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.lichthaushuebner.de/

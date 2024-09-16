@@ -1,11 +1,11 @@
 id: 146296618
-type: way
+type: node
 latitude: 51.73929
 longitude: 14.3346
 postcode: "03050"
 city: Cottbus
-street: "Dresdener Straße"
-housenumber: 59
+street: Dresdener Straße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

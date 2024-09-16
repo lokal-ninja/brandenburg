@@ -4,8 +4,8 @@ latitude: 51.85018
 longitude: 14.3984
 postcode: "03185"
 city: Peitz
-street: "Am Teufelsteich"
-housenumber: 6
-phone: "+49 35601 89779"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su, PH off"
-website: "dieuhlmanns.de"
+street: Am Teufelsteich
+housenumber: "6"
+phone: +49 35601 89779
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; Su, PH off
+website: dieuhlmanns.de

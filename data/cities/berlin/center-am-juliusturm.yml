@@ -1,11 +1,11 @@
 id: 25898004
-type: way
+type: node
 latitude: 52.53839
 longitude: 13.21988
 postcode: "13599"
 city: Berlin
-street: "Am Juliusturm"
-housenumber: 44
+street: Am Juliusturm
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Fr 06:30-00:30, Sa 06:30-24:00"
+opening_hours: Mo-Fr 06:30-00:30, Sa 06:30-24:00
 website: ""

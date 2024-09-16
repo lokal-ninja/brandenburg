@@ -1,11 +1,11 @@
 id: 42435308
-type: way
+type: node
 latitude: 51.71482
 longitude: 14.31544
 postcode: "03051"
 city: Cottbus
-street: "Chausseestraße"
-housenumber: 2
+street: Chausseestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su 09:00-12:00"
-website: "https://floralia-gartenbau.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00; Su 09:00-12:00
+website: https://floralia-gartenbau.de/

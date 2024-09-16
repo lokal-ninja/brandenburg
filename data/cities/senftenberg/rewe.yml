@@ -1,11 +1,11 @@
 id: 910940739
-type: way
+type: node
 latitude: 51.52387
 longitude: 14.00302
 postcode: "01968"
 city: Senftenberg
-street: "Bahnhofstraße"
-housenumber: 40
+street: Bahnhofstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/senftenberg/4040136/rewe-markt-bahnhofstr-40/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/senftenberg/4040136/rewe-markt-bahnhofstr-40/

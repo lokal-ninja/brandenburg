@@ -4,8 +4,8 @@ latitude: 52.45871
 longitude: 13.32279
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 97
+street: Schloßstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www.ikea.com/de/de/stores/berlin-steglitz/"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www.ikea.com/de/de/stores/berlin-steglitz/

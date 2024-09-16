@@ -1,11 +1,11 @@
 id: 32224068
-type: way
+type: node
 latitude: 51.63522
 longitude: 14.19189
 postcode: "03116"
 city: Drebkau
-street: "Neupetershainer Straße"
-housenumber: 3
-phone: "+49 35602 22439"
+street: Neupetershainer Straße
+housenumber: "3"
+phone: +49 35602 22439
 opening_hours: ""
-website: "http://www.genilke-motorcycles.de"
+website: http://www.genilke-motorcycles.de

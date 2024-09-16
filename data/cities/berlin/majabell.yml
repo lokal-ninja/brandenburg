@@ -4,8 +4,8 @@ latitude: 52.4754
 longitude: 13.29127
 postcode: "14199"
 city: Berlin
-street: "Breite Straße"
-housenumber: 24
-phone: "+49 30 58840228"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 10:00-14:00"
-website: "https://www.majabell.de/"
+street: Breite Straße
+housenumber: "24"
+phone: +49 30 58840228
+opening_hours: Mo-Fr 10:00-19:00, Sa 10:00-14:00
+website: https://www.majabell.de/

@@ -4,8 +4,8 @@ latitude: 52.56133
 longitude: 13.38897
 postcode: "13359"
 city: Berlin
-street: "Wollankstraße"
-housenumber: 73
+street: Wollankstraße
+housenumber: "73"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:30; Fr 07:00-13:30"
-website: "https://www.glas-design-online.de/"
+opening_hours: Mo-Th 07:00-16:30; Fr 07:00-13:30
+website: https://www.glas-design-online.de/

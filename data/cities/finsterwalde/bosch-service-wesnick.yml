@@ -1,11 +1,11 @@
 id: 259748703
-type: way
+type: node
 latitude: 51.63557
 longitude: 13.72947
 postcode: "03238"
 city: Finsterwalde
-street: "An der Fimag"
-housenumber: 1
-phone: "+49 3531 30895"
-opening_hours: "Mo-Fr 07:30-17:30"
-website: "http://www.wesnick.de"
+street: An der Fimag
+housenumber: "1"
+phone: +49 3531 30895
+opening_hours: Mo-Fr 07:30-17:30
+website: http://www.wesnick.de

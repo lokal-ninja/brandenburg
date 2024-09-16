@@ -4,8 +4,9 @@ latitude: 52.56713
 longitude: 13.39789
 postcode: "13187"
 city: Berlin
-street: "Wollankstraße"
-housenumber: 119
-phone: "+49 30 47 59 94 71"
-opening_hours: "Liebe Kunden, unsere Öffnungszeiten sind flexibel. Bitte vereinbaren Sie einen Termin."
-website: "https://www.sacnet.de/"
+street: Wollankstraße
+housenumber: "119"
+phone: +49 30 47 59 94 71
+opening_hours: '"Liebe Kunden, unsere Öffnungszeiten sind flexibel. Bitte vereinbaren
+    Sie einen Termin."'
+website: https://www.sacnet.de/

@@ -4,8 +4,8 @@ latitude: 52.45937
 longitude: 13.32419
 postcode: "12163"
 city: Berlin
-street: "Deitmerstraße"
-housenumber: 2
+street: Deitmerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.juwelier-heydemann.de/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.juwelier-heydemann.de/

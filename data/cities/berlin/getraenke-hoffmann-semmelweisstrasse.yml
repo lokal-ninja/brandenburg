@@ -4,8 +4,8 @@ latitude: 52.42521
 longitude: 13.52784
 postcode: "12524"
 city: Berlin
-street: "Semmelweisstraße"
-housenumber: 104
+street: Semmelweisstraße
+housenumber: "104"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00, Sa 08:00-20:00"
+opening_hours: Mo-Fr 09:00-20:00, Sa 08:00-20:00
 website: ""

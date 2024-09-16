@@ -1,11 +1,11 @@
 id: 537512227
-type: way
+type: node
 latitude: 52.34809
 longitude: 13.62834
 postcode: "15738"
 city: Zeuthen
-street: "Goethestraße"
-housenumber: 37
+street: Goethestraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

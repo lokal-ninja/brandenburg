@@ -1,11 +1,11 @@
 id: 336351332
-type: way
+type: node
 latitude: 52.32652
 longitude: 14.0796
 postcode: "15517"
 city: Bad Saarow
-street: "Neu Golmer Weg"
-housenumber: 16
+street: Neu Golmer Weg
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

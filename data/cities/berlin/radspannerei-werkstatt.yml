@@ -4,8 +4,8 @@ latitude: 52.4975
 longitude: 13.41879
 postcode: "10999"
 city: Berlin
-street: "Kottbusser Straße"
-housenumber: 8
-phone: "+49 30 61507218"
-opening_hours: "Mo, Tu, Th, Fr 15:00-19:00; Sa 12:00-19:00"
+street: Kottbusser Straße
+housenumber: "8"
+phone: +49 30 61507218
+opening_hours: Mo, Tu, Th, Fr 15:00-19:00; Sa 12:00-19:00
 website: ""

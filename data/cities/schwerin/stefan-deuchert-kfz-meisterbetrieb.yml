@@ -1,11 +1,11 @@
 id: 915569815
-type: way
+type: node
 latitude: 52.15135
 longitude: 13.64102
 postcode: "15755"
 city: Schwerin
-street: "Teupitzer Straße"
-housenumber: 88
-phone: "+49 33766 63719"
+street: Teupitzer Straße
+housenumber: "88"
+phone: +49 33766 63719
 opening_hours: ""
 website: ""

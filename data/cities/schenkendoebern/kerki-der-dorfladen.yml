@@ -1,11 +1,12 @@
 id: 178411857
-type: way
+type: node
 latitude: 51.91179
 longitude: 14.64365
 postcode: "03172"
 city: Schenkendöbern
-street: "Hauptstraße"
+street: Hauptstraße
 housenumber: 69a
-phone: "+49 35692 669485"
-opening_hours: "Mo, Tu 06:00-10:00, 15:00-19:00; Fr 06:00-10:00, 15:00-19:00; Sa 06:00-10:00; Su 07:00-10:00"
+phone: +49 35692 669485
+opening_hours: Mo, Tu 06:00-10:00, 15:00-19:00; Fr 06:00-10:00, 15:00-19:00; Sa 06:00-10:00;
+    Su 07:00-10:00
 website: ""

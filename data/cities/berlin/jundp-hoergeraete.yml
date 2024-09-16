@@ -4,8 +4,8 @@ latitude: 52.48275
 longitude: 13.43183
 postcode: "12043"
 city: Berlin
-street: "Karl-Marx-Straße"
-housenumber: 58
-phone: "+49 30 62727336"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.hgberlin.com"
+street: Karl-Marx-Straße
+housenumber: "58"
+phone: +49 30 62727336
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.hgberlin.com

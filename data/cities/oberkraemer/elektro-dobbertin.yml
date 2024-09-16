@@ -1,11 +1,11 @@
 id: 37523148
-type: way
+type: node
 latitude: 52.70863
 longitude: 13.14807
 postcode: "16727"
 city: Oberkrämer
-street: "Wendemarker Weg"
-housenumber: 52
+street: Wendemarker Weg
+housenumber: "52"
 phone: ""
 opening_hours: ""
 website: ""

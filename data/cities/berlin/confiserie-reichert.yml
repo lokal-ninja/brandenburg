@@ -4,8 +4,8 @@ latitude: 52.52285
 longitude: 13.34911
 postcode: "10557"
 city: Berlin
-street: "Kirchstraße"
-housenumber: 17
-phone: "+49 30 89651593"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 06:00-12:00"
-website: "http://www.confiserie-reichert.com/filialen/berlin_moabit.html"
+street: Kirchstraße
+housenumber: "17"
+phone: +49 30 89651593
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-13:00; Su 06:00-12:00
+website: http://www.confiserie-reichert.com/filialen/berlin_moabit.html

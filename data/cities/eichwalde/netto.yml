@@ -1,11 +1,11 @@
 id: 421209097
-type: way
+type: node
 latitude: 52.37604
 longitude: 13.64243
 postcode: "15732"
 city: Eichwalde
-street: "Zeuthener Straße"
+street: Zeuthener Straße
 housenumber: 66-67
-phone: "+49 180 2551212"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://netto.de/"
+phone: +49 180 2551212
+opening_hours: Mo-Sa 07:00-20:00
+website: https://netto.de/

@@ -4,8 +4,8 @@ latitude: 52.92511
 longitude: 12.80335
 postcode: "16816"
 city: Neuruppin
-street: "Wichmannstraße"
-housenumber: 22
-phone: "+49 3391 3498209"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 08:00-16:00"
+street: Wichmannstraße
+housenumber: "22"
+phone: +49 3391 3498209
+opening_hours: Mo-Fr 11:00-19:00; Sa 08:00-16:00
 website: ""

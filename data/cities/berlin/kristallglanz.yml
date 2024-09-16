@@ -4,8 +4,8 @@ latitude: 52.52204
 longitude: 13.38336
 postcode: "10117"
 city: Berlin
-street: "Marienstraße"
-housenumber: 13
+street: Marienstraße
+housenumber: "13"
 phone: ""
-opening_hours: "Tu,Th,Fr 11:00-20:00; We 14:00-20:00; Sa 10:00-16:00"
-website: "http://kristallglanz.com"
+opening_hours: Tu,Th,Fr 11:00-20:00; We 14:00-20:00; Sa 10:00-16:00
+website: http://kristallglanz.com

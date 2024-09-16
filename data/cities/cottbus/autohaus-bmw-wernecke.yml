@@ -1,11 +1,11 @@
 id: 129140529
-type: way
+type: node
 latitude: 51.77924
 longitude: 14.321
 postcode: "03044"
 city: Cottbus
-street: "Lamsfelder Straße"
-housenumber: 2
-phone: "+49 355 494490"
-opening_hours: "Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 09:00-13:00; PH off"
-website: "https://bmw-wernecke.de/"
+street: Lamsfelder Straße
+housenumber: "2"
+phone: +49 355 494490
+opening_hours: Mo-Th 07:00-19:00; Fr 07:00-18:00; Sa 09:00-13:00; PH off
+website: https://bmw-wernecke.de/

@@ -1,11 +1,11 @@
 id: 1195259784
-type: way
+type: node
 latitude: 53.32129
 longitude: 13.86389
 postcode: "17291"
 city: Prenzlau
-street: "Stettiner Straße"
-housenumber: 45
+street: Stettiner Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://dm.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://dm.de

@@ -4,8 +4,8 @@ latitude: 52.47118
 longitude: 13.10319
 postcode: "14476"
 city: Potsdam
-street: "Potsdamer Chaussee"
-housenumber: 28
-phone: "+49 33201 505266"
-opening_hours: "Mo-Sa 07:00-20:00; Su 07:30-11:00"
+street: Potsdamer Chaussee
+housenumber: "28"
+phone: +49 33201 505266
+opening_hours: Mo-Sa 07:00-20:00; Su 07:30-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.45846
 longitude: 13.32395
 postcode: "12163"
 city: Berlin
-street: "Kieler Straße"
-housenumber: 4
+street: Kieler Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Tu,Th,Sa 13:00-20:00"
-website: "https://www.clothingland.de/"
+opening_hours: Tu,Th,Sa 13:00-20:00
+website: https://www.clothingland.de/

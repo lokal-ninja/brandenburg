@@ -1,11 +1,11 @@
 id: 156141350
-type: way
+type: node
 latitude: 52.14632
 longitude: 13.83262
 postcode: "15748"
 city: Münchehofe
-street: "Hauptstraße"
-housenumber: 10
+street: Hauptstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-16:00; Su,PH off"
-website: "https://glaeserne-molkerei.de"
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-16:00; Su,PH off
+website: https://glaeserne-molkerei.de

@@ -1,11 +1,11 @@
 id: 124892303
-type: way
+type: node
 latitude: 51.63588
 longitude: 13.73612
 postcode: "03238"
 city: Massen-Niederlausitz
-street: "Ludwig-Erhard-Straße"
-housenumber: 5
+street: Ludwig-Erhard-Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 08:00-18:00"
+opening_hours: Mo-Fr 08:00-19:00, Sa 08:00-18:00
 website: ""

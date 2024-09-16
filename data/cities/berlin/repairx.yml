@@ -4,8 +4,8 @@ latitude: 52.53689
 longitude: 13.26896
 postcode: "13629"
 city: Berlin
-street: "Nonnendammallee"
+street: Nonnendammallee
 housenumber: 93b
-phone: "+49 30 86330523"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://repairx.de/"
+phone: +49 30 86330523
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://repairx.de/

@@ -4,8 +4,8 @@ latitude: 52.54016
 longitude: 13.40376
 postcode: "10435"
 city: Berlin
-street: "Bernauer Straße"
-housenumber: 49
+street: Bernauer Straße
+housenumber: "49"
 phone: ""
-opening_hours: "Tu-Th 11:00-19:00; Fr,Sa 11:00-18:00; Su,Mo off"
+opening_hours: Tu-Th 11:00-19:00; Fr,Sa 11:00-18:00; Su,Mo off
 website: ""

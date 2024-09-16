@@ -1,11 +1,12 @@
 id: 477166721
-type: way
+type: node
 latitude: 52.24163
 longitude: 13.63399
 postcode: "15741"
 city: Bestensee
-street: "Motzener Straße"
+street: Motzener Straße
 housenumber: 1A
 phone: ""
-opening_hours: "Oct-May Mo-Fr 09:00-18:00; Oct-May Sa 09:00-14:00; Jun-Sep Mo-Fr 09:00-19:00; Jun-Sep Sa 09:00-14:00"
+opening_hours: Oct-May Mo-Fr 09:00-18:00; Oct-May Sa 09:00-14:00; Jun-Sep Mo-Fr 09:00-19:00;
+    Jun-Sep Sa 09:00-14:00
 website: ""

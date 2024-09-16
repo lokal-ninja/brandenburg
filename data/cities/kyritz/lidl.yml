@@ -1,11 +1,11 @@
 id: 137884113
-type: way
+type: node
 latitude: 52.95038
 longitude: 12.37844
 postcode: "16866"
 city: Kyritz
-street: "Perleberger Straße"
-housenumber: 55
+street: Perleberger Straße
+housenumber: "55"
 phone: ""
 opening_hours: ""
 website: ""

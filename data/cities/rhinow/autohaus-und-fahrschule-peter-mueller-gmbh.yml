@@ -1,11 +1,11 @@
 id: 100809950
-type: way
+type: node
 latitude: 52.75398
 longitude: 12.3388
 postcode: "14728"
 city: Rhinow
-street: "Rübehorster Straße"
-housenumber: 13
-phone: "+49 33875 3560"
+street: Rübehorster Straße
+housenumber: "13"
+phone: +49 33875 3560
 opening_hours: ""
-website: "https://www.ah-pmueller.de/"
+website: https://www.ah-pmueller.de/

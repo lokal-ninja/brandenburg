@@ -4,8 +4,8 @@ latitude: 52.46721
 longitude: 13.308
 postcode: "14195"
 city: Berlin
-street: "Breitenbachplatz"
-housenumber: 10
+street: Breitenbachplatz
+housenumber: "10"
 phone: ""
-opening_hours: "Termine nur nach Vereibarung"
+opening_hours: '"Termine nur nach Vereibarung"'
 website: ""

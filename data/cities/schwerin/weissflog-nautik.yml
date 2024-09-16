@@ -1,11 +1,11 @@
 id: 923405372
-type: way
+type: node
 latitude: 52.14633
 longitude: 13.63492
 postcode: "15755"
 city: Schwerin
-street: "Teupitzer Straße"
-housenumber: 69
+street: Teupitzer Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

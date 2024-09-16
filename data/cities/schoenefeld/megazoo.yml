@@ -1,11 +1,11 @@
 id: 24257675
-type: way
+type: node
 latitude: 52.36886
 longitude: 13.55826
 postcode: "12529"
 city: Schönefeld
-street: "Am Rondell"
-housenumber: 6
+street: Am Rondell
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
+opening_hours: Mo-Sa 09:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50357
 longitude: 13.495
 postcode: "10317"
 city: Berlin
-street: "Münsterlandstraße"
-housenumber: 44
-phone: "+49 30 50018112"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://www.bestatter-berlin.de/"
+street: Münsterlandstraße
+housenumber: "44"
+phone: +49 30 50018112
+opening_hours: Mo-Fr 09:00-16:00
+website: https://www.bestatter-berlin.de/

@@ -1,11 +1,11 @@
 id: 198673434
-type: way
+type: node
 latitude: 52.77081
 longitude: 14.06879
 postcode: "16259"
 city: Bad Freienwalde (Oder)
-street: "Altranfter Straße"
-housenumber: 10
+street: Altranfter Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

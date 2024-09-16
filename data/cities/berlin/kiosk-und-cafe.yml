@@ -1,11 +1,11 @@
 id: 1306210336
-type: way
+type: node
 latitude: 52.43225
 longitude: 13.21975
 postcode: "14129"
 city: Berlin
-street: "Spanische Allee"
-housenumber: 37
+street: Spanische Allee
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:30-18:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:30-18:00
 website: ""

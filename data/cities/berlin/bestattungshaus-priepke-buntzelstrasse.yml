@@ -4,8 +4,8 @@ latitude: 52.40217
 longitude: 13.56503
 postcode: "12526"
 city: Berlin
-street: "Buntzelstraße"
-housenumber: 90
-phone: "+49 30 67642 13"
-opening_hours: "Mo-Fr 09:30-17:00 || Sa nach Vereinbarung; PH off"
-website: "https://www.bestattungshaus-priepke.de"
+street: Buntzelstraße
+housenumber: "90"
+phone: +49 30 67642 13
+opening_hours: Mo-Fr 09:30-17:00 || Sa "nach Vereinbarung"; PH off
+website: https://www.bestattungshaus-priepke.de

@@ -1,11 +1,11 @@
 id: 1275474218
-type: way
+type: node
 latitude: 52.235
 longitude: 12.98145
 postcode: "14547"
 city: Beelitz
-street: "Trebbiner Straße"
-housenumber: 7
-phone: "+49 33204 769030"
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH off"
-website: "https://www.rewe.de/"
+street: Trebbiner Straße
+housenumber: "7"
+phone: +49 33204 769030
+opening_hours: Mo-Sa 06:00-22:00; Su,PH off
+website: https://www.rewe.de/

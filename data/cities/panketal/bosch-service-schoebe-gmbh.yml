@@ -1,11 +1,11 @@
 id: 217438047
-type: way
+type: node
 latitude: 52.65104
 longitude: 13.53961
 postcode: "16341"
 city: Panketal
-street: "Straße der Jugend"
-housenumber: 25
+street: Straße der Jugend
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

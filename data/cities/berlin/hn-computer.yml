@@ -4,8 +4,8 @@ latitude: 52.54986
 longitude: 13.41666
 postcode: "10439"
 city: Berlin
-street: "Wichertstraße"
-housenumber: 9
+street: Wichertstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.hn-computer.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.hn-computer.de/

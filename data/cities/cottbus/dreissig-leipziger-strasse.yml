@@ -1,11 +1,11 @@
 id: 131823183
-type: way
+type: node
 latitude: 51.7445
 longitude: 14.32606
 postcode: "03048"
 city: Cottbus
-street: "Leipziger Straße"
+street: Leipziger Straße
 housenumber: 47a
-phone: "+49 355 4993991"
-opening_hours: "Mo-Sa 05:00-18:00; Su 05:00-18:00"
+phone: +49 355 4993991
+opening_hours: Mo-Sa 05:00-18:00; Su 05:00-18:00
 website: ""

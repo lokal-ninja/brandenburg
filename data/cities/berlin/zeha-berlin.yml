@@ -4,8 +4,8 @@ latitude: 52.48715
 longitude: 13.35414
 postcode: "10823"
 city: Berlin
-street: "Belziger Straße"
-housenumber: 21
+street: Belziger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"
-website: "https://www.zeha-berlin.de/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00
+website: https://www.zeha-berlin.de/

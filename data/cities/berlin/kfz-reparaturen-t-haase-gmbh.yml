@@ -4,8 +4,8 @@ latitude: 52.39512
 longitude: 13.41043
 postcode: "12309"
 city: Berlin
-street: "Alt-Lichtenrade"
-housenumber: 80
-phone: "+49 30 74680990"
-opening_hours: "Mo-Th 08:00-17:00; Fr 08:00-16:00"
-website: "https://kfz-reparaturen-haase.de"
+street: Alt-Lichtenrade
+housenumber: "80"
+phone: +49 30 74680990
+opening_hours: Mo-Th 08:00-17:00; Fr 08:00-16:00
+website: https://kfz-reparaturen-haase.de

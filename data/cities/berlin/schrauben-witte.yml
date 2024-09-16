@@ -4,8 +4,8 @@ latitude: 52.52582
 longitude: 13.30118
 postcode: "10589"
 city: Berlin
-street: "Osnabrücker Straße"
-housenumber: 26
-phone: "+49 30 505 66 558"
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-14:00; Sa-Su off"
+street: Osnabrücker Straße
+housenumber: "26"
+phone: +49 30 505 66 558
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-14:00; Sa-Su off
 website: ""

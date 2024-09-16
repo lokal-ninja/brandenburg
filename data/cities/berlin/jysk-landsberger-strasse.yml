@@ -1,11 +1,11 @@
 id: 218895498
-type: way
+type: node
 latitude: 52.50578
 longitude: 13.62014
 postcode: "12623"
 city: Berlin
-street: "Landsberger Straße"
-housenumber: 4
-phone: "+49 30 565824440"
-opening_hours: "Mo-Fr 10:00-19:00, Sa 09:30-19:00; PH off"
-website: "https://jysk.de/"
+street: Landsberger Straße
+housenumber: "4"
+phone: +49 30 565824440
+opening_hours: Mo-Fr 10:00-19:00, Sa 09:30-19:00; PH off
+website: https://jysk.de/

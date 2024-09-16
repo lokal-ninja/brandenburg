@@ -4,8 +4,8 @@ latitude: 52.45992
 longitude: 13.32555
 postcode: "12163"
 city: Berlin
-street: "Hubertusstraße"
-housenumber: 5
+street: Hubertusstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.aracreate.com/"
+website: https://www.aracreate.com/

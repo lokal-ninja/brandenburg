@@ -1,11 +1,11 @@
 id: 477365744
-type: way
+type: node
 latitude: 52.35302
 longitude: 14.56155
-postcode: "69-100"
+postcode: 69-100
 city: Słubice
-street: "Plac Przyjaźni"
-housenumber: 18
+street: Plac Przyjaźni
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

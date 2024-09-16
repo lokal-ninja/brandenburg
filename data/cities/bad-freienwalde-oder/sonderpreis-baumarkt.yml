@@ -1,11 +1,11 @@
 id: 166529776
-type: way
+type: node
 latitude: 52.78852
 longitude: 14.04156
 postcode: ""
 city: Bad Freienwalde (Oder)
-street: "Am Polderdamm"
-housenumber: 2
+street: Am Polderdamm
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

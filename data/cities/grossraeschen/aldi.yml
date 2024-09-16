@@ -1,11 +1,11 @@
 id: 35778935
-type: way
+type: node
 latitude: 51.59094
 longitude: 14.01234
 postcode: "01983"
 city: Großräschen
-street: "IFA-Park"
-housenumber: 2
+street: IFA-Park
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

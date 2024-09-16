@@ -1,11 +1,11 @@
 id: 44070264
-type: way
+type: node
 latitude: 52.44444
 longitude: 13.33539
 postcode: "12247"
 city: Berlin
-street: "Siemensstraße"
-housenumber: 22
-phone: "+49 30 76903628"
-opening_hours: "Mo-Fr 07:00-00:00; Sa 07:00-23:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-siemensstra%C3%9Fe-siemensstr.-21-23/index.jsp"
+street: Siemensstraße
+housenumber: "22"
+phone: +49 30 76903628
+opening_hours: Mo-Fr 07:00-00:00; Sa 07:00-23:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-siemensstra%C3%9Fe-siemensstr.-21-23/index.jsp

@@ -4,8 +4,8 @@ latitude: 52.60657
 longitude: 12.33799
 postcode: "14712"
 city: Rathenow
-street: "Berliner Straße"
-housenumber: 78
+street: Berliner Straße
+housenumber: "78"
 phone: ""
-opening_hours: "Mo,Th,Fr 08:00-18:00; Tu,We 08:00-14:00"
-website: "https://www.haarfein-rathenow.de/"
+opening_hours: Mo,Th,Fr 08:00-18:00; Tu,We 08:00-14:00
+website: https://www.haarfein-rathenow.de/

@@ -4,8 +4,8 @@ latitude: 52.59259
 longitude: 13.32741
 postcode: "13437"
 city: Berlin
-street: "Eichborndamm"
-housenumber: 260
+street: Eichborndamm
+housenumber: "260"
 phone: "+493084523120"
-opening_hours: "Tu 09:30-15:00, Th-Fr 09:30-15:00, Sa 09:30-14:00"
-website: "http://www.diereitsportscheune.de/"
+opening_hours: Tu 09:30-15:00, Th-Fr 09:30-15:00, Sa 09:30-14:00
+website: http://www.diereitsportscheune.de/

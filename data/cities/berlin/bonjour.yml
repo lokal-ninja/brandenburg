@@ -4,8 +4,8 @@ latitude: 52.51623
 longitude: 13.48255
 postcode: "10367"
 city: Berlin
-street: "Normannenstraße"
-housenumber: 37
+street: Normannenstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Su 07:00-15:00; Sa 07:00-14:00"
+opening_hours: Mo-Fr 06:00-18:00; Su 07:00-15:00; Sa 07:00-14:00
 website: ""

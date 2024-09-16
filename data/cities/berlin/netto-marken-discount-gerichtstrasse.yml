@@ -1,11 +1,11 @@
 id: 24964657
-type: way
+type: node
 latitude: 52.54387
 longitude: 13.37054
 postcode: "13347"
 city: Berlin
-street: "Gerichtstraße"
+street: Gerichtstraße
 housenumber: 60-61
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/

@@ -4,8 +4,8 @@ latitude: 52.51707
 longitude: 13.3047
 postcode: "10585"
 city: Berlin
-street: "Wilmersdorfer Straße"
-housenumber: 164
+street: Wilmersdorfer Straße
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "http://www.tinte-und-tonerbar.de"
+opening_hours: Mo-Fr 11:00-18:00
+website: http://www.tinte-und-tonerbar.de

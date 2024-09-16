@@ -1,11 +1,11 @@
 id: 78562660
-type: way
+type: node
 latitude: 52.43375
 longitude: 13.24453
 postcode: "14163"
 city: Berlin
-street: "Potsdamer Straße"
-housenumber: 18
-phone: "+49 1805 52727264"
+street: Potsdamer Straße
+housenumber: "18"
+phone: +49 1805 52727264
 opening_hours: ""
 website: ""

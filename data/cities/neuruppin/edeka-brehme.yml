@@ -1,11 +1,11 @@
 id: 206370956
-type: way
+type: node
 latitude: 52.91518
 longitude: 12.80224
 postcode: "16816"
 city: Neuruppin
-street: "Trenckmannstraße"
-housenumber: 20
+street: Trenckmannstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "https://www.supermarktcheck.de/supermarkt/36264-edeka-brehme-neuruppin/"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: https://www.supermarktcheck.de/supermarkt/36264-edeka-brehme-neuruppin/

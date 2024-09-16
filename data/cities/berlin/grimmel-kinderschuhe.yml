@@ -4,8 +4,8 @@ latitude: 52.48989
 longitude: 13.40929
 postcode: "10967"
 city: Berlin
-street: "Körtestraße"
-housenumber: 29
+street: Körtestraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 12:00-18:00; Sa 11:00-16:00
 website: ""

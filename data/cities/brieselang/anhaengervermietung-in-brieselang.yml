@@ -1,11 +1,11 @@
 id: 633246797
-type: way
+type: node
 latitude: 52.57849
 longitude: 12.99645
 postcode: "14656"
 city: Brieselang
-street: "Wustermarker Allee"
-housenumber: 9
+street: Wustermarker Allee
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

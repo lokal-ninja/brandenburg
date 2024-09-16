@@ -1,11 +1,11 @@
 id: 140964251
-type: way
+type: node
 latitude: 51.72919
 longitude: 14.32621
 postcode: "03048"
 city: Cottbus
-street: "Thierbacher Straße"
-housenumber: 11
+street: Thierbacher Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

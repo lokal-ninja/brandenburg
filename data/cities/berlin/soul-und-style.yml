@@ -4,8 +4,8 @@ latitude: 52.49515
 longitude: 13.42261
 postcode: "12047"
 city: Berlin
-street: "Maybachufer"
-housenumber: 6
+street: Maybachufer
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,We,Th 12:00-20:00; Tu,Fr,Sa 11:00-20:00"
+opening_hours: Mo,We,Th 12:00-20:00; Tu,Fr,Sa 11:00-20:00
 website: ""

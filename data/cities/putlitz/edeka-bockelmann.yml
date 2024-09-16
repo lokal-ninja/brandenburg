@@ -1,11 +1,11 @@
 id: 68742000
-type: way
+type: node
 latitude: 53.24984
 longitude: 12.04476
 postcode: ""
 city: Putlitz
-street: "Zur Burghofwiese"
-housenumber: 1
+street: Zur Burghofwiese
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

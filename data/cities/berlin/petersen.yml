@@ -4,8 +4,8 @@ latitude: 52.48578
 longitude: 13.36256
 postcode: "10829"
 city: Berlin
-street: "Kolonnenstraße"
-housenumber: 51
+street: Kolonnenstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Anrufen wenn geschlossen"
+opening_hours: '"Anrufen wenn geschlossen"'
 website: ""

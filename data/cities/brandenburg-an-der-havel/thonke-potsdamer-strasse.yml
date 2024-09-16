@@ -4,8 +4,8 @@ latitude: 52.40488
 longitude: 12.57226
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Potsdamer Straße"
-housenumber: 23
-phone: "+49 3381 410646"
-opening_hours: "Mo-Fr 06:30-18:30; Sa 06:30-18:00"
-website: "https://www.thonke.de/filialen/brandenburg.html"
+street: Potsdamer Straße
+housenumber: "23"
+phone: +49 3381 410646
+opening_hours: Mo-Fr 06:30-18:30; Sa 06:30-18:00
+website: https://www.thonke.de/filialen/brandenburg.html

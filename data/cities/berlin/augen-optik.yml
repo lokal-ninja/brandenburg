@@ -4,8 +4,8 @@ latitude: 52.41795
 longitude: 13.49498
 postcode: "12357"
 city: Berlin
-street: "Alt-Rudow"
-housenumber: 54
+street: Alt-Rudow
+housenumber: "54"
 phone: "+493060540350"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00"
-website: "https://www.augen-optik.net/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00
+website: https://www.augen-optik.net/

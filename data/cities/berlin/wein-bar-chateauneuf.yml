@@ -4,8 +4,8 @@ latitude: 52.44224
 longitude: 13.29414
 postcode: "12205"
 city: Berlin
-street: "Curtiusstraße"
-housenumber: 12
+street: Curtiusstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Sa 17:00-20:00+"
-website: "http://www.chateauneuf-berlin.net/"
+opening_hours: Tu-Sa 17:00-20:00+
+website: http://www.chateauneuf-berlin.net/

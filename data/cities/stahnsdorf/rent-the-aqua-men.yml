@@ -1,11 +1,11 @@
 id: 179305869
-type: way
+type: node
 latitude: 52.38823
 longitude: 13.21648
 postcode: "14532"
 city: Stahnsdorf
-street: "Lindenstraße"
-housenumber: 44
+street: Lindenstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "http://www.rent-the-aqua-men.de/"
+website: http://www.rent-the-aqua-men.de/

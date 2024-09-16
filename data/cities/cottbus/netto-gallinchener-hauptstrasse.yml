@@ -1,11 +1,11 @@
 id: 149170136
-type: way
+type: node
 latitude: 51.71543
 longitude: 14.35156
 postcode: "03051"
 city: Cottbus
-street: "Gallinchener Hauptstraße"
-housenumber: 4
+street: Gallinchener Hauptstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

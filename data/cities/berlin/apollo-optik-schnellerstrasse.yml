@@ -4,8 +4,8 @@ latitude: 52.45701
 longitude: 13.50845
 postcode: "12439"
 city: Berlin
-street: "Schnellerstraße"
-housenumber: 21
-phone: "+49 30 66764686"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.apollo.de"
+street: Schnellerstraße
+housenumber: "21"
+phone: +49 30 66764686
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.apollo.de

@@ -4,8 +4,8 @@ latitude: 52.54607
 longitude: 13.36901
 postcode: "13347"
 city: Berlin
-street: "Plantagenstraße"
-housenumber: 43
+street: Plantagenstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo,Th 13:00-17:00; We,Fr 11:00-17:00; Mo off"
-website: "http://www.second-hemd-berlin.de/"
+opening_hours: Mo,Th 13:00-17:00; We,Fr 11:00-17:00; Mo off
+website: http://www.second-hemd-berlin.de/

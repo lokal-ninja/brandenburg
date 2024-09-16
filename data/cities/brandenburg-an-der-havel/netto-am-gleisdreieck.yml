@@ -1,11 +1,11 @@
 id: 523679019
-type: way
+type: node
 latitude: 52.38705
 longitude: 12.40966
 postcode: "14774"
 city: Brandenburg an der Havel
-street: "Am Gleisdreieck"
-housenumber: 14
+street: Am Gleisdreieck
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

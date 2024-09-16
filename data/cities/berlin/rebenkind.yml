@@ -4,8 +4,8 @@ latitude: 52.52988
 longitude: 13.38107
 postcode: "10115"
 city: Berlin
-street: "Invalidenstraße"
-housenumber: 104
+street: Invalidenstraße
+housenumber: "104"
 phone: ""
-opening_hours: "Tu 11:00-19:00; We-Fr 11:00-20:00; Sa 11:00-18:00"
+opening_hours: Tu 11:00-19:00; We-Fr 11:00-20:00; Sa 11:00-18:00
 website: ""

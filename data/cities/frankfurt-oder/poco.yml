@@ -1,11 +1,11 @@
 id: 44604262
-type: way
+type: node
 latitude: 52.36054
 longitude: 14.52885
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Perleberger Straße"
-housenumber: 3
-phone: "+49 335 130910"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 09:00-18:00"
+street: Perleberger Straße
+housenumber: "3"
+phone: +49 335 130910
+opening_hours: Mo-Fr 10:00-20:00; Sa 09:00-18:00
 website: ""

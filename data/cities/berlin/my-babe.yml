@@ -4,8 +4,8 @@ latitude: 52.50266
 longitude: 13.45293
 postcode: "10245"
 city: Berlin
-street: "Lehmbruckstraße"
-housenumber: 13
+street: Lehmbruckstraße
+housenumber: "13"
 phone: ""
-opening_hours: "just make an appointment"
+opening_hours: '"just make an appointment"'
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.36452
 longitude: 13.12778
 postcode: "14480"
 city: Potsdam
-street: "Sternstraße"
-housenumber: 66
-phone: "+49 331 6007465"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.1-2-3-kuechen.de/"
+street: Sternstraße
+housenumber: "66"
+phone: +49 331 6007465
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.1-2-3-kuechen.de/

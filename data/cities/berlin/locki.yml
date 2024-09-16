@@ -4,8 +4,8 @@ latitude: 52.54644
 longitude: 13.39002
 postcode: "13355"
 city: Berlin
-street: "Brunnenstraße"
-housenumber: 100
-phone: "+49 1578 7236102"
-opening_hours: "Mo-Sa 09:30-20:00"
+street: Brunnenstraße
+housenumber: "100"
+phone: +49 1578 7236102
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

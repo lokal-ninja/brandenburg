@@ -1,11 +1,12 @@
 id: 1044496530
-type: way
+type: node
 latitude: 52.38343
 longitude: 12.61231
 postcode: "14797"
 city: Kloster Lehnin
-street: "Rietzer Berg"
-housenumber: 23
+street: Rietzer Berg
+housenumber: "23"
 phone: ""
-opening_hours: "Apr 01-Nov 30: Mo-Th 06:30-16:30; Apr 01-Nov 30: Fr 06:30-15:00; Dec 01-Mar 31: Mo-Th 07:00-16:00; Dec 01-Mar 31: Fr 07:00-15:00"
+opening_hours: 'Apr 01-Nov 30: Mo-Th 06:30-16:30; Apr 01-Nov 30: Fr 06:30-15:00; Dec
+    01-Mar 31: Mo-Th 07:00-16:00; Dec 01-Mar 31: Fr 07:00-15:00'
 website: ""

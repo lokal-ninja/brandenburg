@@ -1,11 +1,11 @@
 id: 364619974
-type: way
+type: node
 latitude: 52.47316
 longitude: 12.99932
 postcode: "14476"
 city: Potsdam
-street: "Ketziner Straße"
-housenumber: 113
-phone: "+49 33208 54710"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 10:00-15:00; PH closed"
-website: "https://www.kerana.de/"
+street: Ketziner Straße
+housenumber: "113"
+phone: +49 33208 54710
+opening_hours: Mo-Fr 06:30-18:00; Sa 10:00-15:00; PH closed
+website: https://www.kerana.de/

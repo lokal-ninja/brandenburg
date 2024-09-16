@@ -4,8 +4,8 @@ latitude: 52.51706
 longitude: 13.30689
 postcode: "10585"
 city: Berlin
-street: "Otto-Suhr-Allee"
-housenumber: 111
+street: Otto-Suhr-Allee
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-16:00; Su,PH off
 website: ""

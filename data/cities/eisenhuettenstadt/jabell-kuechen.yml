@@ -1,11 +1,11 @@
 id: 44787600
-type: way
+type: node
 latitude: 52.15381
 longitude: 14.63376
 postcode: "15890"
 city: Eisenhüttenstadt
-street: "Werkstraße"
-housenumber: 3
+street: Werkstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off
 website: ""

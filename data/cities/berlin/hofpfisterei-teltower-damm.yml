@@ -4,8 +4,8 @@ latitude: 52.4326
 longitude: 13.25943
 postcode: ""
 city: Berlin
-street: "Teltower Damm"
-housenumber: 25
+street: Teltower Damm
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00
 website: ""

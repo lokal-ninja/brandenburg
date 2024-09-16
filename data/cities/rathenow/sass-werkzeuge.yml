@@ -1,11 +1,11 @@
 id: 657815378
-type: way
+type: node
 latitude: 52.61488
 longitude: 12.33865
 postcode: "14712"
 city: Rathenow
-street: "Semliner Straße"
-housenumber: 230
+street: Semliner Straße
+housenumber: "230"
 phone: ""
 opening_hours: ""
 website: ""

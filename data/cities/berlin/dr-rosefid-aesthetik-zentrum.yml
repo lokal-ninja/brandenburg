@@ -4,8 +4,8 @@ latitude: 52.43752
 longitude: 13.345
 postcode: "12247"
 city: Berlin
-street: "Leonorenstraße"
-housenumber: 87
+street: Leonorenstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

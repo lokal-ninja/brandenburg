@@ -4,8 +4,8 @@ latitude: 52.51883
 longitude: 13.45437
 postcode: "10247"
 city: Berlin
-street: "Weidenweg"
-housenumber: 56
-phone: "+49 30 42016707"
-opening_hours: "Mo-Sa 08:00-22:00"
+street: Weidenweg
+housenumber: "56"
+phone: +49 30 42016707
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

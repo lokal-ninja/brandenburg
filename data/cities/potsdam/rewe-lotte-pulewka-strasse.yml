@@ -1,11 +1,11 @@
 id: 240007601
-type: way
+type: node
 latitude: 52.39466
 longitude: 13.07818
 postcode: "14473"
 city: Potsdam
-street: "Lotte-Pulewka-Straße"
-housenumber: 8
+street: Lotte-Pulewka-Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

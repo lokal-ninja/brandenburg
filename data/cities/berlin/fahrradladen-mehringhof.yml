@@ -4,8 +4,8 @@ latitude: 52.49175
 longitude: 13.3889
 postcode: "10961"
 city: Berlin
-street: "Gneisenaustraße"
+street: Gneisenaustraße
 housenumber: 2a
-phone: "+49 30 6916027"
-opening_hours: "Tu, Th-Fr 10:00-19:00; Sa 11:00-15:00; Su, We 07:00-19:00"
-website: "https://www.fahrradladen-mehringhof.de/"
+phone: +49 30 6916027
+opening_hours: Tu, Th-Fr 10:00-19:00; Sa 11:00-15:00; Su, We 07:00-19:00
+website: https://www.fahrradladen-mehringhof.de/

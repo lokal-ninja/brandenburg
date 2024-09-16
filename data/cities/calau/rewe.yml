@@ -1,11 +1,11 @@
 id: 51909618
-type: way
+type: node
 latitude: 51.74429
 longitude: 13.9561
 postcode: "03205"
 city: Calau
-street: "Karl-Marx-Straße"
-housenumber: 10
+street: Karl-Marx-Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

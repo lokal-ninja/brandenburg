@@ -4,8 +4,8 @@ latitude: 52.4516
 longitude: 13.3789
 postcode: "12105"
 city: Berlin
-street: "Ullsteinstraße"
-housenumber: 176
-phone: "+49 30 74206980"
-opening_hours: "Mo-Fr 08:00-13:45"
-website: "http://www.gfs-fachschule-berlin.de/standorte.html"
+street: Ullsteinstraße
+housenumber: "176"
+phone: +49 30 74206980
+opening_hours: Mo-Fr 08:00-13:45
+website: http://www.gfs-fachschule-berlin.de/standorte.html

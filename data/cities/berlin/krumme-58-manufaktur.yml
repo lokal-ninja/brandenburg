@@ -4,8 +4,8 @@ latitude: 52.50751
 longitude: 13.30961
 postcode: "10627"
 city: Berlin
-street: "Krumme Straße"
-housenumber: 58
+street: Krumme Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Tu-Sa 11:03-19:01"
-website: "http://krumme58.de"
+opening_hours: Tu-Sa 11:03-19:01
+website: http://krumme58.de

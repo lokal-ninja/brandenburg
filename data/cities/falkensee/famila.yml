@@ -1,11 +1,11 @@
 id: 27425140
-type: way
+type: node
 latitude: 52.55635
 longitude: 13.0945
 postcode: "14612"
 city: Falkensee
-street: "Barkhausenstraße"
-housenumber: 66
+street: Barkhausenstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

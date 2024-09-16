@@ -4,8 +4,8 @@ latitude: 52.52247
 longitude: 13.41312
 postcode: "10178"
 city: Berlin
-street: "Alexanderplatz"
+street: Alexanderplatz
 housenumber: 5-7
-phone: "+49 30 23457162"
-opening_hours: "Mo-We 10:00-21:00; Th-Sa 10:00-22:00"
-website: "https://www.primark.com/"
+phone: +49 30 23457162
+opening_hours: Mo-We 10:00-21:00; Th-Sa 10:00-22:00
+website: https://www.primark.com/

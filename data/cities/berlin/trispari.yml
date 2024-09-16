@@ -4,8 +4,8 @@ latitude: 52.49459
 longitude: 13.30099
 postcode: "10709"
 city: Berlin
-street: "Westfälische Straße"
-housenumber: 72
+street: Westfälische Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
-website: "https://trispari.de/"
+website: https://trispari.de/

@@ -1,11 +1,11 @@
 id: 1028984571
-type: way
+type: node
 latitude: 52.53853
 longitude: 12.98154
 postcode: "14641"
 city: Wustermark
-street: "Alter Spandauer Weg"
-housenumber: 1
+street: Alter Spandauer Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

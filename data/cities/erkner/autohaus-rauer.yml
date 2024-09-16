@@ -1,11 +1,11 @@
 id: 24934889
-type: way
+type: node
 latitude: 52.42914
 longitude: 13.74053
 postcode: "15537"
 city: Erkner
-street: "Gewerbegebiet zum Wasserwerk"
-housenumber: 2
+street: Gewerbegebiet zum Wasserwerk
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

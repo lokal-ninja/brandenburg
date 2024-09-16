@@ -4,8 +4,8 @@ latitude: 52.52706
 longitude: 13.33385
 postcode: "10551"
 city: Berlin
-street: "Turmstraße"
-housenumber: 47
+street: Turmstraße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 10:30-19:00"
-website: "https://www.az-handy.berlin/"
+opening_hours: Mo-Fr 10:30-19:00
+website: https://www.az-handy.berlin/

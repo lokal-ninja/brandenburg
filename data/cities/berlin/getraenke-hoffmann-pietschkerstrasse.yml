@@ -1,11 +1,11 @@
 id: 70130291
-type: way
+type: node
 latitude: 52.45078
 longitude: 13.50929
 postcode: "12487"
 city: Berlin
-street: "Pietschkerstraße"
-housenumber: 14
+street: Pietschkerstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

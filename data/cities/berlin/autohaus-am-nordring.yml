@@ -1,11 +1,11 @@
 id: 48798432
-type: way
+type: node
 latitude: 52.56293
 longitude: 13.54992
 postcode: "12681"
 city: Berlin
-street: "Nordring"
-housenumber: 6
+street: Nordring
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-14:00
 website: ""

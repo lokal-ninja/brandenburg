@@ -1,11 +1,11 @@
 id: 670976711
-type: way
+type: node
 latitude: 52.38119
 longitude: 13.12667
 postcode: "14480"
 city: Potsdam
-street: "Großbeerenstraße"
-housenumber: 235
-phone: "+49 331 2731329"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://kfz-amelang-opaterni.de/"
+street: Großbeerenstraße
+housenumber: "235"
+phone: +49 331 2731329
+opening_hours: Mo-Fr 07:00-18:00
+website: https://kfz-amelang-opaterni.de/

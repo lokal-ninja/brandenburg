@@ -1,11 +1,11 @@
 id: 895455879
-type: way
+type: node
 latitude: 51.51543
 longitude: 13.41494
 postcode: "04924"
 city: Bad Liebenwerda
-street: "Dresdener Straße"
-housenumber: 56
-phone: "+49 35341 10511"
+street: Dresdener Straße
+housenumber: "56"
+phone: +49 35341 10511
 opening_hours: ""
 website: ""

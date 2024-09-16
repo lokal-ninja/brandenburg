@@ -1,11 +1,11 @@
 id: 235451225
-type: way
+type: node
 latitude: 51.77446
 longitude: 14.30018
 postcode: ""
 city: Cottbus
-street: "Levinestraße"
-housenumber: 5
+street: Levinestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

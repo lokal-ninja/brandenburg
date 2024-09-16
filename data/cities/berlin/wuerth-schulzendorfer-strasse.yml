@@ -4,8 +4,8 @@ latitude: 52.5404
 longitude: 13.37096
 postcode: "13347"
 city: Berlin
-street: "Schulzendorfer Straße"
-housenumber: 26
-phone: "+49 30 206309980"
-opening_hours: "Mo-Th 06:30-17:00; Fr 06:30-16:00"
-website: "https://www.wuerth.de/web/de/awkg/niederlassungen/niederlassung.php?branch=500154"
+street: Schulzendorfer Straße
+housenumber: "26"
+phone: +49 30 206309980
+opening_hours: Mo-Th 06:30-17:00; Fr 06:30-16:00
+website: https://www.wuerth.de/web/de/awkg/niederlassungen/niederlassung.php?branch=500154

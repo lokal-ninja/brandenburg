@@ -4,8 +4,8 @@ latitude: 52.4443
 longitude: 13.31529
 postcode: "12203"
 city: Berlin
-street: "Hindenburgdamm"
-housenumber: 86
-phone: "+49 30 8342058"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 09:00-13:00"
-website: "https://www.berlin-gardinen.de/"
+street: Hindenburgdamm
+housenumber: "86"
+phone: +49 30 8342058
+opening_hours: Mo-Fr 09:00-17:30; Sa 09:00-13:00
+website: https://www.berlin-gardinen.de/

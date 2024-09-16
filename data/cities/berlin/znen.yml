@@ -1,11 +1,11 @@
 id: 133877582
-type: way
+type: node
 latitude: 52.45729
 longitude: 13.39401
 postcode: "12099"
 city: Berlin
-street: "Colditzstraße"
+street: Colditzstraße
 housenumber: 27/29
-phone: "+49 30 76008441"
-opening_hours: "Mo-Fr 10:00-20:00, Sa 08:00-16:00"
-website: "https://www.burnout-trade.de/"
+phone: +49 30 76008441
+opening_hours: Mo-Fr 10:00-20:00, Sa 08:00-16:00
+website: https://www.burnout-trade.de/

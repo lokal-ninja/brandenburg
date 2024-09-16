@@ -4,8 +4,8 @@ latitude: 52.52633
 longitude: 13.38673
 postcode: "10117"
 city: Berlin
-street: "Friedrichstraße"
-housenumber: 123
-phone: "+49 30 22027351"
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-15:00"
-website: "https://www.boxie24.com/de-de/lagerraum-mieten-berlin/"
+street: Friedrichstraße
+housenumber: "123"
+phone: +49 30 22027351
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-15:00
+website: https://www.boxie24.com/de-de/lagerraum-mieten-berlin/

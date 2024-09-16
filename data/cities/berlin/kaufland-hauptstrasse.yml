@@ -1,11 +1,11 @@
 id: 113775360
-type: way
+type: node
 latitude: 52.5479
 longitude: 13.50455
 postcode: "13055"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 10
+street: Hauptstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

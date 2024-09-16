@@ -4,8 +4,8 @@ latitude: 52.49478
 longitude: 13.38367
 postcode: "10963"
 city: Berlin
-street: "Großbeerenstraße"
-housenumber: 24
+street: Großbeerenstraße
+housenumber: "24"
 phone: "+4915783592477"
-opening_hours: "We-Fr 12:00-18:30"
-website: "https://barbara-carbonell.de/"
+opening_hours: We-Fr 12:00-18:30
+website: https://barbara-carbonell.de/

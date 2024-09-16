@@ -4,8 +4,8 @@ latitude: 52.43664
 longitude: 13.54496
 postcode: "12489"
 city: Berlin
-street: "Dörpfeldstraße"
-housenumber: 15
-phone: "+49 151 56661786"
+street: Dörpfeldstraße
+housenumber: "15"
+phone: +49 151 56661786
 opening_hours: ""
-website: "http://banna-massagen.de/"
+website: http://banna-massagen.de/

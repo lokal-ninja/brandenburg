@@ -1,11 +1,11 @@
 id: 197372481
-type: way
+type: node
 latitude: 52.77743
 longitude: 14.05186
 postcode: "16259"
 city: Bad Freienwalde (Oder)
-street: "Frankfurter Straße"
-housenumber: 13
+street: Frankfurter Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

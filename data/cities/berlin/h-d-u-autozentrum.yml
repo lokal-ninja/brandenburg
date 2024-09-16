@@ -4,8 +4,8 @@ latitude: 52.63601
 longitude: 13.50741
 postcode: "13125"
 city: Berlin
-street: "Schwanebecker Chaussee"
-housenumber: 5
+street: Schwanebecker Chaussee
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 06:30-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 06:30-18:00; Sa 09:00-13:00
 website: ""

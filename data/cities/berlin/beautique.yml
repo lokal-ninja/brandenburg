@@ -4,8 +4,8 @@ latitude: 52.47924
 longitude: 13.32055
 postcode: "10713"
 city: Berlin
-street: "Blissestraße"
-housenumber: 65
+street: Blissestraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.beautiquekosmetik.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.beautiquekosmetik.de/

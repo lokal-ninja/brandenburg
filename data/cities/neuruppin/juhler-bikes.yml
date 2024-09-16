@@ -4,8 +4,8 @@ latitude: 52.91627
 longitude: 12.80131
 postcode: "16816"
 city: Neuruppin
-street: "Fehrbelliner Straße"
-housenumber: 133
-phone: "+49 1514 0405936"
-opening_hours: "Mo-Tu,Thu 10:00-12:00,13:00-18:00; Wed 10:00-15:00; Fr 10:00-12:00,13:00-16:00"
+street: Fehrbelliner Straße
+housenumber: "133"
+phone: +49 1514 0405936
+opening_hours: Mo-Tu,Thu 10:00-12:00,13:00-18:00; Wed 10:00-15:00; Fr 10:00-12:00,13:00-16:00
 website: ""

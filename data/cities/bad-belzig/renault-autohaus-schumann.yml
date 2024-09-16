@@ -1,11 +1,11 @@
 id: 342294867
-type: way
+type: node
 latitude: 52.14645
 longitude: 12.61278
 postcode: "14806"
 city: Bad Belzig
-street: "Im Gewerbepark Seedoche"
-housenumber: 2
-phone: "+49 33841 5880"
+street: Im Gewerbepark Seedoche
+housenumber: "2"
+phone: +49 33841 5880
 opening_hours: ""
-website: "http://www.schumann-auto.de/"
+website: http://www.schumann-auto.de/

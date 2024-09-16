@@ -1,11 +1,11 @@
 id: 89699934
-type: way
+type: node
 latitude: 52.60789
 longitude: 13.19736
 postcode: "16761"
 city: Hennigsdorf
-street: "Bahnhofstraße"
-housenumber: 1
+street: Bahnhofstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

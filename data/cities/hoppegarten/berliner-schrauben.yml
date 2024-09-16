@@ -1,11 +1,11 @@
 id: 785191402
-type: way
+type: node
 latitude: 52.50676
 longitude: 13.64279
 postcode: "15366"
 city: Hoppegarten
-street: "Industriestraße"
-housenumber: 3
-phone: "+49 3342 50834 41"
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-14:00"
-website: "http://www.berliner-schrauben.de"
+street: Industriestraße
+housenumber: "3"
+phone: +49 3342 50834 41
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-14:00
+website: http://www.berliner-schrauben.de

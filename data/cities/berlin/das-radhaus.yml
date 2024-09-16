@@ -1,11 +1,11 @@
 id: 373413395
-type: way
+type: node
 latitude: 52.50594
 longitude: 13.5688
 postcode: "12683"
 city: Berlin
-street: "Alt-Biesdorf"
-housenumber: 45
+street: Alt-Biesdorf
+housenumber: "45"
 phone: "+493051063770"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.das-radhaus.de/filiale-berlin-biesdorf/"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.das-radhaus.de/filiale-berlin-biesdorf/

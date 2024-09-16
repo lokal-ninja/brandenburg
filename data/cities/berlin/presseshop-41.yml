@@ -4,8 +4,8 @@ latitude: 52.45865
 longitude: 13.33684
 postcode: "12169"
 city: Berlin
-street: "Bergstraße"
-housenumber: 75
-phone: "+49 30 7958174"
-opening_hours: "Mo-Fr 08:30-17:00; Sa 09:00-16:00"
+street: Bergstraße
+housenumber: "75"
+phone: +49 30 7958174
+opening_hours: Mo-Fr 08:30-17:00; Sa 09:00-16:00
 website: ""

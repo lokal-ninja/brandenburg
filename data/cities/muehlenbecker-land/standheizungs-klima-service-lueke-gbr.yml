@@ -4,8 +4,8 @@ latitude: 52.63622
 longitude: 13.37688
 postcode: "16552"
 city: Mühlenbecker Land
-street: "Hauptstraße"
-housenumber: 22
-phone: "+49 33056 80940"
-opening_hours: "Mo-Fr 08:00-18:00; PH off"
-website: "www.Lueke-Service.de"
+street: Hauptstraße
+housenumber: "22"
+phone: +49 33056 80940
+opening_hours: Mo-Fr 08:00-18:00; PH off
+website: www.Lueke-Service.de

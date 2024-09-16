@@ -4,8 +4,8 @@ latitude: 52.50549
 longitude: 13.3202
 postcode: "10623"
 city: Berlin
-street: "Bleibtreustraße"
-housenumber: 50
-phone: "+49 1525 9770343"
-opening_hours: "Mo-Sa 07:00-18:00"
-website: "https://www.facebook.com/robertscafeberlin/"
+street: Bleibtreustraße
+housenumber: "50"
+phone: +49 1525 9770343
+opening_hours: Mo-Sa 07:00-18:00
+website: https://www.facebook.com/robertscafeberlin/

@@ -4,8 +4,8 @@ latitude: 52.50385
 longitude: 13.58136
 postcode: "12621"
 city: Berlin
-street: "Chemnitzer Straße"
-housenumber: 15
-phone: "+49 30 56700888"
-opening_hours: "Mo-Fr 08:00-17:30; PH off"
-website: "https://www.reifenservice-a-mueller.de/"
+street: Chemnitzer Straße
+housenumber: "15"
+phone: +49 30 56700888
+opening_hours: Mo-Fr 08:00-17:30; PH off
+website: https://www.reifenservice-a-mueller.de/

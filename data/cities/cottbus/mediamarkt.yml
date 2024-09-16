@@ -1,11 +1,11 @@
 id: 142601309
-type: way
+type: node
 latitude: 51.71765
 longitude: 14.3171
 postcode: "03051"
 city: Cottbus
-street: "Am Seegraben"
+street: Am Seegraben
 housenumber: 20c
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-19:00; Su,PH off"
-website: "https://www.mediamarkt.de/de/store/cottbus-541"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-19:00; Su,PH off
+website: https://www.mediamarkt.de/de/store/cottbus-541

@@ -1,11 +1,11 @@
 id: 25706921
-type: way
+type: node
 latitude: 52.56457
 longitude: 13.44436
 postcode: "13089"
 city: Berlin
-street: "Romain-Rolland-Straße"
-housenumber: 13
-phone: "+49 30 4790740"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Romain-Rolland-Straße
+housenumber: "13"
+phone: +49 30 4790740
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

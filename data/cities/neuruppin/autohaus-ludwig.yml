@@ -1,11 +1,11 @@
 id: 220575444
-type: way
+type: node
 latitude: 52.88689
 longitude: 12.79903
 postcode: "16816"
 city: Neuruppin
-street: "Martin-Ebell-Straße"
-housenumber: 5
+street: Martin-Ebell-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

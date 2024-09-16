@@ -4,8 +4,8 @@ latitude: 51.75602
 longitude: 14.32918
 postcode: "03046"
 city: Cottbus
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 67
+street: Rudolf-Breitscheid-Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Tu 08:00-16:00; Fr 08:00-12:00"
-website: "https://www.hausgeraetedienst-cottbus.de/"
+opening_hours: Mo-Tu 08:00-16:00; Fr 08:00-12:00
+website: https://www.hausgeraetedienst-cottbus.de/

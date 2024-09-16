@@ -1,11 +1,11 @@
 id: 150937128
-type: way
+type: node
 latitude: 52.45612
 longitude: 13.62088
 postcode: "12587"
 city: Berlin
-street: "Fürstenwalder Damm"
+street: Fürstenwalder Damm
 housenumber: 435-441
-phone: "+49 30 641917 0"
-opening_hours: "Mo-Th 07:00-17:00;Fr 07:00-16:00; Sa, Su off"
-website: "https://www.borchert-berlin.de/standorte/friedrichshagen-koepenick/"
+phone: +49 30 641917 0
+opening_hours: Mo-Th 07:00-17:00;Fr 07:00-16:00; Sa, Su off
+website: https://www.borchert-berlin.de/standorte/friedrichshagen-koepenick/

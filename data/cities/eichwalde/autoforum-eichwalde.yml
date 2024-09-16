@@ -1,11 +1,11 @@
 id: 392879149
-type: way
+type: node
 latitude: 52.36896
 longitude: 13.61779
 postcode: "15732"
 city: Eichwalde
-street: "August-Bebel-Allee"
-housenumber: 31
+street: August-Bebel-Allee
+housenumber: "31"
 phone: ""
 opening_hours: ""
 website: ""

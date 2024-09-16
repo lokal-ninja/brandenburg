@@ -1,11 +1,11 @@
 id: 140002634
-type: way
+type: node
 latitude: 52.55258
 longitude: 13.43827
 postcode: "13086"
 city: Berlin
-street: "Langhansstraße"
-housenumber: 46
+street: Langhansstraße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

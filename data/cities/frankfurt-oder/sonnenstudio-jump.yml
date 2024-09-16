@@ -1,11 +1,11 @@
 id: 160096269
-type: way
+type: node
 latitude: 52.35203
 longitude: 14.54428
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Bergstraße"
-housenumber: 18
-phone: "+49 335 6802099"
-opening_hours: "Mo-Fr 11:00 - 20:00; Sa 11:00 - 19:00; Su 14:00-19:00"
-website: "https://www.sonnenstudio-jump.de/"
+street: Bergstraße
+housenumber: "18"
+phone: +49 335 6802099
+opening_hours: Mo-Fr 11:00 - 20:00; Sa 11:00 - 19:00; Su 14:00-19:00
+website: https://www.sonnenstudio-jump.de/

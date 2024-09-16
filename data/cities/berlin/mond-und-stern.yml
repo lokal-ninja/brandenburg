@@ -4,8 +4,8 @@ latitude: 52.53092
 longitude: 13.34589
 postcode: "10559"
 city: Berlin
-street: "Birkenstraße"
-housenumber: 58
+street: Birkenstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 05:30-18:00; Sa 06:00-14:00; PH,Su 08:00-14:00"
+opening_hours: Mo-Fr 05:30-18:00; Sa 06:00-14:00; PH,Su 08:00-14:00
 website: ""

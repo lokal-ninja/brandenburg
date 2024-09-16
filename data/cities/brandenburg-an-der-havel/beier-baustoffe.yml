@@ -1,11 +1,11 @@
 id: 88086040
-type: way
+type: node
 latitude: 52.44333
 longitude: 12.52276
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Münstersche Straße"
-housenumber: 7
+street: Münstersche Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

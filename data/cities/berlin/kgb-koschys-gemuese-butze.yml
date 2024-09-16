@@ -4,8 +4,8 @@ latitude: 52.52615
 longitude: 13.45174
 postcode: "10249"
 city: Berlin
-street: "Ebertystraße"
-housenumber: 51
+street: Ebertystraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

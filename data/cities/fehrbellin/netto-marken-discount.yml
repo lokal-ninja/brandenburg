@@ -1,11 +1,11 @@
 id: 131242250
-type: way
+type: node
 latitude: 52.81136
 longitude: 12.77398
 postcode: "16833"
 city: Fehrbellin
-street: "Am Bahndamm"
+street: Am Bahndamm
 housenumber: 28a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

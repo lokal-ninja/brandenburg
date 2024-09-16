@@ -1,11 +1,11 @@
 id: 445285280
-type: way
+type: node
 latitude: 52.36756
 longitude: 12.92992
 postcode: "14542"
 city: Werder (Havel)
-street: "Berliner Straße"
-housenumber: 55
+street: Berliner Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Tu-Fr 08:00-18:00; Sa 07:30-12:00; Mo, Su off"
-website: "http://fleischerei-joppe.de/"
+opening_hours: Tu-Fr 08:00-18:00; Sa 07:30-12:00; Mo, Su off
+website: http://fleischerei-joppe.de/

@@ -1,11 +1,11 @@
 id: 308128219
-type: way
+type: node
 latitude: 52.40345
 longitude: 13.57815
 postcode: "12526"
 city: Berlin
-street: "Joachimstraße"
-housenumber: 39
+street: Joachimstraße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa open nach Vereinbarung; PH off"
+opening_hours: Mo-Fr 07:00-18:00; Sa open "nach Vereinbarung"; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 199986080
-type: way
+type: node
 latitude: 52.67606
 longitude: 13.14568
 postcode: "16727"
 city: Oberkrämer
-street: "Breite Straße"
-housenumber: 65
-phone: "+49 3304 32400"
+street: Breite Straße
+housenumber: "65"
+phone: +49 3304 32400
 opening_hours: ""
 website: ""

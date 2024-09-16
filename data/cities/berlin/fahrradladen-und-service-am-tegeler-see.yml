@@ -4,8 +4,8 @@ latitude: 52.58771
 longitude: 13.28394
 postcode: "13507"
 city: Berlin
-street: "Brunowstraße"
-housenumber: 14
-phone: "+49 30 23928650"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
+street: Brunowstraße
+housenumber: "14"
+phone: +49 30 23928650
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
 website: ""

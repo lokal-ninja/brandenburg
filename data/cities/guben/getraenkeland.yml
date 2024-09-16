@@ -1,11 +1,11 @@
 id: 135776684
-type: way
+type: node
 latitude: 51.95078
 longitude: 14.70278
 postcode: "03172"
 city: Guben
-street: "Karl-Marx-Straße"
-housenumber: 86
+street: Karl-Marx-Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:00-13:00
 website: ""

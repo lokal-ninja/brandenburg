@@ -1,11 +1,11 @@
 id: 30768165
-type: way
+type: node
 latitude: 52.4171
 longitude: 13.3579
 postcode: "12279"
 city: Berlin
-street: "Symeonstraße"
-housenumber: 10
+street: Symeonstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

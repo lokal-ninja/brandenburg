@@ -1,11 +1,11 @@
 id: 97986822
-type: way
+type: node
 latitude: 52.09561
 longitude: 13.1507
 postcode: "14943"
 city: Luckenwalde
-street: "Brandenburger Straße"
-housenumber: 45
+street: Brandenburger Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

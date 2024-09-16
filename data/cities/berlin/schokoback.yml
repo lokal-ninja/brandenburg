@@ -4,8 +4,8 @@ latitude: 52.51416
 longitude: 13.43486
 postcode: "10243"
 city: Berlin
-street: "Koppenstraße"
-housenumber: 75
-phone: "+49 1772808241"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 06:00-16:00"
+street: Koppenstraße
+housenumber: "75"
+phone: +49 1772808241
+opening_hours: Mo-Fr 06:00-18:00; Sa-Su 06:00-16:00
 website: ""

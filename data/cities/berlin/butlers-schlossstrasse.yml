@@ -4,8 +4,8 @@ latitude: 52.46461
 longitude: 13.32728
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 1
-phone: "+49 30 30832142"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.butlers.com/pages/filialen"
+street: Schloßstraße
+housenumber: "1"
+phone: +49 30 30832142
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.butlers.com/pages/filialen

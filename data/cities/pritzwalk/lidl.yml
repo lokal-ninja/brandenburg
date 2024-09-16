@@ -1,11 +1,11 @@
 id: 384242085
-type: way
+type: node
 latitude: 53.15815
 longitude: 12.1731
 postcode: "16928"
 city: Pritzwalk
-street: "Rostocker Straße"
-housenumber: 3
+street: Rostocker Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

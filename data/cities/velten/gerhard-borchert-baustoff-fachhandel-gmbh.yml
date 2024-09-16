@@ -1,11 +1,11 @@
 id: 482267003
-type: way
+type: node
 latitude: 52.67862
 longitude: 13.18765
 postcode: "16727"
 city: Velten
-street: "Berliner Straße"
-housenumber: 5
+street: Berliner Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

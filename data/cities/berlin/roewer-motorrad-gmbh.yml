@@ -1,11 +1,11 @@
 id: 483236365
-type: way
+type: node
 latitude: 52.51882
 longitude: 13.52048
 postcode: "12681"
 city: Berlin
-street: "Rhinstraße"
-housenumber: 54
+street: Rhinstraße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "https://www.roewer-motorrad.de/"
+website: https://www.roewer-motorrad.de/

@@ -1,11 +1,11 @@
 id: 23191255
-type: way
+type: node
 latitude: 51.76546
 longitude: 14.35793
 postcode: "03042"
 city: Cottbus
-street: "Stadtring"
-housenumber: 8
-phone: "+49 355 729911 0"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-19:00; PH,Su off"
+street: Stadtring
+housenumber: "8"
+phone: +49 355 729911 0
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-19:00; PH,Su off
 website: ""

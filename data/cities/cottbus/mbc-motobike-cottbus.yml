@@ -1,11 +1,11 @@
 id: 96075844
-type: way
+type: node
 latitude: 51.71039
 longitude: 14.3541
 postcode: "03051"
 city: Cottbus
-street: "Feldweg"
-housenumber: 1
+street: Feldweg
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "http://www.motobike-cottbus.de"
+website: http://www.motobike-cottbus.de

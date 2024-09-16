@@ -4,8 +4,8 @@ latitude: 52.42962
 longitude: 13.19306
 postcode: "14129"
 city: Berlin
-street: "Alemannenstraße"
-housenumber: 40
+street: Alemannenstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.netto-online.de

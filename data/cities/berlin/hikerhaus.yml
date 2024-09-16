@@ -4,8 +4,8 @@ latitude: 52.53226
 longitude: 13.43468
 postcode: "10407"
 city: Berlin
-street: "Bötzowstraße"
-housenumber: 35
+street: Bötzowstraße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 10:00-14:00, 14:45-19:00; Sa 10:00-14:00, 14:45-17:00"
+opening_hours: Mo-Fr 10:00-14:00, 14:45-19:00; Sa 10:00-14:00, 14:45-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 310484376
-type: way
+type: node
 latitude: 52.46691
 longitude: 13.3417
 postcode: "12157"
 city: Berlin
-street: "Beckerstraße"
-housenumber: 21
+street: Beckerstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

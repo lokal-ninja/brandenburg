@@ -4,8 +4,8 @@ latitude: 52.4933
 longitude: 13.38125
 postcode: "10965"
 city: Berlin
-street: "Yorckstraße"
-housenumber: 18
-phone: "+49 30 28 384 695"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 11:00-16:00"
-website: "https://www.kuehn-keramik.de/"
+street: Yorckstraße
+housenumber: "18"
+phone: +49 30 28 384 695
+opening_hours: Tu-Fr 12:00-19:00; Sa 11:00-16:00
+website: https://www.kuehn-keramik.de/

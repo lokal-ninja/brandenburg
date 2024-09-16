@@ -4,8 +4,8 @@ latitude: 52.45346
 longitude: 13.62471
 postcode: "12587"
 city: Berlin
-street: "Bölschestraße"
-housenumber: 92
+street: Bölschestraße
+housenumber: "92"
 phone: "+493023986721"
-opening_hours: "Mo 10:00-15:00; Tu-Th 10:00-19:00; Fr 10:00-17:00"
+opening_hours: Mo 10:00-15:00; Tu-Th 10:00-19:00; Fr 10:00-17:00
 website: ""

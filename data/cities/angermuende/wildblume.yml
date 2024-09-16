@@ -4,8 +4,8 @@ latitude: 53.01724
 longitude: 14.00428
 postcode: "16278"
 city: Angermünde
-street: "Brüderstraße"
-housenumber: 5
-phone: "+49 3331-7297305"
-opening_hours: "Mo-Fr 10:00-17:00, Sa 10:00-12:00"
-website: "http://wildblume-angermuende.de"
+street: Brüderstraße
+housenumber: "5"
+phone: +49 3331-7297305
+opening_hours: Mo-Fr 10:00-17:00, Sa 10:00-12:00
+website: http://wildblume-angermuende.de

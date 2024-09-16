@@ -1,11 +1,11 @@
 id: 449844368
-type: way
+type: node
 latitude: 51.75039
 longitude: 14.32472
 postcode: ""
 city: Cottbus
-street: "Vetschauer Straße"
-housenumber: 70
+street: Vetschauer Straße
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

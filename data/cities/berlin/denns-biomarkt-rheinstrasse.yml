@@ -4,8 +4,8 @@ latitude: 52.47008
 longitude: 13.33412
 postcode: "12159"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 60
-phone: "+49 30 81006164"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.biomarkt.de/berlin-rheinstr-60/marktseite"
+street: Rheinstraße
+housenumber: "60"
+phone: +49 30 81006164
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.biomarkt.de/berlin-rheinstr-60/marktseite

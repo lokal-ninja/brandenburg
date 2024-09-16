@@ -4,8 +4,8 @@ latitude: 51.76578
 longitude: 14.36729
 postcode: "03042"
 city: Cottbus
-street: "Gubener Straße"
-housenumber: 19
-phone: "+49 355 35565"
-opening_hours: "Mo-Th 07:00-18:00, Fr 07:00-15:00, Sa a.Anfrage"
+street: Gubener Straße
+housenumber: "19"
+phone: +49 355 35565
+opening_hours: Mo-Th 07:00-18:00, Fr 07:00-15:00, Sa "a.Anfrage"
 website: ""

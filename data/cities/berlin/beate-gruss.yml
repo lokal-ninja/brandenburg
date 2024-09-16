@@ -4,8 +4,8 @@ latitude: 52.50142
 longitude: 13.33975
 postcode: "10789"
 city: Berlin
-street: "Passauer Straße"
-housenumber: 4
+street: Passauer Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "http://www.beate-gruss-berlin.de/"
+website: http://www.beate-gruss-berlin.de/

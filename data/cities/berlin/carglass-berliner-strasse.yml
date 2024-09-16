@@ -1,11 +1,11 @@
 id: 1297672726
-type: way
+type: node
 latitude: 52.57825
 longitude: 13.29301
 postcode: "13507"
 city: Berlin
-street: "Berliner Straße"
-housenumber: 51
+street: Berliner Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 08:00-13:30"
+opening_hours: Mo-Fr 07:30-17:00; Sa 08:00-13:30
 website: ""

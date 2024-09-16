@@ -4,8 +4,8 @@ latitude: 52.47782
 longitude: 13.42637
 postcode: "12049"
 city: Berlin
-street: "Hermannstraße"
-housenumber: 211
+street: Hermannstraße
+housenumber: "211"
 phone: ""
-opening_hours: "Mo-Su 08:00-18:00"
-website: "https://gorilla-baeckerei.de/"
+opening_hours: Mo-Su 08:00-18:00
+website: https://gorilla-baeckerei.de/

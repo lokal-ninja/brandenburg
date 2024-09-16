@@ -4,8 +4,8 @@ latitude: 52.14112
 longitude: 12.58789
 postcode: "14806"
 city: Bad Belzig
-street: "Straße der Einheit"
-housenumber: 15
+street: Straße der Einheit
+housenumber: "15"
 phone: ""
-opening_hours: "Tu,Th 12:00-18:00"
-website: "http://www.händewerke.de/"
+opening_hours: Tu,Th 12:00-18:00
+website: http://www.händewerke.de/

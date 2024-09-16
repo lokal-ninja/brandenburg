@@ -4,8 +4,8 @@ latitude: 52.56419
 longitude: 13.50492
 postcode: "13051"
 city: Berlin
-street: "Prerower Platz"
-housenumber: 1
-phone: "+49 30 91147786"
-opening_hours: "Mo-Sa 09:30-20:00; Su off"
-website: "https://shopseite.telekom.de/nord-ost/berlin/prerower-platz-1"
+street: Prerower Platz
+housenumber: "1"
+phone: +49 30 91147786
+opening_hours: Mo-Sa 09:30-20:00; Su off
+website: https://shopseite.telekom.de/nord-ost/berlin/prerower-platz-1

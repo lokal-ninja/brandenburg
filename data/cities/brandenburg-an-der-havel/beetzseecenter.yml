@@ -1,11 +1,11 @@
 id: 87550589
-type: way
+type: node
 latitude: 52.4334
 longitude: 12.54587
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Brielower Landstraße"
-housenumber: 19
+street: Brielower Landstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 20556868
-type: way
+type: node
 latitude: 52.61034
 longitude: 13.52543
 postcode: "16356"
 city: Ahrensfelde
-street: "Rudolf-Diesel-Straße"
-housenumber: 7
+street: Rudolf-Diesel-Straße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 06:00-22:00; Sa 08:00-19:30"
-website: "https://www.selgros.de/markt/lindenberg"
+opening_hours: Mo-Fr 06:00-22:00; Sa 08:00-19:30
+website: https://www.selgros.de/markt/lindenberg

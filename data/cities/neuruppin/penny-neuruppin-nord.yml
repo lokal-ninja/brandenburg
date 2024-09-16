@@ -1,11 +1,11 @@
 id: 240809238
-type: way
+type: node
 latitude: 52.93398
 longitude: 12.80889
 postcode: "16816"
 city: Neuruppin
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 39
+street: Gerhart-Hauptmann-Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

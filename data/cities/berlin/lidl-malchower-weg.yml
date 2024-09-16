@@ -1,11 +1,11 @@
 id: 45727593
-type: way
+type: node
 latitude: 52.56174
 longitude: 13.50179
 postcode: "13053"
 city: Berlin
-street: "Malchower Weg"
-housenumber: 134
+street: Malchower Weg
+housenumber: "134"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

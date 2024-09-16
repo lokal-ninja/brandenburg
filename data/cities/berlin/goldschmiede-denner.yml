@@ -4,8 +4,8 @@ latitude: 52.58751
 longitude: 13.28474
 postcode: "13507"
 city: Berlin
-street: "Brunowstraße"
-housenumber: 51
+street: Brunowstraße
+housenumber: "51"
 phone: "+49304335011"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://www.goldschmiede-denner.de/"
+opening_hours: Mo-Fr 09:30-18:00
+website: https://www.goldschmiede-denner.de/

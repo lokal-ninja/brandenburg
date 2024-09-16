@@ -1,11 +1,11 @@
 id: 50535352
-type: way
+type: node
 latitude: 52.48543
 longitude: 13.36803
 postcode: "10829"
 city: Berlin
-street: "Kolonnenstraße"
-housenumber: 31
-phone: "+4930 789567 0"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00"
-website: "https://www.renault-koenig.de/filialen/schoeneberg/"
+street: Kolonnenstraße
+housenumber: "31"
+phone: +4930 789567 0
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00
+website: https://www.renault-koenig.de/filialen/schoeneberg/

@@ -4,8 +4,8 @@ latitude: 52.50777
 longitude: 13.32455
 postcode: "10623"
 city: Berlin
-street: "Carmerstraße"
-housenumber: 2
+street: Carmerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.naliedivoire.com/"
+website: http://www.naliedivoire.com/

@@ -4,8 +4,8 @@ latitude: 52.49895
 longitude: 13.46442
 postcode: "10245"
 city: Berlin
-street: "Corinthstraße"
-housenumber: 58
+street: Corinthstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Su 10:00-24:00"
+opening_hours: Mo-Su 10:00-24:00
 website: ""

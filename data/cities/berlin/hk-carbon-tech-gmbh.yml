@@ -4,8 +4,8 @@ latitude: 52.41225
 longitude: 13.27794
 postcode: "14167"
 city: Berlin
-street: "Goerzallee"
-housenumber: 299
-phone: "+49 30 54909998"
+street: Goerzallee
+housenumber: "299"
+phone: +49 30 54909998
 opening_hours: ""
-website: "https://kyzr.de"
+website: https://kyzr.de

@@ -4,8 +4,8 @@ latitude: 52.45506
 longitude: 13.32691
 postcode: "12167"
 city: Berlin
-street: "Albrechtstraße"
-housenumber: 116
+street: Albrechtstraße
+housenumber: "116"
 phone: ""
-opening_hours: "We,Fr 10:00-15:00; Th 14:00-19:00; Sa 10:00-14:00"
-website: "http://www.lampenschirme-berlin.de/"
+opening_hours: We,Fr 10:00-15:00; Th 14:00-19:00; Sa 10:00-14:00
+website: http://www.lampenschirme-berlin.de/

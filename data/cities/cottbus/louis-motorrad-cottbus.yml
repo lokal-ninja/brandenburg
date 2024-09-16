@@ -4,8 +4,9 @@ latitude: 51.70703
 longitude: 14.35243
 postcode: "03051"
 city: Cottbus
-street: "Am Gewerbepark"
-housenumber: 14
-phone: "+49 3558 6689870"
-opening_hours: "Mar-Sep: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Oct-Feb: 09:00-19:00; Sa 09:00-18:00; Su off"
-website: "https://www.louis.de/filialen/louis-cottbus"
+street: Am Gewerbepark
+housenumber: "14"
+phone: +49 3558 6689870
+opening_hours: 'Mar-Sep: Mo-Fr 09:00-19:00; Sa 09:00-18:00; Oct-Feb: 09:00-19:00;
+    Sa 09:00-18:00; Su off'
+website: https://www.louis.de/filialen/louis-cottbus

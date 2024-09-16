@@ -4,8 +4,8 @@ latitude: 52.45678
 longitude: 13.57757
 postcode: "12555"
 city: Berlin
-street: "Bahnhofstraße"
-housenumber: 42
+street: Bahnhofstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
 website: ""

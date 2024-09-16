@@ -1,11 +1,11 @@
 id: 209911695
-type: way
+type: node
 latitude: 51.96904
 longitude: 13.60774
 postcode: "15938"
 city: Golßen
-street: "Stadtwall"
-housenumber: 32
+street: Stadtwall
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

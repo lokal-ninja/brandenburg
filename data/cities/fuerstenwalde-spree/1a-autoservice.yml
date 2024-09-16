@@ -1,11 +1,11 @@
 id: 340269797
-type: way
+type: node
 latitude: 52.3786
 longitude: 14.06284
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Ernst-Thälmann-Straße"
-housenumber: 
+street: Ernst-Thälmann-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

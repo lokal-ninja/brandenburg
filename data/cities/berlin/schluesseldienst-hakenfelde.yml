@@ -4,8 +4,8 @@ latitude: 52.5566
 longitude: 13.20894
 postcode: "13587"
 city: Berlin
-street: "Streitstraße"
-housenumber: 9
+street: Streitstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:00; Sa 10:00-14:00; Su,PH off"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-16:00; Sa 10:00-14:00; Su,PH off
 website: ""

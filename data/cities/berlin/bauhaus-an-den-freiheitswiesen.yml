@@ -1,11 +1,11 @@
 id: 25114190
-type: way
+type: node
 latitude: 52.52959
 longitude: 13.22118
 postcode: "13597"
 city: Berlin
-street: "An den Freiheitswiesen"
-housenumber: 6
+street: An den Freiheitswiesen
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Th 07:00-20:00; Fr 07:00-20:00; Sa 08:00-21:00; Su, PH off"
+opening_hours: Mo-Th 07:00-20:00; Fr 07:00-20:00; Sa 08:00-21:00; Su, PH off
 website: ""

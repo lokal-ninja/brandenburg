@@ -1,11 +1,13 @@
 id: 113720912
-type: way
+type: node
 latitude: 51.91566
 longitude: 14.12681
 postcode: "15913"
 city: Straupitz (Spreewald)
-street: "Laasower Straße"
+street: Laasower Straße
 housenumber: 11A
-phone: "+49 35475 16997"
-opening_hours: "Oct-Mar: Mo-Th 09:00-17:00; Oct-Mar: Fr 09:00-14:00; Apr-Jun,Sep-Oct: Tu-Fr 09:00-18:00; Apr-Jun,Sep-Oct: Sa 10:00-17:00; Jul-Aug: Mo 10:00-17:00; Jul-Aug: Tu-Fr 09:00-18:00; Jul-Aug: Sa-Su 10:00-17:00"
-website: "http://www.windmuehle-straupitz.de"
+phone: +49 35475 16997
+opening_hours: 'Oct-Mar: Mo-Th 09:00-17:00; Oct-Mar: Fr 09:00-14:00; Apr-Jun,Sep-Oct:
+    Tu-Fr 09:00-18:00; Apr-Jun,Sep-Oct: Sa 10:00-17:00; Jul-Aug: Mo 10:00-17:00; Jul-Aug:
+    Tu-Fr 09:00-18:00; Jul-Aug: Sa-Su 10:00-17:00'
+website: http://www.windmuehle-straupitz.de

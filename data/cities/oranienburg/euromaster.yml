@@ -1,11 +1,11 @@
 id: 328824729
-type: way
+type: node
 latitude: 52.76221
 longitude: 13.24347
 postcode: "16515"
 city: Oranienburg
-street: "Sachsenhausener Straße"
-housenumber: 29
+street: Sachsenhausener Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 197540661
-type: way
+type: node
 latitude: 52.357
 longitude: 14.56171
-postcode: "69-100"
+postcode: 69-100
 city: Słubice
-street: "Bolesława Chrobrego"
-housenumber: 2
+street: Bolesława Chrobrego
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 07:00-17:00; Sa 08:00-14:00
 website: ""

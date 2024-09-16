@@ -4,8 +4,8 @@ latitude: 52.50236
 longitude: 13.41696
 postcode: "10999"
 city: Berlin
-street: "Oranienplatz"
-housenumber: 15
+street: Oranienplatz
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa-Su 12:00-20:00"
+opening_hours: Mo-Fr 12:00-19:00; Sa-Su 12:00-20:00
 website: ""

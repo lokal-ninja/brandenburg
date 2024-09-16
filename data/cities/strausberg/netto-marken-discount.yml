@@ -4,8 +4,8 @@ latitude: 52.58421
 longitude: 13.89334
 postcode: "15344"
 city: Strausberg
-street: "Philipp-Müller-Straße"
-housenumber: 33
+street: Philipp-Müller-Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de/

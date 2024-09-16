@@ -1,11 +1,11 @@
 id: 662117880
-type: way
+type: node
 latitude: 52.41945
 longitude: 12.49737
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Am Elisabethhof"
-housenumber: 3
+street: Am Elisabethhof
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.49155
 longitude: 13.32432
 postcode: "10717"
 city: Berlin
-street: "Güntzelstraße"
-housenumber: 23
+street: Güntzelstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Fr 11:00-18:00; Sa 10:00-13:00"
-website: "https://lederzeit23.de/"
+opening_hours: Tu-Fr 11:00-18:00; Sa 10:00-13:00
+website: https://lederzeit23.de/

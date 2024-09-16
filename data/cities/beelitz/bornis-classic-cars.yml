@@ -1,11 +1,11 @@
 id: 315598886
-type: way
+type: node
 latitude: 52.28273
 longitude: 12.88694
 postcode: "14547"
 city: Beelitz
-street: "Berliner Allee"
-housenumber: 138
+street: Berliner Allee
+housenumber: "138"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

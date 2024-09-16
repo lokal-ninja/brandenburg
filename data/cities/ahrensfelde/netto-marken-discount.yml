@@ -1,11 +1,11 @@
 id: 24936300
-type: way
+type: node
 latitude: 52.57485
 longitude: 13.57487
 postcode: "16356"
 city: Ahrensfelde
-street: "Dorfstraße"
-housenumber: 18
+street: Dorfstraße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

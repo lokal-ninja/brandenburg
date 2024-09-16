@@ -4,8 +4,8 @@ latitude: 52.47178
 longitude: 13.32031
 postcode: "12161"
 city: Berlin
-street: "Südwestkorso"
-housenumber: 60
+street: Südwestkorso
+housenumber: "60"
 phone: ""
-opening_hours: "Tu,We,Fr 09:00-18:00; Th 09:00-16:00; Mo,Sa off"
+opening_hours: Tu,We,Fr 09:00-18:00; Th 09:00-16:00; Mo,Sa off
 website: ""

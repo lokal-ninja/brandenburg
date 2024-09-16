@@ -4,8 +4,8 @@ latitude: 52.50599
 longitude: 13.32439
 postcode: "10623"
 city: Berlin
-street: "Kantstraße"
-housenumber: 17
-phone: "+4930 315 15 330"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.lars-leppin.de"
+street: Kantstraße
+housenumber: "17"
+phone: +4930 315 15 330
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.lars-leppin.de

@@ -1,11 +1,11 @@
 id: 110430314
-type: way
+type: node
 latitude: 53.30617
 longitude: 12.23543
 postcode: "16945"
 city: Meyenburg
-street: "Pritzwalker Straße"
-housenumber: 30
+street: Pritzwalker Straße
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

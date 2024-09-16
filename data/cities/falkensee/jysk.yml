@@ -1,11 +1,11 @@
 id: 130190744
-type: way
+type: node
 latitude: 52.56021
 longitude: 13.12212
 postcode: "14612"
 city: Falkensee
-street: "Spandauer Straße"
-housenumber: 89
+street: Spandauer Straße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00; PH off
 website: ""

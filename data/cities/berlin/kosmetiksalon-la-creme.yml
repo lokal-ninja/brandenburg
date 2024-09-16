@@ -4,8 +4,8 @@ latitude: 52.5036
 longitude: 13.41532
 postcode: "10999"
 city: Berlin
-street: "Dresdener Straße"
-housenumber: 25
+street: Dresdener Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo,Th 12:00-19:00; Tu,Fr 09:00-15:00"
+opening_hours: Mo,Th 12:00-19:00; Tu,Fr 09:00-15:00
 website: ""

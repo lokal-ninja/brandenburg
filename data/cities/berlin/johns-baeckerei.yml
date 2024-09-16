@@ -4,8 +4,8 @@ latitude: 52.56712
 longitude: 13.4192
 postcode: "13189"
 city: Berlin
-street: "Kissingenstraße"
-housenumber: 37
+street: Kissingenstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-12:00; Su 08:00-11:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-12:00; Su 08:00-11:00
 website: ""

@@ -1,11 +1,11 @@
 id: 97222283
-type: way
+type: node
 latitude: 52.5117
 longitude: 13.11888
 postcode: "14624"
 city: Dallgow-Döberitz
-street: "Dallgower Chaussee"
-housenumber: 7
-phone: "+49 33201 21080"
-opening_hours: "Mo-Fr 07:00-18:00;Sa 08:00-15:00"
-website: "https://www.seelke.de/"
+street: Dallgower Chaussee
+housenumber: "7"
+phone: +49 33201 21080
+opening_hours: Mo-Fr 07:00-18:00;Sa 08:00-15:00
+website: https://www.seelke.de/

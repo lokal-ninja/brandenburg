@@ -1,11 +1,11 @@
 id: 117589149
-type: way
+type: node
 latitude: 52.88306
 longitude: 12.46198
 postcode: "16868"
 city: Wusterhausen/Dosse
-street: "Berliner Straße"
-housenumber: 49
+street: Berliner Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

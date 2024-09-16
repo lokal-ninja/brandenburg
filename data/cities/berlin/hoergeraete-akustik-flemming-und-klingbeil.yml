@@ -4,8 +4,8 @@ latitude: 52.43313
 longitude: 13.25977
 postcode: "14169"
 city: Berlin
-street: "Teltower Damm"
-housenumber: 19
-phone: "+4930 8090410 0"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-13:00"
-website: "https://www.flemming-klingbeil.de/"
+street: Teltower Damm
+housenumber: "19"
+phone: +4930 8090410 0
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-13:00
+website: https://www.flemming-klingbeil.de/

@@ -1,11 +1,11 @@
 id: 335709994
-type: way
+type: node
 latitude: 52.52036
 longitude: 13.38792
 postcode: "10117"
 city: Berlin
-street: "Friedrichstraße"
-housenumber: 142
+street: Friedrichstraße
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

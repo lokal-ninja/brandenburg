@@ -4,8 +4,8 @@ latitude: 52.46417
 longitude: 13.32997
 postcode: "12163"
 city: Berlin
-street: "Holsteinische Straße"
-housenumber: 14
+street: Holsteinische Straße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 12:00-18:00; PH,Su off, Sa 11:00-16:00"
-website: "https://asabi.de/"
+opening_hours: Mo-Sa 12:00-18:00; PH,Su off, Sa 11:00-16:00
+website: https://asabi.de/

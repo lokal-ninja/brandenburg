@@ -4,8 +4,8 @@ latitude: 52.46289
 longitude: 13.3449
 postcode: "12157"
 city: Berlin
-street: "Rubensstraße"
-housenumber: 125
+street: Rubensstraße
+housenumber: "125"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 10:00-16:00; Su,PH 12:00-16:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 10:00-16:00; Su,PH 12:00-16:00
 website: ""

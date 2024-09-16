@@ -4,8 +4,8 @@ latitude: 52.51417
 longitude: 13.47379
 postcode: "10247"
 city: Berlin
-street: "Frankfurter Allee"
-housenumber: 111
+street: Frankfurter Allee
+housenumber: "111"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00; PH off"
+opening_hours: Mo-Su 10:00-19:00; PH off
 website: ""

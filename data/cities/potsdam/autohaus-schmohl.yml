@@ -1,11 +1,11 @@
 id: 45666827
-type: way
+type: node
 latitude: 52.41593
 longitude: 13.02262
 postcode: "14469"
 city: Potsdam
-street: "Potsdamer Straße"
-housenumber: 175
-phone: "+49 331 504920"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
-website: "https://www.ford-schmohl-potsdam.de/"
+street: Potsdamer Straße
+housenumber: "175"
+phone: +49 331 504920
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
+website: https://www.ford-schmohl-potsdam.de/

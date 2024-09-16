@@ -4,8 +4,8 @@ latitude: 52.45163
 longitude: 13.43843
 postcode: "12347"
 city: Berlin
-street: "Britzer Damm"
-housenumber: 123
+street: Britzer Damm
+housenumber: "123"
 phone: "+493066774463"
 opening_hours: ""
-website: "https://www.meisterwerk-berlin.de/"
+website: https://www.meisterwerk-berlin.de/

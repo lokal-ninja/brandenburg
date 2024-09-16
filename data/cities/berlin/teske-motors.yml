@@ -4,8 +4,8 @@ latitude: 52.52599
 longitude: 13.49769
 postcode: "10365"
 city: Berlin
-street: "Herzbergstraße"
-housenumber: 54
-phone: "+49 30 55491544"
+street: Herzbergstraße
+housenumber: "54"
+phone: +49 30 55491544
 opening_hours: ""
-website: "https://www.teske-motors.com"
+website: https://www.teske-motors.com

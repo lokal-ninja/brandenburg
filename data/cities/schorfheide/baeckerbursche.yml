@@ -1,11 +1,11 @@
 id: 102596235
-type: way
+type: node
 latitude: 52.86776
 longitude: 13.74626
 postcode: "16244"
 city: Schorfheide
-street: "Steinfurter Straße"
-housenumber: 26
+street: Steinfurter Straße
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.85023
 longitude: 14.39801
 postcode: "03185"
 city: Peitz
-street: "Am Teufelsteich"
-housenumber: 6
-phone: "+49 35601 88742"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off"
-website: "https://www.thomas-philipps.de/"
+street: Am Teufelsteich
+housenumber: "6"
+phone: +49 35601 88742
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su,PH off
+website: https://www.thomas-philipps.de/

@@ -1,11 +1,11 @@
 id: 232214767
-type: way
+type: node
 latitude: 52.60461
 longitude: 12.33735
 postcode: "14712"
 city: Rathenow
-street: "Brandenburger Straße"
-housenumber: 25
+street: Brandenburger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

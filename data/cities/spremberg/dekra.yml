@@ -1,11 +1,11 @@
 id: 122263441
-type: way
+type: node
 latitude: 51.56843
 longitude: 14.36953
 postcode: "03130"
 city: Spremberg
-street: "Dresdener Straße"
-housenumber: 23
+street: Dresdener Straße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

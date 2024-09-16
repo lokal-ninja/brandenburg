@@ -4,8 +4,8 @@ latitude: 52.5079
 longitude: 13.29683
 postcode: "10627"
 city: Berlin
-street: "Pestalozzistraße"
-housenumber: 55
+street: Pestalozzistraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 12:00-20:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 12:00-20:00; Sa 10:00-16:00
 website: ""

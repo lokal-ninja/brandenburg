@@ -4,8 +4,8 @@ latitude: 52.43592
 longitude: 13.54239
 postcode: "12489"
 city: Berlin
-street: "Dörpfeldstraße"
-housenumber: 6
-phone: "+49 30 677 46 39"
-opening_hours: "Mo-Th 08:30-17:00, Fr 08:30-15:30; PH off"
+street: Dörpfeldstraße
+housenumber: "6"
+phone: +49 30 677 46 39
+opening_hours: Mo-Th 08:30-17:00, Fr 08:30-15:30; PH off
 website: ""

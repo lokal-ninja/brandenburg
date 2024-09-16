@@ -1,11 +1,11 @@
 id: 64359028
-type: way
+type: node
 latitude: 52.53368
 longitude: 13.61078
 postcode: "12627"
 city: Berlin
-street: "Mark-Twain-Straße"
-housenumber: 2
+street: Mark-Twain-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00; PH off"
+opening_hours: Mo-Sa 08:30-20:00; PH off
 website: ""

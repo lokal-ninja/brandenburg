@@ -4,8 +4,8 @@ latitude: 52.55083
 longitude: 13.37871
 postcode: "13357"
 city: Berlin
-street: "Pankstraße"
-housenumber: 61
+street: Pankstraße
+housenumber: "61"
 phone: ""
-opening_hours: "Mo-Sa 09:00-23:00"
+opening_hours: Mo-Sa 09:00-23:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50968
 longitude: 13.47323
 postcode: "10247"
 city: Berlin
-street: "Gürtelstraße"
-housenumber: 17
+street: Gürtelstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00;Sa,Su,PH off"
+opening_hours: Mo-Fr 08:00-17:00;Sa,Su,PH off
 website: ""

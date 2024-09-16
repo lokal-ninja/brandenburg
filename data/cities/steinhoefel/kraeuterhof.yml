@@ -1,11 +1,11 @@
 id: 224759690
-type: way
+type: node
 latitude: 52.38986
 longitude: 14.10881
 postcode: "15518"
 city: Steinhöfel
-street: "Kräuterweg"
-housenumber: 3
+street: Kräuterweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo,Tu 08:00-14:00; We 12:00-14:00; Th 08:00-17:00; Fr 08:00-13:00"
+opening_hours: Mo,Tu 08:00-14:00; We 12:00-14:00; Th 08:00-17:00; Fr 08:00-13:00
 website: ""

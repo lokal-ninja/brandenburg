@@ -1,11 +1,11 @@
 id: 94718629
-type: way
+type: node
 latitude: 52.50454
 longitude: 13.59163
 postcode: "12621"
 city: Berlin
-street: "Alt-Kaulsdorf"
-housenumber: 68
+street: Alt-Kaulsdorf
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 08:00-18:00; PH off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 08:00-18:00; PH off
 website: ""

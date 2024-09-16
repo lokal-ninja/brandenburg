@@ -4,8 +4,9 @@ latitude: 52.58494
 longitude: 13.22682
 postcode: "13505"
 city: Berlin
-street: "Falkenplatz"
-housenumber: 5
+street: Falkenplatz
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Fr 10:00-11:00,14:00-18:00; Sa 10:00-13:00; Mo nach Vereinbarung; Su,PH off"
+opening_hours: Tu-Fr 10:00-11:00,14:00-18:00; Sa 10:00-13:00; Mo "nach Vereinbarung";
+    Su,PH off
 website: ""

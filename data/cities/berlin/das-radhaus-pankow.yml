@@ -1,11 +1,11 @@
 id: 58266345
-type: way
+type: node
 latitude: 52.56038
 longitude: 13.43163
 postcode: "13089"
 city: Berlin
-street: "Treskowstraße"
-housenumber: 5
-phone: "+49 30 74072379"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.das-radhaus.de/filiale-berlin-pankow/"
+street: Treskowstraße
+housenumber: "5"
+phone: +49 30 74072379
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.das-radhaus.de/filiale-berlin-pankow/

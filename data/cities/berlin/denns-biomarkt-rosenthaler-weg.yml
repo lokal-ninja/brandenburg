@@ -4,8 +4,8 @@ latitude: 52.60737
 longitude: 13.42913
 postcode: "13127"
 city: Berlin
-street: "Rosenthaler Weg"
-housenumber: 78
-phone: "+49 30 40531346"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.denns-biomarkt.de/berlin-rosenthaler-weg-78/marktseite/"
+street: Rosenthaler Weg
+housenumber: "78"
+phone: +49 30 40531346
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.denns-biomarkt.de/berlin-rosenthaler-weg-78/marktseite/

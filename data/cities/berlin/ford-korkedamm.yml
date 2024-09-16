@@ -1,11 +1,11 @@
 id: 416067622
-type: way
+type: node
 latitude: 52.42452
 longitude: 13.53196
 postcode: "12524"
 city: Berlin
-street: "Korkedamm"
-housenumber: 6
-phone: "+49 30 6728823"
+street: Korkedamm
+housenumber: "6"
+phone: +49 30 6728823
 opening_hours: ""
-website: "https://www.ford-muecke-berlin.de/"
+website: https://www.ford-muecke-berlin.de/

@@ -1,11 +1,11 @@
 id: 50989644
-type: way
+type: node
 latitude: 52.14821
 longitude: 14.6554
 postcode: "15890"
 city: Eisenhüttenstadt
-street: "Beeskower Straße"
-housenumber: 6
+street: Beeskower Straße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

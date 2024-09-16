@@ -4,8 +4,8 @@ latitude: 52.54297
 longitude: 13.4899
 postcode: "13055"
 city: Berlin
-street: "Konrad-Wolf-Straße"
-housenumber: 29
-phone: "+49 30 92126812"
-opening_hours: "Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://www.orankebuch.de/"
+street: Konrad-Wolf-Straße
+housenumber: "29"
+phone: +49 30 92126812
+opening_hours: Mo-Th 10:00-18:00; Fr 10:00-19:00; Sa 10:00-14:00
+website: https://www.orankebuch.de/

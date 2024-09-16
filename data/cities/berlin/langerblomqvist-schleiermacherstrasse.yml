@@ -4,8 +4,8 @@ latitude: 52.4893
 longitude: 13.39773
 postcode: "10961"
 city: Berlin
-street: "Schleiermacherstraße"
-housenumber: 25
+street: Schleiermacherstraße
+housenumber: "25"
 phone: "+493082409204"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.langer-blomqvist.de/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.langer-blomqvist.de/

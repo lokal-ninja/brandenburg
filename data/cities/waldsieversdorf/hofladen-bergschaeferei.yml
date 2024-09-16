@@ -1,11 +1,11 @@
 id: 466667690
-type: way
+type: node
 latitude: 52.54022
 longitude: 14.05647
 postcode: "15377"
 city: Waldsieversdorf
-street: "Eberswalder Chaussee"
-housenumber: 3
+street: Eberswalder Chaussee
+housenumber: "3"
 phone: ""
-opening_hours: "We-Fr 12:00-18:00"
+opening_hours: We-Fr 12:00-18:00
 website: ""

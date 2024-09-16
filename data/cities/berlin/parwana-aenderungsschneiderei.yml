@@ -4,8 +4,8 @@ latitude: 52.5021
 longitude: 13.4325
 postcode: "10997"
 city: Berlin
-street: "Eisenbahnstraße"
-housenumber: 7
+street: Eisenbahnstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo 15:00-19:00; Tu-Sa 10:00-19:00"
+opening_hours: Mo 15:00-19:00; Tu-Sa 10:00-19:00
 website: ""

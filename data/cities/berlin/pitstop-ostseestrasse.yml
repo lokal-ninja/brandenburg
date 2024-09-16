@@ -4,8 +4,8 @@ latitude: 52.55141
 longitude: 13.43079
 postcode: "10409"
 city: Berlin
-street: "Ostseestraße"
-housenumber: 1
+street: Ostseestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

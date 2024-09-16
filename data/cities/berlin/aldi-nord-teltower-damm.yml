@@ -1,11 +1,11 @@
 id: 221108018
-type: way
+type: node
 latitude: 52.40834
 longitude: 13.26831
 postcode: "14167"
 city: Berlin
-street: "Teltower Damm"
-housenumber: 281
+street: Teltower Damm
+housenumber: "281"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

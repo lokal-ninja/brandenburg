@@ -4,8 +4,8 @@ latitude: 52.56005
 longitude: 13.42926
 postcode: "13089"
 city: Berlin
-street: "Prenzlauer Promenade"
-housenumber: 43
-phone: "+49 30 2537460"
+street: Prenzlauer Promenade
+housenumber: "43"
+phone: +49 30 2537460
 opening_hours: ""
-website: "https://jysk.de"
+website: https://jysk.de

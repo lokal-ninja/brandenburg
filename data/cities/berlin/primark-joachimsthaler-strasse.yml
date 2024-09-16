@@ -4,8 +4,8 @@ latitude: 52.50556
 longitude: 13.33128
 postcode: "10623"
 city: Berlin
-street: "Joachimsthaler Straße"
-housenumber: 3
+street: Joachimsthaler Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.primark.com/de-de/stores/berlin/zoom-berlin"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.primark.com/de-de/stores/berlin/zoom-berlin

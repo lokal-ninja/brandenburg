@@ -4,8 +4,8 @@ latitude: 52.38122
 longitude: 13.10328
 postcode: "14482"
 city: Potsdam
-street: "Fritz-Zubeil-Straße"
-housenumber: 62
-phone: "+49 331 621448"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.gartentechnik-discher.net/"
+street: Fritz-Zubeil-Straße
+housenumber: "62"
+phone: +49 331 621448
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.gartentechnik-discher.net/

@@ -1,11 +1,11 @@
 id: 16142056
-type: way
+type: node
 latitude: 52.54947
 longitude: 13.59906
 postcode: "16356"
 city: Ahrensfelde
-street: "Landsberger Chaussee"
-housenumber: 17
-phone: "+49 30 911486690"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.kaufpark-eiche.eu/"
+street: Landsberger Chaussee
+housenumber: "17"
+phone: +49 30 911486690
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.kaufpark-eiche.eu/

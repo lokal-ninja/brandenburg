@@ -1,11 +1,11 @@
 id: 79999419
-type: way
+type: node
 latitude: 52.39474
 longitude: 13.44328
 postcode: "12529"
 city: Schönefeld
-street: "Karl-Marx-Straße"
-housenumber: 152
+street: Karl-Marx-Straße
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

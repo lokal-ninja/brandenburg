@@ -1,11 +1,11 @@
 id: 1042836873
-type: way
+type: node
 latitude: 52.16679
 longitude: 14.26024
 postcode: "15848"
 city: Beeskow
-street: "Krügersdorfer Chaussee"
-housenumber: 20
+street: Krügersdorfer Chaussee
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

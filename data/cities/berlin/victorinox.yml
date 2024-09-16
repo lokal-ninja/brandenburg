@@ -4,8 +4,8 @@ latitude: 52.50403
 longitude: 13.33601
 postcode: "10789"
 city: Berlin
-street: "Tauentzienstraße"
-housenumber: 13
+street: Tauentzienstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://stores.victorinox.com/berlin/berlin/VSB-T13B/"
+website: https://stores.victorinox.com/berlin/berlin/VSB-T13B/

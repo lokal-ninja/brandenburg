@@ -4,8 +4,8 @@ latitude: 52.50243
 longitude: 13.32314
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 36
-phone: "+49 30 88553565"
+street: Kurfürstendamm
+housenumber: "36"
+phone: +49 30 88553565
 opening_hours: ""
-website: "https://www.falke.com/de_de/store/de/berlin-ku-damm/"
+website: https://www.falke.com/de_de/store/de/berlin-ku-damm/

@@ -4,8 +4,8 @@ latitude: 52.33789
 longitude: 14.54151
 postcode: "15232"
 city: Frankfurt (Oder)
-street: "Cottbuser Straße"
-housenumber: 6
-phone: "+49 335 6069799"
-opening_hours: "Mo-Fr 08:00-19:00; PH off"
-website: "http://www.nagel-kosmetikzauber.de"
+street: Cottbuser Straße
+housenumber: "6"
+phone: +49 335 6069799
+opening_hours: Mo-Fr 08:00-19:00; PH off
+website: http://www.nagel-kosmetikzauber.de

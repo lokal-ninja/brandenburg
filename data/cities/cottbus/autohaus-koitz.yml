@@ -1,11 +1,11 @@
 id: 129140534
-type: way
+type: node
 latitude: 51.77832
 longitude: 14.3212
 postcode: "03044"
 city: Cottbus
-street: "Sielower Landstraße"
-housenumber: 71
-phone: "+49 355 860060"
+street: Sielower Landstraße
+housenumber: "71"
+phone: +49 355 860060
 opening_hours: ""
-website: "https://www.citroen-haendler.de/koitz-cottbus/home.cfm"
+website: https://www.citroen-haendler.de/koitz-cottbus/home.cfm

@@ -1,11 +1,11 @@
 id: 381950885
-type: way
+type: node
 latitude: 52.27273
 longitude: 13.6319
 postcode: "15711"
 city: Königs Wusterhausen
-street: "Karl-Liebknecht-Straße"
-housenumber: 183
+street: Karl-Liebknecht-Straße
+housenumber: "183"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00, Su 07:30-18:00; Sa 06:30-18:00"
-website: "http://www.konrad-cafe.de/"
+opening_hours: Mo-Fr 07:30-18:00, Su 07:30-18:00; Sa 06:30-18:00
+website: http://www.konrad-cafe.de/

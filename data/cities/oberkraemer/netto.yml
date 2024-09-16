@@ -1,11 +1,11 @@
 id: 193478695
-type: way
+type: node
 latitude: 52.71953
 longitude: 13.10061
 postcode: "16727"
 city: Oberkrämer
-street: "Lindenallee"
-housenumber: 42
+street: Lindenallee
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su 10:00-15:00"
+opening_hours: Mo-Sa 08:00-20:00; Su 10:00-15:00
 website: ""

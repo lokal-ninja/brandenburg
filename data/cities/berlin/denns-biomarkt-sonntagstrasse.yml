@@ -4,8 +4,8 @@ latitude: 52.50403
 longitude: 13.46805
 postcode: "10245"
 city: Berlin
-street: "Sonntagstraße"
-housenumber: 37
+street: Sonntagstraße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00"
+opening_hours: Mo-Su 07:00-22:00
 website: ""

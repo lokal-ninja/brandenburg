@@ -4,8 +4,8 @@ latitude: 52.52424
 longitude: 13.40753
 postcode: "10178"
 city: Berlin
-street: "Rochstraße"
-housenumber: 2
+street: Rochstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Th 12:00-19:00; Fr-Sa 11:00-19:00"
+opening_hours: Mo-Th 12:00-19:00; Fr-Sa 11:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.57776
 longitude: 13.48369
 postcode: "13051"
 city: Berlin
-street: "Dorfstraße"
-housenumber: 12
+street: Dorfstraße
+housenumber: "12"
 phone: "+49304149700"
 opening_hours: ""
-website: "http://www.joskfz.de"
+website: http://www.joskfz.de

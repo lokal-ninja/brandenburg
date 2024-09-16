@@ -1,11 +1,11 @@
 id: 425105802
-type: way
+type: node
 latitude: 52.39834
 longitude: 13.23911
 postcode: "14513"
 city: Teltow
-street: "Oderstraße"
-housenumber: 68
-phone: "+49 3328 442300"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30"
-website: "https://www.sparcars.de/"
+street: Oderstraße
+housenumber: "68"
+phone: +49 3328 442300
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:30
+website: https://www.sparcars.de/

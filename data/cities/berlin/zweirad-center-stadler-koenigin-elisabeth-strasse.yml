@@ -1,11 +1,11 @@
 id: 13790950
-type: way
+type: node
 latitude: 52.51162
 longitude: 13.2775
 postcode: "14059"
 city: Berlin
-street: "Königin-Elisabeth-Straße"
+street: Königin-Elisabeth-Straße
 housenumber: 9-23
-phone: "+4930 3030670"
-opening_hours: "Mo-Th 10:00-20:00; Fr-Sa 10:00-20:00"
-website: "https://www.zweirad-stadler.de/"
+phone: +4930 3030670
+opening_hours: Mo-Th 10:00-20:00; Fr-Sa 10:00-20:00
+website: https://www.zweirad-stadler.de/

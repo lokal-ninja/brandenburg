@@ -1,11 +1,11 @@
 id: 67015093
-type: way
+type: node
 latitude: 52.5645
 longitude: 13.22357
 postcode: "13587"
 city: Berlin
-street: "Mertensstraße"
+street: Mertensstraße
 housenumber: 127-131
-phone: "+49 30 33096-1622"
-opening_hours: "Mo, We 12:00-18:00; Tu, Th, Fr 10:00-16:00"
-website: "https://www.johannesstift-diakonie.de/teilhabe-paedagogik/huckepack/"
+phone: +49 30 33096-1622
+opening_hours: Mo, We 12:00-18:00; Tu, Th, Fr 10:00-16:00
+website: https://www.johannesstift-diakonie.de/teilhabe-paedagogik/huckepack/

@@ -4,8 +4,8 @@ latitude: 51.52789
 longitude: 14.00226
 postcode: "01968"
 city: Senftenberg
-street: "Spremberger Straße"
-housenumber: 1
-phone: "+49 3573 8106476"
-opening_hours: "Mo-Fr 08:00-18:00; PH off"
-website: "https://www.medizintechnik-kroeger.de"
+street: Spremberger Straße
+housenumber: "1"
+phone: +49 3573 8106476
+opening_hours: Mo-Fr 08:00-18:00; PH off
+website: https://www.medizintechnik-kroeger.de

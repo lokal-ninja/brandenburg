@@ -1,11 +1,11 @@
 id: 204052724
-type: way
+type: node
 latitude: 52.51179
 longitude: 13.66272
 postcode: "15366"
 city: Hoppegarten
-street: "Lindenallee"
-housenumber: 45
+street: Lindenallee
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

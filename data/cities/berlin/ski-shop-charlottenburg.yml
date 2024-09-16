@@ -4,8 +4,8 @@ latitude: 52.51729
 longitude: 13.3057
 postcode: "10585"
 city: Berlin
-street: "Schustehrusstraße"
-housenumber: 1
-phone: "+49 30 3414870"
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su,PH off"
-website: "https://www.ski-shop-charlottenburg.de/"
+street: Schustehrusstraße
+housenumber: "1"
+phone: +49 30 3414870
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:00-20:00; Su,PH off
+website: https://www.ski-shop-charlottenburg.de/

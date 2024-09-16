@@ -4,8 +4,8 @@ latitude: 52.52168
 longitude: 13.33406
 postcode: "10555"
 city: Berlin
-street: "Jagowstraße"
-housenumber: 9
+street: Jagowstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
 website: ""

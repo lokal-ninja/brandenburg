@@ -4,8 +4,8 @@ latitude: 52.411
 longitude: 12.5574
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Hauptstraße"
-housenumber: 66
+street: Hauptstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Tu,Th 09:00-13:00,14:00-17:30; We,Fr 09:00-13:00"
+opening_hours: Mo-Tu,Th 09:00-13:00,14:00-17:30; We,Fr 09:00-13:00
 website: ""

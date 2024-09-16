@@ -4,8 +4,8 @@ latitude: 52.5643
 longitude: 13.44569
 postcode: "13089"
 city: Berlin
-street: "Romain-Rolland-Straße"
-housenumber: 13
-phone: "+49 30 74072180"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.kopfsache.biz/salons/berlin-weissensee.html"
+street: Romain-Rolland-Straße
+housenumber: "13"
+phone: +49 30 74072180
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.kopfsache.biz/salons/berlin-weissensee.html

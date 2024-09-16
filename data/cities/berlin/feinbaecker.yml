@@ -4,8 +4,8 @@ latitude: 52.55067
 longitude: 13.49501
 postcode: "13053"
 city: Berlin
-street: "Suermondtstraße"
-housenumber: 64
+street: Suermondtstraße
+housenumber: "64"
 phone: ""
-opening_hours: "Fr 07:00-15:00; Sa 06:00-12:00; PH,Su-Th off"
+opening_hours: Fr 07:00-15:00; Sa 06:00-12:00; PH,Su-Th off
 website: ""

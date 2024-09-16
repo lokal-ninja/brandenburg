@@ -1,11 +1,11 @@
 id: 23712938
-type: way
+type: node
 latitude: 52.56137
 longitude: 13.20758
 postcode: "13587"
 city: Berlin
-street: "Streitstraße"
-housenumber: 59
+street: Streitstraße
+housenumber: "59"
 phone: ""
 opening_hours: ""
 website: ""

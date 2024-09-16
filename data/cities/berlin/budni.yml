@@ -4,8 +4,8 @@ latitude: 52.46812
 longitude: 13.32803
 postcode: "12161"
 city: Berlin
-street: "Bundesallee"
-housenumber: 88
+street: Bundesallee
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:30-21:00; PH off"
-website: "https://www.budni.de/filialen/12161-bundesallee-88"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:30-21:00; PH off
+website: https://www.budni.de/filialen/12161-bundesallee-88

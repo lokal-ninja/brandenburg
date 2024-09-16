@@ -1,11 +1,11 @@
 id: 156650840
-type: way
+type: node
 latitude: 51.56257
 longitude: 14.37216
 postcode: "03130"
 city: Spremberg
-street: "Grünstraße"
-housenumber: 5
+street: Grünstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off; PH off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00; Su off; PH off
 website: ""

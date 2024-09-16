@@ -4,8 +4,8 @@ latitude: 52.50304
 longitude: 13.39444
 postcode: "10969"
 city: Berlin
-street: "Fromet-und-Moses-Mendelssohn-Platz"
-housenumber: 9
-phone: "+4930 25 80 08 72"
-opening_hours: "Mo-Fr 08:00-17:00; Sa, Su 08:00-16:00"
+street: Fromet-und-Moses-Mendelssohn-Platz
+housenumber: "9"
+phone: +4930 25 80 08 72
+opening_hours: Mo-Fr 08:00-17:00; Sa, Su 08:00-16:00
 website: ""

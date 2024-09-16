@@ -1,11 +1,11 @@
 id: 166530207
-type: way
+type: node
 latitude: 52.79438
 longitude: 14.04329
 postcode: "16259"
 city: Bad Freienwalde (Oder)
-street: "Eduardshof"
-housenumber: 5
-phone: "+49 3344 42880"
-opening_hours: "Mo-Sa 07:00-22:00"
+street: Eduardshof
+housenumber: "5"
+phone: +49 3344 42880
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

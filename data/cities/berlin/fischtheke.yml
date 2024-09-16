@@ -4,8 +4,8 @@ latitude: 52.48111
 longitude: 13.42841
 postcode: "12053"
 city: Berlin
-street: "Flughafenstraße"
-housenumber: 35
-phone: "030 55218782"
-opening_hours: "Mo-Fr 10:00-22:00; Sa-Su 13:00-22:00"
-website: "www.fischtheke.com"
+street: Flughafenstraße
+housenumber: "35"
+phone: 030 55218782
+opening_hours: Mo-Fr 10:00-22:00; Sa-Su 13:00-22:00
+website: www.fischtheke.com

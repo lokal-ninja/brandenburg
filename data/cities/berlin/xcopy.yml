@@ -4,8 +4,8 @@ latitude: 52.50722
 longitude: 13.31375
 postcode: "10625"
 city: Berlin
-street: "Leibnizstraße"
-housenumber: 74
+street: Leibnizstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa-Su off"
+opening_hours: Mo-Fr 09:00-18:30; Sa-Su off
 website: ""

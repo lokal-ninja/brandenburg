@@ -4,8 +4,8 @@ latitude: 52.48557
 longitude: 13.44202
 postcode: "12045"
 city: Berlin
-street: "Elbestraße"
-housenumber: 19
+street: Elbestraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo,We,Fr,Sa 12:00-19:00; Tu,Th 11:00-20:00"
-website: "https://www.herbie-unverpackt.de/"
+opening_hours: Mo,We,Fr,Sa 12:00-19:00; Tu,Th 11:00-20:00
+website: https://www.herbie-unverpackt.de/

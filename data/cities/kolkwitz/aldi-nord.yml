@@ -1,11 +1,11 @@
 id: 1188200657
-type: way
+type: node
 latitude: 51.75158
 longitude: 14.26179
 postcode: "03099"
 city: Kolkwitz
-street: "Berliner Straße"
-housenumber: 113
+street: Berliner Straße
+housenumber: "113"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

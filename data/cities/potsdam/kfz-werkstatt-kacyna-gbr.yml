@@ -1,11 +1,11 @@
 id: 30414110
-type: way
+type: node
 latitude: 52.48453
 longitude: 12.93521
 postcode: "14476"
 city: Potsdam
-street: "Am Parkplatz"
-housenumber: 
+street: Am Parkplatz
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

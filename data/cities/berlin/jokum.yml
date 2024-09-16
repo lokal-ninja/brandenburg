@@ -4,8 +4,8 @@ latitude: 52.54453
 longitude: 13.36862
 postcode: "13347"
 city: Berlin
-street: "Gerichtstraße"
-housenumber: 58
+street: Gerichtstraße
+housenumber: "58"
 phone: ""
-opening_hours: "06:00-18:00"
+opening_hours: 06:00-18:00
 website: ""

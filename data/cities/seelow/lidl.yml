@@ -1,11 +1,11 @@
 id: 176691473
-type: way
+type: node
 latitude: 52.53156
 longitude: 14.37091
 postcode: "15306"
 city: Seelow
-street: "Diedersdorfer Straße"
-housenumber: 1
+street: Diedersdorfer Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

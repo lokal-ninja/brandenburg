@@ -4,8 +4,8 @@ latitude: 52.49832
 longitude: 13.29673
 postcode: "10709"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 100
-phone: "+49 30 31004422"
-opening_hours: "Mo-Fr 10:30-19:00; Sa 11:00-18:00"
-website: "https://www.smow.de/berlin/"
+street: Kurfürstendamm
+housenumber: "100"
+phone: +49 30 31004422
+opening_hours: Mo-Fr 10:30-19:00; Sa 11:00-18:00
+website: https://www.smow.de/berlin/

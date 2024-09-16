@@ -1,11 +1,11 @@
 id: 525606725
-type: way
+type: node
 latitude: 51.63068
 longitude: 13.70807
 postcode: "03238"
 city: Finsterwalde
-street: "Markt"
-housenumber: 13
+street: Markt
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

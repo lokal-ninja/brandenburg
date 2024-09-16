@@ -4,8 +4,8 @@ latitude: 52.60735
 longitude: 12.34395
 postcode: "14712"
 city: Rathenow
-street: "Goethestraße"
-housenumber: 11
+street: Goethestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr; Sa 09:00-12:00; Su closed; PH closed"
+opening_hours: Mo-Fr; Sa 09:00-12:00; Su closed; PH closed
 website: ""

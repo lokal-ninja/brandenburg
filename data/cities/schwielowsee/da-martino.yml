@@ -1,11 +1,11 @@
 id: 1270433918
-type: way
+type: node
 latitude: 52.34387
 longitude: 12.98286
 postcode: "14548"
 city: Schwielowsee
-street: "Weinbergstraße"
-housenumber: 86
+street: Weinbergstraße
+housenumber: "86"
 phone: ""
 opening_hours: ""
 website: ""

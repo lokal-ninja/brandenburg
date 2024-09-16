@@ -4,8 +4,8 @@ latitude: 52.4992
 longitude: 13.29664
 postcode: "10711"
 city: Berlin
-street: "Joachim-Friedrich-Straße"
-housenumber: 20
-phone: "+49 30 89046856"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-14:30 ||  und nach Terminvereinbarung"
-website: "https://www.stirner-friseure.de/"
+street: Joachim-Friedrich-Straße
+housenumber: "20"
+phone: +49 30 89046856
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-14:30 || " und nach Terminvereinbarung"
+website: https://www.stirner-friseure.de/

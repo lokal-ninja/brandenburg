@@ -4,8 +4,9 @@ latitude: 52.50124
 longitude: 13.49293
 postcode: "10317"
 city: Berlin
-street: "Weitlingstraße"
-housenumber: 120
-phone: "+49 30 55614121"
-opening_hours: "Mo,We,Fr 09:00-14:00; Tu,Th 09:00-20:00 || nach Vereinbarung; PH off"
-website: "https://www.kosmetiksalon-beauty-atelier.de/"
+street: Weitlingstraße
+housenumber: "120"
+phone: +49 30 55614121
+opening_hours: Mo,We,Fr 09:00-14:00; Tu,Th 09:00-20:00 || "nach Vereinbarung"; PH
+    off
+website: https://www.kosmetiksalon-beauty-atelier.de/

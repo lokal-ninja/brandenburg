@@ -1,11 +1,11 @@
 id: 42485770
-type: way
+type: node
 latitude: 53.10621
 longitude: 12.89579
 postcode: "16831"
 city: Rheinsberg
-street: "Dr.-Martin-Henning-Straße"
-housenumber: 14
+street: Dr.-Martin-Henning-Straße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

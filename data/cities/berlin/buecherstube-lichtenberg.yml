@@ -4,8 +4,8 @@ latitude: 52.56669
 longitude: 13.51964
 postcode: "13057"
 city: Berlin
-street: "Warnitzer Straße"
-housenumber: 8
+street: Warnitzer Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo 08:00-14:00, Tu-Th 08:00-16:00, Fr 08:00-13:00"
-website: "https://www.agrar-boerse-ev.de/standorte-projekte/lichtenberg/bucherstube/"
+opening_hours: Mo 08:00-14:00, Tu-Th 08:00-16:00, Fr 08:00-13:00
+website: https://www.agrar-boerse-ev.de/standorte-projekte/lichtenberg/bucherstube/

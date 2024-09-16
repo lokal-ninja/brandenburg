@@ -1,11 +1,11 @@
 id: 131820943
-type: way
+type: node
 latitude: 51.74589
 longitude: 14.32334
 postcode: "03048"
 city: Cottbus
-street: "Finsterwalder Straße"
-housenumber: 18
+street: Finsterwalder Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

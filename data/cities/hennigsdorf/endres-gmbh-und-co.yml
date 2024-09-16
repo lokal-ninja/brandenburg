@@ -1,11 +1,11 @@
 id: 31788256
-type: way
+type: node
 latitude: 52.65095
 longitude: 13.20484
 postcode: "16761"
 city: Hennigsdorf
-street: "Veltener Straße"
-housenumber: 12
-phone: "+49 3302 2030 0"
+street: Veltener Straße
+housenumber: "12"
+phone: +49 3302 2030 0
 opening_hours: ""
-website: "https://www.endres-oranienburg.de/standorte-und-%C3%B6ffnungszeiten/hennigsdorf.html"
+website: https://www.endres-oranienburg.de/standorte-und-%C3%B6ffnungszeiten/hennigsdorf.html

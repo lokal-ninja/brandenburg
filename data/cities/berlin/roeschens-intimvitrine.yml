@@ -4,8 +4,8 @@ latitude: 52.52064
 longitude: 13.62565
 postcode: "12623"
 city: Berlin
-street: "Florastraße"
-housenumber: 94
-phone: "+49 30 5628526"
-opening_hours: "Mo-Fr 13:00-18:30; PH off"
-website: "http://www.intimvitrine.eu"
+street: Florastraße
+housenumber: "94"
+phone: +49 30 5628526
+opening_hours: Mo-Fr 13:00-18:30; PH off
+website: http://www.intimvitrine.eu

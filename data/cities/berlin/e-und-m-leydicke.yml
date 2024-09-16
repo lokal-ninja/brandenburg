@@ -4,8 +4,8 @@ latitude: 52.49266
 longitude: 13.36665
 postcode: "10783"
 city: Berlin
-street: "Mansteinstraße"
-housenumber: 4
+street: Mansteinstraße
+housenumber: "4"
 phone: "+49302162973"
 opening_hours: ""
-website: "https://www.leydicke.com/"
+website: https://www.leydicke.com/

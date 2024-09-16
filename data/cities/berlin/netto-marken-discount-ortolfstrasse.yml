@@ -1,11 +1,11 @@
 id: 152708912
-type: way
+type: node
 latitude: 52.40562
 longitude: 13.53296
 postcode: "12524"
 city: Berlin
-street: "Ortolfstraße"
-housenumber: 149
+street: Ortolfstraße
+housenumber: "149"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 352310228
-type: way
+type: node
 latitude: 52.4129
 longitude: 12.55349
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Ritterstraße"
-housenumber: 91
+street: Ritterstraße
+housenumber: "91"
 phone: "+4933813467213"
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://kavoja.com/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://kavoja.com/

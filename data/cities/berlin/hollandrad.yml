@@ -4,8 +4,8 @@ latitude: 52.49509
 longitude: 13.39542
 postcode: "10961"
 city: Berlin
-street: "Zossener Straße"
-housenumber: 58
+street: Zossener Straße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00, Sa 10:00-17:00"
+opening_hours: Mo-Fr 11:00-19:00, Sa 10:00-17:00
 website: ""

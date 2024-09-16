@@ -4,8 +4,8 @@ latitude: 52.52958
 longitude: 12.34079
 postcode: "14727"
 city: Premnitz
-street: "Gerhart-Hauptmann-Straße"
-housenumber: 2
+street: Gerhart-Hauptmann-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; Sa 08:00-12:00
 website: ""

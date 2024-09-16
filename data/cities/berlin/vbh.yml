@@ -4,8 +4,8 @@ latitude: 52.52042
 longitude: 13.46639
 postcode: "10247"
 city: Berlin
-street: "Eldenaer Straße"
-housenumber: 35
+street: Eldenaer Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:15; Fr 07:00-13:00"
-website: "https://www.vbh.de/"
+opening_hours: Mo-Th 07:00-16:15; Fr 07:00-13:00
+website: https://www.vbh.de/

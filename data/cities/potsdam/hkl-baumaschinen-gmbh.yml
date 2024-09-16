@@ -1,11 +1,11 @@
 id: 191875884
-type: way
+type: node
 latitude: 52.3824
 longitude: 13.12476
 postcode: "14480"
 city: Potsdam
-street: "Großbeerenstraße"
-housenumber: 213
+street: Großbeerenstraße
+housenumber: "213"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00, Fr 07:00-15:00"
+opening_hours: Mo-Th 07:00-16:00, Fr 07:00-15:00
 website: ""

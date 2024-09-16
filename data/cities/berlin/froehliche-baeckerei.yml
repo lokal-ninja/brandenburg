@@ -4,8 +4,8 @@ latitude: 52.51495
 longitude: 13.47354
 postcode: "10247"
 city: Berlin
-street: "Rigaer Straße"
-housenumber: 56
+street: Rigaer Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 03:00-20:00; Sa-Su 03:00-19:00"
+opening_hours: Mo-Fr 03:00-20:00; Sa-Su 03:00-19:00
 website: ""

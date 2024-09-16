@@ -4,8 +4,8 @@ latitude: 52.48589
 longitude: 13.44845
 postcode: "12059"
 city: Berlin
-street: "Elsenstraße"
-housenumber: 52
+street: Elsenstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Tu 17:00-19:00"
-website: "https://thefoodassembly.com/de/assemblies/146"
+opening_hours: Tu 17:00-19:00
+website: https://thefoodassembly.com/de/assemblies/146

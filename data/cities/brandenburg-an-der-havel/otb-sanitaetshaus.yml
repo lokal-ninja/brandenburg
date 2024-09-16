@@ -4,8 +4,9 @@ latitude: 52.40173
 longitude: 12.56514
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Johann-Carl-Sybel-Straße"
-housenumber: 1
+street: Johann-Carl-Sybel-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 08:00-18:00; Tu 08:00-16:30; We 08:00-15:00; Th 08:00-16:30; Fr 08:00-14:00"
+opening_hours: Mo 08:00-18:00; Tu 08:00-16:30; We 08:00-15:00; Th 08:00-16:30; Fr
+    08:00-14:00
 website: ""

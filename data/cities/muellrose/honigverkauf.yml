@@ -1,11 +1,11 @@
 id: 429681322
-type: way
+type: node
 latitude: 52.23807
 longitude: 14.4117
 postcode: "15299"
 city: Müllrose
-street: "Mixdorfer Straße"
-housenumber: 16
+street: Mixdorfer Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

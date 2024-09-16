@@ -4,8 +4,8 @@ latitude: 52.51466
 longitude: 13.49266
 postcode: "10365"
 city: Berlin
-street: "Fanningerstraße"
-housenumber: 15
-phone: "+49 30 23 93 89 82"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.farang.de/sabai-sabai/"
+street: Fanningerstraße
+housenumber: "15"
+phone: +49 30 23 93 89 82
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.farang.de/sabai-sabai/

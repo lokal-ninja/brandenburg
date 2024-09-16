@@ -4,8 +4,8 @@ latitude: 52.48834
 longitude: 13.39229
 postcode: "10965"
 city: Berlin
-street: "Arndtstraße"
-housenumber: 29
+street: Arndtstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-16:00
 website: ""

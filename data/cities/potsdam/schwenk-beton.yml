@@ -1,11 +1,11 @@
 id: 240506329
-type: way
+type: node
 latitude: 52.38005
 longitude: 13.10931
 postcode: "14482"
 city: Potsdam
-street: "Orenstein-&-Koppel-Straße"
-housenumber: 5
+street: Orenstein-&-Koppel-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

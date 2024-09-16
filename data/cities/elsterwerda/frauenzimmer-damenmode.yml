@@ -1,11 +1,11 @@
 id: 897305700
-type: way
+type: node
 latitude: 51.45834
 longitude: 13.52227
 postcode: "04910"
 city: Elsterwerda
-street: "Lange Straße"
-housenumber: 13
+street: Lange Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

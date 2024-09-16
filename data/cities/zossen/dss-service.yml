@@ -1,11 +1,11 @@
 id: 453078112
-type: way
+type: node
 latitude: 52.22556
 longitude: 13.31167
 postcode: "15806"
 city: Zossen
-street: "Kreuzweg"
-housenumber: 1
+street: Kreuzweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
+opening_hours: Mo-Fr 08:00-18:00
 website: ""

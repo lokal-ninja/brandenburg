@@ -4,8 +4,8 @@ latitude: 52.46904
 longitude: 13.38522
 postcode: "12099"
 city: Berlin
-street: "Tempelhofer Damm"
-housenumber: 120
+street: Tempelhofer Damm
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00; Su,PH off"
-website: "https://goasia.net/en/store_list/berlin-tempelhof"
+opening_hours: Mo-Sa 09:30-20:00; Su,PH off
+website: https://goasia.net/en/store_list/berlin-tempelhof

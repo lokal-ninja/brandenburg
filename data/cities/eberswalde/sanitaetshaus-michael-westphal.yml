@@ -1,11 +1,11 @@
 id: 140130341
-type: way
+type: node
 latitude: 52.83392
 longitude: 13.81475
 postcode: "16225"
 city: Eberswalde
-street: "Friedrich-Ebert-Straße"
-housenumber: 5
+street: Friedrich-Ebert-Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

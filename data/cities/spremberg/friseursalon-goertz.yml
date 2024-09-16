@@ -4,8 +4,8 @@ latitude: 51.57081
 longitude: 14.37663
 postcode: "03130"
 city: Spremberg
-street: "Lange Straße"
-housenumber: 16
-phone: "+49 3563 96995"
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su,PH off"
-website: "https://friseursalon-goertz.de"
+street: Lange Straße
+housenumber: "16"
+phone: +49 3563 96995
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su,PH off
+website: https://friseursalon-goertz.de

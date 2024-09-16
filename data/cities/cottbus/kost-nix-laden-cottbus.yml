@@ -4,8 +4,8 @@ latitude: 51.7709
 longitude: 14.33528
 postcode: "03044"
 city: Cottbus
-street: "Karlstraße"
-housenumber: 69
+street: Karlstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Tu,Sa 11:00-14:00; Th 15:00-18:00"
-website: "https://www.kostnixladencottbus.de/"
+opening_hours: Tu,Sa 11:00-14:00; Th 15:00-18:00
+website: https://www.kostnixladencottbus.de/

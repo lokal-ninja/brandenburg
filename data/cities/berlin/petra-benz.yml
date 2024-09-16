@@ -4,8 +4,8 @@ latitude: 52.49204
 longitude: 13.32619
 postcode: "10717"
 city: Berlin
-street: "Nassauische Straße"
-housenumber: 11
+street: Nassauische Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-16:00
 website: ""

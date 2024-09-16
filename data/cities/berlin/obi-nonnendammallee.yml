@@ -1,11 +1,11 @@
 id: 204157829
-type: way
+type: node
 latitude: 52.53832
 longitude: 13.24912
 postcode: "13629"
 city: Berlin
-street: "Nonnendammallee"
-housenumber: 121
+street: Nonnendammallee
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

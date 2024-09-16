@@ -4,8 +4,8 @@ latitude: 52.56336
 longitude: 13.46879
 postcode: "13088"
 city: Berlin
-street: "Berliner Allee"
-housenumber: 279
-phone: "+49 30 960620"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-13:00"
-website: "http://peugeot-retail-berlin-weissensee.de"
+street: Berliner Allee
+housenumber: "279"
+phone: +49 30 960620
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-13:00
+website: http://peugeot-retail-berlin-weissensee.de

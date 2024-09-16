@@ -1,11 +1,12 @@
 id: 113956716
-type: way
+type: node
 latitude: 52.14594
 longitude: 14.65887
 postcode: "15890"
 city: Eisenhüttenstadt
-street: "Eisenbahnstraße"
-housenumber: 20
-phone: "+49 3364 2730"
-opening_hours: "Mar-Oct: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Nov-Feb: Mo-Fr 09:00-17:00; Sa 09:00-12:00; PH off"
-website: "https://www.rhdos.de/index.php/einzelhandel/markt-eisenhuettenstadt"
+street: Eisenbahnstraße
+housenumber: "20"
+phone: +49 3364 2730
+opening_hours: 'Mar-Oct: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Nov-Feb: Mo-Fr 09:00-17:00;
+    Sa 09:00-12:00; PH off'
+website: https://www.rhdos.de/index.php/einzelhandel/markt-eisenhuettenstadt

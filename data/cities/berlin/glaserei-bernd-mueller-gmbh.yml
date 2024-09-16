@@ -4,8 +4,8 @@ latitude: 52.50037
 longitude: 13.41989
 postcode: "10999"
 city: Berlin
-street: "Adalbertstraße"
-housenumber: 8
+street: Adalbertstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 07:15-16:15; Fr 07:00-14:00"
+opening_hours: Mo-Th 07:15-16:15; Fr 07:00-14:00
 website: ""

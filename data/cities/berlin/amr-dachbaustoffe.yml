@@ -4,8 +4,8 @@ latitude: 52.42084
 longitude: 13.54188
 postcode: "12524"
 city: Berlin
-street: "Besenbinderstraße"
-housenumber: 23
+street: Besenbinderstraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-13:00"
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-13:00
 website: ""

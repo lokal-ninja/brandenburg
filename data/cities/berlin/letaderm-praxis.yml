@@ -4,8 +4,8 @@ latitude: 52.50211
 longitude: 13.33654
 postcode: "10789"
 city: Berlin
-street: "Marburger Straße"
-housenumber: 12
+street: Marburger Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.letaderm-praxis.de/"
+website: https://www.letaderm-praxis.de/

@@ -1,11 +1,11 @@
 id: 25532336
-type: way
+type: node
 latitude: 52.29709
 longitude: 13.45805
 postcode: "15834"
 city: Rangsdorf
-street: "Klein Kienitzer Straße"
-housenumber: 2
+street: Klein Kienitzer Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00"
-website: "http://www.suedringcenter.de"
+opening_hours: Mo-Fr 07:00-20:00
+website: http://www.suedringcenter.de

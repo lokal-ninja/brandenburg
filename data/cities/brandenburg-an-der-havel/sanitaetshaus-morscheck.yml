@@ -4,8 +4,8 @@ latitude: 52.39774
 longitude: 12.54694
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Wilhelmsdorfer Straße"
-housenumber: 47
-phone: "+49 3381 660118"
-opening_hours: "Mo-Fr 08:30-18:00"
-website: "https://www.medizintechnik-morscheck.de/"
+street: Wilhelmsdorfer Straße
+housenumber: "47"
+phone: +49 3381 660118
+opening_hours: Mo-Fr 08:30-18:00
+website: https://www.medizintechnik-morscheck.de/

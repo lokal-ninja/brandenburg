@@ -1,11 +1,11 @@
 id: 704176333
-type: way
+type: node
 latitude: 52.51198
 longitude: 13.61332
 postcode: "12623"
 city: Berlin
-street: "Hönower Straße"
+street: Hönower Straße
 housenumber: 74 - 80
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/berlin-stadt/1766069/rewe-markt-hoenower-strasse-74-80/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/berlin-stadt/1766069/rewe-markt-hoenower-strasse-74-80/

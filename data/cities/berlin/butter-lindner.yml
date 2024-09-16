@@ -4,8 +4,8 @@ latitude: 52.4427
 longitude: 13.29488
 postcode: "12205"
 city: Berlin
-street: "Baseler Straße"
-housenumber: 4
+street: Baseler Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:30; Sa 07:00-13:30;Su,PH off"
+opening_hours: Mo-Fr 08:00-18:30; Sa 07:00-13:30;Su,PH off
 website: ""

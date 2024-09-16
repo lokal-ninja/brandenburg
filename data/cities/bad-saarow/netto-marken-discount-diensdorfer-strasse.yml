@@ -1,11 +1,11 @@
 id: 630092799
-type: way
+type: node
 latitude: 52.26959
 longitude: 14.06831
 postcode: "15526"
 city: Bad Saarow
-street: "Diensdorfer Straße"
-housenumber: 11
+street: Diensdorfer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00; PH off
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 52.51
 longitude: 13.27344
 postcode: "14052"
 city: Berlin
-street: "Theodor-Heuss-Platz"
-housenumber: 2
+street: Theodor-Heuss-Platz
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 192889140
-type: way
+type: node
 latitude: 52.4331
 longitude: 13.33935
 postcode: "12247"
 city: Berlin
-street: "Kaiser-Wilhelm-Straße"
-housenumber: 40
+street: Kaiser-Wilhelm-Straße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

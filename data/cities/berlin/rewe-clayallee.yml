@@ -4,8 +4,8 @@ latitude: 52.43707
 longitude: 13.2622
 postcode: "14169"
 city: Berlin
-street: "Clayallee"
-housenumber: 336
-phone: "+49 30 81295890"
-opening_hours: "Mo-Sa 06:00-22:00; Su,PH off"
-website: "https://www.rewe.de/marktseite/berlin/1931138/rewe-markt-clayallee-336/"
+street: Clayallee
+housenumber: "336"
+phone: +49 30 81295890
+opening_hours: Mo-Sa 06:00-22:00; Su,PH off
+website: https://www.rewe.de/marktseite/berlin/1931138/rewe-markt-clayallee-336/

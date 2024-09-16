@@ -1,11 +1,11 @@
 id: 1050709750
-type: way
+type: node
 latitude: 52.86007
 longitude: 14.04111
 postcode: "16248"
 city: Oderberg
-street: "Freienwalder Straße"
-housenumber: 25
-phone: "+49 33369 779999"
-opening_hours: "Mo-Fr 07:00-18:00, Sa 07:00-13:00"
-website: "https://www.autofit-brunke.de/"
+street: Freienwalder Straße
+housenumber: "25"
+phone: +49 33369 779999
+opening_hours: Mo-Fr 07:00-18:00, Sa 07:00-13:00
+website: https://www.autofit-brunke.de/

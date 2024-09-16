@@ -4,8 +4,8 @@ latitude: 52.46348
 longitude: 13.32402
 postcode: "12163"
 city: Berlin
-street: "Treitschkestraße"
-housenumber: 7
-phone: "+49 221  22243123"
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "https://www.saturn.de/de/store/berlin-schlossstrasse-49"
+street: Treitschkestraße
+housenumber: "7"
+phone: +49 221  22243123
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: https://www.saturn.de/de/store/berlin-schlossstrasse-49

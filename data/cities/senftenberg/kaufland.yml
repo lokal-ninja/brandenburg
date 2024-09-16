@@ -4,8 +4,8 @@ latitude: 51.51146
 longitude: 13.98065
 postcode: "01968"
 city: Senftenberg
-street: "Briesker Straße"
-housenumber: 83
-phone: "+49 3573 70620"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.kaufland.de/"
+street: Briesker Straße
+housenumber: "83"
+phone: +49 3573 70620
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.kaufland.de/

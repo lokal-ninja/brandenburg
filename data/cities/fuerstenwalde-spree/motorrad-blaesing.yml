@@ -1,11 +1,11 @@
 id: 323031404
-type: way
+type: node
 latitude: 52.33754
 longitude: 14.07704
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Alte Langewahler Chaussee"
-housenumber: 48
+street: Alte Langewahler Chaussee
+housenumber: "48"
 phone: ""
 opening_hours: ""
 website: ""

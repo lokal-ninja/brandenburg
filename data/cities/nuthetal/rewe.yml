@@ -1,11 +1,11 @@
 id: 29407506
-type: way
+type: node
 latitude: 52.35126
 longitude: 13.10203
 postcode: "14558"
 city: Nuthetal
-street: "Arthur-Scheunert-Allee"
-housenumber: 71
+street: Arthur-Scheunert-Allee
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

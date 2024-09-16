@@ -1,11 +1,11 @@
 id: 491188283
-type: way
+type: node
 latitude: 52.46595
 longitude: 13.3856
 postcode: "12099"
 city: Berlin
-street: "U-Bahnhof Alt-Tempelhof"
-housenumber: 
+street: U-Bahnhof Alt-Tempelhof
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 05:00-19:00; Sa 05:00-17:00"
+opening_hours: Mo-Fr 05:00-19:00; Sa 05:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50128
 longitude: 13.37607
 postcode: "10963"
 city: Berlin
-street: "Tempelhofer Ufer"
-housenumber: 37
+street: Tempelhofer Ufer
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa nach Vereinbarung"
+opening_hours: Mo-Th 08:00-20:00; Fr 08:00-18:00; Sa "nach Vereinbarung"
 website: ""

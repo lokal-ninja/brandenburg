@@ -1,11 +1,11 @@
 id: 969476759
-type: way
+type: node
 latitude: 52.23897
 longitude: 13.17173
 postcode: "14959"
 city: Trebbin
-street: "Glauer Chaussee"
-housenumber: 12
+street: Glauer Chaussee
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 07:30-17:00; Sa 09:00-11:00"
+opening_hours: Mo-Fr 07:30-17:00; Sa 09:00-11:00
 website: ""

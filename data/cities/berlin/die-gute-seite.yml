@@ -4,8 +4,8 @@ latitude: 52.47381
 longitude: 13.44521
 postcode: "12055"
 city: Berlin
-street: "Richardplatz"
-housenumber: 16
-phone: "+49 30 12022243"
-opening_hours: "Mo-We,Fr 10:00-19:00; Sa 10:00-14:00; Th 10:00-20:30"
-website: "https://www.dieguteseiteberlin.de/"
+street: Richardplatz
+housenumber: "16"
+phone: +49 30 12022243
+opening_hours: Mo-We,Fr 10:00-19:00; Sa 10:00-14:00; Th 10:00-20:30
+website: https://www.dieguteseiteberlin.de/

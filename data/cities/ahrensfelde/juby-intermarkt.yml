@@ -1,11 +1,11 @@
 id: 46772760
-type: way
+type: node
 latitude: 52.54971
 longitude: 13.59013
 postcode: "16356"
 city: Ahrensfelde
-street: "Landsberger Chaussee"
-housenumber: 9
+street: Landsberger Chaussee
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.47886
 longitude: 13.43832
 postcode: "12043"
 city: Berlin
-street: "Ganghoferstraße"
-housenumber: 1
+street: Ganghoferstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 14:00-19:00"
-website: "https://www.edelsteine-mineralien.de/"
+opening_hours: Mo-Sa 14:00-19:00
+website: https://www.edelsteine-mineralien.de/

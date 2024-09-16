@@ -1,11 +1,11 @@
 id: 79851069
-type: way
+type: node
 latitude: 52.63455
 longitude: 13.20707
 postcode: "16761"
 city: Hennigsdorf
-street: "Neuendorfstraße"
-housenumber: 26
-phone: "+49 (0) 3302 20100"
+street: Neuendorfstraße
+housenumber: "26"
+phone: +49 (0) 3302 20100
 opening_hours: ""
-website: "https://www.buerokom.com/"
+website: https://www.buerokom.com/

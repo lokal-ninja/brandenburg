@@ -1,11 +1,11 @@
 id: 27134313
-type: way
+type: node
 latitude: 51.72404
 longitude: 14.36288
 postcode: "03051"
 city: Cottbus
-street: "Hauptstraße"
-housenumber: 17
-phone: "+49 (0)355 86690591"
+street: Hauptstraße
+housenumber: "17"
+phone: +49 (0)355 86690591
 opening_hours: ""
-website: "www.auto-lewandowski.de"
+website: www.auto-lewandowski.de

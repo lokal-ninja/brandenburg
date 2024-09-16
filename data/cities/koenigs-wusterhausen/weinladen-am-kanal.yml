@@ -4,8 +4,8 @@ latitude: 52.29662
 longitude: 13.62625
 postcode: "15711"
 city: Königs Wusterhausen
-street: "Bahnhofstraße"
-housenumber: 24
+street: Bahnhofstraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://bitsoup.de/weinladen"
+website: http://bitsoup.de/weinladen

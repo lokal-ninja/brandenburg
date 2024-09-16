@@ -1,11 +1,11 @@
 id: 96476416
-type: way
+type: node
 latitude: 52.34312
 longitude: 14.07125
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Lange Straße"
-housenumber: 2
+street: Lange Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

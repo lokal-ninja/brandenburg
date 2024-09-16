@@ -1,11 +1,11 @@
 id: 95474903
-type: way
+type: node
 latitude: 52.33669
 longitude: 14.07869
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Alte Langewahler Chaussee"
-housenumber: 9
+street: Alte Langewahler Chaussee
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 87368565
-type: way
+type: node
 latitude: 51.55313
 longitude: 14.05589
 postcode: "01968"
 city: Senftenberg
-street: "Cottbuser Straße"
-housenumber: 2
-phone: "+49 3573 363034"
+street: Cottbuser Straße
+housenumber: "2"
+phone: +49 3573 363034
 opening_hours: ""
-website: "https://www.meiser-kuechen.de/"
+website: https://www.meiser-kuechen.de/

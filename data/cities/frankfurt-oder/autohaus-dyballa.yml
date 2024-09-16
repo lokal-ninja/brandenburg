@@ -1,11 +1,11 @@
 id: 120515189
-type: way
+type: node
 latitude: 52.33652
 longitude: 14.52822
 postcode: "15236"
 city: Frankfurt (Oder)
-street: "Weinbergweg"
-housenumber: 28
+street: Weinbergweg
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

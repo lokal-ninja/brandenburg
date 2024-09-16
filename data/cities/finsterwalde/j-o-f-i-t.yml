@@ -4,8 +4,8 @@ latitude: 51.63581
 longitude: 13.71181
 postcode: "03238"
 city: Finsterwalde
-street: "Wilhelm-Liebknecht-Straße"
-housenumber: 9
-phone: "+49 3531 501827"
-opening_hours: "Mo, Do 10:00-12:00 14:00-17:00"
+street: Wilhelm-Liebknecht-Straße
+housenumber: "9"
+phone: +49 3531 501827
+opening_hours: Mo, Do 10:00-12:00 14:00-17:00
 website: ""

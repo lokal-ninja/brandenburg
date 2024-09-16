@@ -4,8 +4,8 @@ latitude: 52.54812
 longitude: 13.42957
 postcode: "10409"
 city: Berlin
-street: "Prenzlauer Allee"
-housenumber: 104
-phone: "+49 30 400 577 17"
-opening_hours: "Sa 10:00-18:00; Tu-Fr 11:00-19:00"
-website: "https://graffitibox.de/"
+street: Prenzlauer Allee
+housenumber: "104"
+phone: +49 30 400 577 17
+opening_hours: Sa 10:00-18:00; Tu-Fr 11:00-19:00
+website: https://graffitibox.de/

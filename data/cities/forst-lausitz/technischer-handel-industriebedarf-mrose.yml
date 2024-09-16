@@ -1,11 +1,11 @@
 id: 276484035
-type: way
+type: node
 latitude: 51.74608
 longitude: 14.65093
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Heinrich-Werner-Straße"
-housenumber: 8
-phone: "+49 3562 98140"
+street: Heinrich-Werner-Straße
+housenumber: "8"
+phone: +49 3562 98140
 opening_hours: ""
-website: "https://www.mrose.de/"
+website: https://www.mrose.de/

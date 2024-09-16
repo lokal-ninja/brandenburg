@@ -4,8 +4,8 @@ latitude: 52.53229
 longitude: 13.39561
 postcode: "10115"
 city: Berlin
-street: "Invalidenstraße"
-housenumber: 153
+street: Invalidenstraße
+housenumber: "153"
 phone: "+493024083408"
-opening_hours: "PH,Su off; Mo-Fr 08:00-20:00; Sa off"
-website: "https://www.hairmueller.de/"
+opening_hours: PH,Su off; Mo-Fr 08:00-20:00; Sa off
+website: https://www.hairmueller.de/

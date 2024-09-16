@@ -1,11 +1,11 @@
 id: 61030879
-type: way
+type: node
 latitude: 52.44303
 longitude: 13.37409
 postcode: "12105"
 city: Berlin
-street: "Ringstraße"
+street: Ringstraße
 housenumber: 30-42
-phone: "+49 30 280380280"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.rahaus.de/"
+phone: +49 30 280380280
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.rahaus.de/

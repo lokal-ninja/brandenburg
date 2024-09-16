@@ -1,11 +1,11 @@
 id: 144784862
-type: way
+type: node
 latitude: 52.35074
 longitude: 14.5217
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Goethestraße"
-housenumber: 12
+street: Goethestraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

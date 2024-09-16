@@ -1,11 +1,11 @@
 id: 34181765
-type: way
+type: node
 latitude: 52.08823
 longitude: 12.8486
 postcode: "14929"
 city: Treuenbrietzen
-street: "Leipziger Straße"
-housenumber: 152
+street: Leipziger Straße
+housenumber: "152"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.penny.de/index.php?id=9401"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.penny.de/index.php?id=9401

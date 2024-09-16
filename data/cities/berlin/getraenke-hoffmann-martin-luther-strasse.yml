@@ -4,8 +4,8 @@ latitude: 52.48072
 longitude: 13.34467
 postcode: "10825"
 city: Berlin
-street: "Martin-Luther-Straße"
-housenumber: 122
+street: Martin-Luther-Straße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-16:00
 website: ""

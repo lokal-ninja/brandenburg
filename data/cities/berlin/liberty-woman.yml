@@ -4,8 +4,8 @@ latitude: 52.5196
 longitude: 13.4105
 postcode: "10178"
 city: Berlin
-street: "Rathausstraße"
-housenumber: 5
+street: Rathausstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 131294618
-type: way
+type: node
 latitude: 52.47005
 longitude: 13.01175
 postcode: "14476"
 city: Potsdam
-street: "Weberstraße"
-housenumber: 25
-phone: "+49 33208 22245"
-opening_hours: "Mo-Sa 07:00-17:00"
-website: "https://www.ftautoservice.de/"
+street: Weberstraße
+housenumber: "25"
+phone: +49 33208 22245
+opening_hours: Mo-Sa 07:00-17:00
+website: https://www.ftautoservice.de/

@@ -4,8 +4,8 @@ latitude: 52.50322
 longitude: 13.32176
 postcode: "10623"
 city: Berlin
-street: "Knesebeckstraße"
-housenumber: 32
+street: Knesebeckstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00, Mo-Fr 18:00-19:00"
+opening_hours: Mo-Sa 11:00-18:00, Mo-Fr 18:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50437
 longitude: 13.31093
 postcode: "10629"
 city: Berlin
-street: "Niebuhrstraße"
-housenumber: 62
+street: Niebuhrstraße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-20:00"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-20:00
 website: ""

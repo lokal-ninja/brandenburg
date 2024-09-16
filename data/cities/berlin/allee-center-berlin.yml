@@ -1,11 +1,11 @@
 id: 11249566
-type: way
+type: node
 latitude: 52.5346
 longitude: 13.49696
 postcode: "13055"
 city: Berlin
-street: "Landsberger Allee"
-housenumber: 277
+street: Landsberger Allee
+housenumber: "277"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
+opening_hours: Mo-Sa 09:30-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.49238
 longitude: 13.38784
 postcode: "10961"
 city: Berlin
-street: "Mehringdamm"
-housenumber: 
+street: Mehringdamm
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

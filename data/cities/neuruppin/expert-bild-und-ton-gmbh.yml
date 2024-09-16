@@ -4,8 +4,8 @@ latitude: 52.91568
 longitude: 12.78935
 postcode: "16816"
 city: Neuruppin
-street: "Junckerstraße"
-housenumber: 26
-phone: "+49 3391 598130"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.expert.de/"
+street: Junckerstraße
+housenumber: "26"
+phone: +49 3391 598130
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.expert.de/

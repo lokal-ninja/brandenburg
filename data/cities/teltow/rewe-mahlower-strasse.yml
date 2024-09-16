@@ -1,11 +1,11 @@
 id: 443211851
-type: way
+type: node
 latitude: 52.39636
 longitude: 13.28095
 postcode: "14513"
 city: Teltow
-street: "Mahlower Straße"
-housenumber: 142
+street: Mahlower Straße
+housenumber: "142"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

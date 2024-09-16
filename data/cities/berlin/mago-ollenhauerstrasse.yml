@@ -4,8 +4,8 @@ latitude: 52.56756
 longitude: 13.32862
 postcode: "13403"
 city: Berlin
-street: "Ollenhauerstraße"
-housenumber: 122
+street: Ollenhauerstraße
+housenumber: "122"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.mago-wurst.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.mago-wurst.de

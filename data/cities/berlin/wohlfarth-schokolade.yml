@@ -4,8 +4,8 @@ latitude: 52.56006
 longitude: 13.38188
 postcode: "13359"
 city: Berlin
-street: "Soldiner Straße"
-housenumber: 39
-phone: "+49 30 55156523"
-opening_hours: "Mo,Du off; Tu-Fr 13:00-18:00; Sa 11:00-16:00 || und nach Vereinbarung"
-website: "https://www.wohlfarthschokolade.de"
+street: Soldiner Straße
+housenumber: "39"
+phone: +49 30 55156523
+opening_hours: Mo,Du off; Tu-Fr 13:00-18:00; Sa 11:00-16:00 || "und nach Vereinbarung"
+website: https://www.wohlfarthschokolade.de

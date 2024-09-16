@@ -1,11 +1,12 @@
 id: 247413276
-type: way
+type: node
 latitude: 52.51671
 longitude: 13.58207
 postcode: "12619"
 city: Berlin
-street: "Gadebuscher Straße"
-housenumber: 34
-phone: "+49 30 5614049"
-opening_hours: "Mo 05:00-13:00; Tu,We 05:00-19:00; Th,Fr 05:00-20:00; Sa 08:00-14:00; PH off"
-website: "https://anja-stiller.berlin/"
+street: Gadebuscher Straße
+housenumber: "34"
+phone: +49 30 5614049
+opening_hours: Mo 05:00-13:00; Tu,We 05:00-19:00; Th,Fr 05:00-20:00; Sa 08:00-14:00;
+    PH off
+website: https://anja-stiller.berlin/

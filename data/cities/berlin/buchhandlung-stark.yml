@@ -4,8 +4,8 @@ latitude: 52.51082
 longitude: 13.61349
 postcode: "12623"
 city: Berlin
-street: "Fritz-Reuter-Straße"
-housenumber: 12
-phone: "+49 30 5675131"
-opening_hours: "Tu-Fr 10:00-12:00,14:00-18:00, Sa 10:00-14:00; PH off"
-website: "https://buchhandlungstark.buchkatalog.de/AdresseOeffnungszeitenKontakt"
+street: Fritz-Reuter-Straße
+housenumber: "12"
+phone: +49 30 5675131
+opening_hours: Tu-Fr 10:00-12:00,14:00-18:00, Sa 10:00-14:00; PH off
+website: https://buchhandlungstark.buchkatalog.de/AdresseOeffnungszeitenKontakt

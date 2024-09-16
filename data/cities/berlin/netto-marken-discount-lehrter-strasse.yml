@@ -1,11 +1,11 @@
 id: 53190801
-type: way
+type: node
 latitude: 52.53244
 longitude: 13.35972
 postcode: "10557"
 city: Berlin
-street: "Lehrter Straße"
-housenumber: 57
+street: Lehrter Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de/

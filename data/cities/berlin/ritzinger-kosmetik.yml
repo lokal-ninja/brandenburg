@@ -4,8 +4,8 @@ latitude: 52.47372
 longitude: 13.32043
 postcode: "14197"
 city: Berlin
-street: "Laubacher Straße"
-housenumber: 18
+street: Laubacher Straße
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00"
-website: "http://www.regina-ritzinger.de/"
+opening_hours: Mo-Sa 09:00-18:00
+website: http://www.regina-ritzinger.de/

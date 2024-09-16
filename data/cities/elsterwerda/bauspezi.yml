@@ -1,11 +1,11 @@
 id: 239576722
-type: way
+type: node
 latitude: 51.46423
 longitude: 13.53868
 postcode: "04910"
 city: Elsterwerda
-street: "An den Kanitzen"
-housenumber: 2
-phone: "+49 3533 4890136"
+street: An den Kanitzen
+housenumber: "2"
+phone: +49 3533 4890136
 opening_hours: ""
-website: "https://www.bauspezi-badliebenwerda.de/"
+website: https://www.bauspezi-badliebenwerda.de/

@@ -4,8 +4,8 @@ latitude: 52.5022
 longitude: 13.3256
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 213
-phone: "+49 30 88628253"
+street: Kurfürstendamm
+housenumber: "213"
+phone: +49 30 88628253
 opening_hours: ""
-website: "https://www.vanlaack.com/de/stores/berlin-van-laack-store-berlin"
+website: https://www.vanlaack.com/de/stores/berlin-van-laack-store-berlin

@@ -4,8 +4,8 @@ latitude: 52.52792
 longitude: 13.21045
 postcode: "13597"
 city: Berlin
-street: "Ruhlebener Straße"
-housenumber: 12
-phone: "+49 (0)30 746 85 376"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://samphaothong.de/"
+street: Ruhlebener Straße
+housenumber: "12"
+phone: +49 (0)30 746 85 376
+opening_hours: Mo-Sa 10:00-20:00
+website: https://samphaothong.de/

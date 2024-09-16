@@ -4,8 +4,8 @@ latitude: 52.47747
 longitude: 13.42411
 postcode: "12049"
 city: Berlin
-street: "Herrfurthstraße"
+street: Herrfurthstraße
 housenumber: 6a
-phone: "+49 30 49205751"
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.zauberkoenig-berlin.de"
+phone: +49 30 49205751
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.zauberkoenig-berlin.de

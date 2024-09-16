@@ -1,11 +1,11 @@
 id: 43721527
-type: way
+type: node
 latitude: 52.54292
 longitude: 13.50242
 postcode: "13055"
 city: Berlin
-street: "Genslerstraße"
-housenumber: 72
+street: Genslerstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-14:00"
-website: "https://www.schimmel-automobile.de/"
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-14:00
+website: https://www.schimmel-automobile.de/

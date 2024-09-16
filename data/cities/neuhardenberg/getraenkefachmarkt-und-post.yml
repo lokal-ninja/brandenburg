@@ -1,11 +1,11 @@
 id: 857752128
-type: way
+type: node
 latitude: 52.59647
 longitude: 14.23237
 postcode: "15320"
 city: Neuhardenberg
-street: "Birkenweg"
-housenumber: 2
+street: Birkenweg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

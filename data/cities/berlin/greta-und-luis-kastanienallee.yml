@@ -4,8 +4,8 @@ latitude: 52.53759
 longitude: 13.40841
 postcode: "10435"
 city: Berlin
-street: "Kastanienallee"
-housenumber: 25
+street: Kastanienallee
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00"
-website: "https://www.gretaundluis.com"
+opening_hours: Mo-Sa 12:00-19:00
+website: https://www.gretaundluis.com

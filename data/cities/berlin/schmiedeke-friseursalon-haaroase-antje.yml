@@ -4,8 +4,8 @@ latitude: 52.5488
 longitude: 13.57833
 postcode: "12679"
 city: Berlin
-street: "Brodowiner Ring"
-housenumber: 22
-phone: "+49 30 99272999"
-opening_hours: "Mo-Fr 09:30-18:00; PH,Sa,Su off"
+street: Brodowiner Ring
+housenumber: "22"
+phone: +49 30 99272999
+opening_hours: Mo-Fr 09:30-18:00; PH,Sa,Su off
 website: ""

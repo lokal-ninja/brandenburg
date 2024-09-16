@@ -4,8 +4,8 @@ latitude: 52.55826
 longitude: 13.37428
 postcode: "13359"
 city: Berlin
-street: "Tromsöer Straße"
-housenumber: 6
-phone: "+49 30 49301241"
-opening_hours: "Mo-Sa 09:00-20:00"
+street: Tromsöer Straße
+housenumber: "6"
+phone: +49 30 49301241
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

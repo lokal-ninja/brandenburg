@@ -4,8 +4,8 @@ latitude: 52.63516
 longitude: 13.49514
 postcode: "13125"
 city: Berlin
-street: "Wiltbergstraße"
-housenumber: 9
+street: Wiltbergstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://salz-reich.de/"
+website: https://salz-reich.de/

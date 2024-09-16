@@ -4,8 +4,8 @@ latitude: 52.49002
 longitude: 13.42366
 postcode: "10967"
 city: Berlin
-street: "Kottbusser Damm"
-housenumber: 23
-phone: "+49 30 69 50 50 10"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.pfandkredit.de/"
+street: Kottbusser Damm
+housenumber: "23"
+phone: +49 30 69 50 50 10
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.pfandkredit.de/

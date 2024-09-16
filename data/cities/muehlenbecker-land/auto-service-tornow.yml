@@ -1,11 +1,11 @@
 id: 333601948
-type: way
+type: node
 latitude: 52.663
 longitude: 13.37789
 postcode: "16567"
 city: Mühlenbecker Land
-street: "Hauptstraße"
-housenumber: 11
+street: Hauptstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 686912098
-type: way
+type: node
 latitude: 52.41676
 longitude: 13.4241
 postcode: "12349"
 city: Berlin
-street: "Warmensteinacher Straße"
-housenumber: 44
+street: Warmensteinacher Straße
+housenumber: "44"
 phone: ""
 opening_hours: ""
 website: ""

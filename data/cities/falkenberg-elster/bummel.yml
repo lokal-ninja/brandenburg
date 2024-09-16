@@ -1,11 +1,11 @@
 id: 108120008
-type: way
+type: node
 latitude: 51.58765
 longitude: 13.2386
 postcode: "04895"
 city: Falkenberg/Elster
-street: "Friedrich-List-Straße"
-housenumber: 14
-phone: "+49 35365 2126"
+street: Friedrich-List-Straße
+housenumber: "14"
+phone: +49 35365 2126
 opening_hours: ""
-website: "https://www.fleischerei-bummel.de/"
+website: https://www.fleischerei-bummel.de/

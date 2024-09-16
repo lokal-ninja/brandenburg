@@ -1,11 +1,11 @@
 id: 83074250
-type: way
+type: node
 latitude: 52.4086
 longitude: 13.29118
 postcode: "14513"
 city: Teltow
-street: "Lichterfelder Allee"
-housenumber: 127
-phone: "+49 3328 305863"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 11:00-15:00"
-website: "http://www.ah-kolbe.com"
+street: Lichterfelder Allee
+housenumber: "127"
+phone: +49 3328 305863
+opening_hours: Mo-Fr 10:00-18:00; Sa 11:00-15:00
+website: http://www.ah-kolbe.com

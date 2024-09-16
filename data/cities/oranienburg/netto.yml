@@ -1,11 +1,11 @@
 id: 172398541
-type: way
+type: node
 latitude: 52.75943
 longitude: 13.25559
 postcode: "16515"
 city: Oranienburg
-street: "Bernauer Straße"
-housenumber: 114
+street: Bernauer Straße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.74357
 longitude: 14.32297
 postcode: "03048"
 city: Cottbus
-street: "Thiemstraße"
-housenumber: 111
-phone: "+49 355 48559057"
-opening_hours: "Mo-Su 06:00-18:30"
-website: "https://www.baeckerei-dreissig.de/"
+street: Thiemstraße
+housenumber: "111"
+phone: +49 355 48559057
+opening_hours: Mo-Su 06:00-18:30
+website: https://www.baeckerei-dreissig.de/

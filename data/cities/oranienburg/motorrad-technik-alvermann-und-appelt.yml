@@ -1,11 +1,11 @@
 id: 366855874
-type: way
+type: node
 latitude: 52.7732
 longitude: 13.26123
 postcode: "16515"
 city: Oranienburg
-street: "Am Heidering"
-housenumber: 1
-phone: "+49 3301 5759939"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
-website: "https://www.suzuki-mta.de/"
+street: Am Heidering
+housenumber: "1"
+phone: +49 3301 5759939
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
+website: https://www.suzuki-mta.de/

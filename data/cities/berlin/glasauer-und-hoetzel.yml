@@ -4,8 +4,8 @@ latitude: 52.6183
 longitude: 13.48669
 postcode: "13125"
 city: Berlin
-street: "Achillesstraße"
-housenumber: 48
-phone: "+4930 94381035"
-opening_hours: "Mo-Fr 10:00-17:00"
+street: Achillesstraße
+housenumber: "48"
+phone: +4930 94381035
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

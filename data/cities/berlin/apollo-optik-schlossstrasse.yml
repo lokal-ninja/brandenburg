@@ -4,8 +4,8 @@ latitude: 52.45882
 longitude: 13.32225
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 29
-phone: "+49 30 51655853"
-opening_hours: "Mo-Sa 10:00-19:00; PH,Su off"
-website: "https://filialen.apollo.de/berlin/berlin/schlossstr--29.html"
+street: Schloßstraße
+housenumber: "29"
+phone: +49 30 51655853
+opening_hours: Mo-Sa 10:00-19:00; PH,Su off
+website: https://filialen.apollo.de/berlin/berlin/schlossstr--29.html

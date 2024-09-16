@@ -1,11 +1,11 @@
 id: 45037784
-type: way
+type: node
 latitude: 51.46642
 longitude: 13.60438
 postcode: "04928"
 city: Plessa
-street: "Nörvenicher Straße"
-housenumber: 3
+street: Nörvenicher Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 8:00 - 19:00"
+opening_hours: Mo-Sa 8:00 - 19:00
 website: ""

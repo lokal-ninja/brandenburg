@@ -1,11 +1,11 @@
 id: 206811764
-type: way
+type: node
 latitude: 52.21553
 longitude: 14.0039
 postcode: "15864"
 city: Wendisch Rietz
-street: "An den Kanalwiesen"
-housenumber: 1
-phone: "+49 33679 750072"
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off"
+street: An den Kanalwiesen
+housenumber: "1"
+phone: +49 33679 750072
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00; PH off
 website: ""

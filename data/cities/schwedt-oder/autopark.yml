@@ -4,8 +4,8 @@ latitude: 53.0672
 longitude: 14.26956
 postcode: "16303"
 city: Schwedt/Oder
-street: "Handelsstraße"
-housenumber: 5
+street: Handelsstraße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://www.autopark-schwedt.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://www.autopark-schwedt.de/

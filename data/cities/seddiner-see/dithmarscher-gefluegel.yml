@@ -1,11 +1,11 @@
 id: 142030200
-type: way
+type: node
 latitude: 52.28874
 longitude: 13.00626
 postcode: "14554"
 city: Seddiner See
-street: "Am Fuchsbau"
-housenumber: 24
+street: Am Fuchsbau
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

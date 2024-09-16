@@ -4,8 +4,8 @@ latitude: 52.55614
 longitude: 13.34271
 postcode: "13349"
 city: Berlin
-street: "Schöningstraße"
-housenumber: 1
+street: Schöningstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Su 12:00-18:00"
+opening_hours: Mo-Fr 10:00-20:00; Su 12:00-18:00
 website: ""

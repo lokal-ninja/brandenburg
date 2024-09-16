@@ -1,11 +1,11 @@
 id: 11265082
-type: way
+type: node
 latitude: 52.53557
 longitude: 13.47679
 postcode: "13055"
 city: Berlin
-street: "Weißenseer Weg"
+street: Weißenseer Weg
 housenumber: 32-34
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:00; Sa 09:00-14:00"
-website: "https://renault-retail-berlin-fennpfuhl.de/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 09:00-14:00
+website: https://renault-retail-berlin-fennpfuhl.de/

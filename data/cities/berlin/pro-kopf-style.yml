@@ -4,8 +4,8 @@ latitude: 52.54348
 longitude: 13.44224
 postcode: "10409"
 city: Berlin
-street: "Greifswalder Straße"
-housenumber: 90
+street: Greifswalder Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://prokopf-friseure.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://prokopf-friseure.de/

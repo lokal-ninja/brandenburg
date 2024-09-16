@@ -4,8 +4,8 @@ latitude: 52.42697
 longitude: 13.21616
 postcode: "14129"
 city: Berlin
-street: "Potsdamer Chaussee"
-housenumber: 80
+street: Potsdamer Chaussee
+housenumber: "80"
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
 website: ""

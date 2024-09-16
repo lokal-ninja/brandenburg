@@ -4,8 +4,8 @@ latitude: 52.46866
 longitude: 13.33191
 postcode: "12161"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 21
-phone: "+49 30 85401383"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa nach Vereinbarung"
-website: "https://www.hoergeraete-berlin.de"
+street: Rheinstraße
+housenumber: "21"
+phone: +49 30 85401383
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa "nach Vereinbarung"
+website: https://www.hoergeraete-berlin.de

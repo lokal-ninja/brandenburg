@@ -1,11 +1,11 @@
 id: 20980117
-type: way
+type: node
 latitude: 52.54969
 longitude: 13.39148
 postcode: "13357"
 city: Berlin
-street: "Badstraße"
-housenumber: 4
+street: Badstraße
+housenumber: "4"
 phone: "+49304930000"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.gesundbrunnen-center.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.gesundbrunnen-center.de/

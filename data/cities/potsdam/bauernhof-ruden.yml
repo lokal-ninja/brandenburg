@@ -4,8 +4,8 @@ latitude: 52.45742
 longitude: 13.0394
 postcode: "14476"
 city: Potsdam
-street: "Gellertstraße"
-housenumber: 3
-phone: "+49 33208 20663"
-opening_hours: "Mo-Tu,Th-Fr 07:00-18:00; We 07:00-12:00; Sa 08:00-16:00; Su 09:00-12:00"
-website: "https://www.bauernhof-ruden.de/"
+street: Gellertstraße
+housenumber: "3"
+phone: +49 33208 20663
+opening_hours: Mo-Tu,Th-Fr 07:00-18:00; We 07:00-12:00; Sa 08:00-16:00; Su 09:00-12:00
+website: https://www.bauernhof-ruden.de/

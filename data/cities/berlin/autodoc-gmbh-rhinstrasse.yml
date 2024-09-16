@@ -1,11 +1,11 @@
 id: 506747690
-type: way
+type: node
 latitude: 52.53063
 longitude: 13.5225
 postcode: "12681"
 city: Berlin
-street: "Rhinstraße"
-housenumber: 132
+street: Rhinstraße
+housenumber: "132"
 phone: ""
 opening_hours: ""
 website: ""

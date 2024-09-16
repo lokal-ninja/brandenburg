@@ -1,11 +1,11 @@
 id: 346586972
-type: way
+type: node
 latitude: 52.51797
 longitude: 13.48538
 postcode: "10367"
 city: Berlin
-street: "Ruschestraße"
-housenumber: 24
+street: Ruschestraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:30
 website: ""

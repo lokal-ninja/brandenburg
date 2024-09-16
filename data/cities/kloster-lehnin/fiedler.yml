@@ -4,8 +4,8 @@ latitude: 52.31939
 longitude: 12.74495
 postcode: "14797"
 city: Kloster Lehnin
-street: "Marktplatz"
-housenumber: 6
-phone: "+49 3382 333"
-opening_hours: "Tu-Sa 07:00-18:00; Su 13:00-18:00; Mo off"
-website: "https://www.klostercafe-lehnin.de/"
+street: Marktplatz
+housenumber: "6"
+phone: +49 3382 333
+opening_hours: Tu-Sa 07:00-18:00; Su 13:00-18:00; Mo off
+website: https://www.klostercafe-lehnin.de/

@@ -1,11 +1,11 @@
 id: 270569343
-type: way
+type: node
 latitude: 52.52272
 longitude: 13.75344
 postcode: "15370"
 city: Fredersdorf-Vogelsdorf
-street: "Platanenstraße"
-housenumber: 11
-phone: "+49 3343906193"
+street: Platanenstraße
+housenumber: "11"
+phone: +49 3343906193
 opening_hours: ""
 website: ""

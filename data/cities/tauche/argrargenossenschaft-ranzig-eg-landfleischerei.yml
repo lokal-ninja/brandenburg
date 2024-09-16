@@ -4,8 +4,8 @@ latitude: 52.11884
 longitude: 14.19102
 postcode: "15848"
 city: Tauche
-street: "Ranziger Hauptstraße"
-housenumber: 9
-phone: "+49 33675 5236"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00; Imbiss ab 6:30"
+street: Ranziger Hauptstraße
+housenumber: "9"
+phone: +49 33675 5236
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00; "Imbiss ab 6:30"
 website: ""

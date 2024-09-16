@@ -1,11 +1,11 @@
 id: 154850116
-type: way
+type: node
 latitude: 52.41955
 longitude: 13.54076
 postcode: "12524"
 city: Berlin
-street: "Grünauer Straße"
+street: Grünauer Straße
 housenumber: 9-10
-phone: "+49 30 6729399"
-opening_hours: "Mo-Fr 08:00-18:00; PH off"
-website: "https://www.vogel-automobile.de/"
+phone: +49 30 6729399
+opening_hours: Mo-Fr 08:00-18:00; PH off
+website: https://www.vogel-automobile.de/

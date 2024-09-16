@@ -4,8 +4,8 @@ latitude: 52.46438
 longitude: 13.32944
 postcode: "12163"
 city: Berlin
-street: "Schöneberger Straße"
-housenumber: 3
-phone: "+49 30 7921115"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-17:00"
-website: "https://moe-friseur.de/"
+street: Schöneberger Straße
+housenumber: "3"
+phone: +49 30 7921115
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-17:00
+website: https://moe-friseur.de/

@@ -4,8 +4,8 @@ latitude: 52.53165
 longitude: 13.38201
 postcode: "10115"
 city: Berlin
-street: "Chausseestraße"
-housenumber: 26
+street: Chausseestraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo off; Tu-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

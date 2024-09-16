@@ -4,8 +4,8 @@ latitude: 52.52248
 longitude: 13.4019
 postcode: "10178"
 city: Berlin
-street: "Hackescher Markt"
-housenumber: 
+street: Hackescher Markt
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.kamps.de"
+website: https://www.kamps.de

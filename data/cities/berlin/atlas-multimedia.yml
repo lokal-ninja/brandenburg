@@ -4,8 +4,8 @@ latitude: 52.45301
 longitude: 13.33067
 postcode: "12167"
 city: Berlin
-street: "Klingsorstraße"
-housenumber: 4
+street: Klingsorstraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su off"
-website: "https://www.atlas-multimedia.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00; PH,Su off
+website: https://www.atlas-multimedia.de/

@@ -4,8 +4,8 @@ latitude: 52.45849
 longitude: 13.32459
 postcode: "12163"
 city: Berlin
-street: "Kieler Straße"
-housenumber: 9
+street: Kieler Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo,Su,PH off; Tu-Fr 11:00-19:00; Sa 11:00-16:00"
+opening_hours: Mo,Su,PH off; Tu-Fr 11:00-19:00; Sa 11:00-16:00
 website: ""

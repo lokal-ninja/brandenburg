@@ -4,8 +4,8 @@ latitude: 52.43641
 longitude: 13.2609
 postcode: "14169"
 city: Berlin
-street: "Clayallee"
-housenumber: 345
-phone: "+49 30 801 89 52"
+street: Clayallee
+housenumber: "345"
+phone: +49 30 801 89 52
 opening_hours: ""
-website: "http://www.fiebing.de"
+website: http://www.fiebing.de

@@ -1,11 +1,11 @@
 id: 34387928
-type: way
+type: node
 latitude: 52.511
 longitude: 13.4916
 postcode: "10365"
 city: Berlin
-street: "Frankfurter Allee"
+street: Frankfurter Allee
 housenumber: 208-212
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

@@ -1,11 +1,11 @@
 id: 48606651
-type: way
+type: node
 latitude: 52.41008
 longitude: 12.61036
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "An der Bundesstraße 1"
-housenumber: 1
+street: An der Bundesstraße 1
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.brandenburger-einkaufszentrum-wust.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.brandenburger-einkaufszentrum-wust.de/

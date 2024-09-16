@@ -1,11 +1,11 @@
 id: 240500859
-type: way
+type: node
 latitude: 52.37944
 longitude: 13.1142
 postcode: "14482"
 city: Potsdam
-street: "Ahornstraße"
-housenumber: 26
+street: Ahornstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00; Su,PH off
 website: ""

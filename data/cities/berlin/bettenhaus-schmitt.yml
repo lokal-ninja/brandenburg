@@ -4,8 +4,8 @@ latitude: 52.43196
 longitude: 13.25869
 postcode: "14169"
 city: Berlin
-street: "Teltower Damm"
-housenumber: 28
-phone: "+49 30 8019070"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-16:00"
-website: "https://bettenhaus.de/"
+street: Teltower Damm
+housenumber: "28"
+phone: +49 30 8019070
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-16:00
+website: https://bettenhaus.de/

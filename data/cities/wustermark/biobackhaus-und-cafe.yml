@@ -1,11 +1,11 @@
 id: 591079340
-type: way
+type: node
 latitude: 52.55916
 longitude: 12.96968
 postcode: "14641"
 city: Wustermark
-street: "Leipziger Straße"
-housenumber: 2
-phone: "+49 33234 766690"
-opening_hours: "Mo-Fr 06:00-16:30; Sa,Su 07:00-13:00"
-website: "https://das-biobackhaus.de/"
+street: Leipziger Straße
+housenumber: "2"
+phone: +49 33234 766690
+opening_hours: Mo-Fr 06:00-16:30; Sa,Su 07:00-13:00
+website: https://das-biobackhaus.de/

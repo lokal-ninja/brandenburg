@@ -4,8 +4,8 @@ latitude: 52.47901
 longitude: 13.34404
 postcode: "10827"
 city: Berlin
-street: "Innsbrucker Platz"
-housenumber: 4
-phone: "+49 30 78717745"
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-16:00"
+street: Innsbrucker Platz
+housenumber: "4"
+phone: +49 30 78717745
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-16:00
 website: ""

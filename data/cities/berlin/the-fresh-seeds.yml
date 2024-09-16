@@ -4,8 +4,8 @@ latitude: 52.50643
 longitude: 13.46946
 postcode: "10245"
 city: Berlin
-street: "Boxhagener Straße"
-housenumber: 59
+street: Boxhagener Straße
+housenumber: "59"
 phone: ""
-opening_hours: "Sa,Su 11:30-22:00; Mo-Fr 11:00-22:00"
-website: "http://www.thefreshseeds.de/"
+opening_hours: Sa,Su 11:30-22:00; Mo-Fr 11:00-22:00
+website: http://www.thefreshseeds.de/

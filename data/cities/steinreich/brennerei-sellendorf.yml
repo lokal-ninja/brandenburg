@@ -1,11 +1,11 @@
 id: 222961611
-type: way
+type: node
 latitude: 51.95737
 longitude: 13.54392
 postcode: "15938"
 city: Steinreich
-street: "Dorfstraße"
-housenumber: 29
-phone: "+49 35452 647"
-opening_hours: "Mo-Fr 08:00-15:30; PH,Sa,Su off"
-website: "https://www.brennerei-sellendorf.de/"
+street: Dorfstraße
+housenumber: "29"
+phone: +49 35452 647
+opening_hours: Mo-Fr 08:00-15:30; PH,Sa,Su off
+website: https://www.brennerei-sellendorf.de/

@@ -1,11 +1,11 @@
 id: 370521016
-type: way
+type: node
 latitude: 53.09266
 longitude: 11.47385
 postcode: "19309"
 city: Lenzen (Elbe)
-street: "Hamburger Straße"
-housenumber: 68
+street: Hamburger Straße
+housenumber: "68"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:00,13:00-18:00; Sa 08:00-11:00"
+opening_hours: Tu-Fr 09:00-12:00,13:00-18:00; Sa 08:00-11:00
 website: ""

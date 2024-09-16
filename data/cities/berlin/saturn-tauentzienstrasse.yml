@@ -1,11 +1,11 @@
 id: 26408270
-type: way
+type: node
 latitude: 52.50407
 longitude: 13.33839
 postcode: "10789"
 city: Berlin
-street: "Tauentzienstraße"
+street: Tauentzienstraße
 housenumber: 9-12
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su, PH off"
-website: "https://www.saturn.de/de/store/berlin-europa-center-130"
+opening_hours: Mo-Sa 10:00-20:00; Su, PH off
+website: https://www.saturn.de/de/store/berlin-europa-center-130

@@ -4,8 +4,8 @@ latitude: 52.49129
 longitude: 13.32415
 postcode: "10717"
 city: Berlin
-street: "Güntzelstraße"
-housenumber: 42
+street: Güntzelstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "https://www.kleine-hoerakustik.de"
+website: https://www.kleine-hoerakustik.de

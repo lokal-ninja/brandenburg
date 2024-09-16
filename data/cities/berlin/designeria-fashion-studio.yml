@@ -4,8 +4,8 @@ latitude: 52.46323
 longitude: 13.32948
 postcode: "12163"
 city: Berlin
-street: "Feuerbachstraße"
-housenumber: 20
+street: Feuerbachstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 11:30-18:30; Sa 11:30-16:00; PH,Su off"
+opening_hours: Mo-Fr 11:30-18:30; Sa 11:30-16:00; PH,Su off
 website: ""

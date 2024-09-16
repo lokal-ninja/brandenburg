@@ -1,11 +1,11 @@
 id: 119562804
-type: way
+type: node
 latitude: 52.32853
 longitude: 14.54032
 postcode: "15232"
 city: Frankfurt (Oder)
-street: "Konrad-Wachsmann-Straße"
-housenumber: 45
+street: Konrad-Wachsmann-Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

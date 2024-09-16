@@ -4,8 +4,8 @@ latitude: 52.50928
 longitude: 13.45925
 postcode: "10245"
 city: Berlin
-street: "Wühlischstraße"
-housenumber: 25
+street: Wühlischstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 12:00-20:00;Sa 11:00-18:00;Su,PH off"
+opening_hours: Mo-Fr 12:00-20:00;Sa 11:00-18:00;Su,PH off
 website: ""

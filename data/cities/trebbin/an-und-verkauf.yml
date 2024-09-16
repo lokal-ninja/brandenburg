@@ -1,11 +1,11 @@
 id: 330151954
-type: way
+type: node
 latitude: 52.21465
 longitude: 13.21203
 postcode: "14959"
 city: Trebbin
-street: "Beelitzer Straße"
-housenumber: 50
-phone: "+49 33731 31574"
-opening_hours: "Mo,Th 11:00-17:00"
+street: Beelitzer Straße
+housenumber: "50"
+phone: +49 33731 31574
+opening_hours: Mo,Th 11:00-17:00
 website: ""

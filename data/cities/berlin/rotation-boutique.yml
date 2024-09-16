@@ -4,8 +4,8 @@ latitude: 52.53047
 longitude: 13.40213
 postcode: ""
 city: Berlin
-street: "Weinbergsweg"
-housenumber: 3
+street: Weinbergsweg
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00"
+opening_hours: Mo-Sa 12:00-19:00
 website: ""

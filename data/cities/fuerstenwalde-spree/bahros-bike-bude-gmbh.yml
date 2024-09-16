@@ -1,11 +1,11 @@
 id: 179160014
-type: way
+type: node
 latitude: 52.37656
 longitude: 14.07214
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Karl-Liebknecht-Straße"
-housenumber: 23
+street: Karl-Liebknecht-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 10:00-12:30,13:00-18:00; Sa 10:00-18:00; Su,PH off"
-website: "https://www.bahros-bike-bude.de/"
+opening_hours: Mo-Fr 10:00-12:30,13:00-18:00; Sa 10:00-18:00; Su,PH off
+website: https://www.bahros-bike-bude.de/

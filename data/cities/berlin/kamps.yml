@@ -4,8 +4,8 @@ latitude: 52.56032
 longitude: 13.4292
 postcode: "13089"
 city: Berlin
-street: "Prenzlauer Promenade"
-housenumber: 43
+street: Prenzlauer Promenade
+housenumber: "43"
 phone: ""
 opening_hours: ""
-website: "https://www.kamps.de"
+website: https://www.kamps.de

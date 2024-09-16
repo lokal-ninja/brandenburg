@@ -1,11 +1,11 @@
 id: 151431243
-type: way
+type: node
 latitude: 51.75447
 longitude: 14.32383
 postcode: ""
 city: Cottbus
-street: "Wilhelm-Külz-Straße"
-housenumber: 39
-phone: "+49 355 23828"
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "http://kfz-buergermeister.de/"
+street: Wilhelm-Külz-Straße
+housenumber: "39"
+phone: +49 355 23828
+opening_hours: Mo-Fr 07:00-18:00
+website: http://kfz-buergermeister.de/

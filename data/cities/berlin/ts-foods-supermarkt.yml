@@ -4,8 +4,8 @@ latitude: 52.52419
 longitude: 13.3332
 postcode: "10555"
 city: Berlin
-street: "Alt-Moabit"
-housenumber: 74
-phone: "+4930 39741119"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "http://tsfoods-supermarkt.de/"
+street: Alt-Moabit
+housenumber: "74"
+phone: +4930 39741119
+opening_hours: Mo-Sa 10:00-20:00
+website: http://tsfoods-supermarkt.de/

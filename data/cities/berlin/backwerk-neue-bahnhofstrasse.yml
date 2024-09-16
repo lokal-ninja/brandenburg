@@ -4,8 +4,8 @@ latitude: 52.50492
 longitude: 13.46933
 postcode: "10245"
 city: Berlin
-street: "Neue Bahnhofstraße"
-housenumber: 2
+street: Neue Bahnhofstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:30"
+opening_hours: Mo-Fr 06:00-18:30
 website: ""

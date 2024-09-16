@@ -4,8 +4,8 @@ latitude: 52.50658
 longitude: 13.30471
 postcode: "10627"
 city: Berlin
-street: "Kantstraße"
-housenumber: 106
+street: Kantstraße
+housenumber: "106"
 phone: ""
-opening_hours: "Do-Fr 13:00-18:00; Sa 11:00-16:00"
-website: "https://harry-lehmann-parfum.com"
+opening_hours: Do-Fr 13:00-18:00; Sa 11:00-16:00
+website: https://harry-lehmann-parfum.com

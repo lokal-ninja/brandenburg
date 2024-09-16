@@ -1,11 +1,11 @@
 id: 49576668
-type: way
+type: node
 latitude: 52.52034
 longitude: 13.28081
 postcode: "14059"
 city: Berlin
-street: "Fürstenbrunner Weg"
+street: Fürstenbrunner Weg
 housenumber: 14-18
-phone: "+49 800 4353361"
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://www.lidl.de/filialen/berlin-charlottenburg-wilmersdorf/westend-fuerstenbrunner-weg-14-18.html"
+phone: +49 800 4353361
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://www.lidl.de/filialen/berlin-charlottenburg-wilmersdorf/westend-fuerstenbrunner-weg-14-18.html

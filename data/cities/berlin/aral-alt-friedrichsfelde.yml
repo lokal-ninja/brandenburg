@@ -1,11 +1,11 @@
 id: 233953910
-type: way
+type: node
 latitude: 52.51055
 longitude: 13.53865
 postcode: "12683"
 city: Berlin
-street: "Alt-Friedrichsfelde"
-housenumber: 64
+street: Alt-Friedrichsfelde
+housenumber: "64"
 phone: ""
 opening_hours: ""
 website: ""

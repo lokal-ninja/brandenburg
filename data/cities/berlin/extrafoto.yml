@@ -1,11 +1,11 @@
 id: 110788309
-type: way
+type: node
 latitude: 52.54088
 longitude: 13.13067
 postcode: "13591"
 city: Berlin
-street: "Torweg"
-housenumber: 154
+street: Torweg
+housenumber: "154"
 phone: ""
 opening_hours: ""
 website: ""

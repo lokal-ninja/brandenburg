@@ -4,8 +4,8 @@ latitude: 52.53328
 longitude: 13.60278
 postcode: "12627"
 city: Berlin
-street: "Stollberger Straße"
-housenumber: 69
-phone: "+49 1521 4859399"
+street: Stollberger Straße
+housenumber: "69"
+phone: +49 1521 4859399
 opening_hours: ""
-website: "https://www.inkeaters.de/"
+website: https://www.inkeaters.de/

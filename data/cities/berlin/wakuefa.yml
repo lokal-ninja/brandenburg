@@ -4,8 +4,8 @@ latitude: 52.48208
 longitude: 13.34828
 postcode: "10827"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 50
-phone: "+49 30 78950741"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.wakuefa.com/"
+street: Hauptstraße
+housenumber: "50"
+phone: +49 30 78950741
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.wakuefa.com/

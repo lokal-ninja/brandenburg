@@ -1,11 +1,11 @@
 id: 323672691
-type: way
+type: node
 latitude: 52.31937
 longitude: 12.73523
 postcode: "14797"
 city: Kloster Lehnin
-street: "Am Bahnhof"
-housenumber: 1
+street: Am Bahnhof
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

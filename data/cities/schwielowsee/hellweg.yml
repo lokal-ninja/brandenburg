@@ -1,11 +1,11 @@
 id: 77857324
-type: way
+type: node
 latitude: 52.36379
 longitude: 12.96712
 postcode: "14548"
 city: Schwielowsee
-street: "Hauffstraße"
-housenumber: 41
-phone: "+49 3327 59860"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.hellweg.de/cms/de/Filialen/Schwielowsee/Schwielowsee.htm"
+street: Hauffstraße
+housenumber: "41"
+phone: +49 3327 59860
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.hellweg.de/cms/de/Filialen/Schwielowsee/Schwielowsee.htm

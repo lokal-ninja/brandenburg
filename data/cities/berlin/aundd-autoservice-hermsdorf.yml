@@ -4,8 +4,8 @@ latitude: 52.61591
 longitude: 13.31707
 postcode: "13467"
 city: Berlin
-street: "Berliner Straße"
-housenumber: 129
-phone: "+49 30 43553590"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.ad-autoservice.de/"
+street: Berliner Straße
+housenumber: "129"
+phone: +49 30 43553590
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.ad-autoservice.de/

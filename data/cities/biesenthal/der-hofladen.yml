@@ -4,8 +4,9 @@ latitude: 52.73411
 longitude: 13.66617
 postcode: "16359"
 city: Biesenthal
-street: "Dorfstraße"
-housenumber: 22
-phone: "+49 3337 451945"
-opening_hours: "May-Dec Tu-Fr 09:00-18:00, May-Dec Sa 08:00-18:00, May-Dec Su,PH 10:00-13:00; Jan-Apr Tu-Fr 09:00-18:00, Jan-Apr Sa 08:00-18:00"
-website: "https://derhofladen.hpage.com"
+street: Dorfstraße
+housenumber: "22"
+phone: +49 3337 451945
+opening_hours: May-Dec Tu-Fr 09:00-18:00, May-Dec Sa 08:00-18:00, May-Dec Su,PH 10:00-13:00;
+    Jan-Apr Tu-Fr 09:00-18:00, Jan-Apr Sa 08:00-18:00
+website: https://derhofladen.hpage.com

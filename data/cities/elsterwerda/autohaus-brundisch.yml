@@ -1,11 +1,11 @@
 id: 230010824
-type: way
+type: node
 latitude: 51.46258
 longitude: 13.51529
 postcode: "04910"
 city: Elsterwerda
-street: "An der Unterführung"
-housenumber: 2
+street: An der Unterführung
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

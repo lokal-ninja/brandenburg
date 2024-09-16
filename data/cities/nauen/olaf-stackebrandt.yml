@@ -4,8 +4,8 @@ latitude: 52.60624
 longitude: 12.87668
 postcode: "14641"
 city: Nauen
-street: "Mittelstraße"
-housenumber: 9
+street: Mittelstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "http://www.uhrmacher-stackebrandt.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: http://www.uhrmacher-stackebrandt.de

@@ -1,11 +1,11 @@
 id: 118336911
-type: way
+type: node
 latitude: 52.42623
 longitude: 13.24391
 postcode: "14165"
 city: Berlin
-street: "Berlepschstraße"
-housenumber: 74
+street: Berlepschstraße
+housenumber: "74"
 phone: "+493080495055"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-erler-berlepschstr.-74/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-erler-berlepschstr.-74/index.jsp

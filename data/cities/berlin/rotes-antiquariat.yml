@@ -4,8 +4,8 @@ latitude: 52.51236
 longitude: 13.4196
 postcode: "10179"
 city: Berlin
-street: "Rungestraße"
-housenumber: 20
-phone: "+49 30 27593500"
-opening_hours: "Mo-Fr 12:00-18:00; Sa 11:00-15:00; PH off"
-website: "https://www.rotes-antiquariat.de/"
+street: Rungestraße
+housenumber: "20"
+phone: +49 30 27593500
+opening_hours: Mo-Fr 12:00-18:00; Sa 11:00-15:00; PH off
+website: https://www.rotes-antiquariat.de/

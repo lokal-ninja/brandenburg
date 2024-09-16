@@ -4,8 +4,8 @@ latitude: 52.53855
 longitude: 13.41592
 postcode: "10435"
 city: Berlin
-street: "Sredzkistraße"
-housenumber: 23
-phone: "+49 30 25 74 29 49"
-opening_hours: "Mo-Fr 10:00-20:00; Sa 11:00-18:00"
-website: "https://www.sichtwechsel-berlin.de/"
+street: Sredzkistraße
+housenumber: "23"
+phone: +49 30 25 74 29 49
+opening_hours: Mo-Fr 10:00-20:00; Sa 11:00-18:00
+website: https://www.sichtwechsel-berlin.de/

@@ -4,8 +4,8 @@ latitude: 52.43532
 longitude: 13.34379
 postcode: "12247"
 city: Berlin
-street: "Kaiser-Wilhelm-Straße"
-housenumber: 68
-phone: "+4930 773277 11"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://hdo-l.de/"
+street: Kaiser-Wilhelm-Straße
+housenumber: "68"
+phone: +4930 773277 11
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://hdo-l.de/

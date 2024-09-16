@@ -1,11 +1,11 @@
 id: 46902319
-type: way
+type: node
 latitude: 52.61139
 longitude: 12.33365
 postcode: "14712"
 city: Rathenow
-street: "Rhinower Straße"
-housenumber: 39
+street: Rhinower Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
 website: ""

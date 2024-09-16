@@ -1,11 +1,11 @@
 id: 244065446
-type: way
+type: node
 latitude: 52.40617
 longitude: 13.1896
 postcode: "14532"
 city: Kleinmachnow
-street: "Albert-Einstein-Ring"
-housenumber: 49
+street: Albert-Einstein-Ring
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

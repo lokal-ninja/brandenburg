@@ -4,8 +4,8 @@ latitude: 52.52502
 longitude: 13.33961
 postcode: "10555"
 city: Berlin
-street: "Krefelder Straße"
-housenumber: 20
-phone: "+49 30 3911647"
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-14:00; We off"
+street: Krefelder Straße
+housenumber: "20"
+phone: +49 30 3911647
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-14:00; We off
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.53708
 longitude: 13.26728
 postcode: "13629"
 city: Berlin
-street: "Grammestraße"
-housenumber: 11
-phone: "+49 1521 8029867"
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "https://www.blts-tattoo.com"
+street: Grammestraße
+housenumber: "11"
+phone: +49 1521 8029867
+opening_hours: Mo-Fr 11:00-18:00
+website: https://www.blts-tattoo.com

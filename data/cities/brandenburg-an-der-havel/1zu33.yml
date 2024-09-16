@@ -4,8 +4,8 @@ latitude: 52.41514
 longitude: 12.55587
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Mühlentorstraße"
-housenumber: 2
-phone: "+49 3381 3282125"
-opening_hours: "Mo closed,Tu-Th 11:00-17:00,Fr 11:00-15:00"
+street: Mühlentorstraße
+housenumber: "2"
+phone: +49 3381 3282125
+opening_hours: Mo closed,Tu-Th 11:00-17:00,Fr 11:00-15:00
 website: ""

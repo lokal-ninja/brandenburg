@@ -4,8 +4,8 @@ latitude: 52.56348
 longitude: 13.39319
 postcode: "13359"
 city: Berlin
-street: "Steegerstraße"
-housenumber: 2
+street: Steegerstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://www.interiordasein.de/"
+website: http://www.interiordasein.de/

@@ -4,8 +4,8 @@ latitude: 51.7857
 longitude: 14.34336
 postcode: "03044"
 city: Cottbus
-street: "Am Fließ"
-housenumber: 16
-phone: "+49 355 8626994"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.rewe.de/marktseite/cottbus-schmellwitz/4040085/rewe-markt-am-fliess-16/"
+street: Am Fließ
+housenumber: "16"
+phone: +49 355 8626994
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.rewe.de/marktseite/cottbus-schmellwitz/4040085/rewe-markt-am-fliess-16/

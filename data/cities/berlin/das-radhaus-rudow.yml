@@ -1,11 +1,11 @@
 id: 77391057
-type: way
+type: node
 latitude: 52.41657
 longitude: 13.49727
 postcode: "12355"
 city: Berlin
-street: "Alt-Rudow"
-housenumber: 73
-phone: "+49 30 6631071"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.das-radhaus.de/filiale-berlin-rudow/"
+street: Alt-Rudow
+housenumber: "73"
+phone: +49 30 6631071
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.das-radhaus.de/filiale-berlin-rudow/

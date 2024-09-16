@@ -1,11 +1,11 @@
 id: 29386694
-type: way
+type: node
 latitude: 52.51922
 longitude: 13.42448
 postcode: "10178"
 city: Berlin
-street: "Karl-Marx-Allee"
-housenumber: 46
+street: Karl-Marx-Allee
+housenumber: "46"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://nanobike.de/nanobike-cube-store-berlin-mitte"
+opening_hours: Mo,Tu,Th,Fr 10:00-19:00; Sa 10:00-16:00
+website: https://nanobike.de/nanobike-cube-store-berlin-mitte

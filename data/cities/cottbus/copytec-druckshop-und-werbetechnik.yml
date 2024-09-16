@@ -4,8 +4,8 @@ latitude: 51.76491
 longitude: 14.32799
 postcode: "03044"
 city: Cottbus
-street: "Karl-Marx-Straße"
-housenumber: 59
-phone: "+49 355 3833955"
-opening_hours: "Mo-Th 08:30-12:00,13:00-17:30; Fr 08:30-12:00,13:00-16:30"
-website: "http://www.copytec-cb.de"
+street: Karl-Marx-Straße
+housenumber: "59"
+phone: +49 355 3833955
+opening_hours: Mo-Th 08:30-12:00,13:00-17:30; Fr 08:30-12:00,13:00-16:30
+website: http://www.copytec-cb.de

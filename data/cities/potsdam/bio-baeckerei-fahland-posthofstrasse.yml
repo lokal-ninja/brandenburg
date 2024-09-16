@@ -4,8 +4,8 @@ latitude: 52.39974
 longitude: 13.06506
 postcode: "14467"
 city: Potsdam
-street: "Posthofstraße"
-housenumber: 1
-phone: "+49 331 2706589"
-opening_hours: "Mo-Fr 05:30-18:00; Sa,Su,PH off"
-website: "https://www.baeckerei-fahland.de/"
+street: Posthofstraße
+housenumber: "1"
+phone: +49 331 2706589
+opening_hours: Mo-Fr 05:30-18:00; Sa,Su,PH off
+website: https://www.baeckerei-fahland.de/

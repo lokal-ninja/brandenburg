@@ -1,11 +1,11 @@
 id: 1099996165
-type: way
+type: node
 latitude: 52.59938
 longitude: 13.10103
 postcode: "14621"
 city: Schönwalde-Glien
-street: "Alter Wansdorfer Weg"
-housenumber: 2
+street: Alter Wansdorfer Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

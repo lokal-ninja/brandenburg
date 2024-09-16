@@ -1,11 +1,11 @@
 id: 111211787
-type: way
+type: node
 latitude: 52.59976
 longitude: 13.13674
 postcode: "14621"
 city: Schönwalde-Glien
-street: "Berliner Allee"
-housenumber: 10
-phone: "+49 3322 214996"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.edeka.de"
+street: Berliner Allee
+housenumber: "10"
+phone: +49 3322 214996
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.edeka.de

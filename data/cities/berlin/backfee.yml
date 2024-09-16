@@ -4,8 +4,8 @@ latitude: 52.51258
 longitude: 13.46668
 postcode: "10247"
 city: Berlin
-street: "Jungstraße"
-housenumber: 10
-phone: "+49 3029494976"
-opening_hours: "Mo-Fr 06:00-18:00; Sa-Su 06:00-18:00"
+street: Jungstraße
+housenumber: "10"
+phone: +49 3029494976
+opening_hours: Mo-Fr 06:00-18:00; Sa-Su 06:00-18:00
 website: ""

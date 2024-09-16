@@ -4,8 +4,8 @@ latitude: 52.48903
 longitude: 13.34889
 postcode: "10823"
 city: Berlin
-street: "Eisenacher Straße"
-housenumber: 43
+street: Eisenacher Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-16:00"
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-16:00; Su 08:00-16:00
 website: ""

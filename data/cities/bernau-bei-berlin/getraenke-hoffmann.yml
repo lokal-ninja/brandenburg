@@ -1,11 +1,11 @@
 id: 202919196
-type: way
+type: node
 latitude: 52.66566
 longitude: 13.58047
 postcode: "16321"
 city: Bernau bei Berlin
-street: "Schwanebecker Chaussee"
-housenumber: 47
-phone: "+49 3338 459853"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+street: Schwanebecker Chaussee
+housenumber: "47"
+phone: +49 3338 459853
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

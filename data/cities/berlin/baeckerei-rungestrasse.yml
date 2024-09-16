@@ -4,8 +4,8 @@ latitude: 52.51218
 longitude: 13.4192
 postcode: "10179"
 city: Berlin
-street: "Rungestraße"
-housenumber: 16
+street: Rungestraße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Th 06:00-16:00; Sa,Su 07:00-12:00"
+opening_hours: Mo-Th 06:00-16:00; Sa,Su 07:00-12:00
 website: ""

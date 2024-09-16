@@ -4,8 +4,8 @@ latitude: 52.63442
 longitude: 13.29059
 postcode: "13465"
 city: Berlin
-street: "Zeltinger Platz"
-housenumber: 15
+street: Zeltinger Platz
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-14:00
 website: ""

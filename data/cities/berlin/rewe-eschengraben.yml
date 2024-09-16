@@ -4,8 +4,8 @@ latitude: 52.55653
 longitude: 13.42451
 postcode: "13189"
 city: Berlin
-street: "Eschengraben"
-housenumber: 47
+street: Eschengraben
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

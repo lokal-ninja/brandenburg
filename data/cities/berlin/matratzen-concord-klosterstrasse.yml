@@ -4,8 +4,8 @@ latitude: 52.53051
 longitude: 13.19661
 postcode: "13581"
 city: Berlin
-street: "Klosterstraße"
-housenumber: 27
+street: Klosterstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 110523612
-type: way
+type: node
 latitude: 52.50192
 longitude: 14.15307
 postcode: "15374"
 city: Müncheberg
-street: "Bergmannstraße"
-housenumber: 7
+street: Bergmannstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

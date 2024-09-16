@@ -1,11 +1,11 @@
 id: 36868169
-type: way
+type: node
 latitude: 52.30463
 longitude: 13.64909
 postcode: "15713"
 city: Königs Wusterhausen
-street: "Karl-Marx-Straße"
-housenumber: 169
+street: Karl-Marx-Straße
+housenumber: "169"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/koenigs-wusterhausen/565200/rewe-markt-karl-marx-strasse-169/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/koenigs-wusterhausen/565200/rewe-markt-karl-marx-strasse-169/

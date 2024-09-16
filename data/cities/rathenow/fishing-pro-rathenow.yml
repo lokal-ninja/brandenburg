@@ -4,8 +4,8 @@ latitude: 52.60913
 longitude: 12.34309
 postcode: "14712"
 city: Rathenow
-street: "Große Hagenstraße"
-housenumber: 25
+street: Große Hagenstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

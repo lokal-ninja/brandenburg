@@ -1,11 +1,11 @@
 id: 206275488
-type: way
+type: node
 latitude: 52.92023
 longitude: 12.78702
 postcode: "16816"
 city: Neuruppin
-street: "Bütower Weg"
-housenumber: 1
+street: Bütower Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00
 website: ""

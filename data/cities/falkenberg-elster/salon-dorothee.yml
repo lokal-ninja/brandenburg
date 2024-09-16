@@ -1,11 +1,11 @@
 id: 304993403
-type: way
+type: node
 latitude: 51.57953
 longitude: 13.23202
 postcode: "04895"
 city: Falkenberg/Elster
-street: "Mühlberger Straße"
+street: Mühlberger Straße
 housenumber: 26a
-phone: "+49 35365 36790"
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:00-12:00"
+phone: +49 35365 36790
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:00-12:00
 website: ""

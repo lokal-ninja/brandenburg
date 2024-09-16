@@ -4,8 +4,8 @@ latitude: 52.48169
 longitude: 13.31325
 postcode: "10713"
 city: Berlin
-street: "Barstraße"
-housenumber: 28
+street: Barstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Th 16:30-20:00; Fr 16:30-17:00+"
+opening_hours: Mo-Th 16:30-20:00; Fr 16:30-17:00+
 website: ""

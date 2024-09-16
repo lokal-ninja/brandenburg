@@ -4,8 +4,8 @@ latitude: 52.48978
 longitude: 13.40803
 postcode: "10967"
 city: Berlin
-street: "Körtestraße"
-housenumber: 36
-phone: "+49 30 6917264"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 08:00-17:00"
-website: "https://www.beumer-lutum.de/"
+street: Körtestraße
+housenumber: "36"
+phone: +49 30 6917264
+opening_hours: Mo-Fr 07:00-19:00; Sa 07:00-17:00; Su 08:00-17:00
+website: https://www.beumer-lutum.de/

@@ -1,11 +1,11 @@
 id: 503386372
-type: way
+type: node
 latitude: 52.70811
 longitude: 13.1089
 postcode: "16727"
 city: Oberkrämer
-street: "Eichstädter Chaussee"
-housenumber: 4
+street: Eichstädter Chaussee
+housenumber: "4"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

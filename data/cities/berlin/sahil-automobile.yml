@@ -1,11 +1,11 @@
 id: 524144495
-type: way
+type: node
 latitude: 52.56212
 longitude: 13.50024
 postcode: "13051"
 city: Berlin
-street: "Darßer Straße"
-housenumber: 4
+street: Darßer Straße
+housenumber: "4"
 phone: ""
-opening_hours: ""
+opening_hours: Mo-Fr 09:30-18:00
 website: ""

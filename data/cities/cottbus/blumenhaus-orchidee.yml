@@ -1,11 +1,11 @@
 id: 324293533
-type: way
+type: node
 latitude: 51.75482
 longitude: 14.30371
 postcode: "03046"
 city: Cottbus
-street: "Kolkwitzer Straße"
-housenumber: 39
+street: Kolkwitzer Straße
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

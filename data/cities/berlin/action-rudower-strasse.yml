@@ -1,11 +1,11 @@
 id: 165305988
-type: way
+type: node
 latitude: 52.4415
 longitude: 13.45905
 postcode: "12351"
 city: Berlin
-street: "Rudower Straße"
-housenumber: 27
+street: Rudower Straße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

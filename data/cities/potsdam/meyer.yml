@@ -1,11 +1,11 @@
 id: 127216331
-type: way
+type: node
 latitude: 52.42657
 longitude: 13.00224
 postcode: "14469"
 city: Potsdam
-street: "Rückertstraße"
-housenumber: 8
+street: Rückertstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

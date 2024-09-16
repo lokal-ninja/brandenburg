@@ -4,8 +4,8 @@ latitude: 52.47545
 longitude: 13.47548
 postcode: "12437"
 city: Berlin
-street: "Dammweg"
-housenumber: 153
+street: Dammweg
+housenumber: "153"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

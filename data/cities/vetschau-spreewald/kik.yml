@@ -1,11 +1,11 @@
 id: 134237632
-type: way
+type: node
 latitude: 51.78403
 longitude: 14.08705
 postcode: "03226"
 city: Vetschau/Spreewald
-street: "Juri-Gagarin-Straße"
-housenumber: 62
+street: Juri-Gagarin-Straße
+housenumber: "62"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
 website: ""

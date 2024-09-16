@@ -4,8 +4,8 @@ latitude: 52.50273
 longitude: 13.30767
 postcode: "10629"
 city: Berlin
-street: "Wilmersdorfer Straße"
-housenumber: 77
+street: Wilmersdorfer Straße
+housenumber: "77"
 phone: ""
-opening_hours: "We-Fr 11:00-19:00; Sa 10:00-16:00"
+opening_hours: We-Fr 11:00-19:00; Sa 10:00-16:00
 website: ""

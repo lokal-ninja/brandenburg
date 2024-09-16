@@ -1,11 +1,11 @@
 id: 215032496
-type: way
+type: node
 latitude: 52.85
 longitude: 13.68555
 postcode: "16244"
 city: Schorfheide
-street: "An der B 167"
-housenumber: 4
+street: An der B 167
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

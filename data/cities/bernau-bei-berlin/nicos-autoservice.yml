@@ -1,11 +1,11 @@
 id: 324219324
-type: way
+type: node
 latitude: 52.67952
 longitude: 13.58166
 postcode: "16321"
 city: Bernau bei Berlin
-street: "Wallstraße"
-housenumber: 6
+street: Wallstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.nicos-autoservice.de"
+website: http://www.nicos-autoservice.de

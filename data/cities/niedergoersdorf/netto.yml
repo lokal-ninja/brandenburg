@@ -1,11 +1,11 @@
 id: 329107524
-type: way
+type: node
 latitude: 52.01663
 longitude: 12.99414
 postcode: "14913"
 city: Niedergörsdorf
-street: "Treuenbrietzener Straße"
-housenumber: 26
+street: Treuenbrietzener Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

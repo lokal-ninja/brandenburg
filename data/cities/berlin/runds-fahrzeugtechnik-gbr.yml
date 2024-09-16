@@ -4,8 +4,8 @@ latitude: 52.44394
 longitude: 13.33551
 postcode: "12247"
 city: Berlin
-street: "Siemensstraße"
-housenumber: 25
+street: Siemensstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa,Su,PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa,Su,PH off
 website: ""

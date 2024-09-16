@@ -4,8 +4,8 @@ latitude: 52.50333
 longitude: 13.32776
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
+street: Kurfürstendamm
 housenumber: 26a
-phone: "+49 30 166372100"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-18:00"
-website: "https://www.ralphlauren.de/de/storedetail?StoreID=3613"
+phone: +49 30 166372100
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00
+website: https://www.ralphlauren.de/de/storedetail?StoreID=3613

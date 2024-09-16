@@ -1,11 +1,11 @@
 id: 1275474220
-type: way
+type: node
 latitude: 52.23475
 longitude: 12.97989
 postcode: "14547"
 city: Beelitz
-street: "Trebbiner Straße"
-housenumber: 5
+street: Trebbiner Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; Su,PH off"
-website: "https://www.rossmann.de/"
+opening_hours: Mo-Sa 08:00-20:00; Su,PH off
+website: https://www.rossmann.de/

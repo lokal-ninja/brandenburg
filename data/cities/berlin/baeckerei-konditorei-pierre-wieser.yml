@@ -4,8 +4,8 @@ latitude: 52.46287
 longitude: 13.342
 postcode: "12157"
 city: Berlin
-street: "Sachsenwaldstraße"
-housenumber: 30
-phone: "+49 30 7957425"
-opening_hours: "Mo-Fr 06:00-16:00; Sa 06:00-12:00; Su 07:00-11:00"
-website: "http://www.baeckerei-wieser.de"
+street: Sachsenwaldstraße
+housenumber: "30"
+phone: +49 30 7957425
+opening_hours: Mo-Fr 06:00-16:00; Sa 06:00-12:00; Su 07:00-11:00
+website: http://www.baeckerei-wieser.de

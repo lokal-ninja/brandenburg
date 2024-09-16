@@ -1,11 +1,11 @@
 id: 288350206
-type: way
+type: node
 latitude: 53.0715
 longitude: 14.25612
 postcode: "16303"
 city: Schwedt/Oder
-street: "Steinstraße"
-housenumber: 10
-phone: "+49 3332 44090"
+street: Steinstraße
+housenumber: "10"
+phone: +49 3332 44090
 opening_hours: ""
-website: "https://www.schwedt-automobile.de/"
+website: https://www.schwedt-automobile.de/

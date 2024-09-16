@@ -1,11 +1,11 @@
 id: 437774786
-type: way
+type: node
 latitude: 52.33707
 longitude: 14.54716
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Bahnhofsplatz"
+street: Bahnhofsplatz
 housenumber: 11-12
-phone: "+49 335 24356"
-opening_hours: "Sa,Su 07:00-20:00; Mo-Fr 05:00-20:00"
-website: "https://www.buchhandlung-ludwig.de"
+phone: +49 335 24356
+opening_hours: Sa,Su 07:00-20:00; Mo-Fr 05:00-20:00
+website: https://www.buchhandlung-ludwig.de

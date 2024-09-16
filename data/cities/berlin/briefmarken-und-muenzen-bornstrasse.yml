@@ -4,8 +4,8 @@ latitude: 52.46576
 longitude: 13.32502
 postcode: "12163"
 city: Berlin
-street: "Bornstraße"
-housenumber: 8
-phone: "+49 30 7927436"
-opening_hours: "Mo-We 10:00-17:00"
-website: "https://www.briefmarken-steglitz.de/"
+street: Bornstraße
+housenumber: "8"
+phone: +49 30 7927436
+opening_hours: Mo-We 10:00-17:00
+website: https://www.briefmarken-steglitz.de/

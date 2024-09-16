@@ -4,8 +4,8 @@ latitude: 52.435
 longitude: 13.5471
 postcode: "12489"
 city: Berlin
-street: "Radickestraße"
-housenumber: 55
+street: Radickestraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Th 11:00-18:00; Fr 11:00-14:00; Sa-Su,PH off"
+opening_hours: Mo-Th 11:00-18:00; Fr 11:00-14:00; Sa-Su,PH off
 website: ""

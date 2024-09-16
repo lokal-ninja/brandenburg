@@ -1,11 +1,11 @@
 id: 50556814
-type: way
+type: node
 latitude: 52.45231
 longitude: 13.36197
 postcode: "12105"
 city: Berlin
-street: "Röblingstraße"
+street: Röblingstraße
 housenumber: 118-124
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/berlin/hoeppnerstrasse-3-13/3181724"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/berlin/hoeppnerstrasse-3-13/3181724

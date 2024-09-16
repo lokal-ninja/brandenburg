@@ -4,8 +4,8 @@ latitude: 52.54224
 longitude: 13.57089
 postcode: "12685"
 city: Berlin
-street: "Blumberger Damm"
-housenumber: 122
+street: Blumberger Damm
+housenumber: "122"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.yourstorebox.com/"
+opening_hours: 24/7
+website: https://www.yourstorebox.com/

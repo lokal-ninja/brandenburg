@@ -4,8 +4,8 @@ latitude: 52.54782
 longitude: 13.3571
 postcode: "13353"
 city: Berlin
-street: "Müllerstraße"
-housenumber: 31
+street: Müllerstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Su 08:30-23:00"
-website: "https://antepbaklava.de/"
+opening_hours: Mo-Su 08:30-23:00
+website: https://antepbaklava.de/

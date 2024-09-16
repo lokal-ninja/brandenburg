@@ -1,11 +1,11 @@
 id: 480361434
-type: way
+type: node
 latitude: 52.75685
 longitude: 13.02922
 postcode: "16766"
 city: Kremmen
-street: "Scheunenweg"
-housenumber: 29
+street: Scheunenweg
+housenumber: "29"
 phone: ""
-opening_hours: "Th-Su 11:00-18:00"
+opening_hours: Th-Su 11:00-18:00
 website: ""

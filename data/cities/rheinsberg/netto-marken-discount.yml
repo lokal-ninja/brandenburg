@@ -1,11 +1,11 @@
 id: 794288832
-type: way
+type: node
 latitude: 53.09627
 longitude: 12.89721
 postcode: "16831"
 city: Rheinsberg
-street: "Berliner Straße"
-housenumber: 21
+street: Berliner Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

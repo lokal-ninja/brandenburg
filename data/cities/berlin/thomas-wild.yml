@@ -4,8 +4,8 @@ latitude: 52.52304
 longitude: 13.35982
 postcode: "10557"
 city: Berlin
-street: "Alt-Moabit"
-housenumber: 129
+street: Alt-Moabit
+housenumber: "129"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

@@ -1,11 +1,11 @@
 id: 25649356
-type: way
+type: node
 latitude: 52.5107
 longitude: 13.4375
 postcode: "10243"
 city: Berlin
-street: "Straße der Pariser Kommune"
-housenumber: 10
+street: Straße der Pariser Kommune
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: https://www.netto-online.de/

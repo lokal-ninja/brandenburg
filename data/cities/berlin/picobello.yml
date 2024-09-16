@@ -4,8 +4,8 @@ latitude: 52.50621
 longitude: 13.37388
 postcode: "10785"
 city: Berlin
-street: "Eichhornstraße"
-housenumber: 
+street: Eichhornstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-16:00; Su,PH off"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-16:00; Su,PH off
 website: ""

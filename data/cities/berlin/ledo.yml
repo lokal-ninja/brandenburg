@@ -4,8 +4,8 @@ latitude: 52.57242
 longitude: 13.30855
 postcode: "13403"
 city: Berlin
-street: "Quäkerstraße"
-housenumber: 2
+street: Quäkerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.ledo-supermarkt.de/"
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.ledo-supermarkt.de/

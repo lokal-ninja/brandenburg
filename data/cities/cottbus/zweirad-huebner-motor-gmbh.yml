@@ -1,11 +1,11 @@
 id: 25874555
-type: way
+type: node
 latitude: 51.72386
 longitude: 14.34373
 postcode: "03050"
 city: Cottbus
-street: "Madlower Hauptstraße"
-housenumber: 37
+street: Madlower Hauptstraße
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://www.zweiradhuebner.com/"
+website: https://www.zweiradhuebner.com/

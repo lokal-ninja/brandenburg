@@ -4,8 +4,8 @@ latitude: 52.47164
 longitude: 13.33504
 postcode: "12159"
 city: Berlin
-street: "Lauterstraße"
-housenumber: 17
-phone: "+49 800 2000015"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.netto-online.de"
+street: Lauterstraße
+housenumber: "17"
+phone: +49 800 2000015
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.netto-online.de

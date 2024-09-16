@@ -4,8 +4,8 @@ latitude: 52.50264
 longitude: 13.33641
 postcode: "10789"
 city: Berlin
-street: "Marburger Straße"
-housenumber: 5
+street: Marburger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "http://www.samoware.de"
+website: http://www.samoware.de

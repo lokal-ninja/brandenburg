@@ -4,8 +4,8 @@ latitude: 52.48729
 longitude: 13.32602
 postcode: "10717"
 city: Berlin
-street: "Gasteiner Straße"
-housenumber: 33
+street: Gasteiner Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.rinadelianski.de/kontakt.html"
+website: https://www.rinadelianski.de/kontakt.html

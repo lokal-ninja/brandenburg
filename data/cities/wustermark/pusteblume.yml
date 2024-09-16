@@ -1,11 +1,11 @@
 id: 1039881387
-type: way
+type: node
 latitude: 52.54289
 longitude: 12.95766
 postcode: "14641"
 city: Wustermark
-street: "Berliner Allee"
-housenumber: 19
+street: Berliner Allee
+housenumber: "19"
 phone: ""
-opening_hours: "Sa-Su 15:00-18:00"
+opening_hours: Sa-Su 15:00-18:00
 website: ""

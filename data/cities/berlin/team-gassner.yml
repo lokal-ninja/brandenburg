@@ -4,8 +4,8 @@ latitude: 52.42104
 longitude: 13.57789
 postcode: "12527"
 city: Berlin
-street: "Regattastraße"
-housenumber: 77
+street: Regattastraße
+housenumber: "77"
 phone: ""
 opening_hours: ""
 website: ""

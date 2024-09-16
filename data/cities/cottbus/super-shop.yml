@@ -4,8 +4,8 @@ latitude: 51.76275
 longitude: 14.34879
 postcode: "03042"
 city: Cottbus
-street: "Sanzebergstraße"
-housenumber: 11
+street: Sanzebergstraße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-16:00; Sa 09:00-12:00"
+opening_hours: Mo-Fr 09:00-16:00; Sa 09:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 195012001
-type: way
+type: node
 latitude: 52.57276
 longitude: 13.42949
 postcode: ""
 city: Berlin
-street: "Prenzlauer Promenade"
-housenumber: 88
+street: Prenzlauer Promenade
+housenumber: "88"
 phone: ""
 opening_hours: ""
 website: ""

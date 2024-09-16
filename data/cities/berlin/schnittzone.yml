@@ -4,8 +4,8 @@ latitude: 52.51023
 longitude: 13.45504
 postcode: "10245"
 city: Berlin
-street: "Kopernikusstraße"
-housenumber: 20
+street: Kopernikusstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-17:00
 website: ""

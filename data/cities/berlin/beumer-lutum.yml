@@ -4,8 +4,8 @@ latitude: 52.49713
 longitude: 13.44315
 postcode: "10997"
 city: Berlin
-street: "Cuvrystraße"
-housenumber: 22
-phone: "+49 30 61 67 55 70"
-opening_hours: "Mo-Fr 07:00-18:00; Sa-Su 07:00-14:00"
+street: Cuvrystraße
+housenumber: "22"
+phone: +49 30 61 67 55 70
+opening_hours: Mo-Fr 07:00-18:00; Sa-Su 07:00-14:00
 website: ""

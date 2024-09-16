@@ -4,8 +4,8 @@ latitude: 52.52446
 longitude: 13.40837
 postcode: "10178"
 city: Berlin
-street: "Münzstraße"
-housenumber: 10
-phone: "+49 30 28652541"
-opening_hours: "Mo-Sa 11:00-19:00; Su,PH off"
+street: Münzstraße
+housenumber: "10"
+phone: +49 30 28652541
+opening_hours: Mo-Sa 11:00-19:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 440970287
-type: way
+type: node
 latitude: 53.21397
 longitude: 13.51392
 postcode: "17268"
 city: Boitzenburger Land
-street: "Warther Dorfstraße"
-housenumber: 82
+street: Warther Dorfstraße
+housenumber: "82"
 phone: ""
-opening_hours: "Tu-Fr 06:30-12:00; Sa 06:30-11:30; PH off"
+opening_hours: Tu-Fr 06:30-12:00; Sa 06:30-11:30; PH off
 website: ""

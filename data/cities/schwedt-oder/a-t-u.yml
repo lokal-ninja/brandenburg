@@ -1,11 +1,11 @@
 id: 112474584
-type: way
+type: node
 latitude: 53.04984
 longitude: 14.27308
 postcode: "16303"
 city: Schwedt/Oder
-street: "Berliner Allee"
+street: Berliner Allee
 housenumber: 29a
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-16:00"
-website: "https://www.atu.de/"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-16:00
+website: https://www.atu.de/

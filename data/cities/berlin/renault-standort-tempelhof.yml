@@ -1,11 +1,11 @@
 id: 48995881
-type: way
+type: node
 latitude: 52.46597
 longitude: 13.39496
 postcode: "12099"
 city: Berlin
-street: "Germaniastraße"
+street: Germaniastraße
 housenumber: 145-149
-phone: "+49 30 756910"
-opening_hours: "Mo-Sa 07:00-19:00; Su,PH off"
+phone: +49 30 756910
+opening_hours: Mo-Sa 07:00-19:00; Su,PH off
 website: ""

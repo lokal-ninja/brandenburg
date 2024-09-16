@@ -1,11 +1,11 @@
 id: 117905217
-type: way
+type: node
 latitude: 52.35263
 longitude: 13.30627
 postcode: "14979"
 city: Großbeeren
-street: "Dorfaue"
-housenumber: 20
+street: Dorfaue
+housenumber: "20"
 phone: ""
 opening_hours: ""
-website: "https://www.edeka.de/"
+website: https://www.edeka.de/

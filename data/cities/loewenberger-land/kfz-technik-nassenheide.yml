@@ -1,11 +1,11 @@
 id: 231954227
-type: way
+type: node
 latitude: 52.80977
 longitude: 13.22444
 postcode: "16775"
 city: Löwenberger Land
-street: "Oranienburger Chaussee"
-housenumber: 20
+street: Oranienburger Chaussee
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-14:00
 website: ""

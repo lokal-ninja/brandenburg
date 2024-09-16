@@ -1,11 +1,11 @@
 id: 488699178
-type: way
+type: node
 latitude: 51.63704
 longitude: 13.56474
 postcode: "03253"
 city: Doberlug-Kirchhain
-street: "Gerberstraße"
-housenumber: 22
+street: Gerberstraße
+housenumber: "22"
 phone: "+4935322689460"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-winzer-gerberstr.-22/index.jsp"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-winzer-gerberstr.-22/index.jsp

@@ -4,8 +4,8 @@ latitude: 52.53273
 longitude: 13.33323
 postcode: "10551"
 city: Berlin
-street: "Siemensstraße"
-housenumber: 13
+street: Siemensstraße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

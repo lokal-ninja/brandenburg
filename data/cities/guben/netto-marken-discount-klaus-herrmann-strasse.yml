@@ -1,11 +1,11 @@
 id: 143405478
-type: way
+type: node
 latitude: 51.95329
 longitude: 14.68617
 postcode: "03172"
 city: Guben
-street: "Klaus-Herrmann-Straße"
-housenumber: 28
+street: Klaus-Herrmann-Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

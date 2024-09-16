@@ -1,11 +1,11 @@
 id: 79308490
-type: way
+type: node
 latitude: 52.60237
 longitude: 13.33137
 postcode: "13437"
 city: Berlin
-street: "Oranienburger Straße"
-housenumber: 116
+street: Oranienburger Straße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/

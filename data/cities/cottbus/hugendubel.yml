@@ -4,8 +4,8 @@ latitude: 51.71773
 longitude: 14.32142
 postcode: "03051"
 city: Cottbus
-street: "Madlower Chaussee"
-housenumber: 4
-phone: "+49 355 542228"
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "http://www.hugendubel.de"
+street: Madlower Chaussee
+housenumber: "4"
+phone: +49 355 542228
+opening_hours: Mo-Sa 09:30-20:00
+website: http://www.hugendubel.de

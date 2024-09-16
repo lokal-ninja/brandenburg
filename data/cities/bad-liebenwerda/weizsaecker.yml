@@ -1,11 +1,11 @@
 id: 766374039
-type: way
+type: node
 latitude: 51.51565
 longitude: 13.39218
 postcode: "04924"
 city: Bad Liebenwerda
-street: "Markt"
-housenumber: 30
+street: Markt
+housenumber: "30"
 phone: ""
 opening_hours: ""
 website: ""

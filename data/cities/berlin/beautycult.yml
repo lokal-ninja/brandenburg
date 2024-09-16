@@ -4,8 +4,8 @@ latitude: 52.46344
 longitude: 13.32861
 postcode: "12163"
 city: Berlin
-street: "Holsteinische Straße"
-housenumber: 54
+street: Holsteinische Straße
+housenumber: "54"
 phone: ""
 opening_hours: ""
-website: "http://www.beauty-cult-berlin.de/"
+website: http://www.beauty-cult-berlin.de/

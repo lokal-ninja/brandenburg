@@ -4,8 +4,8 @@ latitude: 52.4593
 longitude: 13.32522
 postcode: "12163"
 city: Berlin
-street: "Deitmerstraße"
-housenumber: 9
+street: Deitmerstraße
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "https://blezinger.de"
+website: https://blezinger.de

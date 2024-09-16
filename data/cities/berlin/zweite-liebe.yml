@@ -4,8 +4,8 @@ latitude: 52.56661
 longitude: 13.40937
 postcode: "13187"
 city: Berlin
-street: "Florastraße"
-housenumber: 59
+street: Florastraße
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.zweiteliebe.net/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.zweiteliebe.net/

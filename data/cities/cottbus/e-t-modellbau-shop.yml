@@ -1,11 +1,11 @@
 id: 151458441
-type: way
+type: node
 latitude: 51.75687
 longitude: 14.33285
 postcode: "03046"
 city: Cottbus
-street: "Straße der Jugend"
-housenumber: 116
-phone: "+49 355 8625116"
-opening_hours: "Tu-Fr 10:00-12:30, 13:30-18:00; Sa 10:00-12:00; Su,Mo,PH off"
-website: "https://et-modellbau-shop.de"
+street: Straße der Jugend
+housenumber: "116"
+phone: +49 355 8625116
+opening_hours: Tu-Fr 10:00-12:30, 13:30-18:00; Sa 10:00-12:00; Su,Mo,PH off
+website: https://et-modellbau-shop.de

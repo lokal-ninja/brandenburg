@@ -4,8 +4,8 @@ latitude: 52.53024
 longitude: 13.3081
 postcode: "10589"
 city: Berlin
-street: "Gaußstraße"
-housenumber: 17
-phone: "+49 30 346 800 0"
+street: Gaußstraße
+housenumber: "17"
+phone: +49 30 346 800 0
 opening_hours: ""
-website: "https://www.arrirental.de/home/"
+website: https://www.arrirental.de/home/

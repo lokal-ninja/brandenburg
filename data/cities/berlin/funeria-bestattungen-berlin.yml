@@ -4,8 +4,8 @@ latitude: 52.51603
 longitude: 13.41249
 postcode: "10179"
 city: Berlin
-street: "Klosterstraße"
-housenumber: 62
-phone: "+49 30 398202070"
+street: Klosterstraße
+housenumber: "62"
+phone: +49 30 398202070
 opening_hours: ""
-website: "https://funeria.de/standorte/berlin"
+website: https://funeria.de/standorte/berlin

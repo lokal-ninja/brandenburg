@@ -4,8 +4,8 @@ latitude: 51.70722
 longitude: 14.35232
 postcode: "03051"
 city: Cottbus
-street: "Am Gewerbepark"
-housenumber: 14
+street: Am Gewerbepark
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.penny.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.penny.de

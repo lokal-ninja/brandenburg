@@ -1,11 +1,12 @@
 id: 117162669
-type: way
+type: node
 latitude: 52.52691
 longitude: 13.33526
 postcode: "10551"
 city: Berlin
-street: "Turmstraße"
-housenumber: 42
+street: Turmstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00; Mo-Sa 07:30-21:00 open Backstand ab 7:30 Uhr geöffnet "
-website: "https://www.biocompany.de/"
+opening_hours: Mo-Sa 08:00-21:00; Mo-Sa 07:30-21:00 open "Backstand ab 7:30 Uhr geöffnet
+    "
+website: https://www.biocompany.de/

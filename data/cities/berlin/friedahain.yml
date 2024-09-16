@@ -4,8 +4,8 @@ latitude: 52.50989
 longitude: 13.46059
 postcode: "10245"
 city: Berlin
-street: "Gärtnerstraße"
-housenumber: 10
+street: Gärtnerstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
 website: ""

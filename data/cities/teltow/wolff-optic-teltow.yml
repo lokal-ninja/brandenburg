@@ -4,8 +4,8 @@ latitude: 52.39894
 longitude: 13.2457
 postcode: "14513"
 city: Teltow
-street: "Neißestraße"
-housenumber: 2
+street: Neißestraße
+housenumber: "2"
 phone: "+493328474504"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:00-13:00"
-website: "https://www.wolff-optic.de/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:00-13:00
+website: https://www.wolff-optic.de/

@@ -4,8 +4,8 @@ latitude: 51.95125
 longitude: 14.6795
 postcode: "03172"
 city: Guben
-street: "Am Stadtrand"
-housenumber: 4
-phone: "+49 172 5340653"
-opening_hours: "Mo-Fr 09:00-14:30 und nach Vereinbarung"
+street: Am Stadtrand
+housenumber: "4"
+phone: +49 172 5340653
+opening_hours: Mo-Fr 09:00-14:30 "und nach Vereinbarung"
 website: ""

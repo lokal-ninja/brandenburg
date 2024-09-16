@@ -4,8 +4,8 @@ latitude: 52.49349
 longitude: 13.35495
 postcode: ""
 city: Berlin
-street: "Gleditschstraße"
-housenumber: 36
-phone: "+49 30 21460828"
-opening_hours: "Tu-Fr 10:00-19:00; Sa 10:00-16:00; Mo off"
+street: Gleditschstraße
+housenumber: "36"
+phone: +49 30 21460828
+opening_hours: Tu-Fr 10:00-19:00; Sa 10:00-16:00; Mo off
 website: ""

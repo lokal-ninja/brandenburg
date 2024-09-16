@@ -1,11 +1,11 @@
 id: 142690898
-type: way
+type: node
 latitude: 51.71619
 longitude: 14.32716
 postcode: "03051"
 city: Cottbus
-street: "Cottbuser Straße"
-housenumber: 129
+street: Cottbuser Straße
+housenumber: "129"
 phone: ""
 opening_hours: ""
 website: ""

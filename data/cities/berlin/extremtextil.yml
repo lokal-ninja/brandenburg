@@ -4,8 +4,8 @@ latitude: 52.50041
 longitude: 13.42065
 postcode: "10999"
 city: Berlin
-street: "Oranienstraße"
-housenumber: 183
-phone: "+49 30 200089130"
-opening_hours: "Mo-Tu,Su,PH off; We-Fr 11:00-18:30; Sa 11:00-16:00"
-website: "https://www.extremtextil.de/store-berlin.html"
+street: Oranienstraße
+housenumber: "183"
+phone: +49 30 200089130
+opening_hours: Mo-Tu,Su,PH off; We-Fr 11:00-18:30; Sa 11:00-16:00
+website: https://www.extremtextil.de/store-berlin.html

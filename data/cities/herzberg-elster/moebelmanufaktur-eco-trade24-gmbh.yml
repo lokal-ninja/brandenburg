@@ -1,11 +1,11 @@
 id: 1041130149
-type: way
+type: node
 latitude: 51.67907
 longitude: 13.2067
 postcode: "04916"
 city: Herzberg (Elster)
-street: "Anhalter Straße"
-housenumber: 115
+street: Anhalter Straße
+housenumber: "115"
 phone: ""
 opening_hours: ""
 website: ""

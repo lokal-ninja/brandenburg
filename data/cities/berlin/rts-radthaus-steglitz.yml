@@ -4,8 +4,9 @@ latitude: 52.45785
 longitude: 13.31843
 postcode: "12165"
 city: Berlin
-street: "Grunewaldstraße"
-housenumber: 6
+street: Grunewaldstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mar-Oct: Mo-Fr 10:00-19:00, Sa 10:00-15:00; Nov-Feb: Mo-Fr 11:00-18:30, Sa 11:00-15:00; PH off"
+opening_hours: 'Mar-Oct: Mo-Fr 10:00-19:00, Sa 10:00-15:00; Nov-Feb: Mo-Fr 11:00-18:30,
+    Sa 11:00-15:00; PH off'
 website: ""

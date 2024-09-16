@@ -4,8 +4,8 @@ latitude: 52.51427
 longitude: 13.30505
 postcode: "10585"
 city: Berlin
-street: "Wilmersdorfer Straße"
-housenumber: 151
+street: Wilmersdorfer Straße
+housenumber: "151"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 10:00-17:00; Sa 10:00-14:00"
+opening_hours: Mo,Tu,Th,Fr 10:00-17:00; Sa 10:00-14:00
 website: ""

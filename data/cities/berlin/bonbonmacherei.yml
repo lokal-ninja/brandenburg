@@ -4,8 +4,8 @@ latitude: 52.52523
 longitude: 13.39371
 postcode: "10117"
 city: Berlin
-street: "Oranienburger Straße"
-housenumber: 32
+street: Oranienburger Straße
+housenumber: "32"
 phone: ""
-opening_hours: "We-Sa 12:05-19:00"
-website: "http://www.bonbonmacherei.de/"
+opening_hours: We-Sa 12:05-19:00
+website: http://www.bonbonmacherei.de/

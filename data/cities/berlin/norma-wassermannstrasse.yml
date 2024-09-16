@@ -4,8 +4,8 @@ latitude: 52.43775
 longitude: 13.55476
 postcode: "12489"
 city: Berlin
-street: "Wassermannstraße"
-housenumber: 97
+street: Wassermannstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.norma-online.de/

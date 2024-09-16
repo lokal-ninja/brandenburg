@@ -4,8 +4,8 @@ latitude: 52.54012
 longitude: 13.61002
 postcode: "12627"
 city: Berlin
-street: "Quedlinburger Straße"
-housenumber: 31
-phone: "+49 911 23734733"
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
-website: "http://www.norma-online.de/"
+street: Quedlinburger Straße
+housenumber: "31"
+phone: +49 911 23734733
+opening_hours: Mo-Sa 07:00-22:00; PH off
+website: http://www.norma-online.de/

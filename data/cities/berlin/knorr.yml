@@ -4,8 +4,9 @@ latitude: 52.47162
 longitude: 13.33633
 postcode: "12159"
 city: Berlin
-street: "Hedwigstraße"
-housenumber: 17
-phone: "+49 30 8595390"
-opening_hours: "Mo-We 08:00-13:00,14:00-17:00; Th 09:00-13:00,14:00-18:00; Fr 08:00-12:30,13:00-15:00; Sa,Su off"
-website: "https://knorr-sicherheit.de/"
+street: Hedwigstraße
+housenumber: "17"
+phone: +49 30 8595390
+opening_hours: Mo-We 08:00-13:00,14:00-17:00; Th 09:00-13:00,14:00-18:00; Fr 08:00-12:30,13:00-15:00;
+    Sa,Su off
+website: https://knorr-sicherheit.de/

@@ -4,8 +4,8 @@ latitude: 52.4928
 longitude: 13.57579
 postcode: "12621"
 city: Berlin
-street: "Chemnitzer Straße"
-housenumber: 148
+street: Chemnitzer Straße
+housenumber: "148"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.yourstorebox.com/de/location-details/storebox-berlin-kaulsdorf"
+opening_hours: 24/7
+website: https://www.yourstorebox.com/de/location-details/storebox-berlin-kaulsdorf

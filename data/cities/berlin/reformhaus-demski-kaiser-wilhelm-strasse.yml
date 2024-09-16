@@ -4,8 +4,8 @@ latitude: 52.43557
 longitude: 13.34495
 postcode: "12247"
 city: Berlin
-street: "Kaiser-Wilhelm-Straße"
-housenumber: 77
+street: Kaiser-Wilhelm-Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
-website: "https://demski.de/filialen/kaiser-wilhelm-strasse/"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
+website: https://demski.de/filialen/kaiser-wilhelm-strasse/

@@ -1,11 +1,11 @@
 id: 1275474217
-type: way
+type: node
 latitude: 52.23575
 longitude: 12.9809
 postcode: "14547"
 city: Beelitz
-street: "Ratinger Straße"
-housenumber: 1
+street: Ratinger Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

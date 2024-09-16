@@ -1,11 +1,11 @@
 id: 88365503
-type: way
+type: node
 latitude: 51.51111
 longitude: 13.97206
 postcode: "01968"
 city: Senftenberg
-street: "Grubenstraße"
-housenumber: 12
+street: Grubenstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

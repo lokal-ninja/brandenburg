@@ -1,11 +1,11 @@
 id: 189367233
-type: way
+type: node
 latitude: 52.53118
 longitude: 13.07986
 postcode: "14624"
 city: Dallgow-Döberitz
-street: "Döberitzer Weg"
-housenumber: 3
+street: Döberitzer Weg
+housenumber: "3"
 phone: "+493322282100"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://filiale.kaufland.de/service/filiale/dallgow-doeberitz-havelpark-3180.html"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://filiale.kaufland.de/service/filiale/dallgow-doeberitz-havelpark-3180.html

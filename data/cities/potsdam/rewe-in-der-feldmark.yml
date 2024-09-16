@@ -1,11 +1,11 @@
 id: 190601098
-type: way
+type: node
 latitude: 52.41262
 longitude: 12.97542
 postcode: "14476"
 city: Potsdam
-street: "In der Feldmark"
-housenumber: 3
+street: In der Feldmark
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; PH,Su off"
+opening_hours: Mo-Sa 06:00-22:00; PH,Su off
 website: ""

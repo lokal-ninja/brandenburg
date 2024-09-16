@@ -1,11 +1,11 @@
 id: 477087776
-type: way
+type: node
 latitude: 52.59091
 longitude: 13.90262
 postcode: "15344"
 city: Strausberg
-street: "Prötzeler Chaussee"
-housenumber: 14
+street: Prötzeler Chaussee
+housenumber: "14"
 phone: "+49334130090"
-opening_hours: "Mo-Fr 07:00-18:30, Sa 09:00-12:00"
-website: "https://toyota-kalla-strausberg.de/"
+opening_hours: Mo-Fr 07:00-18:30, Sa 09:00-12:00
+website: https://toyota-kalla-strausberg.de/

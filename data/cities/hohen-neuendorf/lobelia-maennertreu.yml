@@ -4,8 +4,9 @@ latitude: 52.71205
 longitude: 13.27689
 postcode: "16556"
 city: Hohen Neuendorf
-street: "Berliner Straße"
+street: Berliner Straße
 housenumber: 12a
-phone: "+49 3303 406537"
-opening_hours: "Mo,Tu,Th 08:00-12:00,14:00-17:00; We 08:00-12:00; Fr 08:00-17:00; Sa 08:00-12:00"
-website: "https://männertreu.com"
+phone: +49 3303 406537
+opening_hours: Mo,Tu,Th 08:00-12:00,14:00-17:00; We 08:00-12:00; Fr 08:00-17:00; Sa
+    08:00-12:00
+website: https://männertreu.com

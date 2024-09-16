@@ -1,11 +1,11 @@
 id: 165252289
-type: way
+type: node
 latitude: 53.07018
 longitude: 14.258
 postcode: "16303"
 city: Schwedt/Oder
-street: "Dammweg"
-housenumber: 13
+street: Dammweg
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
 website: ""

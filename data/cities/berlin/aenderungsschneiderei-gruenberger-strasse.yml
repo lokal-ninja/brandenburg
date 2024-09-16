@@ -4,8 +4,8 @@ latitude: 52.51272
 longitude: 13.45017
 postcode: "10243"
 city: Berlin
-street: "Grünberger Straße"
-housenumber: 20
-phone: "+49 30 296 15 19"
-opening_hours: "Mo-Th 09:00-18:00"
+street: Grünberger Straße
+housenumber: "20"
+phone: +49 30 296 15 19
+opening_hours: Mo-Th 09:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 154850108
-type: way
+type: node
 latitude: 52.419
 longitude: 13.54446
 postcode: "12524"
 city: Berlin
-street: "Grünauer Straße"
-housenumber: 24
-phone: "+49 30 67896232"
+street: Grünauer Straße
+housenumber: "24"
+phone: +49 30 67896232
 opening_hours: ""
 website: ""

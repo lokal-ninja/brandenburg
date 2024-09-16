@@ -1,11 +1,11 @@
 id: 319069897
-type: way
+type: node
 latitude: 52.33695
 longitude: 14.08041
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Alte Langewahler Chaussee"
-housenumber: 42
+street: Alte Langewahler Chaussee
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "http://kfz-handel-kosanke.de"
+website: http://kfz-handel-kosanke.de

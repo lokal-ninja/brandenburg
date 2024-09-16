@@ -4,8 +4,8 @@ latitude: 52.39787
 longitude: 13.07087
 postcode: "14467"
 city: Potsdam
-street: "Große Fischerstraße"
-housenumber: 12
-phone: "+49 331 291848"
-opening_hours: "Th 12:00-16:00; Fr 11:00-17:00; Sa 10:00-13:00"
-website: "https://fischerhofpotsdam.de/"
+street: Große Fischerstraße
+housenumber: "12"
+phone: +49 331 291848
+opening_hours: Th 12:00-16:00; Fr 11:00-17:00; Sa 10:00-13:00
+website: https://fischerhofpotsdam.de/

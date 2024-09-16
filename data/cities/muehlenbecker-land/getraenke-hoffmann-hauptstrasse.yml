@@ -1,11 +1,11 @@
 id: 244459236
-type: way
+type: node
 latitude: 52.63713
 longitude: 13.37492
 postcode: "16552"
 city: Mühlenbecker Land
-street: "Hauptstraße"
-housenumber: 25
+street: Hauptstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

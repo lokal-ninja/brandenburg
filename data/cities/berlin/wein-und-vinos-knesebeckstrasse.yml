@@ -4,8 +4,8 @@ latitude: 52.50744
 longitude: 13.32295
 postcode: "10623"
 city: Berlin
-street: "Knesebeckstraße"
-housenumber: 86
+street: Knesebeckstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-18:00"
-website: "https://www.vinos.de/filiale-berlin-charlottenburg/"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-18:00
+website: https://www.vinos.de/filiale-berlin-charlottenburg/

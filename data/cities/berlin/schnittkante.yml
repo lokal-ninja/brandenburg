@@ -4,8 +4,8 @@ latitude: 52.55588
 longitude: 13.20497
 postcode: "13587"
 city: Berlin
-street: "Wansdorfer Steig"
-housenumber: 23
-phone: "+49 30 3351413"
-opening_hours: "Mo-Fr 09:00-17:30; Sa 08:00-13:00; Su,PH off"
+street: Wansdorfer Steig
+housenumber: "23"
+phone: +49 30 3351413
+opening_hours: Mo-Fr 09:00-17:30; Sa 08:00-13:00; Su,PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 147060017
-type: way
+type: node
 latitude: 51.9526
 longitude: 14.69892
 postcode: "03172"
 city: Guben
-street: "Grünstraße"
+street: Grünstraße
 housenumber: 48 b
-phone: "+49 3561 2938"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 08:00-13:00; PH off"
-website: "http://www.werkzeug-lehmann.de/"
+phone: +49 3561 2938
+opening_hours: Mo-Fr 06:30-18:00; Sa 08:00-13:00; PH off
+website: http://www.werkzeug-lehmann.de/

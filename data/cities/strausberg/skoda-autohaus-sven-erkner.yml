@@ -1,11 +1,11 @@
 id: 38881225
-type: way
+type: node
 latitude: 52.59146
 longitude: 13.90634
 postcode: "15344"
 city: Strausberg
-street: "Prötzeler Chaussee"
-housenumber: 13
+street: Prötzeler Chaussee
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

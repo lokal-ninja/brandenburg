@@ -4,8 +4,8 @@ latitude: 52.53669
 longitude: 13.37582
 postcode: "10115"
 city: Berlin
-street: "Chausseestraße"
-housenumber: 60
+street: Chausseestraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su 10:00-18:00"
-website: "https://www.tigertoertchen.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su 10:00-18:00
+website: https://www.tigertoertchen.de/

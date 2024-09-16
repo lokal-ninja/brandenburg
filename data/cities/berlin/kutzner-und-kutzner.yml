@@ -4,8 +4,8 @@ latitude: 52.54632
 longitude: 13.41347
 postcode: "10437"
 city: Berlin
-street: "Schönhauser Allee"
-housenumber: 65
+street: Schönhauser Allee
+housenumber: "65"
 phone: "+493044653070"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://kutzner-kutzner.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://kutzner-kutzner.de/

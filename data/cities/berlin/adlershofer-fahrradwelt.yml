@@ -4,8 +4,8 @@ latitude: 52.43983
 longitude: 13.55371
 postcode: "12489"
 city: Berlin
-street: "Dörpfeldstraße"
-housenumber: 73
+street: Dörpfeldstraße
+housenumber: "73"
 phone: "+49306775788"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://www.fahrradwelt-berlin.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://www.fahrradwelt-berlin.de/

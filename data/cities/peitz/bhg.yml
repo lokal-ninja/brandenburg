@@ -1,11 +1,11 @@
 id: 96811465
-type: way
+type: node
 latitude: 51.85422
 longitude: 14.41113
 postcode: "03185"
 city: Peitz
-street: "Cottbuser Straße"
-housenumber: 3
+street: Cottbuser Straße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-18:00"
+opening_hours: Mo-Sa 07:00-18:00
 website: ""

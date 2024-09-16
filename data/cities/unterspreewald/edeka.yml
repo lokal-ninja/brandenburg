@@ -4,8 +4,8 @@ latitude: 52.07863
 longitude: 13.89521
 postcode: "15910"
 city: Unterspreewald
-street: "Hauptstraße"
-housenumber: 53
-phone: "+49 35473 81860"
-opening_hours: "Mo-Fr 8:00-20:00; Sa 8:00-18:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-becker-hauptstr.-53/index.jsp"
+street: Hauptstraße
+housenumber: "53"
+phone: +49 35473 81860
+opening_hours: Mo-Fr 8:00-20:00; Sa 8:00-18:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-becker-hauptstr.-53/index.jsp

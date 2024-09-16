@@ -4,8 +4,8 @@ latitude: 52.49249
 longitude: 13.3945
 postcode: "10961"
 city: Berlin
-street: "Zossener Straße"
-housenumber: 10
+street: Zossener Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu,Fr 14:00-18:00"
-website: "https://paulknopf.de/"
+opening_hours: Tu,Fr 14:00-18:00
+website: https://paulknopf.de/

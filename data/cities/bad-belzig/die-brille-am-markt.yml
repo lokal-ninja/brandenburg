@@ -4,8 +4,8 @@ latitude: 52.14021
 longitude: 12.58709
 postcode: "14806"
 city: Bad Belzig
-street: "Marktplatz"
-housenumber: 4
+street: Marktplatz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-12:00; PH,We,Sa,Su off"
+opening_hours: Mo,Tu,Th,Fr 09:00-18:00; Sa 09:00-12:00; PH,We,Sa,Su off
 website: ""

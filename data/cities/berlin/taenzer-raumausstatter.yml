@@ -4,8 +4,8 @@ latitude: 52.63386
 longitude: 13.28669
 postcode: "13465"
 city: Berlin
-street: "Maximiliankorso"
-housenumber: 5
-phone: "+4930 406 32 426"
-opening_hours: "Terminvereinbarungen (auch für NEU-Aufträge) 030-406 32 426"
-website: "http://www.raumausstatter-taenzer.de/"
+street: Maximiliankorso
+housenumber: "5"
+phone: +4930 406 32 426
+opening_hours: '"Terminvereinbarungen (auch für NEU-Aufträge) 030-406 32 426"'
+website: http://www.raumausstatter-taenzer.de/

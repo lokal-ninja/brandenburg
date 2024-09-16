@@ -4,8 +4,8 @@ latitude: 52.489
 longitude: 13.33898
 postcode: "10779"
 city: Berlin
-street: "Bayerischer Platz"
-housenumber: 5
+street: Bayerischer Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-13:00
 website: ""

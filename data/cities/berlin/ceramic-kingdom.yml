@@ -4,8 +4,8 @@ latitude: 52.48484
 longitude: 13.42906
 postcode: "12043"
 city: Berlin
-street: "Reuterstraße"
-housenumber: 20
+street: Reuterstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 12:00-22:00; Sa-Su 12:00-18:00"
+opening_hours: Tu-Fr 12:00-22:00; Sa-Su 12:00-18:00
 website: ""

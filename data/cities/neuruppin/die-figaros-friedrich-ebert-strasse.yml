@@ -4,8 +4,8 @@ latitude: 52.92571
 longitude: 12.80542
 postcode: "16816"
 city: Neuruppin
-street: "Friedrich-Ebert-Straße"
-housenumber: 12
-phone: "+49 3391 359027"
-opening_hours: "Mo,Sa 07:00-13:00, Tu,We,Fr 07:00-18:00, Th 07:00-19:00"
-website: "https://www.die-figaros.de/salons/friedrich-ebert-strasse/"
+street: Friedrich-Ebert-Straße
+housenumber: "12"
+phone: +49 3391 359027
+opening_hours: Mo,Sa 07:00-13:00, Tu,We,Fr 07:00-18:00, Th 07:00-19:00
+website: https://www.die-figaros.de/salons/friedrich-ebert-strasse/

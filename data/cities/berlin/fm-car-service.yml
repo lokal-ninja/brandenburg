@@ -1,11 +1,11 @@
 id: 179117142
-type: way
+type: node
 latitude: 52.46592
 longitude: 13.39675
 postcode: "12099"
 city: Berlin
-street: "Germaniastraße"
-housenumber: 144
+street: Germaniastraße
+housenumber: "144"
 phone: ""
 opening_hours: ""
 website: ""

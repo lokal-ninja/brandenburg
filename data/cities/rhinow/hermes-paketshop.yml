@@ -1,11 +1,11 @@
 id: 714519408
-type: way
+type: node
 latitude: 52.75235
 longitude: 12.33718
 postcode: "14728"
 city: Rhinow
-street: "Neuer Weg"
-housenumber: 10
+street: Neuer Weg
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.48986
 longitude: 13.38033
 postcode: "10965"
 city: Berlin
-street: "Kreuzbergstrasse"
-housenumber: 23
-phone: "+49 30 78895882"
-opening_hours: "Tu-Fr 11:00-18:00; Sa 11:00-15:00"
-website: "http://www.atelier-huehnlein.de/"
+street: Kreuzbergstrasse
+housenumber: "23"
+phone: +49 30 78895882
+opening_hours: Tu-Fr 11:00-18:00; Sa 11:00-15:00
+website: http://www.atelier-huehnlein.de/

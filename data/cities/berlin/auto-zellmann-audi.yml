@@ -1,11 +1,11 @@
 id: 152494956
-type: way
+type: node
 latitude: 52.42233
 longitude: 13.52777
 postcode: "12524"
 city: Berlin
-street: "Rudower Straße"
-housenumber: 25
+street: Rudower Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00, Sa 08:00-14:00"
-website: "https://www.auto-zellmann.de/"
+opening_hours: Mo-Fr 06:30-20:00, Sa 08:00-14:00
+website: https://www.auto-zellmann.de/

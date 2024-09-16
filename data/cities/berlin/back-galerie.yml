@@ -4,8 +4,8 @@ latitude: 52.5265
 longitude: 13.38875
 postcode: "10115"
 city: Berlin
-street: "Linienstraße"
-housenumber: 130
+street: Linienstraße
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa,Su 07:00-18:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.53545
 longitude: 13.42655
 postcode: "10405"
 city: Berlin
-street: "Winsstraße"
-housenumber: 47
-phone: "+49 30 60590700"
+street: Winsstraße
+housenumber: "47"
+phone: +49 30 60590700
 opening_hours: ""
-website: "https://uniquecut.de"
+website: https://uniquecut.de

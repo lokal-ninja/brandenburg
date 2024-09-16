@@ -4,8 +4,8 @@ latitude: 52.5
 longitude: 13.41882
 postcode: "10999"
 city: Berlin
-street: "Adalbertstraße"
-housenumber: 3
-phone: "+49 30 26303146"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Adalbertstraße
+housenumber: "3"
+phone: +49 30 26303146
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

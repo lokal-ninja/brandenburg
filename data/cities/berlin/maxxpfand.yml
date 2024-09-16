@@ -4,8 +4,8 @@ latitude: 52.49644
 longitude: 13.28764
 postcode: "10711"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 120
+street: Kurfürstendamm
+housenumber: "120"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-14:00"
-website: "https://www.maxxpfand.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-14:00
+website: https://www.maxxpfand.de/

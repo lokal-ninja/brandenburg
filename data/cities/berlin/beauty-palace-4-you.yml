@@ -4,8 +4,8 @@ latitude: 52.47577
 longitude: 13.34014
 postcode: "12159"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 69
-phone: "+49 1577 8812361"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "https://beauty-palace-4-you.de/"
+street: Hauptstraße
+housenumber: "69"
+phone: +49 1577 8812361
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: https://beauty-palace-4-you.de/

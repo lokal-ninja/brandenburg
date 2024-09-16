@@ -4,8 +4,8 @@ latitude: 52.53791
 longitude: 13.40584
 postcode: "10435"
 city: Berlin
-street: "Schwedter Straße"
-housenumber: 37
-phone: "+49-30-41764991"
-opening_hours: "Mo-Sa 10:00-20:00; We off; Su 10:00-16:00"
-website: "http://www.floristik-marthashof.de"
+street: Schwedter Straße
+housenumber: "37"
+phone: +49-30-41764991
+opening_hours: Mo-Sa 10:00-20:00; We off; Su 10:00-16:00
+website: http://www.floristik-marthashof.de

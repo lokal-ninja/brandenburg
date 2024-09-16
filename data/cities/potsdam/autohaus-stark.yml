@@ -1,11 +1,11 @@
 id: 24308905
-type: way
+type: node
 latitude: 52.38346
 longitude: 13.05106
 postcode: "14473"
 city: Potsdam
-street: "Templiner Straße"
-housenumber: 15
+street: Templiner Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-16:00"
-website: "https://www.seat-potsdam.de/"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-16:00
+website: https://www.seat-potsdam.de/

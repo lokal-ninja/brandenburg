@@ -4,8 +4,8 @@ latitude: 52.50959
 longitude: 13.46011
 postcode: "10245"
 city: Berlin
-street: "Gärtnerstraße"
-housenumber: 28
+street: Gärtnerstraße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 10:30-19:00; Su,PH off"
-website: "http://www.kuechenliebe.de/"
+opening_hours: Mo-Fr 11:00-20:00; Sa 10:30-19:00; Su,PH off
+website: http://www.kuechenliebe.de/

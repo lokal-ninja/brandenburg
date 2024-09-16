@@ -4,8 +4,9 @@ latitude: 52.3918
 longitude: 13.09217
 postcode: "14482"
 city: Potsdam
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 31
-phone: "+49 331 24340215"
-opening_hours: "Mo nach Vereinbarung; Tu,Fr 10:00-19:00; We 13:00-20:00; Th 14:00-22:00; Sa 09:00-13:00; PH off"
-website: "https://www.djamila-mi.de/"
+street: Rudolf-Breitscheid-Straße
+housenumber: "31"
+phone: +49 331 24340215
+opening_hours: Mo "nach Vereinbarung"; Tu,Fr 10:00-19:00; We 13:00-20:00; Th 14:00-22:00;
+    Sa 09:00-13:00; PH off
+website: https://www.djamila-mi.de/

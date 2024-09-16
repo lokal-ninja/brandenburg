@@ -4,8 +4,8 @@ latitude: 52.4018
 longitude: 13.06897
 postcode: "14467"
 city: Potsdam
-street: "Berliner Straße"
-housenumber: 146
-phone: "+49 331 60062717"
-opening_hours: "Mo 16:00-20:00; Tu 11:00-19:00; We-Fr 08:00-16:00"
-website: "https://www.susannefolz.de/"
+street: Berliner Straße
+housenumber: "146"
+phone: +49 331 60062717
+opening_hours: Mo 16:00-20:00; Tu 11:00-19:00; We-Fr 08:00-16:00
+website: https://www.susannefolz.de/

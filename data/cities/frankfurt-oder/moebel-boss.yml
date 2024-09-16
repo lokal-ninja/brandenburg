@@ -4,8 +4,8 @@ latitude: 52.33953
 longitude: 14.50142
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Messering"
-housenumber: 9
-phone: "+49 335 414250"
+street: Messering
+housenumber: "9"
+phone: +49 335 414250
 opening_hours: ""
-website: "https://www.moebel-boss.de/"
+website: https://www.moebel-boss.de/

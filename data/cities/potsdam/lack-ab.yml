@@ -4,8 +4,8 @@ latitude: 52.39938
 longitude: 13.06499
 postcode: "14467"
 city: Potsdam
-street: "Posthofstraße"
-housenumber: 18
+street: Posthofstraße
+housenumber: "18"
 phone: ""
-opening_hours: "nach Vereinbarung"
-website: "http://lackab.com/"
+opening_hours: '"nach Vereinbarung"'
+website: http://lackab.com/

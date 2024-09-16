@@ -4,8 +4,8 @@ latitude: 52.55012
 longitude: 13.46383
 postcode: "13088"
 city: Berlin
-street: "Bizetstraße"
-housenumber: 129
-phone: "+49 30 92 90 18 42"
-opening_hours: "Tu-Th 11:00-19:00; Sa 13:00-18:00"
-website: "http://www.merileth.com/de/merileth/"
+street: Bizetstraße
+housenumber: "129"
+phone: +49 30 92 90 18 42
+opening_hours: Tu-Th 11:00-19:00; Sa 13:00-18:00
+website: http://www.merileth.com/de/merileth/

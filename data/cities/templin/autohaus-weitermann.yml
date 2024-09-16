@@ -4,8 +4,8 @@ latitude: 53.12859
 longitude: 13.48981
 postcode: "17268"
 city: Templin
-street: "Lychener Straße"
-housenumber: 16
-phone: "+49 3987 2081270"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off"
-website: "http://www.autoweitermann.de"
+street: Lychener Straße
+housenumber: "16"
+phone: +49 3987 2081270
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; Su,PH off
+website: http://www.autoweitermann.de

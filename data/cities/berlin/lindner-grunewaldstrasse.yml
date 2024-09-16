@@ -4,8 +4,8 @@ latitude: 52.48853
 longitude: 13.34123
 postcode: "10825"
 city: Berlin
-street: "Grunewaldstraße"
-housenumber: 57
+street: Grunewaldstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:00; Sa 08:00-13:00"
-website: "https://www.lindner-esskultur.de/"
+opening_hours: Mo-Fr 08:30-18:00; Sa 08:00-13:00
+website: https://www.lindner-esskultur.de/

@@ -1,11 +1,11 @@
 id: 1084576737
-type: way
+type: node
 latitude: 52.53967
 longitude: 13.61999
 postcode: "12627"
 city: Berlin
-street: "Louis-Lewin-Straße"
-housenumber: 
+street: Louis-Lewin-Straße
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

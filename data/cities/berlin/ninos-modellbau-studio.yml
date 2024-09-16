@@ -4,8 +4,8 @@ latitude: 52.5514
 longitude: 13.33843
 postcode: "13351"
 city: Berlin
-street: "Sansibarstraße"
-housenumber: 2
+street: Sansibarstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00"
+opening_hours: Mo-Fr 11:00-18:00
 website: ""

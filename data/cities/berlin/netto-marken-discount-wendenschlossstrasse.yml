@@ -1,11 +1,11 @@
 id: 46751706
-type: way
+type: node
 latitude: 52.42456
 longitude: 13.58583
 postcode: "12557"
 city: Berlin
-street: "Wendenschloßstraße"
-housenumber: 360
+street: Wendenschloßstraße
+housenumber: "360"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; PH off"
+opening_hours: Mo-Sa 07:00-22:00; PH off
 website: ""

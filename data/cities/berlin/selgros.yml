@@ -1,11 +1,11 @@
 id: 43770744
-type: way
+type: node
 latitude: 52.53137
 longitude: 13.51474
 postcode: ""
 city: Berlin
-street: "Rhinstraße"
-housenumber: 141
-phone: "+49 30 547810"
-opening_hours: "Mo-Fr 06:00-22:00; Sa 06:00-20:00"
-website: "https://www.selgros.de/markt/berlin"
+street: Rhinstraße
+housenumber: "141"
+phone: +49 30 547810
+opening_hours: Mo-Fr 06:00-22:00; Sa 06:00-20:00
+website: https://www.selgros.de/markt/berlin

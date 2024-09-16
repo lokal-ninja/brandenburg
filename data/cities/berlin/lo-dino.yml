@@ -4,8 +4,8 @@ latitude: 52.44517
 longitude: 13.56557
 postcode: "12557"
 city: Berlin
-street: "Oberspreestraße"
-housenumber: 168
-phone: "+49 176 80684971"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Oberspreestraße
+housenumber: "168"
+phone: +49 176 80684971
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

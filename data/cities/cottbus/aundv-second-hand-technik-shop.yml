@@ -1,11 +1,11 @@
 id: 151458628
-type: way
+type: node
 latitude: 51.75392
 longitude: 14.33395
 postcode: "03046"
 city: Cottbus
-street: "Bautzener Straße"
-housenumber: 2
-phone: "+49 355 7842345"
-opening_hours: "Mo-Fr 10:03-13:00,14:03-18:00"
-website: "https://technikshop.business.site/"
+street: Bautzener Straße
+housenumber: "2"
+phone: +49 355 7842345
+opening_hours: Mo-Fr 10:03-13:00,14:03-18:00
+website: https://technikshop.business.site/

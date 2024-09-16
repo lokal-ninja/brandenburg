@@ -4,8 +4,8 @@ latitude: 52.47111
 longitude: 13.33718
 postcode: "12159"
 city: Berlin
-street: "Fregestraße"
-housenumber: 7
-phone: "+49 30 60963683"
+street: Fregestraße
+housenumber: "7"
+phone: +49 30 60963683
 opening_hours: ""
-website: "https://www.najanong.com/"
+website: https://www.najanong.com/

@@ -4,8 +4,8 @@ latitude: 52.52742
 longitude: 13.40293
 postcode: "10119"
 city: Berlin
-street: "Rosenthaler Straße"
-housenumber: 13
-phone: "+49 30 887 892 49"
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://www.granit.com/"
+street: Rosenthaler Straße
+housenumber: "13"
+phone: +49 30 887 892 49
+opening_hours: Mo-Sa 11:00-20:00
+website: https://www.granit.com/

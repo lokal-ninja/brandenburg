@@ -1,11 +1,11 @@
 id: 972624194
-type: way
+type: node
 latitude: 52.80404
 longitude: 14.13054
 postcode: "16259"
 city: Oderaue
-street: "Neuranft"
-housenumber: 15
-phone: "+49 33457 469849"
+street: Neuranft
+housenumber: "15"
+phone: +49 33457 469849
 opening_hours: ""
-website: "https://www.bauernhof-oderaue.de"
+website: https://www.bauernhof-oderaue.de

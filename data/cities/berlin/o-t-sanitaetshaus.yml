@@ -4,8 +4,8 @@ latitude: 52.46494
 longitude: 13.32442
 postcode: "12163"
 city: Berlin
-street: "Gutsmuthsstraße"
-housenumber: 21
+street: Gutsmuthsstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Th 09:00-18:00; Fr 09:00-14:00"
-website: "https://www.sanitaetshausberlin.de/"
+opening_hours: Mo-Th 09:00-18:00; Fr 09:00-14:00
+website: https://www.sanitaetshausberlin.de/

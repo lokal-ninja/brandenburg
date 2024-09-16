@@ -1,11 +1,11 @@
 id: 289933143
-type: way
+type: node
 latitude: 53.05828
 longitude: 14.24537
 postcode: "16303"
 city: Schwedt/Oder
-street: "Friedrichsthaler Straße"
-housenumber: 2
-phone: "+49 3332 43820"
+street: Friedrichsthaler Straße
+housenumber: "2"
+phone: +49 3332 43820
 opening_hours: ""
-website: "https://www.autoteile-voigt.de/"
+website: https://www.autoteile-voigt.de/

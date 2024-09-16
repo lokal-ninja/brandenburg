@@ -4,8 +4,8 @@ latitude: 52.24574
 longitude: 14.41384
 postcode: "15299"
 city: Müllrose
-street: "Markt"
-housenumber: 9
-phone: "+49 33606 71203"
-opening_hours: "Mo-Fr 05:30-18:00; Sa-Su 07:00-18:00"
-website: "https://www.baeckerei-dreissig.de/"
+street: Markt
+housenumber: "9"
+phone: +49 33606 71203
+opening_hours: Mo-Fr 05:30-18:00; Sa-Su 07:00-18:00
+website: https://www.baeckerei-dreissig.de/

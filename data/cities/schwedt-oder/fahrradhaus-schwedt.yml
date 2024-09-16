@@ -4,8 +4,8 @@ latitude: 53.0561
 longitude: 14.28624
 postcode: "16303"
 city: Schwedt/Oder
-street: "Präsidentenstraße"
-housenumber: 2
+street: Präsidentenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.fahrradhaus-schwedt.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.fahrradhaus-schwedt.de/

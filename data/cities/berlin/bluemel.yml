@@ -4,8 +4,8 @@ latitude: 52.56017
 longitude: 13.38777
 postcode: "13359"
 city: Berlin
-street: "Wollankstraße"
-housenumber: 65
+street: Wollankstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Tu-Fr 09:00-17:00; Sa 09:00-13:00"
+opening_hours: Tu-Fr 09:00-17:00; Sa 09:00-13:00
 website: ""

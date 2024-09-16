@@ -1,11 +1,11 @@
 id: 146445668
-type: way
+type: node
 latitude: 52.31925
 longitude: 12.74678
 postcode: "14797"
 city: Kloster Lehnin
-street: "Emstaler Landstraße"
-housenumber: 40
+street: Emstaler Landstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

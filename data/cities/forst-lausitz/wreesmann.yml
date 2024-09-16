@@ -1,11 +1,11 @@
 id: 54968920
-type: way
+type: node
 latitude: 51.73025
 longitude: 14.62843
 postcode: ""
 city: Forst (Lausitz)
-street: "Spremberger Straße"
-housenumber: 98
+street: Spremberger Straße
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

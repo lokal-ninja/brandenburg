@@ -4,8 +4,8 @@ latitude: 52.48924
 longitude: 13.39771
 postcode: "10961"
 city: Berlin
-street: "Schleiermacherstraße"
-housenumber: 25
-phone: "+49 30 69538866"
-opening_hours: "Tu-Fr 14:00-22:00; Sa 12:00-20:00"
+street: Schleiermacherstraße
+housenumber: "25"
+phone: +49 30 69538866
+opening_hours: Tu-Fr 14:00-22:00; Sa 12:00-20:00
 website: ""

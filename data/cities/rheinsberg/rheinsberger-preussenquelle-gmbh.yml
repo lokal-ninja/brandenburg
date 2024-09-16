@@ -1,11 +1,11 @@
 id: 217153337
-type: way
+type: node
 latitude: 53.09087
 longitude: 12.91118
 postcode: "16831"
 city: Rheinsberg
-street: "Zur Preußenquelle"
-housenumber: 5
+street: Zur Preußenquelle
+housenumber: "5"
 phone: "+4933931349580"
 opening_hours: ""
-website: "https://www.preussenquelle.de"
+website: https://www.preussenquelle.de

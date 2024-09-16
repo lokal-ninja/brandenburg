@@ -4,8 +4,8 @@ latitude: 52.49153
 longitude: 13.37129
 postcode: "10829"
 city: Berlin
-street: "Bautzener Straße"
-housenumber: 36
+street: Bautzener Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/berlin-schoeneberg/1763545/rewe-markt-bautzener-str-36/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/berlin-schoeneberg/1763545/rewe-markt-bautzener-str-36/

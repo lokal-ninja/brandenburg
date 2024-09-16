@@ -4,8 +4,8 @@ latitude: 52.46383
 longitude: 13.51397
 postcode: "12459"
 city: Berlin
-street: "Edisonstraße"
-housenumber: 16
-phone: "+49 30 535 02 64"
-opening_hours: "Mo-Fr 09:00-18:00"
+street: Edisonstraße
+housenumber: "16"
+phone: +49 30 535 02 64
+opening_hours: Mo-Fr 09:00-18:00
 website: ""

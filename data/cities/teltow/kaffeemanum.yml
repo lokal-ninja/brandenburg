@@ -4,8 +4,8 @@ latitude: 52.40067
 longitude: 13.26942
 postcode: "14513"
 city: Teltow
-street: "Ruhlsdorfer Platz"
-housenumber: 1
-phone: "+49 3328 4446001"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 10:00-13:00"
-website: "https://www.kaffeemanum.de/"
+street: Ruhlsdorfer Platz
+housenumber: "1"
+phone: +49 3328 4446001
+opening_hours: Tu-Fr 12:00-19:00; Sa 10:00-13:00
+website: https://www.kaffeemanum.de/

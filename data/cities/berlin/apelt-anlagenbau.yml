@@ -4,8 +4,8 @@ latitude: 52.48884
 longitude: 13.34169
 postcode: "10825"
 city: Berlin
-street: "Grunewaldstraße"
-housenumber: 44
+street: Grunewaldstraße
+housenumber: "44"
 phone: ""
 opening_hours: ""
-website: "https://www.apelt-anlagenbau.de/"
+website: https://www.apelt-anlagenbau.de/

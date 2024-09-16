@@ -1,11 +1,11 @@
 id: 52523104
-type: way
+type: node
 latitude: 52.55115
 longitude: 13.43206
 postcode: "10409"
 city: Berlin
-street: "Ostseestraße"
-housenumber: 23
+street: Ostseestraße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

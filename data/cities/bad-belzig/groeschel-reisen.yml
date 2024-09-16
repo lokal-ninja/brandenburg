@@ -4,8 +4,8 @@ latitude: 52.1395
 longitude: 12.58743
 postcode: "14806"
 city: Bad Belzig
-street: "Sandberger Straße"
-housenumber: 8
-phone: "+49 33841 42322"
-opening_hours: "Mo-Th 09:00-18:00,Fr 09:00-16:00; Sa,Su,PH off"
-website: "https://www.groeschel-belzig.de/"
+street: Sandberger Straße
+housenumber: "8"
+phone: +49 33841 42322
+opening_hours: Mo-Th 09:00-18:00,Fr 09:00-16:00; Sa,Su,PH off
+website: https://www.groeschel-belzig.de/

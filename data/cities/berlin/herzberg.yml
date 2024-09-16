@@ -4,8 +4,8 @@ latitude: 52.5254
 longitude: 13.32492
 postcode: "10553"
 city: Berlin
-street: "Kaiserin-Augusta-Allee"
-housenumber: 8
+street: Kaiserin-Augusta-Allee
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 08:00-16:30; Fr 08:00-14:00; Sa-Su,PH off"
-website: "https://www.herzberg-rollen.de/"
+opening_hours: Mo-Th 08:00-16:30; Fr 08:00-14:00; Sa-Su,PH off
+website: https://www.herzberg-rollen.de/

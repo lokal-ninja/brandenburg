@@ -1,11 +1,11 @@
 id: 910940737
-type: way
+type: node
 latitude: 51.52294
 longitude: 14.00285
 postcode: "01968"
 city: Senftenberg
-street: "Bahnhofstraße"
-housenumber: 38
+street: Bahnhofstraße
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/senftenberg/bahnhofstrasse-38/3182085"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/senftenberg/bahnhofstrasse-38/3182085

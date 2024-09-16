@@ -1,11 +1,11 @@
 id: 121800319
-type: way
+type: node
 latitude: 52.33673
 longitude: 14.52107
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Damaschkeweg"
-housenumber: 64
+street: Damaschkeweg
+housenumber: "64"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00"
+opening_hours: Mo-Fr 05:00-22:00; Sa 06:00-22:00; Su 07:00-22:00
 website: ""

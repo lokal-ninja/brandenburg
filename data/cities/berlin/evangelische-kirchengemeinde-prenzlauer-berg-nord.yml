@@ -4,8 +4,8 @@ latitude: 52.54815
 longitude: 13.4166
 postcode: "10437"
 city: Berlin
-street: "Gethsemanestraße"
-housenumber: 9
+street: Gethsemanestraße
+housenumber: "9"
 phone: "+49304457745"
-opening_hours: "Mo 13:00-16:00; We 14:00-19:00; Th 09:00-12:00"
-website: "https://ekpn.de/"
+opening_hours: Mo 13:00-16:00; We 14:00-19:00; Th 09:00-12:00
+website: https://ekpn.de/

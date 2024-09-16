@@ -1,11 +1,11 @@
 id: 43720061
-type: way
+type: node
 latitude: 53.15089
 longitude: 12.1819
 postcode: "16928"
 city: Pritzwalk
-street: "Bergstraße"
-housenumber: 45
+street: Bergstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

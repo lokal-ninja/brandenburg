@@ -1,11 +1,11 @@
 id: 211013171
-type: way
+type: node
 latitude: 51.94559
 longitude: 14.72037
-postcode: "66-620"
+postcode: 66-620
 city: Gubin
-street: "Hugona Kołłątaja"
-housenumber: 28
-phone: "+4868359 6506"
+street: Hugona Kołłątaja
+housenumber: "28"
+phone: +4868359 6506
 opening_hours: ""
-website: "https://topschrank.de/"
+website: https://topschrank.de/

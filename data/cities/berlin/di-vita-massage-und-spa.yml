@@ -4,8 +4,8 @@ latitude: 52.45019
 longitude: 13.25364
 postcode: "14169"
 city: Berlin
-street: "Ladenstraße"
-housenumber: 29
-phone: "+49 175 639 5464"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.divitaspa.com/"
+street: Ladenstraße
+housenumber: "29"
+phone: +49 175 639 5464
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.divitaspa.com/

@@ -1,11 +1,11 @@
 id: 139592653
-type: way
+type: node
 latitude: 51.73367
 longitude: 14.33191
 postcode: "03050"
 city: Cottbus
-street: "Hardenbergstraße"
-housenumber: 12
+street: Hardenbergstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50946
 longitude: 13.40691
 postcode: "10179"
 city: Berlin
-street: "Alte Jakobstraße"
-housenumber: 87
+street: Alte Jakobstraße
+housenumber: "87"
 phone: ""
-opening_hours: "Mo-Fr 06:00-20:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 06:00-20:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 126488244
-type: way
+type: node
 latitude: 52.54016
 longitude: 13.23166
 postcode: "13599"
 city: Berlin
-street: "Daumstraße"
-housenumber: 5
+street: Daumstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

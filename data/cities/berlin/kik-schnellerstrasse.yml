@@ -4,8 +4,8 @@ latitude: 52.45927
 longitude: 13.50491
 postcode: "12439"
 city: Berlin
-street: "Schnellerstraße"
+street: Schnellerstraße
 housenumber: 20B
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.kik.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.kik.de/

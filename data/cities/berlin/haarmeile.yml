@@ -4,8 +4,8 @@ latitude: 52.56433
 longitude: 13.32637
 postcode: "13405"
 city: Berlin
-street: "Scharnweberstraße"
-housenumber: 136
-phone: "+49 30 48817810"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "http://www.haarmeile-berlin.de"
+street: Scharnweberstraße
+housenumber: "136"
+phone: +49 30 48817810
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: http://www.haarmeile-berlin.de

@@ -4,8 +4,8 @@ latitude: 52.50237
 longitude: 13.32273
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 37
-phone: "+49 30 88625566"
-opening_hours: "Mo-Sa 10:00-18:00"
-website: "https://www.ullapopken.de/"
+street: Kurfürstendamm
+housenumber: "37"
+phone: +49 30 88625566
+opening_hours: Mo-Sa 10:00-18:00
+website: https://www.ullapopken.de/

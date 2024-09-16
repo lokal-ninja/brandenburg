@@ -1,11 +1,11 @@
 id: 98861875
-type: way
+type: node
 latitude: 52.75962
 longitude: 13.0219
 postcode: "16766"
 city: Kremmen
-street: "Schloßdamm"
-housenumber: 6
+street: Schloßdamm
+housenumber: "6"
 phone: "+493305570117"
-opening_hours: "Mo-Sa 06:55-20:00"
+opening_hours: Mo-Sa 06:55-20:00
 website: ""

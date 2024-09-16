@@ -1,11 +1,11 @@
 id: 1244901436
-type: way
+type: node
 latitude: 52.5969
 longitude: 13.356
 postcode: "13439"
 city: Berlin
-street: "Senftenberger Ring"
+street: Senftenberger Ring
 housenumber: 3a
 phone: "+493040710171"
 opening_hours: ""
-website: "https://www.maerkisches-zentrum.de/"
+website: https://www.maerkisches-zentrum.de/

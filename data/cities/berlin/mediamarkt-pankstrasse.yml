@@ -1,11 +1,11 @@
 id: 27159946
-type: way
+type: node
 latitude: 52.5495
 longitude: 13.37732
 postcode: "13357"
 city: Berlin
-street: "Pankstraße"
+street: Pankstraße
 housenumber: 32-39
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.mediamarkt.de/de/store/berlin-wedding-406"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.mediamarkt.de/de/store/berlin-wedding-406

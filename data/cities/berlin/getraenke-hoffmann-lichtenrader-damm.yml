@@ -4,8 +4,8 @@ latitude: 52.40535
 longitude: 13.40658
 postcode: "12305"
 city: Berlin
-street: "Lichtenrader Damm"
-housenumber: 91
-phone: "+49 30 76503126"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 08:00-18:00"
+street: Lichtenrader Damm
+housenumber: "91"
+phone: +49 30 76503126
+opening_hours: Mo-Fr 09:00-20:00, Sa 08:00-18:00
 website: ""

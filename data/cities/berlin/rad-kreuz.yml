@@ -4,8 +4,8 @@ latitude: 52.49123
 longitude: 13.38525
 postcode: "10965"
 city: Berlin
-street: "Hagelberger Straße"
-housenumber: 53
+street: Hagelberger Straße
+housenumber: "53"
 phone: "+49307859488"
-opening_hours: "Tu-Fr 10:00-19:00; Mo 14:00-19:00; Sa 10:00-15:00"
-website: "https://www.rad-kreuz.de/"
+opening_hours: Tu-Fr 10:00-19:00; Mo 14:00-19:00; Sa 10:00-15:00
+website: https://www.rad-kreuz.de/

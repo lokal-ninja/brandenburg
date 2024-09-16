@@ -1,11 +1,11 @@
 id: 1020549157
-type: way
+type: node
 latitude: 51.7596
 longitude: 14.32101
 postcode: "03046"
 city: Cottbus
-street: "Lausitzer Straße"
-housenumber: 5
+street: Lausitzer Straße
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 06:00-24:00"
+opening_hours: Mo-Sa 06:00-24:00
 website: ""

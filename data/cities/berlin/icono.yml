@@ -4,8 +4,8 @@ latitude: 52.51256
 longitude: 13.39127
 postcode: "10117"
 city: Berlin
-street: "Charlottenstraße"
-housenumber: 59
-phone: "+49 30 20648595"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://icono.de/salons/salon-finder/berlin/quartier-205"
+street: Charlottenstraße
+housenumber: "59"
+phone: +49 30 20648595
+opening_hours: Mo-Fr 09:00-19:00
+website: https://icono.de/salons/salon-finder/berlin/quartier-205

@@ -1,11 +1,11 @@
 id: 295215724
-type: way
+type: node
 latitude: 52.50193
 longitude: 14.14738
 postcode: "15374"
 city: Müncheberg
-street: "Ernst-Thälmann-Straße"
-housenumber: 18
+street: Ernst-Thälmann-Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.45617
 longitude: 13.3836
 postcode: "12099"
 city: Berlin
-street: "Tempelhofer Damm"
-housenumber: 222
-phone: "+49 30 7511840"
-opening_hours: "Mo-Sa 07:00-01:00"
-website: "https://spaetkauf-222-tempelhof.jimdosite.com/"
+street: Tempelhofer Damm
+housenumber: "222"
+phone: +49 30 7511840
+opening_hours: Mo-Sa 07:00-01:00
+website: https://spaetkauf-222-tempelhof.jimdosite.com/

@@ -4,8 +4,8 @@ latitude: 52.51147
 longitude: 13.44904
 postcode: "10243"
 city: Berlin
-street: "Gubener Straße"
-housenumber: 43
+street: Gubener Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Th 08:00-01:00, Fr 08:00-03:00, Sa 09:00-03:00"
+opening_hours: Mo-Th 08:00-01:00, Fr 08:00-03:00, Sa 09:00-03:00
 website: ""

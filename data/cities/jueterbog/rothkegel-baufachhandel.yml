@@ -4,8 +4,8 @@ latitude: 52.00415
 longitude: 13.07971
 postcode: "14913"
 city: Jüterbog
-street: "Neuheimer Weg"
-housenumber: 4
-phone: "+49 3372 422441"
-opening_hours: "Mo-Fr 06:00-18:00, Sa 08:00-12:00, PH off"
-website: "https://www.rothkegel-baufachhandel.de/"
+street: Neuheimer Weg
+housenumber: "4"
+phone: +49 3372 422441
+opening_hours: Mo-Fr 06:00-18:00, Sa 08:00-12:00, PH off
+website: https://www.rothkegel-baufachhandel.de/

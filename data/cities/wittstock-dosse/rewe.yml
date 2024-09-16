@@ -1,11 +1,11 @@
 id: 632673452
-type: way
+type: node
 latitude: 53.17087
 longitude: 12.49748
 postcode: "16909"
 city: Wittstock/Dosse
-street: "Röbeler Straße"
-housenumber: 47
+street: Röbeler Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

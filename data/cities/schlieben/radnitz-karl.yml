@@ -1,11 +1,11 @@
 id: 308254981
-type: way
+type: node
 latitude: 51.72355
 longitude: 13.3842
 postcode: "04936"
 city: Schlieben
-street: "Herrenstraße"
-housenumber: 14
-phone: "+49 35361 601"
+street: Herrenstraße
+housenumber: "14"
+phone: +49 35361 601
 opening_hours: ""
 website: ""

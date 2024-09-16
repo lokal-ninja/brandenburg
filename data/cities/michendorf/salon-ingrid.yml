@@ -1,11 +1,11 @@
 id: 254895124
-type: way
+type: node
 latitude: 52.33403
 longitude: 13.0541
 postcode: "14552"
 city: Michendorf
-street: "Goetheplatz"
-housenumber: 6
+street: Goetheplatz
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

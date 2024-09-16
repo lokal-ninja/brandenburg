@@ -4,8 +4,8 @@ latitude: 52.39253
 longitude: 13.21516
 postcode: "14532"
 city: Stahnsdorf
-street: "Dorfplatz"
-housenumber: 6
+street: Dorfplatz
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-17:00; Su 07:00-05:00"
-website: "http://www.auxdelicesnormands.de/stahnsdorf/"
+opening_hours: Mo-Sa 07:00-17:00; Su 07:00-05:00
+website: http://www.auxdelicesnormands.de/stahnsdorf/

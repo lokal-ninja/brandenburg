@@ -4,8 +4,8 @@ latitude: 51.68735
 longitude: 14.27206
 postcode: "03116"
 city: Drebkau
-street: "Straße der Jugend"
-housenumber: 3
-phone: "+49 3560 222235"
-opening_hours: "closed"
+street: Straße der Jugend
+housenumber: "3"
+phone: +49 3560 222235
+opening_hours: closed
 website: ""

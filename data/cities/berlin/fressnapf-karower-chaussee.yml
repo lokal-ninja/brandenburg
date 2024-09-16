@@ -4,8 +4,8 @@ latitude: 52.63094
 longitude: 13.50005
 postcode: "13125"
 city: Berlin
-street: "Karower Chaussee"
-housenumber: 29
-phone: "+49 3094394267"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.fressnapf.de/"
+street: Karower Chaussee
+housenumber: "29"
+phone: +49 3094394267
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.fressnapf.de/

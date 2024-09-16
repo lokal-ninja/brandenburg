@@ -1,11 +1,11 @@
 id: 44298446
-type: way
+type: node
 latitude: 52.34286
 longitude: 14.54654
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Heilbronner Straße"
-housenumber: 30
+street: Heilbronner Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

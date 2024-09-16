@@ -4,8 +4,8 @@ latitude: 52.39067
 longitude: 13.09449
 postcode: "14482"
 city: Potsdam
-street: "Wattstraße"
-housenumber: 6
+street: Wattstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Tu-Fr 14:00-18:00; Sa 10:00-13:00 || nach Vereinbarung"
+opening_hours: Tu-Fr 14:00-18:00; Sa 10:00-13:00 || "nach Vereinbarung"
 website: ""

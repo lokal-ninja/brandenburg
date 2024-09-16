@@ -1,11 +1,11 @@
 id: 304653435
-type: way
+type: node
 latitude: 51.74424
 longitude: 14.64527
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Berliner Straße"
-housenumber: 2
-phone: "+49 356290395"
+street: Berliner Straße
+housenumber: "2"
+phone: +49 356290395
 opening_hours: ""
-website: "https://www.street-one.de/"
+website: https://www.street-one.de/

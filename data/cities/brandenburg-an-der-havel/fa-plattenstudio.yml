@@ -4,8 +4,9 @@ latitude: 52.39023
 longitude: 12.41003
 postcode: "14774"
 city: Brandenburg an der Havel
-street: "Adlerstraße"
-housenumber: 2
+street: Adlerstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Tu 10:00-18:00; We 10:00-13:00; Th-Fr 10:00-18:00; Sa 10:00-13:00; Su off"
+opening_hours: Mo-Tu 10:00-18:00; We 10:00-13:00; Th-Fr 10:00-18:00; Sa 10:00-13:00;
+    Su off
 website: ""

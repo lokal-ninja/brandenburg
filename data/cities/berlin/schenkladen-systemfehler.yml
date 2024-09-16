@@ -4,8 +4,8 @@ latitude: 52.51052
 longitude: 13.47134
 postcode: "10247"
 city: Berlin
-street: "Jessnerstraße"
-housenumber: 41
+street: Jessnerstraße
+housenumber: "41"
 phone: "+493098323736"
-opening_hours: "Tu 16:00-19:00; We 14:00-18:00; Fr 16:00-19:00"
-website: "https://www.systemfehler-berlin.org/"
+opening_hours: Tu 16:00-19:00; We 14:00-18:00; Fr 16:00-19:00
+website: https://www.systemfehler-berlin.org/

@@ -4,8 +4,8 @@ latitude: 52.48433
 longitude: 13.31992
 postcode: "10713"
 city: Berlin
-street: "Blissestraße"
+street: Blissestraße
 housenumber: 20a
-phone: "+49 30 8210040"
-opening_hours: "Tu-Fr 09:00-18:00"
-website: "https://www.friseur-berlin-wilmersdorf.de/"
+phone: +49 30 8210040
+opening_hours: Tu-Fr 09:00-18:00
+website: https://www.friseur-berlin-wilmersdorf.de/

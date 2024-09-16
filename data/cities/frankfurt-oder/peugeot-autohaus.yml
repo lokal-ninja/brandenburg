@@ -1,11 +1,11 @@
 id: 89967137
-type: way
+type: node
 latitude: 52.36507
 longitude: 14.52529
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Berliner Chaussee"
-housenumber: 100
+street: Berliner Chaussee
+housenumber: "100"
 phone: ""
 opening_hours: ""
-website: "http://www.peugeothaendler.de/site/startseite.php?standortnr=301409"
+website: http://www.peugeothaendler.de/site/startseite.php?standortnr=301409

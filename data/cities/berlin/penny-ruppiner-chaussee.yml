@@ -1,11 +1,11 @@
 id: 24740811
-type: way
+type: node
 latitude: 52.61491
 longitude: 13.24404
 postcode: "13503"
 city: Berlin
-street: "Ruppiner Chaussee"
-housenumber: 243
+street: Ruppiner Chaussee
+housenumber: "243"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.penny.de/

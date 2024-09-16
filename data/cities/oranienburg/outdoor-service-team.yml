@@ -1,11 +1,11 @@
 id: 672468328
-type: way
+type: node
 latitude: 52.77152
 longitude: 13.32857
 postcode: "16515"
 city: Oranienburg
-street: "Am Dorfanger"
-housenumber: 20
-phone: "+49 30 99272086"
+street: Am Dorfanger
+housenumber: "20"
+phone: +49 30 99272086
 opening_hours: ""
-website: "https://www.outdoor-service.com"
+website: https://www.outdoor-service.com

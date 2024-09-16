@@ -4,8 +4,8 @@ latitude: 53.07393
 longitude: 11.86624
 postcode: "19348"
 city: Perleberg
-street: "Berliner Straße"
-housenumber: 1
-phone: "+49 3876 5966625"
-opening_hours: "Mo-Th 08:00-16:00"
-website: "https://www.frija-omina.com/"
+street: Berliner Straße
+housenumber: "1"
+phone: +49 3876 5966625
+opening_hours: Mo-Th 08:00-16:00
+website: https://www.frija-omina.com/

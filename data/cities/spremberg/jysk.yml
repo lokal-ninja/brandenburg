@@ -1,11 +1,11 @@
 id: 160044853
-type: way
+type: node
 latitude: 51.55889
 longitude: 14.35964
 postcode: "03130"
 city: Spremberg
-street: "An der Lusatia"
-housenumber: 23
+street: An der Lusatia
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

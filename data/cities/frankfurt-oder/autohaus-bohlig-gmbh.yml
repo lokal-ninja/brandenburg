@@ -1,11 +1,11 @@
 id: 122108339
-type: way
+type: node
 latitude: 52.29798
 longitude: 14.47848
 postcode: "15236"
 city: Frankfurt (Oder)
-street: "Am Klinikum"
-housenumber: 4
+street: Am Klinikum
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:30"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:30
 website: ""

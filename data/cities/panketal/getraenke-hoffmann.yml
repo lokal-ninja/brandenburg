@@ -1,11 +1,11 @@
 id: 34605361
-type: way
+type: node
 latitude: 52.65228
 longitude: 13.54228
 postcode: "16341"
 city: Panketal
-street: "Alt Zepernick"
-housenumber: 6
+street: Alt Zepernick
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

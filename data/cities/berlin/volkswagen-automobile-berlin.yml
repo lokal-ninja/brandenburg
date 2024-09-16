@@ -1,11 +1,11 @@
 id: 106221237
-type: way
+type: node
 latitude: 52.41653
 longitude: 13.28321
 postcode: "14167"
 city: Berlin
-street: "Goerzallee"
-housenumber: 251
+street: Goerzallee
+housenumber: "251"
 phone: ""
 opening_hours: ""
 website: ""

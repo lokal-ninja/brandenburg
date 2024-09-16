@@ -1,11 +1,11 @@
 id: 468164606
-type: way
+type: node
 latitude: 52.53748
 longitude: 13.18571
 postcode: "13583"
 city: Berlin
-street: "Elstaler Straße"
-housenumber: 6
+street: Elstaler Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

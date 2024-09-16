@@ -1,11 +1,11 @@
 id: 239933739
-type: way
+type: node
 latitude: 52.88796
 longitude: 12.79642
 postcode: "16816"
 city: Neuruppin
-street: "Nauener Straße"
-housenumber: 12
+street: Nauener Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Tu-Su 09:00-18:00"
+opening_hours: Tu-Su 09:00-18:00
 website: ""

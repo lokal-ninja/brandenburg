@@ -1,11 +1,11 @@
 id: 36796279
-type: way
+type: node
 latitude: 52.46567
 longitude: 13.5754
 postcode: "12555"
 city: Berlin
-street: "Kaulsdorfer Straße"
-housenumber: 209
+street: Kaulsdorfer Straße
+housenumber: "209"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00; PH off"
-website: "http://www.norma-online.de"
+opening_hours: Mo-Sa 08:00-20:00; PH off
+website: http://www.norma-online.de

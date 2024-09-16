@@ -1,11 +1,11 @@
 id: 155830796
-type: way
+type: node
 latitude: 52.29184
 longitude: 14.06415
 postcode: "15526"
 city: Bad Saarow
-street: "Pieskower Straße"
-housenumber: 2
+street: Pieskower Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH off"
+opening_hours: Mo-Sa 07:00-20:00; PH off
 website: ""

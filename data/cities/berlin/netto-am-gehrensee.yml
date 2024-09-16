@@ -1,11 +1,11 @@
 id: 182868510
-type: way
+type: node
 latitude: 52.57321
 longitude: 13.56403
 postcode: "13057"
 city: Berlin
-street: "Am Gehrensee"
-housenumber: 2
+street: Am Gehrensee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

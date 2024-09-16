@@ -4,8 +4,8 @@ latitude: 52.44703
 longitude: 13.62396
 postcode: "12587"
 city: Berlin
-street: "Bölschestraße"
-housenumber: 137
-phone: "+4930 6409268 5"
-opening_hours: "nach Vereinbarung"
-website: "https://kuecheberlin.de"
+street: Bölschestraße
+housenumber: "137"
+phone: +4930 6409268 5
+opening_hours: '"nach Vereinbarung"'
+website: https://kuecheberlin.de

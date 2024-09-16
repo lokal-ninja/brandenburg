@@ -4,8 +4,8 @@ latitude: 52.43857
 longitude: 13.3783
 postcode: "12107"
 city: Berlin
-street: "Großbeerenstraße"
+street: Großbeerenstraße
 housenumber: 2-10
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30, Sa 10:00-14:00"
-website: "https://www.naehmaschinen-center.de"
+opening_hours: Mo-Fr 09:30-18:30, Sa 10:00-14:00
+website: https://www.naehmaschinen-center.de

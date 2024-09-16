@@ -1,11 +1,11 @@
 id: 381418944
-type: way
+type: node
 latitude: 52.50973
 longitude: 13.43542
 postcode: "10243"
 city: Berlin
 street: ""
-housenumber: 
-phone: "+49 30 20687365"
-opening_hours: "Mo-Fr 05:30-20:00; Sa-Su 07:00-20:00"
+housenumber: ""
+phone: +49 30 20687365
+opening_hours: Mo-Fr 05:30-20:00; Sa-Su 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50586
 longitude: 13.32475
 postcode: "10623"
 city: Berlin
-street: "Kantstraße"
-housenumber: 17
+street: Kantstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Nach Absprache"
-website: "http://www.solarista-elektro.de"
+opening_hours: '"Nach Absprache"'
+website: http://www.solarista-elektro.de

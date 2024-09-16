@@ -4,8 +4,8 @@ latitude: 53.07158
 longitude: 14.28238
 postcode: "16303"
 city: Schwedt/Oder
-street: "Grüner Anger"
-housenumber: 2
-phone: "+49 3332 412871"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-14:00; PH off"
-website: "http://www.wolter-nissan.de/"
+street: Grüner Anger
+housenumber: "2"
+phone: +49 3332 412871
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-14:00; PH off
+website: http://www.wolter-nissan.de/

@@ -1,11 +1,11 @@
 id: 100977232
-type: way
+type: node
 latitude: 52.74622
 longitude: 12.33159
 postcode: "14728"
 city: Rhinow
-street: "Werner-Seelenbinder-Straße"
-housenumber: 12
+street: Werner-Seelenbinder-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

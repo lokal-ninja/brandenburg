@@ -1,11 +1,11 @@
 id: 27130612
-type: way
+type: node
 latitude: 52.74708
 longitude: 13.18888
 postcode: "16515"
 city: Oranienburg
-street: "Straße am Globus"
-housenumber: 2
+street: Straße am Globus
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

@@ -4,8 +4,8 @@ latitude: 52.49752
 longitude: 13.42445
 postcode: "10999"
 city: Berlin
-street: "Reichenberger Straße"
-housenumber: 152
+street: Reichenberger Straße
+housenumber: "152"
 phone: ""
 opening_hours: ""
-website: "https://soundmetaphors.com"
+website: https://soundmetaphors.com

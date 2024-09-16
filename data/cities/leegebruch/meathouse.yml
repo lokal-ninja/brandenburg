@@ -1,11 +1,11 @@
 id: 490127523
-type: way
+type: node
 latitude: 52.72352
 longitude: 13.19156
 postcode: "16767"
 city: Leegebruch
-street: "Eichenallee"
-housenumber: 9
+street: Eichenallee
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

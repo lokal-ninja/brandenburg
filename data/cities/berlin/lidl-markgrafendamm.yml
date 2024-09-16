@@ -1,11 +1,11 @@
 id: 1081349086
-type: way
+type: node
 latitude: 52.50066
 longitude: 13.46587
 postcode: "10245"
 city: Berlin
-street: "Markgrafendamm"
+street: Markgrafendamm
 housenumber: 25C
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

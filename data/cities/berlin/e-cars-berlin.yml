@@ -1,11 +1,11 @@
 id: 227968711
-type: way
+type: node
 latitude: 52.53075
 longitude: 13.3253
 postcode: "10553"
 city: Berlin
-street: "Wittstocker Straße"
-housenumber: 18
+street: Wittstocker Straße
+housenumber: "18"
 phone: ""
 opening_hours: ""
-website: "https://e-carsberlin.de/"
+website: https://e-carsberlin.de/

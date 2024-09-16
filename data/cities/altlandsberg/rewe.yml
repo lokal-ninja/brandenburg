@@ -1,11 +1,11 @@
 id: 791734261
-type: way
+type: node
 latitude: 52.55921
 longitude: 13.76859
 postcode: "15345"
 city: Altlandsberg
-street: "Landsberger Straße"
-housenumber: 21
+street: Landsberger Straße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00
 website: ""

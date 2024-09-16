@@ -4,8 +4,9 @@ latitude: 52.51367
 longitude: 13.45272
 postcode: "10243"
 city: Berlin
-street: "Warschauer Straße"
-housenumber: 9
-phone: "+49 30 294 68 33"
-opening_hours: "Mo,We 08:00-12:00, Fr 08:00-13:00, Tu,Th 08:00-12:00, Mo,We 13:00-16:30, Tu,Th 13:00-18:00"
-website: "http://www.kfz-liebrenz.de"
+street: Warschauer Straße
+housenumber: "9"
+phone: +49 30 294 68 33
+opening_hours: Mo,We 08:00-12:00, Fr 08:00-13:00, Tu,Th 08:00-12:00, Mo,We 13:00-16:30,
+    Tu,Th 13:00-18:00
+website: http://www.kfz-liebrenz.de

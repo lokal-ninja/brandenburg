@@ -4,8 +4,8 @@ latitude: 52.49131
 longitude: 13.36436
 postcode: "10827"
 city: Berlin
-street: "Großgörschenstraße"
-housenumber: 8
-phone: "+49 30 78894123"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://radcompany.de/Radcompany-Berlin-Schoeneberg-Grossgoerschenstrasse-8"
+street: Großgörschenstraße
+housenumber: "8"
+phone: +49 30 78894123
+opening_hours: Mo-Fr 10:00-19:00
+website: https://radcompany.de/Radcompany-Berlin-Schoeneberg-Grossgoerschenstrasse-8

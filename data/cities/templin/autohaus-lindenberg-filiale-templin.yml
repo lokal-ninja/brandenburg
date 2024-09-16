@@ -4,8 +4,8 @@ latitude: 53.12837
 longitude: 13.49013
 postcode: "17268"
 city: Templin
-street: "Lychener Straße"
-housenumber: 15
-phone: "+49 3987 70080"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-12:00; Su,PH off"
-website: "http://www.auto-lindenberg.de/autohaus-templin.html"
+street: Lychener Straße
+housenumber: "15"
+phone: +49 3987 70080
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-12:00; Su,PH off
+website: http://www.auto-lindenberg.de/autohaus-templin.html

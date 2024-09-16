@@ -1,11 +1,11 @@
 id: 686911955
-type: way
+type: node
 latitude: 52.41718
 longitude: 13.4243
 postcode: "12349"
 city: Berlin
-street: "Warmensteinacher Straße"
-housenumber: 39
+street: Warmensteinacher Straße
+housenumber: "39"
 phone: ""
 opening_hours: ""
-website: "https://www.autoscout24.de/haendler/autocenter-buckow"
+website: https://www.autoscout24.de/haendler/autocenter-buckow

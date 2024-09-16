@@ -4,8 +4,8 @@ latitude: 52.53667
 longitude: 13.20605
 postcode: "13597"
 city: Berlin
-street: "Fischerstraße"
-housenumber: 28
-phone: "+4930 3331414"
-opening_hours: "Mo-We 09:30-19:00; Th,Fr 09:30-20:00; Sa 09:30-16:00"
-website: "https://www.galerie-spandow.de"
+street: Fischerstraße
+housenumber: "28"
+phone: +4930 3331414
+opening_hours: Mo-We 09:30-19:00; Th,Fr 09:30-20:00; Sa 09:30-16:00
+website: https://www.galerie-spandow.de

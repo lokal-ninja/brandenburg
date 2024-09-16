@@ -4,8 +4,8 @@ latitude: 52.50879
 longitude: 13.45542
 postcode: "10245"
 city: Berlin
-street: "Simon-Dach-Straße"
-housenumber: 20
+street: Simon-Dach-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu-Fr 13:00-20:00; Sa 10:30-16:00"
-website: "http://thegentlejaunt.com"
+opening_hours: Tu-Fr 13:00-20:00; Sa 10:30-16:00
+website: http://thegentlejaunt.com

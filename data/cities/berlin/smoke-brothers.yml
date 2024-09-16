@@ -4,8 +4,8 @@ latitude: 52.49847
 longitude: 13.42818
 postcode: "10999"
 city: Berlin
-street: "Wiener Straße"
-housenumber: 11
+street: Wiener Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

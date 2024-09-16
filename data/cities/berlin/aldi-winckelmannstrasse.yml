@@ -1,11 +1,11 @@
 id: 30885782
-type: way
+type: node
 latitude: 52.4421
 longitude: 13.50526
 postcode: "12487"
 city: Berlin
-street: "Winckelmannstraße"
-housenumber: 42
+street: Winckelmannstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.54823
 longitude: 13.42701
 postcode: "10439"
 city: Berlin
-street: "Erich-Weinert-Straße"
-housenumber: 82
+street: Erich-Weinert-Straße
+housenumber: "82"
 phone: ""
-opening_hours: "We-Fr 11:00-19:00; Sa 11:00-16:00"
+opening_hours: We-Fr 11:00-19:00; Sa 11:00-16:00
 website: ""

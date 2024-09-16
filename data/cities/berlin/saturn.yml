@@ -4,8 +4,8 @@ latitude: 52.52166
 longitude: 13.41514
 postcode: "10178"
 city: Berlin
-street: "Alexanderplatz"
-housenumber: 3
+street: Alexanderplatz
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

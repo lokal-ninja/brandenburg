@@ -4,8 +4,8 @@ latitude: 52.50783
 longitude: 13.46018
 postcode: "10245"
 city: Berlin
-street: "Simplonstraße"
-housenumber: 27
+street: Simplonstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Fr 12:00-18:00; Sa 11:00-17:00"
+opening_hours: Mo-Fr 12:00-18:00; Sa 11:00-17:00
 website: ""

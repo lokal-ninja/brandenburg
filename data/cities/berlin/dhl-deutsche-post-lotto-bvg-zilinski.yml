@@ -4,8 +4,8 @@ latitude: 52.54034
 longitude: 13.62125
 postcode: "12627"
 city: Berlin
-street: "Böhlener Straße"
-housenumber: 15
+street: Böhlener Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH off
 website: ""

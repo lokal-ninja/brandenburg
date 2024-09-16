@@ -4,8 +4,8 @@ latitude: 52.48532
 longitude: 13.3279
 postcode: "10715"
 city: Berlin
-street: "Wilhelmsaue"
-housenumber: 8
+street: Wilhelmsaue
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.friseur-koepfchen.de/"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.friseur-koepfchen.de/

@@ -1,11 +1,11 @@
 id: 395900989
-type: way
+type: node
 latitude: 52.44656
 longitude: 13.30506
 postcode: "12203"
 city: Berlin
-street: "Gardeschützenweg"
-housenumber: 76
+street: Gardeschützenweg
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su off"
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su off
 website: ""

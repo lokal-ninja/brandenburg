@@ -1,11 +1,11 @@
 id: 19748090
-type: way
+type: node
 latitude: 51.78226
 longitude: 14.31705
 postcode: "03044"
 city: Cottbus
-street: "Sielower Chaussee"
-housenumber: 38
+street: Sielower Chaussee
+housenumber: "38"
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

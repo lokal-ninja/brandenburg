@@ -4,8 +4,8 @@ latitude: 52.47884
 longitude: 13.33174
 postcode: "10715"
 city: Berlin
-street: "Wexstraße"
-housenumber: 25
+street: Wexstraße
+housenumber: "25"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

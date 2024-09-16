@@ -4,8 +4,8 @@ latitude: 52.43958
 longitude: 12.52557
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Münstersche Straße"
-housenumber: 1
+street: Münstersche Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
-website: "https://www.vwservice-daehne.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
+website: https://www.vwservice-daehne.de

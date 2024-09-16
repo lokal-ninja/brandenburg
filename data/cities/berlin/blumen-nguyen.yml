@@ -1,11 +1,11 @@
 id: 604024703
-type: way
+type: node
 latitude: 52.52936
 longitude: 13.56848
 postcode: "12683"
 city: Berlin
-street: "Cecilienstraße"
+street: Cecilienstraße
 housenumber: 145 A
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00"
+opening_hours: Mo-Su 07:00-20:00
 website: ""

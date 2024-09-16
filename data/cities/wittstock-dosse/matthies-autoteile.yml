@@ -1,11 +1,11 @@
 id: 803851284
-type: way
+type: node
 latitude: 53.16569
 longitude: 12.45116
 postcode: "16909"
 city: Wittstock/Dosse
-street: "Ruppiner Straße"
-housenumber: 1
+street: Ruppiner Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 37461188
-type: way
+type: node
 latitude: 52.44203
 longitude: 13.58547
 postcode: "12555"
 city: Berlin
-street: "Müggelheimer Straße"
-housenumber: 36
+street: Müggelheimer Straße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.aldi-nord.de/

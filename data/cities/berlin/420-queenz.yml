@@ -4,8 +4,8 @@ latitude: 52.48516
 longitude: 13.38064
 postcode: "10965"
 city: Berlin
-street: "Dudenstraße"
-housenumber: 32
+street: Dudenstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://shop.420queenz.com/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://shop.420queenz.com/

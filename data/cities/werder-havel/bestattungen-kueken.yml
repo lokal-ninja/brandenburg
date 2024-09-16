@@ -1,11 +1,11 @@
 id: 157165774
-type: way
+type: node
 latitude: 52.37809
 longitude: 12.93316
 postcode: "14542"
 city: Werder (Havel)
-street: "Eisenbahnstraße"
-housenumber: 207
+street: Eisenbahnstraße
+housenumber: "207"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

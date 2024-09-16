@@ -1,11 +1,11 @@
 id: 476726451
-type: way
+type: node
 latitude: 52.45961
 longitude: 14.20902
 postcode: "15518"
 city: Steinhöfel
-street: "Am Gewerbegebiet"
-housenumber: 10
+street: Am Gewerbegebiet
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 53.01719
 longitude: 14.00175
 postcode: "16278"
 city: Angermünde
-street: "Rosenstraße"
-housenumber: 17
-phone: "+49 3331 26026"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-12:00"
-website: "http://www.baecker-schreiber-shop.de/"
+street: Rosenstraße
+housenumber: "17"
+phone: +49 3331 26026
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-12:00
+website: http://www.baecker-schreiber-shop.de/

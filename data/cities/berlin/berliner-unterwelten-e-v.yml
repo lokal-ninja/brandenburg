@@ -4,8 +4,10 @@ latitude: 52.54778
 longitude: 13.38896
 postcode: "13355"
 city: Berlin
-street: "Brunnenstraße"
-housenumber: 106
+street: Brunnenstraße
+housenumber: "106"
 phone: ""
-opening_hours: "Jan,Feb Mo,Th-Su 10:00-16:00; Jan,Feb Tu-We 10:00-14:00; Mar Mo-Su,PH 10:00-16:00; Apr-Oct Mo-Fr 10:00-16:00; Apr-Oct Sa-Su,PH 09:00-16:00; Nov,Dec Mo-Su,PH 10:00-16:00"
+opening_hours: Jan,Feb Mo,Th-Su 10:00-16:00; Jan,Feb Tu-We 10:00-14:00; Mar Mo-Su,PH
+    10:00-16:00; Apr-Oct Mo-Fr 10:00-16:00; Apr-Oct Sa-Su,PH 09:00-16:00; Nov,Dec
+    Mo-Su,PH 10:00-16:00
 website: ""

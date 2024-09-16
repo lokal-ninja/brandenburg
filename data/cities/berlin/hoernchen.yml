@@ -4,8 +4,8 @@ latitude: 52.45387
 longitude: 13.62535
 postcode: "12587"
 city: Berlin
-street: "Bölschestraße"
-housenumber: 54
-phone: "+49 30 76006626"
+street: Bölschestraße
+housenumber: "54"
+phone: +49 30 76006626
 opening_hours: ""
-website: "https://www.cafe-hoernchen-berlin.de/"
+website: https://www.cafe-hoernchen-berlin.de/

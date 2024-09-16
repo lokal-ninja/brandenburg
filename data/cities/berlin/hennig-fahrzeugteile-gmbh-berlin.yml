@@ -4,8 +4,8 @@ latitude: 52.45802
 longitude: 13.42329
 postcode: "12347"
 city: Berlin
-street: "Tempelhofer Weg"
-housenumber: 12
+street: Tempelhofer Weg
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "https://www.hennig-fahrzeugteile.de/kontakt/berlin-sued.html"
+website: https://www.hennig-fahrzeugteile.de/kontakt/berlin-sued.html

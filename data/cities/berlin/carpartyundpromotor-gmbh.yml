@@ -4,8 +4,8 @@ latitude: 52.48837
 longitude: 13.36532
 postcode: "10829"
 city: Berlin
-street: "Monumentenstraße"
-housenumber: 35
-phone: "+49 30 7879920"
-opening_hours: "Mo-Fr 07:00-22:00, Sa 10:00-18:00"
-website: "https://carparts-promotor.de/"
+street: Monumentenstraße
+housenumber: "35"
+phone: +49 30 7879920
+opening_hours: Mo-Fr 07:00-22:00, Sa 10:00-18:00
+website: https://carparts-promotor.de/

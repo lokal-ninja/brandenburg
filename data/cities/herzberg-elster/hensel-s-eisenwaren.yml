@@ -1,11 +1,11 @@
 id: 880152082
-type: way
+type: node
 latitude: 51.69345
 longitude: 13.23956
 postcode: "04916"
 city: Herzberg (Elster)
-street: "Schliebener Straße"
-housenumber: 72
-phone: "+49 3535 3506"
+street: Schliebener Straße
+housenumber: "72"
+phone: +49 3535 3506
 opening_hours: ""
-website: "http://eisenhensel.de"
+website: http://eisenhensel.de

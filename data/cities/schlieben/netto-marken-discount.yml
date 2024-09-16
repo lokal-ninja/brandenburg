@@ -1,11 +1,11 @@
 id: 260976333
-type: way
+type: node
 latitude: 51.72235
 longitude: 13.37752
 postcode: "04936"
 city: Schlieben
-street: "Kniebuschweg"
-housenumber: 1
-phone: "+49 35361 899027"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+street: Kniebuschweg
+housenumber: "1"
+phone: +49 35361 899027
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

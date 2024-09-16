@@ -1,11 +1,11 @@
 id: 109846273
-type: way
+type: node
 latitude: 52.2597
 longitude: 14.42935
 postcode: "15299"
 city: Müllrose
-street: "Gewerbeparkring"
-housenumber: 31
-phone: "+49 33606 77390"
+street: Gewerbeparkring
+housenumber: "31"
+phone: +49 33606 77390
 opening_hours: ""
-website: "https://auto-center-guenther.de/"
+website: https://auto-center-guenther.de/

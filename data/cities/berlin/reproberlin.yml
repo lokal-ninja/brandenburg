@@ -4,8 +4,8 @@ latitude: 52.51024
 longitude: 13.32383
 postcode: "10623"
 city: Berlin
-street: "Hardenbergstraße"
-housenumber: 7
+street: Hardenbergstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 10:00-16:00
 website: ""

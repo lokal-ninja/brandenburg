@@ -1,11 +1,11 @@
 id: 444250296
-type: way
+type: node
 latitude: 52.38179
 longitude: 12.52466
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Ziesarer Landstraße"
-housenumber: 88
+street: Ziesarer Landstraße
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Th 07:00-16:00; Fr 07:00-14:30"
+opening_hours: Mo-Th 07:00-16:00; Fr 07:00-14:30
 website: ""

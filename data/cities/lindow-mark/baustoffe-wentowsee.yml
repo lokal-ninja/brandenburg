@@ -4,8 +4,9 @@ latitude: 52.97656
 longitude: 12.98824
 postcode: "16835"
 city: Lindow (Mark)
-street: "Granseer Straße"
-housenumber: 19
+street: Granseer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Jan-Feb Mo-Fr 09:00-17:00; Mar-Dec Mo-Fr 09:00-18:00; Sa 08:00-12:00; PH,Su off"
+opening_hours: Jan-Feb Mo-Fr 09:00-17:00; Mar-Dec Mo-Fr 09:00-18:00; Sa 08:00-12:00;
+    PH,Su off
 website: ""

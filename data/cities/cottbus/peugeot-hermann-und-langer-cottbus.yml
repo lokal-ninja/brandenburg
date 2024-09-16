@@ -1,11 +1,11 @@
 id: 134260183
-type: way
+type: node
 latitude: 51.78351
 longitude: 14.32348
 postcode: "03044"
 city: Cottbus
-street: "Krennewitzer Straße"
-housenumber: 11
-phone: "+49 355 499233"
+street: Krennewitzer Straße
+housenumber: "11"
+phone: +49 355 499233
 opening_hours: ""
-website: "https://www.herrmann-langer.de"
+website: https://www.herrmann-langer.de

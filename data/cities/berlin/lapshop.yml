@@ -4,8 +4,8 @@ latitude: 52.46061
 longitude: 13.52194
 postcode: "12459"
 city: Berlin
-street: "Wilhelminenhofstraße"
-housenumber: 43
+street: Wilhelminenhofstraße
+housenumber: "43"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 11:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 11:00-16:00
 website: ""

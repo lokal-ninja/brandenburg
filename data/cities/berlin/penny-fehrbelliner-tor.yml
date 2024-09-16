@@ -1,11 +1,11 @@
 id: 622336466
-type: way
+type: node
 latitude: 52.55351
 longitude: 13.19786
 postcode: "13585"
 city: Berlin
-street: "Fehrbelliner Straße"
-housenumber: 29
+street: Fehrbelliner Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su,PH off"
-website: "https://penny-gruener-weg.de"
+opening_hours: Mo-Sa 07:00-22:00; Su,PH off
+website: https://penny-gruener-weg.de

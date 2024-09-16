@@ -4,8 +4,8 @@ latitude: 52.51413
 longitude: 13.6664
 postcode: "15366"
 city: Hoppegarten
-street: "Lindenallee"
-housenumber: 22
-phone: "+49 03342 30 51 55"
-opening_hours: "Mo,Tu 09:00-12:00; We-Fr 09:00-18:00"
+street: Lindenallee
+housenumber: "22"
+phone: +49 03342 30 51 55
+opening_hours: Mo,Tu 09:00-12:00; We-Fr 09:00-18:00
 website: ""

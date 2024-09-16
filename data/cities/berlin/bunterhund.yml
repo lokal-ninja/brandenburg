@@ -4,8 +4,8 @@ latitude: 52.45466
 longitude: 13.51665
 postcode: "12439"
 city: Berlin
-street: "Schnellerstraße"
-housenumber: 111
-phone: "+49 30 235 878 19"
-opening_hours: "Nach telefonischer Vereinbahrung"
-website: "http://www.schönheitssalon-bunterhund.de/"
+street: Schnellerstraße
+housenumber: "111"
+phone: +49 30 235 878 19
+opening_hours: '"Nach telefonischer Vereinbahrung"'
+website: http://www.schönheitssalon-bunterhund.de/

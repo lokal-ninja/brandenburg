@@ -1,11 +1,11 @@
 id: 91680129
-type: way
+type: node
 latitude: 52.42416
 longitude: 12.51639
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Dahlienweg"
-housenumber: 1
+street: Dahlienweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 28973024
-type: way
+type: node
 latitude: 51.53744
 longitude: 13.41184
 postcode: "04924"
 city: Bad Liebenwerda
-street: "Dorfstraße"
-housenumber: 19
+street: Dorfstraße
+housenumber: "19"
 phone: ""
 opening_hours: ""
 website: ""

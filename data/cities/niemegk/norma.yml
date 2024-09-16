@@ -1,11 +1,11 @@
 id: 338088064
-type: way
+type: node
 latitude: 52.07794
 longitude: 12.69007
 postcode: ""
 city: Niemegk
-street: "Bahnhofstraße"
-housenumber: 6
+street: Bahnhofstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://norma-online.de/"
+website: http://norma-online.de/

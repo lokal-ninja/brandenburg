@@ -4,8 +4,8 @@ latitude: 52.53326
 longitude: 13.39832
 postcode: "10119"
 city: Berlin
-street: "Brunnenstraße"
-housenumber: 171
+street: Brunnenstraße
+housenumber: "171"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-15:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-15:00
 website: ""

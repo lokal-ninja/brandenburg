@@ -4,8 +4,8 @@ latitude: 52.57239
 longitude: 13.41465
 postcode: "13187"
 city: Berlin
-street: "Breite Straße"
-housenumber: 2
+street: Breite Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Fr 12:00-18:00; Sa 10:00-15:00"
+opening_hours: Tu-Fr 12:00-18:00; Sa 10:00-15:00
 website: ""

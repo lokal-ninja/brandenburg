@@ -4,8 +4,8 @@ latitude: 52.57027
 longitude: 13.49599
 postcode: "13051"
 city: Berlin
-street: "Ribnitzer Straße"
-housenumber: 24
+street: Ribnitzer Straße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.netto-online.de/Filial-Angebote.chtm"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.netto-online.de/Filial-Angebote.chtm

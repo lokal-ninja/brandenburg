@@ -1,11 +1,11 @@
 id: 492710595
-type: way
+type: node
 latitude: 52.74223
 longitude: 13.21429
 postcode: "16515"
 city: Oranienburg
-street: "Walther-Bothe-Straße"
-housenumber: 90
-phone: "+49 33015775550"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://www.gartendiscounter.de/"
+street: Walther-Bothe-Straße
+housenumber: "90"
+phone: +49 33015775550
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://www.gartendiscounter.de/

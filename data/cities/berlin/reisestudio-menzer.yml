@@ -4,8 +4,8 @@ latitude: 52.48316
 longitude: 13.52551
 postcode: "10318"
 city: Berlin
-street: "Treskowallee"
-housenumber: 104
-phone: "+49 30 50802380"
-opening_hours: "Mo,We,Fr 10:00-16:00; Tu,Th 10:00-17:00"
-website: "https://www.reisestudio-menzer.com/"
+street: Treskowallee
+housenumber: "104"
+phone: +49 30 50802380
+opening_hours: Mo,We,Fr 10:00-16:00; Tu,Th 10:00-17:00
+website: https://www.reisestudio-menzer.com/

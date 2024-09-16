@@ -1,11 +1,11 @@
 id: 199270593
-type: way
+type: node
 latitude: 52.42993
 longitude: 13.37876
 postcode: "12277"
 city: Berlin
-street: "Wilhelm-von-Siemens-Straße"
-housenumber: 13
+street: Wilhelm-von-Siemens-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

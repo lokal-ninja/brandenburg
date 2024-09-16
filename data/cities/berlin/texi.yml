@@ -4,8 +4,8 @@ latitude: 52.51853
 longitude: 13.47059
 postcode: "10247"
 city: Berlin
-street: "Dolziger Straße"
-housenumber: 31
+street: Dolziger Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00,13:00-17:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 08:00-12:00,13:00-17:00; PH,Sa,Su off
 website: ""

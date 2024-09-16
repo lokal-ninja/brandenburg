@@ -1,11 +1,11 @@
 id: 93950515
-type: way
+type: node
 latitude: 52.51754
 longitude: 13.29294
 postcode: "14059"
 city: Berlin
-street: "Neufertstraße"
+street: Neufertstraße
 housenumber: 19-21
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
+opening_hours: Mo-Sa 08:00-21:00
 website: ""

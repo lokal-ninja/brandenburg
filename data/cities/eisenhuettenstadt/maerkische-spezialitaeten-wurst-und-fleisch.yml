@@ -4,8 +4,8 @@ latitude: 52.14666
 longitude: 14.65068
 postcode: "15890"
 city: Eisenhüttenstadt
-street: "Oderlandstraße"
-housenumber: 22
-phone: "+493364 774610"
-opening_hours: "Mo-Mi 07:00-16:00; Do-Fr 07:00-17:00"
-website: "https://www.die-maerkische.de/"
+street: Oderlandstraße
+housenumber: "22"
+phone: +493364 774610
+opening_hours: Mo-Mi 07:00-16:00; Do-Fr 07:00-17:00
+website: https://www.die-maerkische.de/

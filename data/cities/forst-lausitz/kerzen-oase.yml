@@ -1,11 +1,11 @@
 id: 298631470
-type: way
+type: node
 latitude: 51.7449
 longitude: 14.64162
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Cottbuser Straße"
-housenumber: 38
-phone: "+49 160 98765990"
+street: Cottbuser Straße
+housenumber: "38"
+phone: +49 160 98765990
 opening_hours: ""
-website: "www.sylvis-kerzenoase.de"
+website: www.sylvis-kerzenoase.de

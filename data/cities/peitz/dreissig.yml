@@ -4,8 +4,8 @@ latitude: 51.85814
 longitude: 14.41116
 postcode: "03185"
 city: Peitz
-street: "Hauptstraße"
-housenumber: 20
-phone: "+49 35601 89443"
-opening_hours: "Mo-Fr 05:00-18:00; Sa 05:00-17:00; Su 06:30-18:00"
-website: "https://www.baeckerei-dreissig.de/"
+street: Hauptstraße
+housenumber: "20"
+phone: +49 35601 89443
+opening_hours: Mo-Fr 05:00-18:00; Sa 05:00-17:00; Su 06:30-18:00
+website: https://www.baeckerei-dreissig.de/

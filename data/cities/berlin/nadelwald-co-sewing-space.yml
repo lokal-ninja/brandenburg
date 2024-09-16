@@ -4,8 +4,8 @@ latitude: 52.48911
 longitude: 13.42795
 postcode: "12047"
 city: Berlin
-street: "Friedelstraße"
-housenumber: 11
+street: Friedelstraße
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "http://nadelwald.me"
+website: http://nadelwald.me

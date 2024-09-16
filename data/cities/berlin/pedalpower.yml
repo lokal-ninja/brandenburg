@@ -4,8 +4,8 @@ latitude: 52.50501
 longitude: 13.477
 postcode: "10317"
 city: Berlin
-street: "Pfarrstraße"
-housenumber: 115
+street: Pfarrstraße
+housenumber: "115"
 phone: ""
-opening_hours: "Mo-Fr 11:00-16:00; Sa 10:00-14:00"
-website: "https://pedalpower.de/"
+opening_hours: Mo-Fr 11:00-16:00; Sa 10:00-14:00
+website: https://pedalpower.de/

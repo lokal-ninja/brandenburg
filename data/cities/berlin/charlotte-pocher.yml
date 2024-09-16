@@ -4,8 +4,8 @@ latitude: 52.52368
 longitude: 13.38708
 postcode: "10117"
 city: Berlin
-street: "Reinhardtstraße"
-housenumber: 3
+street: Reinhardtstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:30"
+opening_hours: Mo-Fr 10:00-17:30
 website: ""

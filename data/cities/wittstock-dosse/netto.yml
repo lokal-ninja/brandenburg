@@ -1,11 +1,11 @@
 id: 178498318
-type: way
+type: node
 latitude: 53.15599
 longitude: 12.48213
 postcode: "16909"
 city: Wittstock/Dosse
-street: "Polthierstraße"
-housenumber: 14
+street: Polthierstraße
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

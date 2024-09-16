@@ -4,8 +4,8 @@ latitude: 52.49001
 longitude: 13.38279
 postcode: "10965"
 city: Berlin
-street: "Kreuzbergstraße"
-housenumber: 15
-phone: "+49 30 20985609"
-opening_hours: "Tu-Fr 11:00-19:00; Sa 11:00-18:00; Mo 14:00-19:00"
+street: Kreuzbergstraße
+housenumber: "15"
+phone: +49 30 20985609
+opening_hours: Tu-Fr 11:00-19:00; Sa 11:00-18:00; Mo 14:00-19:00
 website: ""

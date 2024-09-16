@@ -4,8 +4,8 @@ latitude: 52.51914
 longitude: 13.45543
 postcode: "10247"
 city: Berlin
-street: "Weidenweg"
-housenumber: 64
-phone: "+49 30 427 804 53"
-opening_hours: "Mo-Th 09:00-17:00; Fr 09:00-16:00"
-website: "https://bober-sicherheitstechnik.de/"
+street: Weidenweg
+housenumber: "64"
+phone: +49 30 427 804 53
+opening_hours: Mo-Th 09:00-17:00; Fr 09:00-16:00
+website: https://bober-sicherheitstechnik.de/

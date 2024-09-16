@@ -4,8 +4,8 @@ latitude: 52.51181
 longitude: 13.45269
 postcode: "10243"
 city: Berlin
-street: "Warschauer Straße"
-housenumber: 71
+street: Warschauer Straße
+housenumber: "71"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; PH,Su 10:00-16:00"
+opening_hours: Mo-Sa 08:00-19:00; PH,Su 10:00-16:00
 website: ""

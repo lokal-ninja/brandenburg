@@ -4,8 +4,8 @@ latitude: 52.48556
 longitude: 13.32022
 postcode: "10713"
 city: Berlin
-street: "Blissestraße"
-housenumber: 6
-phone: "+49 30 88728404"
-opening_hours: "Mo-Fr 10:00-16:30; Sa 10:00-16:00"
-website: "https://www.decocity.de"
+street: Blissestraße
+housenumber: "6"
+phone: +49 30 88728404
+opening_hours: Mo-Fr 10:00-16:30; Sa 10:00-16:00
+website: https://www.decocity.de

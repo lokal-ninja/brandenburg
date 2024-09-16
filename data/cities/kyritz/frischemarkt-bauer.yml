@@ -1,11 +1,11 @@
 id: 305005287
-type: way
+type: node
 latitude: 52.94873
 longitude: 12.38427
 postcode: "16866"
 city: Kyritz
-street: "Friedensstraße"
-housenumber: 6
+street: Friedensstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

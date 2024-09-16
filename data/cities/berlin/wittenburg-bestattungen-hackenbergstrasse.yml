@@ -4,8 +4,8 @@ latitude: 52.43968
 longitude: 13.54729
 postcode: "12489"
 city: Berlin
-street: "Hackenbergstraße"
-housenumber: 21
+street: Hackenbergstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00 || nach Vereinbarung"
+opening_hours: Mo-Fr 09:00-17:00 || "nach Vereinbarung"
 website: ""

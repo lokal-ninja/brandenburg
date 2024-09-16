@@ -1,11 +1,11 @@
 id: 110430315
-type: way
+type: node
 latitude: 53.32014
 longitude: 12.24239
 postcode: "16945"
 city: Meyenburg
-street: "Plauer Straße"
-housenumber: 31
+street: Plauer Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

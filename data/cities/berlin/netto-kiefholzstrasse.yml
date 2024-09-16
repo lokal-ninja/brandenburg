@@ -1,11 +1,11 @@
 id: 60361091
-type: way
+type: node
 latitude: 52.49078
 longitude: 13.45206
 postcode: "12435"
 city: Berlin
-street: "Kiefholzstraße"
-housenumber: 425
+street: Kiefholzstraße
+housenumber: "425"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.5294
 longitude: 13.40186
 postcode: "10119"
 city: Berlin
-street: "Rosenthaler Straße"
-housenumber: 72
+street: Rosenthaler Straße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Su 09:00-19:00; Th-Sa 10:00-20:00"
-website: "https://aerabread.com/"
+opening_hours: Mo-Su 09:00-19:00; Th-Sa 10:00-20:00
+website: https://aerabread.com/

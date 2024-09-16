@@ -4,8 +4,8 @@ latitude: 52.49624
 longitude: 13.34297
 postcode: "10777"
 city: Berlin
-street: "Motzstraße"
-housenumber: 54
-phone: "+49 30 473 623 17"
+street: Motzstraße
+housenumber: "54"
+phone: +49 30 473 623 17
 opening_hours: ""
-website: "https://www.salonsebastian.de/"
+website: https://www.salonsebastian.de/

@@ -1,11 +1,11 @@
 id: 179160055
-type: way
+type: node
 latitude: 52.37868
 longitude: 14.07648
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Karl-Liebknecht-Straße"
-housenumber: 30
+street: Karl-Liebknecht-Straße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:00, 13:00-17:00"
-website: "https://graunke24.de"
+opening_hours: Mo-Fr 08:00-12:00, 13:00-17:00
+website: https://graunke24.de

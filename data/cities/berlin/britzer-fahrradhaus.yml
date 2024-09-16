@@ -4,8 +4,8 @@ latitude: 52.43791
 longitude: 13.44641
 postcode: "12359"
 city: Berlin
-street: "Fritz-Reuter-Allee"
-housenumber: 176
+street: Fritz-Reuter-Allee
+housenumber: "176"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off"
-website: "http://www.britzerfahrradhaus.de"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00; Su,PH off
+website: http://www.britzerfahrradhaus.de

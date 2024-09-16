@@ -4,8 +4,8 @@ latitude: 52.40186
 longitude: 13.54297
 postcode: "12524"
 city: Berlin
-street: "Ehrenfelder Platz"
-housenumber: 3
-phone: "+49 30 67909300"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-16:00"
+street: Ehrenfelder Platz
+housenumber: "3"
+phone: +49 30 67909300
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-16:00
 website: ""

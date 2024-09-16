@@ -1,11 +1,11 @@
 id: 109722905
-type: way
+type: node
 latitude: 52.35728
 longitude: 14.54371
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Goepelstraße"
-housenumber: 78
-phone: "+49 335 683550"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://www.auto-center-ffo.de/"
+street: Goepelstraße
+housenumber: "78"
+phone: +49 335 683550
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
+website: https://www.auto-center-ffo.de/

@@ -4,8 +4,8 @@ latitude: 52.43392
 longitude: 13.26019
 postcode: "14169"
 city: Berlin
-street: "Teltower Damm"
-housenumber: 11
+street: Teltower Damm
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.hempel-berlin.de"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.hempel-berlin.de

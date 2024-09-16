@@ -4,8 +4,8 @@ latitude: 52.4815
 longitude: 13.43404
 postcode: "12043"
 city: Berlin
-street: "Karl-Marx-Straße"
-housenumber: 78
-phone: "+49 30 62005599"
+street: Karl-Marx-Straße
+housenumber: "78"
+phone: +49 30 62005599
 opening_hours: ""
-website: "https://www.okxsweetshop.de/"
+website: https://www.okxsweetshop.de/

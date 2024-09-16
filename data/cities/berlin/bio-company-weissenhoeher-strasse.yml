@@ -4,8 +4,8 @@ latitude: 52.50696
 longitude: 13.55985
 postcode: "12683"
 city: Berlin
-street: "Weißenhöher Straße"
-housenumber: 108
+street: Weißenhöher Straße
+housenumber: "108"
 phone: ""
-opening_hours: "08:00-20:00"
+opening_hours: 08:00-20:00
 website: ""

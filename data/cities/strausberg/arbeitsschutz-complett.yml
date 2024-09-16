@@ -4,8 +4,9 @@ latitude: 52.58715
 longitude: 13.90206
 postcode: "15344"
 city: Strausberg
-street: "Kastanienallee"
-housenumber: 52
-phone: "+49 3341 314558"
-opening_hours: "Mo 09:00-16:00; Tu 09:00-18:00; Th 09:00-16:00; Fr 09:00-14:00; We,Sa,Su,PH off"
-website: "https://www.arbeitsschutz-pabst.de/"
+street: Kastanienallee
+housenumber: "52"
+phone: +49 3341 314558
+opening_hours: Mo 09:00-16:00; Tu 09:00-18:00; Th 09:00-16:00; Fr 09:00-14:00; We,Sa,Su,PH
+    off
+website: https://www.arbeitsschutz-pabst.de/

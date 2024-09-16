@@ -4,8 +4,8 @@ latitude: 52.55366
 longitude: 13.42957
 postcode: "13189"
 city: Berlin
-street: "Prenzlauer Promenade"
-housenumber: 183
+street: Prenzlauer Promenade
+housenumber: "183"
 phone: "+491788634543"
 opening_hours: ""
-website: "https://www.ubahnstation.de"
+website: https://www.ubahnstation.de

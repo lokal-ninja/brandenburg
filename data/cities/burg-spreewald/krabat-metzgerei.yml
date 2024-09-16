@@ -1,11 +1,11 @@
 id: 226864920
-type: way
+type: node
 latitude: 51.83673
 longitude: 14.14885
 postcode: "03096"
 city: Burg (Spreewald)
-street: "Hauptstraße"
-housenumber: 28
+street: Hauptstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

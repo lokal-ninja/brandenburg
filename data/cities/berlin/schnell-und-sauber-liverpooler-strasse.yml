@@ -4,8 +4,8 @@ latitude: 52.55745
 longitude: 13.34016
 postcode: "13349"
 city: Berlin
-street: "Liverpooler Straße"
-housenumber: 2
+street: Liverpooler Straße
+housenumber: "2"
 phone: "+4917664747519"
-opening_hours: "Mo-Su 06:00-22:00; PH closed"
+opening_hours: Mo-Su 06:00-22:00; PH closed
 website: ""

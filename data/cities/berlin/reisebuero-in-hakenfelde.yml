@@ -4,8 +4,8 @@ latitude: 52.56076
 longitude: 13.20859
 postcode: "13587"
 city: Berlin
-street: "Streitstraße"
-housenumber: 25
-phone: "+49 30 3361660"
-opening_hours: "Mo,We,Fr 10:30-15:30"
+street: Streitstraße
+housenumber: "25"
+phone: +49 30 3361660
+opening_hours: Mo,We,Fr 10:30-15:30
 website: ""

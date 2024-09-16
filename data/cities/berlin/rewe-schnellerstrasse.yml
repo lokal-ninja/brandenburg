@@ -1,11 +1,11 @@
 id: 223541745
-type: way
+type: node
 latitude: 52.45127
 longitude: 13.52933
 postcode: "12439"
 city: Berlin
-street: "Schnellerstraße"
-housenumber: 74
+street: Schnellerstraße
+housenumber: "74"
 phone: "+493056590798"
-opening_hours: "Mo-Sa 06:00-21:30"
-website: "https://www.rewe.de/marktseite/berlin-niederschoeneweide/4040708/rewe-markt-schnellerstr-74/"
+opening_hours: Mo-Sa 06:00-21:30
+website: https://www.rewe.de/marktseite/berlin-niederschoeneweide/4040708/rewe-markt-schnellerstr-74/

@@ -4,8 +4,8 @@ latitude: 52.48663
 longitude: 13.31672
 postcode: "10713"
 city: Berlin
-street: "Berliner Straße"
-housenumber: 52
+street: Berliner Straße
+housenumber: "52"
 phone: ""
 opening_hours: ""
-website: "http://borisbedarf.de/"
+website: http://borisbedarf.de/

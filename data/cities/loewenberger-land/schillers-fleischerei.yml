@@ -1,11 +1,11 @@
 id: 254416544
-type: way
+type: node
 latitude: 52.87051
 longitude: 13.21987
 postcode: "16775"
 city: Löwenberger Land
-street: "Dorfanger"
-housenumber: 69
+street: Dorfanger
+housenumber: "69"
 phone: ""
 opening_hours: ""
 website: ""

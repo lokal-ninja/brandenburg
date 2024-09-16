@@ -4,8 +4,8 @@ latitude: 52.52435
 longitude: 13.40867
 postcode: "10178"
 city: Berlin
-street: "Münzstraße"
-housenumber: 8
+street: Münzstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://www.redwingberlin.com"
+opening_hours: Mo-Sa 11:00-20:00
+website: https://www.redwingberlin.com

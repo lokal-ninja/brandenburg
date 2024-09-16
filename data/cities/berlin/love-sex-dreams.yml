@@ -4,8 +4,8 @@ latitude: 52.511
 longitude: 13.30133
 postcode: "10627"
 city: Berlin
-street: "Kaiser-Friedrich-Straße"
-housenumber: 32
+street: Kaiser-Friedrich-Straße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Su 09:30-24:00"
+opening_hours: Mo-Su 09:30-24:00
 website: ""

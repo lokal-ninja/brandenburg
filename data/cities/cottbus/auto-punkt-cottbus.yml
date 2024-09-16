@@ -1,11 +1,11 @@
 id: 26720410
-type: way
+type: node
 latitude: 51.75233
 longitude: 14.36049
 postcode: "03042"
 city: Cottbus
-street: "Forster Straße"
-housenumber: 103
-phone: "+49 355 722107"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "autopunkt-cottbus.de"
+street: Forster Straße
+housenumber: "103"
+phone: +49 355 722107
+opening_hours: Mo-Fr 09:00-18:00
+website: autopunkt-cottbus.de

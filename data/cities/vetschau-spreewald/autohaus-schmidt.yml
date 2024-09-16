@@ -1,11 +1,11 @@
 id: 59305450
-type: way
+type: node
 latitude: 51.78224
 longitude: 14.07627
 postcode: "03226"
 city: Vetschau/Spreewald
-street: "Cottbuser Straße"
-housenumber: 16
+street: Cottbuser Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

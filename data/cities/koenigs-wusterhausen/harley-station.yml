@@ -1,11 +1,11 @@
 id: 36897068
-type: way
+type: node
 latitude: 52.29651
 longitude: 13.63215
 postcode: "15711"
 city: Königs Wusterhausen
-street: "Storkower Straße"
-housenumber: 36
-phone: "+49 3375 21 10 55"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-16:00"
-website: "http://www.harley-station.de/"
+street: Storkower Straße
+housenumber: "36"
+phone: +49 3375 21 10 55
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-16:00
+website: http://www.harley-station.de/

@@ -1,11 +1,11 @@
 id: 126105937
-type: way
+type: node
 latitude: 51.70679
 longitude: 14.36921
 postcode: "03051"
 city: Cottbus
-street: "Kutzeburger Mühle"
-housenumber: 1
-phone: "+49 355 5901411"
-opening_hours: "Th,Fr 15:00-18:00"
-website: "https://www.zur-kutzeburger-muehle.de/"
+street: Kutzeburger Mühle
+housenumber: "1"
+phone: +49 355 5901411
+opening_hours: Th,Fr 15:00-18:00
+website: https://www.zur-kutzeburger-muehle.de/

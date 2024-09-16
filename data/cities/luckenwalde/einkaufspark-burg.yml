@@ -1,11 +1,11 @@
 id: 928948298
-type: way
+type: node
 latitude: 52.09168
 longitude: 13.17643
 postcode: "14943"
 city: Luckenwalde
-street: "Burg"
-housenumber: 22
+street: Burg
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

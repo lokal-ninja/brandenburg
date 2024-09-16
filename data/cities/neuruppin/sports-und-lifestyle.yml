@@ -4,8 +4,8 @@ latitude: 52.92413
 longitude: 12.80411
 postcode: "16816"
 city: Neuruppin
-street: "Karl-Marx-Straße"
-housenumber: 41
-phone: "+49 3391 512575"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "https://sportsundlifestyle.de/"
+street: Karl-Marx-Straße
+housenumber: "41"
+phone: +49 3391 512575
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: https://sportsundlifestyle.de/

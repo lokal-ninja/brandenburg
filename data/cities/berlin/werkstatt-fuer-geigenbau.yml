@@ -4,8 +4,8 @@ latitude: 52.46938
 longitude: 13.33782
 postcode: "12159"
 city: Berlin
-street: "Wilhelm-Hauff-Straße"
-housenumber: 14
-phone: "+49 30 85994060"
-opening_hours: "Mo-Fr 10:00-14:30 || nach Vereinbarung"
-website: "https://geigenbau-in-berlin.de/"
+street: Wilhelm-Hauff-Straße
+housenumber: "14"
+phone: +49 30 85994060
+opening_hours: Mo-Fr 10:00-14:30 || "nach Vereinbarung"
+website: https://geigenbau-in-berlin.de/

@@ -4,8 +4,8 @@ latitude: 52.39867
 longitude: 13.05774
 postcode: "14467"
 city: Potsdam
-street: "Friedrich-Ebert-Straße"
-housenumber: 111
+street: Friedrich-Ebert-Straße
+housenumber: "111"
 phone: "+49331293345"
-opening_hours: "Mo-Fr 09:00-18:00; PH,Sa,Su off"
-website: "https://www.hoergeraete-klaper.de/"
+opening_hours: Mo-Fr 09:00-18:00; PH,Sa,Su off
+website: https://www.hoergeraete-klaper.de/

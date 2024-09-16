@@ -1,11 +1,11 @@
 id: 327049773
-type: way
+type: node
 latitude: 52.37109
 longitude: 14.04809
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Am Heizwerk"
-housenumber: 9
+street: Am Heizwerk
+housenumber: "9"
 phone: ""
 opening_hours: ""
-website: "http://www.fahrzeugpflege-haeusner.de/"
+website: http://www.fahrzeugpflege-haeusner.de/

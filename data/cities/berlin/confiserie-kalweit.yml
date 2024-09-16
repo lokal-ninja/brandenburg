@@ -4,8 +4,8 @@ latitude: 52.54887
 longitude: 13.45615
 postcode: "13088"
 city: Berlin
-street: "Herbert-Baum-Straße"
-housenumber: 5
-phone: "+49 30 616 48 252"
-opening_hours: "Tu-Sa 10:00-14:00"
-website: "https://www.confiserie-kalweit.de/"
+street: Herbert-Baum-Straße
+housenumber: "5"
+phone: +49 30 616 48 252
+opening_hours: Tu-Sa 10:00-14:00
+website: https://www.confiserie-kalweit.de/

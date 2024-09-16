@@ -1,11 +1,11 @@
 id: 109706624
-type: way
+type: node
 latitude: 52.36588
 longitude: 14.52394
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Berliner Chaussee"
-housenumber: 91
+street: Berliner Chaussee
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-service-bothe.de"
+website: https://www.bmw-service-bothe.de

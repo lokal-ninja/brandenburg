@@ -1,11 +1,11 @@
 id: 217855605
-type: way
+type: node
 latitude: 52.37691
 longitude: 12.92792
 postcode: "14542"
 city: Werder (Havel)
-street: "Kemnitzer Straße"
-housenumber: 101
+street: Kemnitzer Straße
+housenumber: "101"
 phone: ""
 opening_hours: ""
 website: ""

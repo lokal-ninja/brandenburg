@@ -4,8 +4,8 @@ latitude: 51.75381
 longitude: 14.33311
 postcode: "03046"
 city: Cottbus
-street: "Straße der Jugend"
-housenumber: 94
-phone: "+49 355 790234"
-opening_hours: "Mo-Fr 14:00-18:00"
-website: "http://www.weltladen-cottbus.de"
+street: Straße der Jugend
+housenumber: "94"
+phone: +49 355 790234
+opening_hours: Mo-Fr 14:00-18:00
+website: http://www.weltladen-cottbus.de

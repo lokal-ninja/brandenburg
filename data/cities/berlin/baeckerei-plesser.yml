@@ -4,8 +4,8 @@ latitude: 52.48896
 longitude: 13.45226
 postcode: "12435"
 city: Berlin
-street: "Plesser Straße"
-housenumber: 9
+street: Plesser Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-16:00; Su 07:00-15:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-16:00; Su 07:00-15:00
 website: ""

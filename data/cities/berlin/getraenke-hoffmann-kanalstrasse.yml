@@ -1,11 +1,11 @@
 id: 489960938
-type: way
+type: node
 latitude: 52.43092
 longitude: 13.49477
 postcode: "12357"
 city: Berlin
-street: "Kanalstraße"
-housenumber: 8
-phone: "+4930 60 25 84 22"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:00"
-website: "https://www.getraenke-hoffmann.de/filiale-2013"
+street: Kanalstraße
+housenumber: "8"
+phone: +4930 60 25 84 22
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:00
+website: https://www.getraenke-hoffmann.de/filiale-2013

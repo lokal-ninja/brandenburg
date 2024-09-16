@@ -1,11 +1,11 @@
 id: 87753562
-type: way
+type: node
 latitude: 52.41989
 longitude: 12.55999
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Watstraße"
-housenumber: 15
+street: Watstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

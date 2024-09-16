@@ -1,11 +1,11 @@
 id: 36696579
-type: way
+type: node
 latitude: 52.45297
 longitude: 13.42254
 postcode: "12347"
 city: Berlin
-street: "Gradestraße"
-housenumber: 100
+street: Gradestraße
+housenumber: "100"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 08:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 08:00-20:00
 website: ""

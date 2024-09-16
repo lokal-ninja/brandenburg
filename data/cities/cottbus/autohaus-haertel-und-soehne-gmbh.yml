@@ -1,11 +1,11 @@
 id: 129140525
-type: way
+type: node
 latitude: 51.77954
 longitude: 14.3203
 postcode: "03044"
 city: Cottbus
-street: "Lamsfelder Straße"
-housenumber: 1
-phone: "+49 355 48642790"
+street: Lamsfelder Straße
+housenumber: "1"
+phone: +49 355 48642790
 opening_hours: ""
-website: "https://www.renault.de/handler/ah_haertel_cott"
+website: https://www.renault.de/handler/ah_haertel_cott

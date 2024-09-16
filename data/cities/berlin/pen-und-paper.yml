@@ -4,8 +4,8 @@ latitude: 52.46696
 longitude: 13.31164
 postcode: "14197"
 city: Berlin
-street: "Kreuznacher Straße"
-housenumber: 67
+street: Kreuznacher Straße
+housenumber: "67"
 phone: ""
-opening_hours: "Mo-Fr 9:00-18:00; Sa 9:00-16:00"
+opening_hours: Mo-Fr 9:00-18:00; Sa 9:00-16:00
 website: ""

@@ -1,11 +1,11 @@
 id: 52515389
-type: way
+type: node
 latitude: 52.30613
 longitude: 13.02576
 postcode: "14552"
 city: Michendorf
-street: "Potsdamer Straße"
+street: Potsdamer Straße
 housenumber: 95,97
-phone: "+49 3320 57180"
+phone: +49 3320 57180
 opening_hours: ""
-website: "https://www.autohaus-kuehnicke.de/"
+website: https://www.autohaus-kuehnicke.de/

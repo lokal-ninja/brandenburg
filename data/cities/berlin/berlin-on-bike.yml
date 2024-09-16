@@ -4,8 +4,8 @@ latitude: 52.53965
 longitude: 13.41347
 postcode: "10435"
 city: Berlin
-street: "Knaackstraße"
-housenumber: 97
+street: Knaackstraße
+housenumber: "97"
 phone: ""
 opening_hours: ""
-website: "https://berlinonbike.de/"
+website: https://berlinonbike.de/

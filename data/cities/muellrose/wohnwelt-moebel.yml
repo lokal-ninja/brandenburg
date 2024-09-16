@@ -1,11 +1,11 @@
 id: 177282247
-type: way
+type: node
 latitude: 52.25446
 longitude: 14.41662
 postcode: "15299"
 city: Müllrose
-street: "Biegener Straße"
-housenumber: 15
-phone: "+49 33606 8760"
+street: Biegener Straße
+housenumber: "15"
+phone: +49 33606 8760
 opening_hours: ""
-website: "https://www.wohnwelt-moebel.de/"
+website: https://www.wohnwelt-moebel.de/

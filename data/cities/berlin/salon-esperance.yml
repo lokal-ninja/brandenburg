@@ -4,8 +4,8 @@ latitude: 52.45512
 longitude: 13.32604
 postcode: "12167"
 city: Berlin
-street: "Albrechtstraße"
+street: Albrechtstraße
 housenumber: 14a
-phone: "+49 30 7913343"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00; PH,Su off"
+phone: +49 30 7913343
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00; PH,Su off
 website: ""

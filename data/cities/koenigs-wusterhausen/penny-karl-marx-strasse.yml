@@ -1,11 +1,11 @@
 id: 36868172
-type: way
+type: node
 latitude: 52.30376
 longitude: 13.64954
 postcode: "15713"
 city: Königs Wusterhausen
-street: "Karl-Marx-Straße"
-housenumber: 170
+street: Karl-Marx-Straße
+housenumber: "170"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

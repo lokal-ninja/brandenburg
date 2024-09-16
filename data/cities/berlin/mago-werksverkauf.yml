@@ -4,8 +4,8 @@ latitude: 52.58695
 longitude: 13.3096
 postcode: "13509"
 city: Berlin
-street: "Miraustraße"
-housenumber: 68
-phone: "+49 30 4355820"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-14:00"
-website: "http://www.mago-wurst.de/index.php?id=117"
+street: Miraustraße
+housenumber: "68"
+phone: +49 30 4355820
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-14:00
+website: http://www.mago-wurst.de/index.php?id=117

@@ -1,11 +1,11 @@
 id: 397805996
-type: way
+type: node
 latitude: 52.53186
 longitude: 13.38825
 postcode: ""
 city: Berlin
-street: "Invalidenstraße"
-housenumber: 20
+street: Invalidenstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Tu,We 11:00-16:00"
+opening_hours: Tu,We 11:00-16:00
 website: ""

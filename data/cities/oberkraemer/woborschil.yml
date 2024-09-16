@@ -1,11 +1,11 @@
 id: 200130397
-type: way
+type: node
 latitude: 52.67512
 longitude: 13.15121
 postcode: "16727"
 city: Oberkrämer
-street: "Berliner Straße"
-housenumber: 72
+street: Berliner Straße
+housenumber: "72"
 phone: ""
 opening_hours: ""
 website: ""

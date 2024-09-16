@@ -1,11 +1,11 @@
 id: 118431976
-type: way
+type: node
 latitude: 52.49738
 longitude: 13.51895
 postcode: "10319"
 city: Berlin
-street: "Erich-Kurz-Straße"
+street: Erich-Kurz-Straße
 housenumber: 11a
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa,Su 07:30-18:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa,Su 07:30-18:00
 website: ""

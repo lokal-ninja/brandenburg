@@ -4,8 +4,8 @@ latitude: 52.53422
 longitude: 13.40209
 postcode: "10119"
 city: Berlin
-street: "Fehrbelliner Straße"
-housenumber: 29
-phone: "+49 30 44048279"
-opening_hours: "24/7"
-website: "https://nexondo.de/"
+street: Fehrbelliner Straße
+housenumber: "29"
+phone: +49 30 44048279
+opening_hours: 24/7
+website: https://nexondo.de/

@@ -4,8 +4,8 @@ latitude: 52.58929
 longitude: 13.2931
 postcode: "13509"
 city: Berlin
-street: "Ziekowstraße"
-housenumber: 114
+street: Ziekowstraße
+housenumber: "114"
 phone: ""
-opening_hours: "Mo-Fr 09:00-14:00,15:00-17:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 09:00-14:00,15:00-17:00; Sa 09:00-13:00
 website: ""

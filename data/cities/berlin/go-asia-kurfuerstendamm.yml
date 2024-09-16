@@ -4,8 +4,8 @@ latitude: 52.50362
 longitude: 13.33283
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 231
+street: Kurfürstendamm
+housenumber: "231"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://goasia.net/filialen/berlin-kurfuerstendamm"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://goasia.net/filialen/berlin-kurfuerstendamm

@@ -4,8 +4,8 @@ latitude: 52.54518
 longitude: 13.42626
 postcode: "10439"
 city: Berlin
-street: "Kanzowstraße"
-housenumber: 15
+street: Kanzowstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Tu,We 10:00-15:00; Th 09:00-19:30"
+opening_hours: Tu,We 10:00-15:00; Th 09:00-19:30
 website: ""

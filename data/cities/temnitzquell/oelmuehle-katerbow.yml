@@ -4,8 +4,8 @@ latitude: 52.98785
 longitude: 12.65454
 postcode: "16818"
 city: Temnitzquell
-street: "Dorfstraße"
-housenumber: 29
+street: Dorfstraße
+housenumber: "29"
 phone: "+4915156032972"
-opening_hours: "Fr 14:00-20:00; Sa 11:00-18:00"
-website: "https://www.luisenhof-katerbow.de/"
+opening_hours: Fr 14:00-20:00; Sa 11:00-18:00
+website: https://www.luisenhof-katerbow.de/

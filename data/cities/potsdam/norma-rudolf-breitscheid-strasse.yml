@@ -1,11 +1,11 @@
 id: 187190447
-type: way
+type: node
 latitude: 52.39611
 longitude: 13.11865
 postcode: "14482"
 city: Potsdam
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 162
+street: Rudolf-Breitscheid-Straße
+housenumber: "162"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
 website: ""

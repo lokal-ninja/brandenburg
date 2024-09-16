@@ -1,11 +1,11 @@
 id: 97757124
-type: way
+type: node
 latitude: 52.53491
 longitude: 13.51691
 postcode: "10315"
 city: Berlin
-street: "Rhinstraße"
-housenumber: 165
+street: Rhinstraße
+housenumber: "165"
 phone: ""
 opening_hours: ""
-website: "https://www.motorvillage-berlin.de/haendler"
+website: https://www.motorvillage-berlin.de/haendler

@@ -4,8 +4,8 @@ latitude: 52.52827
 longitude: 13.39415
 postcode: "10115"
 city: Berlin
-street: "Kleine Hamburger Straße"
-housenumber: 2
+street: Kleine Hamburger Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "http://robertmorat.de/berlin.html"
+website: http://robertmorat.de/berlin.html

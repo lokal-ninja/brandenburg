@@ -4,8 +4,8 @@ latitude: 52.43994
 longitude: 13.38431
 postcode: "12107"
 city: Berlin
-street: "Alt-Mariendorf"
-housenumber: 46
+street: Alt-Mariendorf
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 10:00-17:00"
+opening_hours: Mo-Fr 10:00-17:00
 website: ""

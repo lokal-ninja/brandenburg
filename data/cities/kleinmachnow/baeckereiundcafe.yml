@@ -1,11 +1,11 @@
 id: 180051144
-type: way
+type: node
 latitude: 52.41264
 longitude: 13.21211
 postcode: "14532"
 city: Kleinmachnow
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 4
+street: Rudolf-Breitscheid-Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 07:00-15:00;Sa-Su 07:00-12:00"
+opening_hours: Mo-Fr 07:00-15:00;Sa-Su 07:00-12:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.38681
 longitude: 13.40558
 postcode: "12305"
 city: Berlin
-street: "Bahnhofstraße"
-housenumber: 9
+street: Bahnhofstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:30; Sa 09:30-15:30"
-website: "https://berlin-brillen.com/"
+opening_hours: Mo-Fr 09:30-18:30; Sa 09:30-15:30
+website: https://berlin-brillen.com/

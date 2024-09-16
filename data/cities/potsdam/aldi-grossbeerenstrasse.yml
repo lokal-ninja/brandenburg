@@ -1,11 +1,11 @@
 id: 191875882
-type: way
+type: node
 latitude: 52.38199
 longitude: 13.12534
 postcode: "14480"
 city: Potsdam
-street: "Großbeerenstraße"
-housenumber: 221
+street: Großbeerenstraße
+housenumber: "221"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; PH,Su off"
-website: "https://www.aldi-nord.de/"
+opening_hours: Mo-Sa 07:00-20:00; PH,Su off
+website: https://www.aldi-nord.de/

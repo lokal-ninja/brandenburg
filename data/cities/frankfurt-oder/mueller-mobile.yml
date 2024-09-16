@@ -1,11 +1,11 @@
 id: 180840708
-type: way
+type: node
 latitude: 52.34151
 longitude: 14.52904
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Markendorfer Straße"
-housenumber: 13
+street: Markendorfer Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "http://www.autohandel-mueller.de"
+website: http://www.autohandel-mueller.de

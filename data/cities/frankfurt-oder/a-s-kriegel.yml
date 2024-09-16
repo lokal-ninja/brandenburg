@@ -1,11 +1,11 @@
 id: 956180965
-type: way
+type: node
 latitude: 52.35578
 longitude: 14.48315
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Knappenweg"
-housenumber: 2
+street: Knappenweg
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

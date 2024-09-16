@@ -1,11 +1,11 @@
 id: 640935128
-type: way
+type: node
 latitude: 52.26659
 longitude: 13.62987
 postcode: "15711"
 city: Königs Wusterhausen
-street: "Puschkinstraße"
-housenumber: 89
+street: Puschkinstraße
+housenumber: "89"
 phone: ""
 opening_hours: ""
 website: ""

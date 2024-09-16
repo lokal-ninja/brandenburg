@@ -4,8 +4,8 @@ latitude: 52.45852
 longitude: 13.32817
 postcode: "12169"
 city: Berlin
-street: "Bergstraße"
-housenumber: 91
+street: Bergstraße
+housenumber: "91"
 phone: ""
 opening_hours: ""
-website: "https://www.kopania.de"
+website: https://www.kopania.de

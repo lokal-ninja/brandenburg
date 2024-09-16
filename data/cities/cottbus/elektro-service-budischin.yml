@@ -1,11 +1,12 @@
 id: 49261182
-type: way
+type: node
 latitude: 51.74209
 longitude: 14.33272
 postcode: "03050"
 city: Cottbus
-street: "Dresdener Straße"
-housenumber: 77
+street: Dresdener Straße
+housenumber: "77"
 phone: ""
-opening_hours: "Mo,Tu,We,Fr 10:00-12:00; Mo,Tu,We,Fr 13:00-18:00; Th 10:00-14:00; Sa 09:00-12:00; PH off"
-website: "https://www.haushaltgeraete24.de/"
+opening_hours: Mo,Tu,We,Fr 10:00-12:00; Mo,Tu,We,Fr 13:00-18:00; Th 10:00-14:00; Sa
+    09:00-12:00; PH off
+website: https://www.haushaltgeraete24.de/

@@ -1,11 +1,11 @@
 id: 332736235
-type: way
+type: node
 latitude: 52.62254
 longitude: 13.54361
 postcode: "16341"
 city: Schwanebeck
-street: "Dorfstraße"
-housenumber: 28
+street: Dorfstraße
+housenumber: "28"
 phone: ""
 opening_hours: ""
-website: "https://www.oehlmann-freizeit.de/kontakt.php"
+website: https://www.oehlmann-freizeit.de/kontakt.php

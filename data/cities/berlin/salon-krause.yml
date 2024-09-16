@@ -4,8 +4,8 @@ latitude: 52.46011
 longitude: 13.3095
 postcode: "12165"
 city: Berlin
-street: "Grunewaldstraße"
-housenumber: 28
-phone: "+49 30 8248855"
-opening_hours: "We-Fr 9:00-18:00; Sa 9:00-13:00"
+street: Grunewaldstraße
+housenumber: "28"
+phone: +49 30 8248855
+opening_hours: We-Fr 9:00-18:00; Sa 9:00-13:00
 website: ""

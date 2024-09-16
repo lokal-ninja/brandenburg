@@ -4,8 +4,8 @@ latitude: 52.51095
 longitude: 13.40164
 postcode: "10117"
 city: Berlin
-street: "Leipziger Straße"
-housenumber: 51
+street: Leipziger Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 07:00-15:00; Su 08:00-14:00"
-website: "https://heberer.de"
+opening_hours: Mo-Fr 06:00-19:00; Sa 07:00-15:00; Su 08:00-14:00
+website: https://heberer.de

@@ -4,8 +4,8 @@ latitude: 52.54787
 longitude: 13.56998
 postcode: "12685"
 city: Berlin
-street: "Schönagelstraße"
-housenumber: 65
+street: Schönagelstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Th 07:00-17:30; Fr 07:00-15:00"
-website: "https://www.fellers-kleine-werkstatt.de/"
+opening_hours: Mo-Th 07:00-17:30; Fr 07:00-15:00
+website: https://www.fellers-kleine-werkstatt.de/

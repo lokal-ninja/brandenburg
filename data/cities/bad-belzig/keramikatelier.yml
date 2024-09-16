@@ -4,8 +4,8 @@ latitude: 52.14153
 longitude: 12.5881
 postcode: "14806"
 city: Bad Belzig
-street: "Straße der Einheit"
-housenumber: 23
+street: Straße der Einheit
+housenumber: "23"
 phone: ""
-opening_hours: "Tu-Th 10:00-13:00,14:00-17:00"
-website: "http://www.karina-keramik.de/"
+opening_hours: Tu-Th 10:00-13:00,14:00-17:00
+website: http://www.karina-keramik.de/

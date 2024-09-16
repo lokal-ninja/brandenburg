@@ -1,11 +1,11 @@
 id: 367712459
-type: way
+type: node
 latitude: 52.51647
 longitude: 13.28639
 postcode: "14059"
 city: Berlin
-street: "Sophie-Charlotten-Straße"
-housenumber: 26
-phone: "+4930 30103986 0"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-18:00"
-website: "https://www.renault-koenig.de/filialen/charlottenburg/"
+street: Sophie-Charlotten-Straße
+housenumber: "26"
+phone: +4930 30103986 0
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-18:00
+website: https://www.renault-koenig.de/filialen/charlottenburg/

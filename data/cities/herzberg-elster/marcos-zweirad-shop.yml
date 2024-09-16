@@ -1,11 +1,11 @@
 id: 252976592
-type: way
+type: node
 latitude: 51.69086
 longitude: 13.22657
 postcode: "04916"
 city: Herzberg (Elster)
-street: "Grochwitzer Straße"
+street: Grochwitzer Straße
 housenumber: 2b
-phone: "+49 3535 247836"
-opening_hours: "Mo-Fr 09:00-12:30,13:15-18:00; Sa 09:00-12:00"
-website: "https://www.marcos-zweiradshop.de/"
+phone: +49 3535 247836
+opening_hours: Mo-Fr 09:00-12:30,13:15-18:00; Sa 09:00-12:00
+website: https://www.marcos-zweiradshop.de/

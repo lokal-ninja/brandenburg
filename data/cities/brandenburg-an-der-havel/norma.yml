@@ -1,11 +1,11 @@
 id: 87601472
-type: way
+type: node
 latitude: 52.42251
 longitude: 12.54058
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Ruppinstraße"
-housenumber: 2
+street: Ruppinstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-20:00"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 37835202
-type: way
+type: node
 latitude: 52.5647
 longitude: 13.44977
 postcode: "13086"
 city: Berlin
-street: "Rennbahnstraße"
-housenumber: 65
+street: Rennbahnstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

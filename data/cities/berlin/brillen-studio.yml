@@ -4,8 +4,8 @@ latitude: 52.48602
 longitude: 13.32085
 postcode: "10713"
 city: Berlin
-street: "Blissestraße"
-housenumber: 5
-phone: "+49 30 8610686"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-14:00"
-website: "http://www.brillenstudio-berlin.de/"
+street: Blissestraße
+housenumber: "5"
+phone: +49 30 8610686
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-14:00
+website: http://www.brillenstudio-berlin.de/

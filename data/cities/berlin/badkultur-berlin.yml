@@ -4,8 +4,8 @@ latitude: 52.47315
 longitude: 13.45265
 postcode: "12055"
 city: Berlin
-street: "Braunschweiger Straße"
-housenumber: 16
-phone: "+49 30 74 92 88 83"
+street: Braunschweiger Straße
+housenumber: "16"
+phone: +49 30 74 92 88 83
 opening_hours: ""
-website: "https://www.badkultur.berlin/"
+website: https://www.badkultur.berlin/

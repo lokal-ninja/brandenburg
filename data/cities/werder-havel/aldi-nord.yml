@@ -1,11 +1,11 @@
 id: 77857335
-type: way
+type: node
 latitude: 52.36406
 longitude: 12.93897
 postcode: "14542"
 city: Werder (Havel)
-street: "Apfelweg"
-housenumber: 4
+street: Apfelweg
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

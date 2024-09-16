@@ -4,8 +4,8 @@ latitude: 52.53643
 longitude: 13.16463
 postcode: "13581"
 city: Berlin
-street: "Staakener Straße"
-housenumber: 73
-phone: "+49 30 3323686"
-opening_hours: "Mo-Fr 07:30-18:00; Sa 10:00-14:00"
-website: "https://www.auto-herrmann.de/"
+street: Staakener Straße
+housenumber: "73"
+phone: +49 30 3323686
+opening_hours: Mo-Fr 07:30-18:00; Sa 10:00-14:00
+website: https://www.auto-herrmann.de/

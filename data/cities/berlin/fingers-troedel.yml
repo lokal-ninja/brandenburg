@@ -4,8 +4,8 @@ latitude: 52.49796
 longitude: 13.35356
 postcode: "10777"
 city: Berlin
-street: "Nollendorfstraße"
-housenumber: 35
-phone: "+49 30 2153441"
-opening_hours: "Tu-Fr 15:00-18:30; Sa 11:30-15:00"
+street: Nollendorfstraße
+housenumber: "35"
+phone: +49 30 2153441
+opening_hours: Tu-Fr 15:00-18:30; Sa 11:30-15:00
 website: ""

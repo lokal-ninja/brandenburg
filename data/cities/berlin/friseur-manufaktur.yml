@@ -4,8 +4,8 @@ latitude: 52.4913
 longitude: 13.3241
 postcode: "10717"
 city: Berlin
-street: "Güntzelstraße"
-housenumber: 42
+street: Güntzelstraße
+housenumber: "42"
 phone: ""
 opening_hours: ""
-website: "http://www.friseurmanufaktur.de/"
+website: http://www.friseurmanufaktur.de/

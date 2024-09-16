@@ -4,8 +4,8 @@ latitude: 52.54175
 longitude: 13.42219
 postcode: "10437"
 city: Berlin
-street: "Raumerstraße"
-housenumber: 32
+street: Raumerstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo off; Tu,We 12:00-18:00; Th,Fr 12:00-19:00"
+opening_hours: Mo off; Tu,We 12:00-18:00; Th,Fr 12:00-19:00
 website: ""

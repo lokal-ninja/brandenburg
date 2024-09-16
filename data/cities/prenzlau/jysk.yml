@@ -1,11 +1,11 @@
 id: 43913807
-type: way
+type: node
 latitude: 53.32247
 longitude: 13.87467
 postcode: "17291"
 city: Prenzlau
-street: "Brüssower Allee"
-housenumber: 21
+street: Brüssower Allee
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

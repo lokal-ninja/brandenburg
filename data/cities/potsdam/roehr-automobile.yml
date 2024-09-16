@@ -1,11 +1,11 @@
 id: 1001388940
-type: way
+type: node
 latitude: 52.38985
 longitude: 13.08807
 postcode: "14482"
 city: Potsdam
-street: "Friedrich-Engels-Straße"
-housenumber: 45
+street: Friedrich-Engels-Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

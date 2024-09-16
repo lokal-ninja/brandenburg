@@ -1,11 +1,11 @@
 id: 268407747
-type: way
+type: node
 latitude: 52.50897
 longitude: 13.283
 postcode: "14057"
 city: Berlin
-street: "Kaiserdamm"
-housenumber: 90
+street: Kaiserdamm
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://www.bmw-berlin.de/"
+website: https://www.bmw-berlin.de/

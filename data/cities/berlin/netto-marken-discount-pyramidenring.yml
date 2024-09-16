@@ -1,11 +1,11 @@
 id: 208670686
-type: way
+type: node
 latitude: 52.53601
 longitude: 13.5258
 postcode: "12681"
 city: Berlin
-street: "Pyramidenring"
-housenumber: 22
+street: Pyramidenring
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

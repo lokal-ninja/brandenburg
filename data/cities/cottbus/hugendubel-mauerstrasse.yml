@@ -1,11 +1,11 @@
 id: 151565336
-type: way
+type: node
 latitude: 51.75941
 longitude: 14.33241
 postcode: "03046"
 city: Cottbus
-street: "Mauerstraße"
-housenumber: 8
+street: Mauerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH off"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00; PH off
 website: ""

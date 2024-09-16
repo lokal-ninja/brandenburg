@@ -1,11 +1,11 @@
 id: 1021672061
-type: way
+type: node
 latitude: 51.75689
 longitude: 14.3123
 postcode: "03046"
 city: Cottbus
-street: "Karl-Liebknecht-Straße"
-housenumber: 81
+street: Karl-Liebknecht-Straße
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.46934
 longitude: 13.33117
 postcode: "12161"
 city: Berlin
-street: "Handjerystraße"
-housenumber: 65
+street: Handjerystraße
+housenumber: "65"
 phone: ""
-opening_hours: "We 09:00-18:00; Sa 10:00-14:00"
-website: "https://bici-da-corsa.com"
+opening_hours: We 09:00-18:00; Sa 10:00-14:00
+website: https://bici-da-corsa.com

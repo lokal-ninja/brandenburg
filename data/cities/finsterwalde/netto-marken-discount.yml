@@ -1,11 +1,11 @@
 id: 194818629
-type: way
+type: node
 latitude: 51.64029
 longitude: 13.701
 postcode: "03238"
 city: Finsterwalde
-street: "Sonnewalder Straße"
-housenumber: 66
+street: Sonnewalder Straße
+housenumber: "66"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 35467333
-type: way
+type: node
 latitude: 52.24178
 longitude: 14.41134
 postcode: "15299"
 city: Müllrose
-street: "Alte Poststraße"
-housenumber: 1
-phone: "+49 33606 4121"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Alte Poststraße
+housenumber: "1"
+phone: +49 33606 4121
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

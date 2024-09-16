@@ -4,8 +4,8 @@ latitude: 52.53855
 longitude: 13.42085
 postcode: "10435"
 city: Berlin
-street: "Kollwitzstraße"
-housenumber: 92
-phone: "+49 30 40576823"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 11:00-16:00"
-website: "https://www.silberstein-berlin.de/"
+street: Kollwitzstraße
+housenumber: "92"
+phone: +49 30 40576823
+opening_hours: Tu-Fr 12:00-19:00; Sa 11:00-16:00
+website: https://www.silberstein-berlin.de/

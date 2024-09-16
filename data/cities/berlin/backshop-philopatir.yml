@@ -4,8 +4,8 @@ latitude: 52.50188
 longitude: 13.33396
 postcode: "10789"
 city: Berlin
-street: "Augsburger Straße"
-housenumber: 35
+street: Augsburger Straße
+housenumber: "35"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:00; Sa 07:00-12:00"
+opening_hours: Mo-Fr 06:00-17:00; Sa 07:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 904593581
-type: way
+type: node
 latitude: 53.06114
 longitude: 14.25892
 postcode: "16303"
 city: Schwedt/Oder
-street: "Ehm-Welk-Straße"
-housenumber: 86
-phone: "+49 3332 582750"
+street: Ehm-Welk-Straße
+housenumber: "86"
+phone: +49 3332 582750
 opening_hours: ""
-website: "https://daehn.kiapartner.de/"
+website: https://daehn.kiapartner.de/

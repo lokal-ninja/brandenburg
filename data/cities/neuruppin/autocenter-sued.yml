@@ -1,11 +1,11 @@
 id: 180928829
-type: way
+type: node
 latitude: 52.88305
 longitude: 12.79492
 postcode: "16816"
 city: Neuruppin
-street: "Valentin-Rose-Straße"
-housenumber: 3
+street: Valentin-Rose-Straße
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

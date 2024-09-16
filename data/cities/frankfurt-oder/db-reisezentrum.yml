@@ -1,11 +1,11 @@
 id: 437774781
-type: way
+type: node
 latitude: 52.33725
 longitude: 14.54762
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Bahnhofsplatz"
-housenumber: 11
+street: Bahnhofsplatz
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 08:00-13:00; Su,PH 13:00-18:00"
+opening_hours: Mo-Fr 06:00-18:00; Sa 08:00-13:00; Su,PH 13:00-18:00
 website: ""

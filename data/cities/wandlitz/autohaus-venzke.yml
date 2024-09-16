@@ -1,11 +1,11 @@
 id: 510979167
-type: way
+type: node
 latitude: 52.75535
 longitude: 13.56493
 postcode: "16348"
 city: Wandlitz
-street: "Bernauer Straße"
-housenumber: 5
+street: Bernauer Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

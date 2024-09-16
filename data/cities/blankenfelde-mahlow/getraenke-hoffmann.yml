@@ -1,11 +1,11 @@
 id: 224215289
-type: way
+type: node
 latitude: 52.35878
 longitude: 13.4336
 postcode: "15831"
 city: Blankenfelde-Mahlow
-street: "Am Lückefeld"
-housenumber: 14
+street: Am Lückefeld
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
 website: ""

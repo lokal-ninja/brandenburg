@@ -1,11 +1,11 @@
 id: 317336175
-type: way
+type: node
 latitude: 52.28628
 longitude: 12.83487
 postcode: "14547"
 city: Beelitz
-street: "Klaistower Chaussee"
-housenumber: 39
+street: Klaistower Chaussee
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

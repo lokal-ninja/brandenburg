@@ -4,8 +4,8 @@ latitude: 52.53395
 longitude: 13.43844
 postcode: "10407"
 city: Berlin
-street: "Danziger Straße"
-housenumber: 157
-phone: "+49 30 428 577 88"
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "https://optiker-gruenke.de/"
+street: Danziger Straße
+housenumber: "157"
+phone: +49 30 428 577 88
+opening_hours: Mo-Fr 09:30-18:00
+website: https://optiker-gruenke.de/

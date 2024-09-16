@@ -4,8 +4,8 @@ latitude: 52.92697
 longitude: 12.81155
 postcode: "16816"
 city: Neuruppin
-street: "Friedrich-Engels-Straße"
-housenumber: 49
-phone: "+49 3391 3028"
-opening_hours: "Tu-Fr 06:15-17:00; Sa 05:45-11:30"
-website: "https://konditor-plagemann.de/"
+street: Friedrich-Engels-Straße
+housenumber: "49"
+phone: +49 3391 3028
+opening_hours: Tu-Fr 06:15-17:00; Sa 05:45-11:30
+website: https://konditor-plagemann.de/

@@ -4,8 +4,8 @@ latitude: 52.50167
 longitude: 13.33322
 postcode: "10789"
 city: Berlin
-street: "Rankestraße"
-housenumber: 24
+street: Rankestraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.3v-forhair.de/"
+website: https://www.3v-forhair.de/

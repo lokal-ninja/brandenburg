@@ -4,8 +4,8 @@ latitude: 52.31556
 longitude: 13.60465
 postcode: "15745"
 city: Wildau
-street: "Chausseestraße"
-housenumber: 1
+street: Chausseestraße
+housenumber: "1"
 phone: ""
-opening_hours: "09:00-19:00"
+opening_hours: 09:00-19:00
 website: ""

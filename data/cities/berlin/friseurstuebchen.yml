@@ -4,8 +4,8 @@ latitude: 52.56075
 longitude: 13.37185
 postcode: "13409"
 city: Berlin
-street: "Reginhardstraße"
-housenumber: 34
+street: Reginhardstraße
+housenumber: "34"
 phone: ""
-opening_hours: "Tu-Fr 08:00-17:00; Mo Hausbesuche; Sa-Su,PH off"
+opening_hours: Tu-Fr 08:00-17:00; Mo "Hausbesuche"; Sa-Su,PH off
 website: ""

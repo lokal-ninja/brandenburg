@@ -1,11 +1,11 @@
 id: 150563814
-type: way
+type: node
 latitude: 52.3747
 longitude: 12.93263
 postcode: "14542"
 city: Werder (Havel)
-street: "Brandenburger Straße"
-housenumber: 151
-phone: "+49 3327 567580"
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.edeka.de/eh/minden-hannover/edeka-schneider-brandenburger-str.-151/index.jsp"
+street: Brandenburger Straße
+housenumber: "151"
+phone: +49 3327 567580
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.edeka.de/eh/minden-hannover/edeka-schneider-brandenburger-str.-151/index.jsp

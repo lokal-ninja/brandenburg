@@ -1,11 +1,11 @@
 id: 24300563
-type: way
+type: node
 latitude: 52.45855
 longitude: 13.57858
 postcode: "12555"
 city: Berlin
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 33-38
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; PH off; Su 13:00-18:00 nur wenn verkaufsoffen"
+opening_hours: Mo-Sa 10:00-20:00; PH off; Su 13:00-18:00 "nur wenn verkaufsoffen"
 website: ""

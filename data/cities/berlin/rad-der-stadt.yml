@@ -4,8 +4,8 @@ latitude: 52.5376
 longitude: 13.42369
 postcode: "10405"
 city: Berlin
-street: "Prenzlauer Allee"
-housenumber: 50
+street: Prenzlauer Allee
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://radderstadt.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://radderstadt.de/

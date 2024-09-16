@@ -4,8 +4,8 @@ latitude: 52.29237
 longitude: 14.06089
 postcode: "15526"
 city: Bad Saarow
-street: "Seestraße"
-housenumber: 11
+street: Seestraße
+housenumber: "11"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-14:00; Su off; Mo on appointment"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-14:00; Su off; Mo "on appointment"
 website: ""

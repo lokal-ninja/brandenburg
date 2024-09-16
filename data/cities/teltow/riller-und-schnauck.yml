@@ -1,11 +1,11 @@
 id: 124775307
-type: way
+type: node
 latitude: 52.39807
 longitude: 13.2424
 postcode: "14513"
 city: Teltow
-street: "Warthestraße"
-housenumber: 3
+street: Warthestraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Fr 06:30-20:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 06:30-20:00; Sa 09:00-14:00
 website: ""

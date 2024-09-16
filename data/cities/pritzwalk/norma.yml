@@ -1,11 +1,11 @@
 id: 313866589
-type: way
+type: node
 latitude: 53.15087
 longitude: 12.18676
 postcode: "16928"
 city: Pritzwalk
-street: "Bergstraße"
-housenumber: 22
+street: Bergstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.norma-online.de/_d_/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.norma-online.de/_d_/

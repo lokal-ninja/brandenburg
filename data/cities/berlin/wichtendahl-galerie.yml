@@ -4,8 +4,8 @@ latitude: 52.50666
 longitude: 13.32378
 postcode: "10623"
 city: Berlin
-street: "Carmerstraße"
-housenumber: 10
+street: Carmerstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
-website: "https://www.wichtendahl.de/"
+website: https://www.wichtendahl.de/

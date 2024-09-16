@@ -4,8 +4,8 @@ latitude: 52.54656
 longitude: 13.36247
 postcode: "13347"
 city: Berlin
-street: "Antonstraße"
-housenumber: 42
+street: Antonstraße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

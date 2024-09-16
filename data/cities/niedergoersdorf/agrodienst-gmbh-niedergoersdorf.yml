@@ -1,11 +1,11 @@
 id: 203123553
-type: way
+type: node
 latitude: 51.96768
 longitude: 12.97358
 postcode: "14913"
 city: Niedergörsdorf
-street: "Bahnhofstraße"
+street: Bahnhofstraße
 housenumber: 10a
 phone: ""
-opening_hours: "Mo-Fr 07:00-16:00"
-website: "https://www.agrodienst-jessen.de/"
+opening_hours: Mo-Fr 07:00-16:00
+website: https://www.agrodienst-jessen.de/

@@ -1,11 +1,11 @@
 id: 478468752
-type: way
+type: node
 latitude: 52.57076
 longitude: 13.09294
 postcode: "14612"
 city: Falkensee
-street: "Falkenhagener Straße"
-housenumber: 74
+street: Falkenhagener Straße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-15:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-15:00; PH off
 website: ""

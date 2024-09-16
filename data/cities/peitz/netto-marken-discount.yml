@@ -1,11 +1,11 @@
 id: 150925646
-type: way
+type: node
 latitude: 51.86013
 longitude: 14.41392
 postcode: "03185"
 city: Peitz
-street: "Gubener Straße"
-housenumber: 7
+street: Gubener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

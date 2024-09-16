@@ -4,8 +4,8 @@ latitude: 52.49703
 longitude: 13.32346
 postcode: "10719"
 city: Berlin
-street: "Pariser Straße"
-housenumber: 47
+street: Pariser Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

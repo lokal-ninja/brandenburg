@@ -4,8 +4,8 @@ latitude: 52.5671
 longitude: 13.5281
 postcode: "13057"
 city: Berlin
-street: "Randowstraße"
-housenumber: 3
+street: Randowstraße
+housenumber: "3"
 phone: "+493092377138"
-opening_hours: "Mo-Sa 07:00-23:00"
-website: "https://www.rewe.de/marktseite/berlin-hohenschoenhausen/4040419/rewe-markt-randowstr-3/"
+opening_hours: Mo-Sa 07:00-23:00
+website: https://www.rewe.de/marktseite/berlin-hohenschoenhausen/4040419/rewe-markt-randowstr-3/

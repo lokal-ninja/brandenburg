@@ -4,8 +4,8 @@ latitude: 52.49697
 longitude: 13.35242
 postcode: "10781"
 city: Berlin
-street: "Winterfeldtstraße"
-housenumber: 52
-phone: "+49 30 216 44 25"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-17:00"
-website: "https://www.herzundstoehr.com/"
+street: Winterfeldtstraße
+housenumber: "52"
+phone: +49 30 216 44 25
+opening_hours: Tu-Fr 12:00-19:00; Sa 12:00-17:00
+website: https://www.herzundstoehr.com/

@@ -1,10 +1,10 @@
 id: 29000440
-type: way
+type: node
 latitude: 52.46159
 longitude: 13.32387
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
+street: Schloßstraße
 housenumber: 17 a
 phone: ""
 opening_hours: ""

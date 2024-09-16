@@ -1,11 +1,11 @@
 id: 244445184
-type: way
+type: node
 latitude: 52.83783
 longitude: 13.73657
 postcode: "16227"
 city: Eberswalde
-street: "Eberswalder Straße"
-housenumber: 86
+street: Eberswalder Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Sa 09:00-21:00; PH off"
+opening_hours: Mo-Sa 09:00-21:00; PH off
 website: ""

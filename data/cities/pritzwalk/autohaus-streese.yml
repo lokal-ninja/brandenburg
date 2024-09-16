@@ -1,11 +1,11 @@
 id: 137307905
-type: way
+type: node
 latitude: 53.13576
 longitude: 12.17752
 postcode: "16928"
 city: Pritzwalk
-street: "Fritz-Reuter-Straße"
-housenumber: 6
-phone: "+49 3395 76560"
+street: Fritz-Reuter-Straße
+housenumber: "6"
+phone: +49 3395 76560
 opening_hours: ""
-website: "http://home.vw-streese.de"
+website: http://home.vw-streese.de

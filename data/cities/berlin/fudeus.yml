@@ -4,8 +4,8 @@ latitude: 52.46515
 longitude: 13.32903
 postcode: "12161"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 41
-phone: "+49 30 7925077"
+street: Rheinstraße
+housenumber: "41"
+phone: +49 30 7925077
 opening_hours: ""
-website: "https://heidi-fudeus.de/"
+website: https://heidi-fudeus.de/

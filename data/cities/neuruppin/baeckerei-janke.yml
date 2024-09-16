@@ -4,8 +4,8 @@ latitude: 52.91413
 longitude: 12.80112
 postcode: "16816"
 city: Neuruppin
-street: "Fehrbelliner Straße"
-housenumber: 19
-phone: "+49 3391 350777"
-opening_hours: "Mo-Fr 06:30-17:00; Sa 06:30-11:00"
-website: "https://www.baeckerei-janke.de/"
+street: Fehrbelliner Straße
+housenumber: "19"
+phone: +49 3391 350777
+opening_hours: Mo-Fr 06:30-17:00; Sa 06:30-11:00
+website: https://www.baeckerei-janke.de/

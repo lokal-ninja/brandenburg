@@ -4,8 +4,8 @@ latitude: 52.6147
 longitude: 13.20145
 postcode: "16761"
 city: Hennigsdorf
-street: "Am Yachthafen"
-housenumber: 12
-phone: "+49 3302 272 009"
-opening_hours: "Mo-Fr 07:00-14:30; Sa 07:30-12:00; Su 08:00-11:00"
+street: Am Yachthafen
+housenumber: "12"
+phone: +49 3302 272 009
+opening_hours: Mo-Fr 07:00-14:30; Sa 07:30-12:00; Su 08:00-11:00
 website: ""

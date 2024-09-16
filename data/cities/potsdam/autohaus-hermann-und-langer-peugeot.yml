@@ -1,11 +1,11 @@
 id: 158947450
-type: way
+type: node
 latitude: 52.37842
 longitude: 13.11005
 postcode: "14482"
 city: Potsdam
-street: "Ulmenstraße"
-housenumber: 6
-phone: "+49 331 237330"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-13:00"
-website: "https://www.herrmann-langer.de/"
+street: Ulmenstraße
+housenumber: "6"
+phone: +49 331 237330
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-13:00
+website: https://www.herrmann-langer.de/

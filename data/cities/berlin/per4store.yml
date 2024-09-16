@@ -4,8 +4,8 @@ latitude: 52.455
 longitude: 13.57681
 postcode: ""
 city: Berlin
-street: "Bahnhofstraße"
-housenumber: 8
-phone: "+49 30 65488596"
-opening_hours: "Mo-Sa 12:00-18:30; PH off"
-website: "https://per4store.com"
+street: Bahnhofstraße
+housenumber: "8"
+phone: +49 30 65488596
+opening_hours: Mo-Sa 12:00-18:30; PH off
+website: https://per4store.com

@@ -4,8 +4,8 @@ latitude: 52.56738
 longitude: 13.51837
 postcode: "13057"
 city: Berlin
-street: "Warnitzer Straße"
-housenumber: 16
-phone: "+49 30 96061940"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.apollo.de/store-6976/berlin-hohenschoenhausen"
+street: Warnitzer Straße
+housenumber: "16"
+phone: +49 30 96061940
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.apollo.de/store-6976/berlin-hohenschoenhausen

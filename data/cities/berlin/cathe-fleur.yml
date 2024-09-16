@@ -4,8 +4,8 @@ latitude: 52.56584
 longitude: 13.40766
 postcode: "13187"
 city: Berlin
-street: "Florastraße"
-housenumber: 64
+street: Florastraße
+housenumber: "64"
 phone: ""
-opening_hours: "We-Fr 15:00-19:00; Sa 12:00-15:00"
+opening_hours: We-Fr 15:00-19:00; Sa 12:00-15:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.55911
 longitude: 13.40625
 postcode: "13187"
 city: Berlin
-street: "Tiroler Straße"
-housenumber: 28
-phone: "+49 1805 911102"
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "http://norma-online.de"
+street: Tiroler Straße
+housenumber: "28"
+phone: +49 1805 911102
+opening_hours: Mo-Sa 08:00-21:00
+website: http://norma-online.de

@@ -4,8 +4,8 @@ latitude: 52.48567
 longitude: 13.43004
 postcode: "12043"
 city: Berlin
-street: "Pannierstraße"
-housenumber: 2
+street: Pannierstraße
+housenumber: "2"
 phone: "+49306243284"
-opening_hours: "Mo-Fr 07:30-19:00; Sa 07:30-16:00"
-website: "https://www.mehlwurm.de/"
+opening_hours: Mo-Fr 07:30-19:00; Sa 07:30-16:00
+website: https://www.mehlwurm.de/

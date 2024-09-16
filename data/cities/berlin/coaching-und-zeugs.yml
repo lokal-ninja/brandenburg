@@ -4,8 +4,8 @@ latitude: 52.4917
 longitude: 13.38254
 postcode: "10965"
 city: Berlin
-street: "Hagelberger Straße"
-housenumber: 16
+street: Hagelberger Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo, We 16:00-20:00; Tu, Th 10:00-13:00; Fr 09:00-13:00"
+opening_hours: Mo, We 16:00-20:00; Tu, Th 10:00-13:00; Fr 09:00-13:00
 website: ""

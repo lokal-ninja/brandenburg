@@ -4,8 +4,8 @@ latitude: 52.52206
 longitude: 13.45108
 postcode: "10249"
 city: Berlin
-street: "Petersburger Straße"
-housenumber: 47
+street: Petersburger Straße
+housenumber: "47"
 phone: "+493040741697"
-opening_hours: "Tu,Th 13:00-18:00; PH,Sa-Mo off; We,Fr 13:00-20:00"
-website: "https://psy7.com/"
+opening_hours: Tu,Th 13:00-18:00; PH,Sa-Mo off; We,Fr 13:00-20:00
+website: https://psy7.com/

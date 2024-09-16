@@ -4,8 +4,8 @@ latitude: 52.50358
 longitude: 13.3287
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 26
+street: Kurfürstendamm
+housenumber: "26"
 phone: "+4930590090000"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.apple.com/de/retail/kurfuerstendamm/"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.apple.com/de/retail/kurfuerstendamm/

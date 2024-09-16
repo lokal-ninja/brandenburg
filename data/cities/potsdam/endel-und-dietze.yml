@@ -1,11 +1,11 @@
 id: 333557367
-type: way
+type: node
 latitude: 52.38049
 longitude: 13.11704
 postcode: "14482"
 city: Potsdam
-street: "Wetzlarer Straße"
-housenumber: 82
+street: Wetzlarer Straße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
+opening_hours: Mo-Fr 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.52179
 longitude: 13.32535
 postcode: "10587"
 city: Berlin
-street: "Helmholtzstraße"
-housenumber: 29
+street: Helmholtzstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 08:00-18:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 08:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 39528018
-type: way
+type: node
 latitude: 52.31587
 longitude: 13.44009
 postcode: "15827"
 city: Blankenfelde-Mahlow
-street: "Ludwig-Erhard-Ring"
-housenumber: 16
+street: Ludwig-Erhard-Ring
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 514548210
-type: way
+type: node
 latitude: 52.55429
 longitude: 13.54216
 postcode: "12681"
 city: Berlin
-street: "Bitterfelder Straße"
-housenumber: 12
+street: Bitterfelder Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Th 06:30-18:00, Fr 06:30-16:00"
-website: "https://www.wuerth.de/web/de/awkg/niederlassungen/nldetail_158.php"
+opening_hours: Mo-Th 06:30-18:00, Fr 06:30-16:00
+website: https://www.wuerth.de/web/de/awkg/niederlassungen/nldetail_158.php

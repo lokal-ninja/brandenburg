@@ -4,8 +4,8 @@ latitude: 51.58222
 longitude: 13.19478
 postcode: "04895"
 city: Falkenberg/Elster
-street: "Falkenberger Straße"
-housenumber: 3
-phone: "+49 35365 2653"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
-website: "http://www.gartenbau-golda.de"
+street: Falkenberger Straße
+housenumber: "3"
+phone: +49 35365 2653
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
+website: http://www.gartenbau-golda.de

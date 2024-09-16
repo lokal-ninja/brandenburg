@@ -4,8 +4,8 @@ latitude: 52.51064
 longitude: 13.61222
 postcode: "12623"
 city: Berlin
-street: "Hönower Straße"
-housenumber: 69
-phone: "+49 30 5667900"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://www.puk-kfz.de/"
+street: Hönower Straße
+housenumber: "69"
+phone: +49 30 5667900
+opening_hours: Mo-Fr 08:00-18:00
+website: https://www.puk-kfz.de/

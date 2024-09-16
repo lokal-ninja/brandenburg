@@ -1,11 +1,11 @@
 id: 103076023
-type: way
+type: node
 latitude: 52.54812
 longitude: 13.21832
 postcode: "13585"
 city: Berlin
-street: "Eiswerderstraße"
-housenumber: 16
+street: Eiswerderstraße
+housenumber: "16"
 phone: ""
 opening_hours: ""
-website: "http://www.bootsservicewilkegmbh.de/"
+website: http://www.bootsservicewilkegmbh.de/

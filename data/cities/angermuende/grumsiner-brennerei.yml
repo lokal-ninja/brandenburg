@@ -1,11 +1,11 @@
 id: 1036499107
-type: way
+type: node
 latitude: 53.00795
 longitude: 13.8735
 postcode: "16278"
 city: Angermünde
-street: "Wirtschaftshof"
-housenumber: 3
+street: Wirtschaftshof
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.55433
 longitude: 13.41426
 postcode: "10439"
 city: Berlin
-street: "Schönhauser Allee"
-housenumber: 99
+street: Schönhauser Allee
+housenumber: "99"
 phone: ""
 opening_hours: ""
 website: ""

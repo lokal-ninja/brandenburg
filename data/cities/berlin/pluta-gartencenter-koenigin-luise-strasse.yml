@@ -1,11 +1,11 @@
 id: 311997202
-type: way
+type: node
 latitude: 52.45795
 longitude: 13.28938
 postcode: "14195"
 city: Berlin
-street: "Königin-Luise-Straße"
-housenumber: 50
+street: Königin-Luise-Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su 10:00-13:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-15:00; Su 10:00-13:00
 website: ""

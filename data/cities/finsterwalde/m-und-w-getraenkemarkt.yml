@@ -1,11 +1,11 @@
 id: 1236026164
-type: way
+type: node
 latitude: 51.6354
 longitude: 13.71799
 postcode: "03238"
 city: Finsterwalde
-street: "Cottbuser Straße"
-housenumber: 24
-phone: "+49 3531 30721"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
+street: Cottbuser Straße
+housenumber: "24"
+phone: +49 3531 30721
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
 website: ""

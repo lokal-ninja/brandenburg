@@ -1,11 +1,11 @@
 id: 25041283
-type: way
+type: node
 latitude: 52.56315
 longitude: 13.55171
 postcode: "12689"
 city: Berlin
-street: "Hellersdorfer Weg"
-housenumber: 36
+street: Hellersdorfer Weg
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "https://www.gut-gruppe.de/de/unternehmen/roske/locations/abex-berlin-hellersdorfer-weg"
+website: https://www.gut-gruppe.de/de/unternehmen/roske/locations/abex-berlin-hellersdorfer-weg

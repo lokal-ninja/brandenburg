@@ -4,8 +4,8 @@ latitude: 52.97661
 longitude: 13.32804
 postcode: "16792"
 city: Zehdenick
-street: "Bahnhofstraße"
-housenumber: 45
+street: Bahnhofstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lidl.de"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lidl.de

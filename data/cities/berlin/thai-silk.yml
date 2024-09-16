@@ -4,8 +4,8 @@ latitude: 52.50269
 longitude: 13.33646
 postcode: "10789"
 city: Berlin
-street: "Marburger Straße"
-housenumber: 5
+street: Marburger Straße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://www.thai-silk.de/"
+website: https://www.thai-silk.de/

@@ -4,8 +4,8 @@ latitude: 52.54729
 longitude: 13.41667
 postcode: "10437"
 city: Berlin
-street: "Gethsemanestraße"
-housenumber: 1
+street: Gethsemanestraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.52622
 longitude: 13.38694
 postcode: "10117"
 city: Berlin
-street: "Friedrichstraße"
-housenumber: 123
+street: Friedrichstraße
+housenumber: "123"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:30"
-website: "https://www.werkhaus.de/filialen/shops-berlin/mitte/"
+opening_hours: Mo-Sa 10:30-19:30
+website: https://www.werkhaus.de/filialen/shops-berlin/mitte/

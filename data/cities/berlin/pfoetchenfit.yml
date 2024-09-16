@@ -4,8 +4,8 @@ latitude: 52.45807
 longitude: 13.33119
 postcode: "12169"
 city: Berlin
-street: "Bergstraße"
-housenumber: 12
+street: Bergstraße
+housenumber: "12"
 phone: ""
 opening_hours: ""
-website: "http://www.pfoetchenfit.de/"
+website: http://www.pfoetchenfit.de/

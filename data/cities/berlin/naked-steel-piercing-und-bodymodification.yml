@@ -4,8 +4,8 @@ latitude: 52.51308
 longitude: 13.46199
 postcode: "10247"
 city: Berlin
-street: "Mainzer Straße"
-housenumber: 10
+street: Mainzer Straße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Fr 13:00-19:00; Sa 11:00-16:00"
+opening_hours: Tu-Fr 13:00-19:00; Sa 11:00-16:00
 website: ""

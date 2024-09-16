@@ -1,11 +1,11 @@
 id: 23179954
-type: way
+type: node
 latitude: 51.76294
 longitude: 14.35172
 postcode: "03042"
 city: Cottbus
-street: "Dissenchener Straße"
-housenumber: 16
+street: Dissenchener Straße
+housenumber: "16"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.51883
 longitude: 13.43873
 postcode: "10243"
 city: Berlin
-street: "Palisadenstraße"
-housenumber: 58
+street: Palisadenstraße
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:30-11:30"
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:30-11:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.48801
 longitude: 13.33724
 postcode: "10825"
 city: Berlin
-street: "Kufsteiner Straße"
-housenumber: 1
+street: Kufsteiner Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 11:00-13:00,15:00-18:00; Sa 12:00-15:00"
+opening_hours: Mo-Fr 11:00-13:00,15:00-18:00; Sa 12:00-15:00
 website: ""

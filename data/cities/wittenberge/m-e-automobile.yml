@@ -1,11 +1,11 @@
 id: 177765142
-type: way
+type: node
 latitude: 53.0186
 longitude: 11.7422
 postcode: "19322"
 city: Wittenberge
-street: "Bentwischer Weg"
-housenumber: 56
+street: Bentwischer Weg
+housenumber: "56"
 phone: ""
 opening_hours: ""
 website: ""

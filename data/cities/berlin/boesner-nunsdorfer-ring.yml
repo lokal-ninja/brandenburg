@@ -1,11 +1,11 @@
 id: 27914749
-type: way
+type: node
 latitude: 52.4046
 longitude: 13.38454
 postcode: "12277"
 city: Berlin
-street: "Nunsdorfer Ring"
-housenumber: 31
-phone: "+49 30 7565670"
-opening_hours: "Mo-Fr 09:30-18:00; Sa 10:00-16:00"
-website: "https://www.boesner.com/unsere-standorte/berlin-marienfelde"
+street: Nunsdorfer Ring
+housenumber: "31"
+phone: +49 30 7565670
+opening_hours: Mo-Fr 09:30-18:00; Sa 10:00-16:00
+website: https://www.boesner.com/unsere-standorte/berlin-marienfelde

@@ -4,8 +4,8 @@ latitude: 52.46494
 longitude: 13.38535
 postcode: "12099"
 city: Berlin
-street: "Tempelhofer Damm"
-housenumber: 150
-phone: "+49 30 75445691"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
-website: "https://www.joeljuwelen.de/"
+street: Tempelhofer Damm
+housenumber: "150"
+phone: +49 30 75445691
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
+website: https://www.joeljuwelen.de/

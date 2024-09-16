@@ -1,11 +1,11 @@
 id: 24667134
-type: way
+type: node
 latitude: 52.59612
 longitude: 13.29135
 postcode: "13509"
 city: Berlin
-street: "Waidmannsluster Damm"
+street: Waidmannsluster Damm
 housenumber: 21a
-phone: "+49 30 41744320"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-20:00"
-website: "https://www.getraenke-hoffmann.de/filiale-2135"
+phone: +49 30 41744320
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-20:00
+website: https://www.getraenke-hoffmann.de/filiale-2135

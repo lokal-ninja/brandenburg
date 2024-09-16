@@ -1,11 +1,11 @@
 id: 248740647
-type: way
+type: node
 latitude: 52.31195
 longitude: 13.63259
 postcode: "15745"
 city: Wildau
-street: "Richard-Sorge-Straße"
-housenumber: 32
+street: Richard-Sorge-Straße
+housenumber: "32"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.34583
 longitude: 14.55042
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Karl-Marx-Straße"
-housenumber: 182
-phone: "+335-5646520"
-opening_hours: "Mo, Tu 09:30-18:00; We-Fr 09:30-13:30, 14:00-18:00; Sa 10:00-13:00"
+street: Karl-Marx-Straße
+housenumber: "182"
+phone: +335-5646520
+opening_hours: Mo, Tu 09:30-18:00; We-Fr 09:30-13:30, 14:00-18:00; Sa 10:00-13:00
 website: ""

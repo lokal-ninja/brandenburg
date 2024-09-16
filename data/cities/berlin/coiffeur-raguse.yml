@@ -4,8 +4,8 @@ latitude: 52.45002
 longitude: 13.25302
 postcode: "14169"
 city: Berlin
-street: "Ladenstraße"
+street: Ladenstraße
 housenumber: 37-38
-phone: "+49 30 8133435"
-opening_hours: "Di-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "http://www.coiffeur-raguse.de/"
+phone: +49 30 8133435
+opening_hours: Di-Fr 09:00-18:00; Sa 09:00-14:00
+website: http://www.coiffeur-raguse.de/

@@ -4,8 +4,8 @@ latitude: 52.52697
 longitude: 13.33934
 postcode: "10551"
 city: Berlin
-street: "Jonasstraße"
-housenumber: 2
+street: Jonasstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
+opening_hours: Mo-Sa 09:30-19:30
 website: ""

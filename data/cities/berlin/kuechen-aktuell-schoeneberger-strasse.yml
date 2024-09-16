@@ -1,11 +1,11 @@
 id: 181747271
-type: way
+type: node
 latitude: 52.46847
 longitude: 13.37553
 postcode: "12103"
 city: Berlin
-street: "Schöneberger Straße"
-housenumber: 8
+street: Schöneberger Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

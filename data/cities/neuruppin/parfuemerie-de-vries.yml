@@ -4,8 +4,8 @@ latitude: 52.92338
 longitude: 12.80364
 postcode: "16816"
 city: Neuruppin
-street: "Karl-Marx-Straße"
-housenumber: 72
-phone: "+49 3391 3708"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
+street: Karl-Marx-Straße
+housenumber: "72"
+phone: +49 3391 3708
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50696
 longitude: 13.29849
 postcode: "10627"
 city: Berlin
-street: "Kantstraße"
-housenumber: 75
-phone: "+49 30 91474670"
-opening_hours: "Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-14:00; We off"
-website: "https://www.just-bikes.de/"
+street: Kantstraße
+housenumber: "75"
+phone: +49 30 91474670
+opening_hours: Mo,Tu,Th,Fr 11:00-18:00; Sa 10:00-14:00; We off
+website: https://www.just-bikes.de/

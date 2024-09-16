@@ -4,8 +4,8 @@ latitude: 51.75742
 longitude: 14.34497
 postcode: "03042"
 city: Cottbus
-street: "Wehrpromenade"
-housenumber: 3
-phone: "+49 355 75219962"
-opening_hours: "Tu-Th 11:00-18:00; Fr,Sa 11:00-20:00; Su 11:00-18:00"
-website: "www.cafe-engel.com"
+street: Wehrpromenade
+housenumber: "3"
+phone: +49 355 75219962
+opening_hours: Tu-Th 11:00-18:00; Fr,Sa 11:00-20:00; Su 11:00-18:00
+website: www.cafe-engel.com

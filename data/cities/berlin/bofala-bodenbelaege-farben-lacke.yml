@@ -1,11 +1,11 @@
 id: 231898014
-type: way
+type: node
 latitude: 52.5807
 longitude: 13.31871
 postcode: "13403"
 city: Berlin
-street: "Eichborndamm"
-housenumber: 130
+street: Eichborndamm
+housenumber: "130"
 phone: ""
 opening_hours: ""
-website: "https://www.bofala.net/"
+website: https://www.bofala.net/

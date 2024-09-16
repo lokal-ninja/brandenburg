@@ -1,11 +1,11 @@
 id: 29055745
-type: way
+type: node
 latitude: 52.52362
 longitude: 13.42623
 postcode: "10249"
 city: Berlin
-street: "Mollstraße"
-housenumber: 19
+street: Mollstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

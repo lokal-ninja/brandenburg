@@ -1,11 +1,11 @@
 id: 179160056
-type: way
+type: node
 latitude: 52.37693
 longitude: 14.06979
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Karl-Liebknecht-Straße"
-housenumber: 38
+street: Karl-Liebknecht-Straße
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

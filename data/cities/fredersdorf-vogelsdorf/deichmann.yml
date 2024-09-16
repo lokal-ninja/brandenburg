@@ -1,11 +1,11 @@
 id: 266548692
-type: way
+type: node
 latitude: 52.52203
 longitude: 13.75506
 postcode: "15370"
 city: Fredersdorf-Vogelsdorf
-street: "Petershagener Straße"
-housenumber: 68
-phone: "+49 33439 129763"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://stores.deichmann.com/brandenburg/fredersdorf-vogelsdorf/petershagener-strasse-68.html"
+street: Petershagener Straße
+housenumber: "68"
+phone: +49 33439 129763
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://stores.deichmann.com/brandenburg/fredersdorf-vogelsdorf/petershagener-strasse-68.html

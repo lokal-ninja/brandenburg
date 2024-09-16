@@ -1,11 +1,11 @@
 id: 44681090
-type: way
+type: node
 latitude: 52.66715
 longitude: 13.58181
 postcode: "16321"
 city: Bernau bei Berlin
-street: "Schwanebecker Chaussee"
-housenumber: 33
+street: Schwanebecker Chaussee
+housenumber: "33"
 phone: ""
 opening_hours: ""
-website: "https://www.netto.de/"
+website: https://www.netto.de/

@@ -4,8 +4,8 @@ latitude: 52.52838
 longitude: 13.32844
 postcode: "10553"
 city: Berlin
-street: "Beusselstraße"
-housenumber: 71
-phone: "+49 30 98336700"
-opening_hours: "Mo-Sa 10:00-20:00"
+street: Beusselstraße
+housenumber: "71"
+phone: +49 30 98336700
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 475473821
-type: way
+type: node
 latitude: 51.8198
 longitude: 13.75885
 postcode: "15926"
 city: Luckau
-street: "Zum Spring"
-housenumber: 8
+street: Zum Spring
+housenumber: "8"
 phone: ""
-opening_hours: "mo-fr 07:00-17:00"
+opening_hours: mo-fr 07:00-17:00
 website: ""

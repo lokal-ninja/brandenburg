@@ -4,8 +4,8 @@ latitude: 52.60635
 longitude: 12.87671
 postcode: "14641"
 city: Nauen
-street: "Mittelstraße"
-housenumber: 10
+street: Mittelstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.kuechen-welz.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.kuechen-welz.de/

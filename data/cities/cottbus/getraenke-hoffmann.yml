@@ -1,11 +1,11 @@
 id: 151395561
-type: way
+type: node
 latitude: 51.75952
 longitude: 14.32282
 postcode: "03046"
 city: Cottbus
-street: "August-Bebel-Straße"
-housenumber: 76
-phone: "+49 355 78406861"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.getraenke-hoffmann.de"
+street: August-Bebel-Straße
+housenumber: "76"
+phone: +49 355 78406861
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.getraenke-hoffmann.de

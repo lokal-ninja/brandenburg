@@ -4,8 +4,8 @@ latitude: 52.54349
 longitude: 13.39686
 postcode: "13355"
 city: Berlin
-street: "Swinemünder Straße"
-housenumber: 86
+street: Swinemünder Straße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Su,PH 06:00-24:00+"
+opening_hours: Mo-Su,PH 06:00-24:00+
 website: ""

@@ -1,11 +1,11 @@
 id: 49184703
-type: way
+type: node
 latitude: 52.61308
 longitude: 12.88279
 postcode: "14641"
 city: Nauen
-street: "Dammstraße"
-housenumber: 24
+street: Dammstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.penny.de/

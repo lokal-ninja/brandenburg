@@ -4,8 +4,8 @@ latitude: 52.49189
 longitude: 13.36118
 postcode: "10783"
 city: Berlin
-street: "Potsdamer Straße"
-housenumber: 199
-phone: "+49 30 60933463"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 11:00-16:00"
-website: "https://www.unique-factory.com/"
+street: Potsdamer Straße
+housenumber: "199"
+phone: +49 30 60933463
+opening_hours: Mo-Fr 09:00-17:00; Sa 11:00-16:00
+website: https://www.unique-factory.com/

@@ -4,8 +4,8 @@ latitude: 52.1405
 longitude: 12.5855
 postcode: "14806"
 city: Bad Belzig
-street: "Wiesenburger Straße"
-housenumber: 15
+street: Wiesenburger Straße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo,We,Fr 08:00-15:00; Tu,Th 08:00-17:00"
+opening_hours: Mo,We,Fr 08:00-15:00; Tu,Th 08:00-17:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 51.76214
 longitude: 14.33563
 postcode: "03046"
 city: Cottbus
-street: "Klosterstraße"
-housenumber: 31
+street: Klosterstraße
+housenumber: "31"
 phone: "+493553833705"
-opening_hours: "Tu,Th,Fr 08:00-18:00; We 11:00-18:00"
-website: "https://www.friseur-hajo-beier.de/"
+opening_hours: Tu,Th,Fr 08:00-18:00; We 11:00-18:00
+website: https://www.friseur-hajo-beier.de/

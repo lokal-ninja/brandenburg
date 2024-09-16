@@ -4,8 +4,8 @@ latitude: 52.54908
 longitude: 13.42881
 postcode: "10409"
 city: Berlin
-street: "Prenzlauer Allee"
-housenumber: 145
+street: Prenzlauer Allee
+housenumber: "145"
 phone: ""
-opening_hours: "Sa 10:00-13:00; Mo-We,Fr 10:00-17:00; Th 10:00-19:00"
+opening_hours: Sa 10:00-13:00; Mo-We,Fr 10:00-17:00; Th 10:00-19:00
 website: ""

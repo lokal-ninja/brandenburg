@@ -1,11 +1,11 @@
 id: 307079228
-type: way
+type: node
 latitude: 52.53157
 longitude: 12.33787
 postcode: "14727"
 city: Premnitz
-street: "Ernst-Thälmann-Straße"
-housenumber: 2
+street: Ernst-Thälmann-Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

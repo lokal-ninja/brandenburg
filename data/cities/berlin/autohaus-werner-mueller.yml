@@ -4,8 +4,8 @@ latitude: 52.57222
 longitude: 13.52129
 postcode: "13059"
 city: Berlin
-street: "Dorfstraße"
-housenumber: 14
-phone: "+49 30 96 20 08 43"
+street: Dorfstraße
+housenumber: "14"
+phone: +49 30 96 20 08 43
 opening_hours: ""
-website: "http://www.autohausmueller-berlin.de"
+website: http://www.autohausmueller-berlin.de

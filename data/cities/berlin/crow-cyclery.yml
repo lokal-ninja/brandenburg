@@ -4,8 +4,8 @@ latitude: 52.50011
 longitude: 13.3987
 postcode: "10969"
 city: Berlin
-street: "Neuenburger Straße"
+street: Neuenburger Straße
 housenumber: 23a
 phone: "+493091557873"
-opening_hours: "Mo,Di,Do,Fr: 11-19h / Mi,Sa: geschlossen"
-website: "https://crowcyclery.de"
+opening_hours: 'Mo,Di,Do,Fr: 11-19h / Mi,Sa: geschlossen'
+website: https://crowcyclery.de

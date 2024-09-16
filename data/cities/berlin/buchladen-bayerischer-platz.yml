@@ -4,8 +4,9 @@ latitude: 52.48857
 longitude: 13.3416
 postcode: "10825"
 city: Berlin
-street: "Grunewaldstraße"
-housenumber: 59
-phone: "+49 30 7821245"
-opening_hours: "Mo-Fr 09:00-18:30; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00; Fr 09:00-20:00; Sa 09:00-14:00"
-website: "https://www.buchladen-bayerischer-platz.de/"
+street: Grunewaldstraße
+housenumber: "59"
+phone: +49 30 7821245
+opening_hours: Mo-Fr 09:00-18:30; Tu 09:00-20:00; We 09:00-20:00; Th 09:00-20:00;
+    Fr 09:00-20:00; Sa 09:00-14:00
+website: https://www.buchladen-bayerischer-platz.de/

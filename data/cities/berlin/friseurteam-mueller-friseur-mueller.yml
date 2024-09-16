@@ -4,8 +4,8 @@ latitude: 52.51934
 longitude: 13.17092
 postcode: "13593"
 city: Berlin
-street: "Sandstraße"
-housenumber: 66
+street: Sandstraße
+housenumber: "66"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 222031064
-type: way
+type: node
 latitude: 52.60674
 longitude: 13.42858
 postcode: "13127"
 city: Berlin
-street: "Rosenthaler Weg"
-housenumber: 70
-phone: "+49 30 4742807"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-17:30; PH,Su 08:00-16:00"
-website: "http://www.blumen-müller.de/"
+street: Rosenthaler Weg
+housenumber: "70"
+phone: +49 30 4742807
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-17:30; PH,Su 08:00-16:00
+website: http://www.blumen-müller.de/

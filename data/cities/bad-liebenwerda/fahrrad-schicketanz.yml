@@ -1,11 +1,11 @@
 id: 664845922
-type: way
+type: node
 latitude: 51.53786
 longitude: 13.40876
 postcode: "04924"
 city: Bad Liebenwerda
-street: "Brückenkopf"
-housenumber: 2
+street: Brückenkopf
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.zweirad-schicketanz.de/"
+website: https://www.zweirad-schicketanz.de/

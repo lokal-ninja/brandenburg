@@ -4,8 +4,8 @@ latitude: 52.48884
 longitude: 13.31597
 postcode: "10713"
 city: Berlin
-street: "Brandenburgische Straße"
-housenumber: 69
+street: Brandenburgische Straße
+housenumber: "69"
 phone: ""
 opening_hours: ""
-website: "http://www.nohr.de/"
+website: http://www.nohr.de/

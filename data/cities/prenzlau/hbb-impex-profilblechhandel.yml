@@ -1,11 +1,11 @@
 id: 326913840
-type: way
+type: node
 latitude: 53.3259
 longitude: 13.86503
 postcode: "17291"
 city: Prenzlau
-street: "Stettiner Straße"
+street: Stettiner Straße
 housenumber: 73b
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.hbb-impex.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.hbb-impex.de/

@@ -4,8 +4,8 @@ latitude: 52.46846
 longitude: 13.38523
 postcode: "12099"
 city: Berlin
-street: "Tempelhofer Damm"
-housenumber: 124
-phone: "+49 30 75447440"
-opening_hours: "Mo-Fr 09:00-18:30; Sa 08:30-15:30; Su,PH off"
-website: "https://www.friseur-erkan.de/standorte/tempelhof-tempelhofer-damm-124/"
+street: Tempelhofer Damm
+housenumber: "124"
+phone: +49 30 75447440
+opening_hours: Mo-Fr 09:00-18:30; Sa 08:30-15:30; Su,PH off
+website: https://www.friseur-erkan.de/standorte/tempelhof-tempelhofer-damm-124/

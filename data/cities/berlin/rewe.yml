@@ -4,8 +4,8 @@ latitude: 52.52761
 longitude: 13.32916
 postcode: "10551"
 city: Berlin
-street: "Turmstraße"
-housenumber: 60
+street: Turmstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Mo-Sa 06:30-23:00"
-website: "https://www.rewe.de/marktseite/berlin-tiergarten/565308/rewe-city-turmstr-60/"
+opening_hours: Mo-Sa 06:30-23:00
+website: https://www.rewe.de/marktseite/berlin-tiergarten/565308/rewe-city-turmstr-60/

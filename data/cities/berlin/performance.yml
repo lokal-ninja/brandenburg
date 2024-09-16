@@ -4,8 +4,8 @@ latitude: 52.54014
 longitude: 13.41966
 postcode: "10435"
 city: Berlin
-street: "Danziger Straße"
-housenumber: 45
+street: Danziger Straße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

@@ -1,11 +1,11 @@
 id: 37766227
-type: way
+type: node
 latitude: 52.6748
 longitude: 13.57256
 postcode: "16321"
 city: Bernau bei Berlin
-street: "Zepernicker Chaussee"
-housenumber: 2
+street: Zepernicker Chaussee
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

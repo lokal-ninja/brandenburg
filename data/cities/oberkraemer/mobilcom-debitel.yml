@@ -1,11 +1,11 @@
 id: 190723003
-type: way
+type: node
 latitude: 52.69128
 longitude: 13.11696
 postcode: "16727"
 city: Oberkrämer
-street: "Dr.-Rüdiger-Weber-Straße"
-housenumber: 2
+street: Dr.-Rüdiger-Weber-Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.md.de/"
+website: https://www.md.de/

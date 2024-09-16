@@ -1,11 +1,11 @@
 id: 215084644
-type: way
+type: node
 latitude: 52.36892
 longitude: 13.12826
 postcode: "14480"
 city: Potsdam
-street: "Zum Kirchsteigfeld"
-housenumber: 11
+street: Zum Kirchsteigfeld
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

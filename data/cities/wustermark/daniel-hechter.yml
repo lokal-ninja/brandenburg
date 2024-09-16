@@ -1,11 +1,11 @@
 id: 426018880
-type: way
+type: node
 latitude: 52.5386
 longitude: 12.98068
 postcode: "14641"
 city: Wustermark
-street: "Alter Spandauer Weg"
-housenumber: 1
-phone: "+49 33234 21811"
-opening_hours: "mo-sa 10:00-20:00"
-website: "https://www.mcarthurglen.com/de/outlets/de/designer-outlet-berlin/shops/daniel-hechter/"
+street: Alter Spandauer Weg
+housenumber: "1"
+phone: +49 33234 21811
+opening_hours: mo-sa 10:00-20:00
+website: https://www.mcarthurglen.com/de/outlets/de/designer-outlet-berlin/shops/daniel-hechter/

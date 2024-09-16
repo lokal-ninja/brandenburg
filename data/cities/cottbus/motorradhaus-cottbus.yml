@@ -1,11 +1,11 @@
 id: 28340027
-type: way
+type: node
 latitude: 51.77196
 longitude: 14.37517
 postcode: "03042"
 city: Cottbus
-street: "Merzdorfer Weg"
+street: Merzdorfer Weg
 housenumber: 4a
-phone: "+49 355 710224"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.motorradhaus-cottbus.de/"
+phone: +49 355 710224
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.motorradhaus-cottbus.de/

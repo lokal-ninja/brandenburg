@@ -4,8 +4,8 @@ latitude: 52.54335
 longitude: 13.24038
 postcode: "13599"
 city: Berlin
-street: "Gartenfelder Straße"
-housenumber: 90
+street: Gartenfelder Straße
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Fr 9:00-18:00; Sa 9:00-14:00;Su,PH off"
+opening_hours: Tu-Fr 9:00-18:00; Sa 9:00-14:00;Su,PH off
 website: ""

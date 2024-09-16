@@ -1,11 +1,11 @@
 id: 198569620
-type: way
+type: node
 latitude: 52.34845
 longitude: 14.56775
-postcode: "69-100"
+postcode: 69-100
 city: Słubice
-street: "Wrocławska"
-housenumber: 9
+street: Wrocławska
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

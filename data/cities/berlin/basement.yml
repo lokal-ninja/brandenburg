@@ -4,8 +4,8 @@ latitude: 52.46779
 longitude: 13.33105
 postcode: "12161"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 26
-phone: "+49 177 4304653"
+street: Rheinstraße
+housenumber: "26"
+phone: +49 177 4304653
 opening_hours: ""
-website: "http://bastienbrune.com/"
+website: http://bastienbrune.com/

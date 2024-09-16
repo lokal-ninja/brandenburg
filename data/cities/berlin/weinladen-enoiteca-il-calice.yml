@@ -4,8 +4,8 @@ latitude: 52.50196
 longitude: 13.31487
 postcode: "10629"
 city: Berlin
-street: "Walter-Benjamin-Platz"
-housenumber: 4
+street: Walter-Benjamin-Platz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 11:00-20:00; Sa 11:00-19:00"
+opening_hours: Mo-Fr 11:00-20:00; Sa 11:00-19:00
 website: ""

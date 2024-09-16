@@ -4,8 +4,9 @@ latitude: 52.45316
 longitude: 13.52302
 postcode: "12439"
 city: Berlin
-street: "Schnellerstraße"
-housenumber: 57
-phone: "+49 178 3487510"
-opening_hours: "Apr 01-Oct 31 Mo-Fr 10:00-21:00; Apr 01-Oct 31 Sa 08:00-12:00; Nov 01-Mar 31 Mo-Fr 10:00-19:00"
-website: "https://www.knicklicht.berlin/"
+street: Schnellerstraße
+housenumber: "57"
+phone: +49 178 3487510
+opening_hours: Apr 01-Oct 31 Mo-Fr 10:00-21:00; Apr 01-Oct 31 Sa 08:00-12:00; Nov
+    01-Mar 31 Mo-Fr 10:00-19:00
+website: https://www.knicklicht.berlin/

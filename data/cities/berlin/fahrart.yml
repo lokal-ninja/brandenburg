@@ -4,8 +4,8 @@ latitude: 52.52315
 longitude: 13.41945
 postcode: "10178"
 city: Berlin
-street: "Karl-Marx-Allee"
-housenumber: 1
+street: Karl-Marx-Allee
+housenumber: "1"
 phone: ""
-opening_hours: "Tu-We 15:00-19:00"
+opening_hours: Tu-We 15:00-19:00
 website: ""

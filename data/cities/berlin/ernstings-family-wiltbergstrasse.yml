@@ -4,8 +4,8 @@ latitude: 52.6349
 longitude: 13.49542
 postcode: "13125"
 city: Berlin
-street: "Wiltbergstraße"
-housenumber: 2
+street: Wiltbergstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 10:00-18:00"
+opening_hours: Mo-Sa 10:00-18:00
 website: ""

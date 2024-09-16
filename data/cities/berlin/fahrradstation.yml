@@ -4,8 +4,8 @@ latitude: 52.5193
 longitude: 13.39108
 postcode: "10117"
 city: Berlin
-street: "Dorotheenstraße"
-housenumber: 30
+street: Dorotheenstraße
+housenumber: "30"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

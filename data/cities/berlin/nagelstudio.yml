@@ -1,11 +1,11 @@
 id: 931641014
-type: way
+type: node
 latitude: 52.49758
 longitude: 13.56342
 postcode: "12683"
 city: Berlin
-street: "Dohlengrund"
-housenumber: 98
+street: Dohlengrund
+housenumber: "98"
 phone: ""
 opening_hours: ""
 website: ""

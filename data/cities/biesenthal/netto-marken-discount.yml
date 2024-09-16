@@ -1,11 +1,11 @@
 id: 380506283
-type: way
+type: node
 latitude: 52.76681
 longitude: 13.64711
 postcode: ""
 city: Biesenthal
-street: "Eberswalder Chaussee"
-housenumber: 3
+street: Eberswalder Chaussee
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

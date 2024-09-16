@@ -4,8 +4,8 @@ latitude: 52.53256
 longitude: 13.33102
 postcode: "10551"
 city: Berlin
-street: "Siemensstraße"
-housenumber: 8
+street: Siemensstraße
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "http://www.werkstatt-von-rueden.de/"
+website: http://www.werkstatt-von-rueden.de/

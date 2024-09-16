@@ -4,8 +4,8 @@ latitude: 52.43663
 longitude: 13.34679
 postcode: "12247"
 city: Berlin
-street: "Kaiser-Wilhelm-Straße"
-housenumber: 83
+street: Kaiser-Wilhelm-Straße
+housenumber: "83"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://medizintechnik-morscheck.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://medizintechnik-morscheck.de/

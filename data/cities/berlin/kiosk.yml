@@ -4,8 +4,8 @@ latitude: 52.55223
 longitude: 13.38212
 postcode: "13357"
 city: Berlin
-street: "Badstraße"
-housenumber: 25
+street: Badstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

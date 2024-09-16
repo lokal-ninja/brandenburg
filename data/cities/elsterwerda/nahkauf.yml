@@ -1,11 +1,11 @@
 id: 239560918
-type: way
+type: node
 latitude: 51.45842
 longitude: 13.52181
 postcode: "04910"
 city: Elsterwerda
-street: "Lange Straße"
-housenumber: 7
-phone: "+49 3533 8559080"
-opening_hours: "Mo-Sa 07:00-20:00"
+street: Lange Straße
+housenumber: "7"
+phone: +49 3533 8559080
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

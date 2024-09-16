@@ -1,11 +1,11 @@
 id: 96312934
-type: way
+type: node
 latitude: 52.34464
 longitude: 14.08616
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Tränkeweg"
-housenumber: 8
+street: Tränkeweg
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Th 07:30-18:00, Fr 07:30-16:00"
-website: "https://www.motordoc.de/"
+opening_hours: Mo-Th 07:30-18:00, Fr 07:30-16:00
+website: https://www.motordoc.de/

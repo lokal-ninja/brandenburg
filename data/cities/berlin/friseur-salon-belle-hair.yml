@@ -4,8 +4,8 @@ latitude: 52.52095
 longitude: 13.5906
 postcode: "12619"
 city: Berlin
-street: "Cecilienplatz"
-housenumber: 9
-phone: "030 56 38 125"
-opening_hours: "Di-Fr 09:00-20:00, Sa 09:00-16:00"
-website: "https://www.salon-bellehair.de"
+street: Cecilienplatz
+housenumber: "9"
+phone: 030 56 38 125
+opening_hours: Di-Fr 09:00-20:00, Sa 09:00-16:00
+website: https://www.salon-bellehair.de

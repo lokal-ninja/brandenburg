@@ -4,8 +4,8 @@ latitude: 52.51683
 longitude: 13.45413
 postcode: "10247"
 city: Berlin
-street: "Petersburger Straße"
-housenumber: 99
-phone: "+49 30 54621848"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
+street: Petersburger Straße
+housenumber: "99"
+phone: +49 30 54621848
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
 website: ""

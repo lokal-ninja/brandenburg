@@ -1,11 +1,11 @@
 id: 984841158
-type: way
+type: node
 latitude: 52.3669
 longitude: 13.12904
 postcode: "14480"
 city: Potsdam
-street: "Zum Kirchsteigfeld"
-housenumber: 15
+street: Zum Kirchsteigfeld
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "http://www.blumen-schellack.de/"
+website: http://www.blumen-schellack.de/

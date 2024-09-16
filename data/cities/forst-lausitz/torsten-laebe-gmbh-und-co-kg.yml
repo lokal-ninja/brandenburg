@@ -1,11 +1,11 @@
 id: 54846512
-type: way
+type: node
 latitude: 51.74259
 longitude: 14.64683
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Amtstraße"
-housenumber: 16
-phone: "+49 3562 90029"
+street: Amtstraße
+housenumber: "16"
+phone: +49 3562 90029
 opening_hours: ""
-website: "https://www.laebe-forst.de/"
+website: https://www.laebe-forst.de/

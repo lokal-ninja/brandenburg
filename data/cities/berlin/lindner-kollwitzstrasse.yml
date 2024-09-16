@@ -4,8 +4,8 @@ latitude: 52.53791
 longitude: 13.4202
 postcode: "10435"
 city: Berlin
-street: "Kollwitzstraße"
-housenumber: 86
+street: Kollwitzstraße
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.lindner-esskultur.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.lindner-esskultur.de/

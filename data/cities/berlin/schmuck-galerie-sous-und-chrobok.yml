@@ -4,8 +4,8 @@ latitude: 52.4897
 longitude: 13.37851
 postcode: "10965"
 city: Berlin
-street: "Kreuzbergstraße"
-housenumber: 26
+street: Kreuzbergstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Th,Fr 11:00-18:00; Sa 11:00-16:00"
-website: "https://kamilachrobok.com/"
+opening_hours: Th,Fr 11:00-18:00; Sa 11:00-16:00
+website: https://kamilachrobok.com/

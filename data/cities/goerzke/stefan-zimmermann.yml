@@ -1,11 +1,11 @@
 id: 937527676
-type: way
+type: node
 latitude: 52.1718
 longitude: 12.36769
 postcode: "14828"
 city: Görzke
-street: "Breite Straße"
-housenumber: 147
+street: Breite Straße
+housenumber: "147"
 phone: ""
 opening_hours: ""
 website: ""

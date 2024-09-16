@@ -4,8 +4,8 @@ latitude: 52.5079
 longitude: 13.32302
 postcode: "10623"
 city: Berlin
-street: "Knesebeckstraße"
-housenumber: 89
+street: Knesebeckstraße
+housenumber: "89"
 phone: ""
-opening_hours: "Mo-Fr 13:00-18:00"
-website: "https://www.overtherainbow.de/"
+opening_hours: Mo-Fr 13:00-18:00
+website: https://www.overtherainbow.de/

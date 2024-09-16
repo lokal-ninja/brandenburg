@@ -1,11 +1,11 @@
 id: 71404535
-type: way
+type: node
 latitude: 52.34309
 longitude: 14.52758
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Markendorfer Straße"
-housenumber: 20
+street: Markendorfer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

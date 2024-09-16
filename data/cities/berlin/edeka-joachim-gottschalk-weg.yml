@@ -4,8 +4,8 @@ latitude: 52.423
 longitude: 13.47623
 postcode: "12353"
 city: Berlin
-street: "Joachim-Gottschalk-Weg"
-housenumber: 23
+street: Joachim-Gottschalk-Weg
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

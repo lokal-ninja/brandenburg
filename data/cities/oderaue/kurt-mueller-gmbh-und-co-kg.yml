@@ -1,11 +1,11 @@
 id: 971020852
-type: way
+type: node
 latitude: 52.7963
 longitude: 14.17937
 postcode: "16259"
 city: Oderaue
-street: "Neurüdnitz"
-housenumber: 57
+street: Neurüdnitz
+housenumber: "57"
 phone: ""
 opening_hours: ""
 website: ""

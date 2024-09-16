@@ -4,8 +4,8 @@ latitude: 52.49708
 longitude: 13.36202
 postcode: "10783"
 city: Berlin
-street: "Potsdamer Straße"
-housenumber: 133
+street: Potsdamer Straße
+housenumber: "133"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
 website: ""

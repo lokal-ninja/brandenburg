@@ -4,8 +4,8 @@ latitude: 52.54627
 longitude: 13.41772
 postcode: "10437"
 city: Berlin
-street: "Pappelallee"
-housenumber: 58
+street: Pappelallee
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-16:00"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-16:00
 website: ""

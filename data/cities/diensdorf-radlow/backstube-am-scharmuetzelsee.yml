@@ -1,11 +1,11 @@
 id: 479142576
-type: way
+type: node
 latitude: 52.24547
 longitude: 14.06732
 postcode: "15864"
 city: Diensdorf-Radlow
-street: "Hauptstraße"
-housenumber: 60
+street: Hauptstraße
+housenumber: "60"
 phone: ""
-opening_hours: "Tu,Th 06:00-12:00; Sa 06:00-11:00"
+opening_hours: Tu,Th 06:00-12:00; Sa 06:00-11:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.57824
 longitude: 13.30983
 postcode: "13509"
 city: Berlin
-street: "Breitenbachstraße"
-housenumber: 11
-phone: "+49 3041705400"
-opening_hours: "Mo-Sa 09:00-19:00"
+street: Breitenbachstraße
+housenumber: "11"
+phone: +49 3041705400
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

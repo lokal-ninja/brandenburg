@@ -4,8 +4,8 @@ latitude: 52.39263
 longitude: 13.06585
 postcode: "14473"
 city: Potsdam
-street: "Babelsberger Straße"
-housenumber: 16
-phone: "+49331 88719917"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 09:30-19:00; Su,PH 09:30-18:00"
-website: "https://potsdam-per-pedales.de/"
+street: Babelsberger Straße
+housenumber: "16"
+phone: +49331 88719917
+opening_hours: Mo-Fr 08:00-19:00; Sa 09:30-19:00; Su,PH 09:30-18:00
+website: https://potsdam-per-pedales.de/

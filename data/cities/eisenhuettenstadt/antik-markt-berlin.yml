@@ -1,11 +1,11 @@
 id: 107442759
-type: way
+type: node
 latitude: 52.14182
 longitude: 14.65849
 postcode: ""
 city: Eisenhüttenstadt
-street: "Fischerstraße"
-housenumber: 1
+street: Fischerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.52884
 longitude: 13.37775
 postcode: "10115"
 city: Berlin
-street: "Invalidenstraße"
-housenumber: 97
+street: Invalidenstraße
+housenumber: "97"
 phone: ""
-opening_hours: "Mo-Fr 06:00-18:00; Sa 07:00-17:00; Su 08:00-17:00"
-website: "https://www.schaefers-brot.de/"
+opening_hours: Mo-Fr 06:00-18:00; Sa 07:00-17:00; Su 08:00-17:00
+website: https://www.schaefers-brot.de/

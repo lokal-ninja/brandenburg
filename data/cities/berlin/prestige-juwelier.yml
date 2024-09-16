@@ -4,8 +4,8 @@ latitude: 52.5091
 longitude: 13.45148
 postcode: "10243"
 city: Berlin
-street: "Warschauer Straße"
-housenumber: 57
-phone: "+49 30 291 06 85"
-opening_hours: "Mo-Fr 09:30-19:00; Sa 10:00-16:00"
-website: "http://www.prestige-direkt.de"
+street: Warschauer Straße
+housenumber: "57"
+phone: +49 30 291 06 85
+opening_hours: Mo-Fr 09:30-19:00; Sa 10:00-16:00
+website: http://www.prestige-direkt.de

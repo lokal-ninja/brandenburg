@@ -1,11 +1,11 @@
 id: 54359440
-type: way
+type: node
 latitude: 51.71927
 longitude: 14.31084
 postcode: "03051"
 city: Cottbus
-street: "Am Seegraben"
-housenumber: 23
+street: Am Seegraben
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

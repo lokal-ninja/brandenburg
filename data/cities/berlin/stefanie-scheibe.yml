@@ -4,8 +4,8 @@ latitude: 52.44372
 longitude: 13.29358
 postcode: "12205"
 city: Berlin
-street: "Knesebeckstraße"
-housenumber: 10
+street: Knesebeckstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Tu 09:00-18:00; Th 09:00-20:00; Sa 09:00-13:00; We,Fr 09:00-19:00"
+opening_hours: Tu 09:00-18:00; Th 09:00-20:00; Sa 09:00-13:00; We,Fr 09:00-19:00
 website: ""

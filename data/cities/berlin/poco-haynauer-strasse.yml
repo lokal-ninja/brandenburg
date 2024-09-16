@@ -1,11 +1,11 @@
 id: 45191365
-type: way
+type: node
 latitude: 52.43386
 longitude: 13.36578
 postcode: ""
 city: Berlin
-street: "Haynauer Straße"
-housenumber: 69
+street: Haynauer Straße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.poco.de/standorte/poco-einrichtungsmarkt-berlin-lankwitz"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.poco.de/standorte/poco-einrichtungsmarkt-berlin-lankwitz

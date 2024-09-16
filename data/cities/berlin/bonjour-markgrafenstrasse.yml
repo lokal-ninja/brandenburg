@@ -4,8 +4,8 @@ latitude: 52.50685
 longitude: 13.39466
 postcode: "10969"
 city: Berlin
-street: "Markgrafenstraße"
-housenumber: 19
-phone: "+49 30 60938245"
-opening_hours: "Mo-Fr 05:00-19:00; Sa 07:00-15:00"
+street: Markgrafenstraße
+housenumber: "19"
+phone: +49 30 60938245
+opening_hours: Mo-Fr 05:00-19:00; Sa 07:00-15:00
 website: ""

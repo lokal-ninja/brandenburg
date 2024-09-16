@@ -4,8 +4,8 @@ latitude: 52.14091
 longitude: 12.58781
 postcode: "14806"
 city: Bad Belzig
-street: "Straße der Einheit"
-housenumber: 13
+street: Straße der Einheit
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00; Sa 09:00-12:00"
-website: "https://www.modehaus-ehle.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 09:00-12:00
+website: https://www.modehaus-ehle.de/

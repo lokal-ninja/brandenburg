@@ -4,8 +4,8 @@ latitude: 52.43568
 longitude: 13.26045
 postcode: "14169"
 city: Berlin
-street: "Clayallee"
-housenumber: 353
-phone: "+49 30 8110645"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "http://www.waible-hoersysteme.de/"
+street: Clayallee
+housenumber: "353"
+phone: +49 30 8110645
+opening_hours: Mo-Fr 09:00-18:00
+website: http://www.waible-hoersysteme.de/

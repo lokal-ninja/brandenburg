@@ -4,8 +4,8 @@ latitude: 51.76069
 longitude: 14.34653
 postcode: "03042"
 city: Cottbus
-street: "Am Doll"
-housenumber: 6
-phone: "+49 355 715136"
-opening_hours: "Tu-Fr 07:30-19:00; Sa 07:30-13:00"
-website: "https://haarerlebnis-cottbus.de/"
+street: Am Doll
+housenumber: "6"
+phone: +49 355 715136
+opening_hours: Tu-Fr 07:30-19:00; Sa 07:30-13:00
+website: https://haarerlebnis-cottbus.de/

@@ -4,8 +4,8 @@ latitude: 52.41099
 longitude: 12.55746
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Hauptstraße"
-housenumber: 66
-phone: "+49 3381 223180"
-opening_hours: "Mo-Fr 10:00-17:00, Sa 11:00-13:00"
+street: Hauptstraße
+housenumber: "66"
+phone: +49 3381 223180
+opening_hours: Mo-Fr 10:00-17:00, Sa 11:00-13:00
 website: ""

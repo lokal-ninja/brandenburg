@@ -4,8 +4,8 @@ latitude: 52.75552
 longitude: 13.24084
 postcode: "16515"
 city: Oranienburg
-street: "Lehnitzstraße"
-housenumber: 1
+street: Lehnitzstraße
+housenumber: "1"
 phone: "+4933015229860"
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00"
-website: "https://www.kind.com"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00; Sa 09:00-13:00
+website: https://www.kind.com

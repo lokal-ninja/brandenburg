@@ -4,8 +4,8 @@ latitude: 52.37591
 longitude: 13.12987
 postcode: "14480"
 city: Potsdam
-street: "Johannes-Kepler-Platz"
-housenumber: 5
+street: Johannes-Kepler-Platz
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-14:00; PH,Su off"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-14:00; PH,Su off
 website: ""

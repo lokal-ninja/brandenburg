@@ -1,11 +1,11 @@
 id: 211215505
-type: way
+type: node
 latitude: 52.42074
 longitude: 13.42523
 postcode: "12349"
 city: Berlin
-street: "Marienfelder Chaussee"
-housenumber: 6
+street: Marienfelder Chaussee
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.penny.de/

@@ -1,11 +1,11 @@
 id: 258350531
-type: way
+type: node
 latitude: 52.59779
 longitude: 13.4666
 postcode: "13129"
 city: Berlin
-street: "Treseburger Straße"
-housenumber: 29
+street: Treseburger Straße
+housenumber: "29"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

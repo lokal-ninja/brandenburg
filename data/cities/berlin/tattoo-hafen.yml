@@ -4,8 +4,8 @@ latitude: 52.48866
 longitude: 13.42771
 postcode: "12047"
 city: Berlin
-street: "Friedelstraße"
-housenumber: 54
-phone: "+49 30 68050610"
-opening_hours: "Mo-Sa 12:00-18:00"
+street: Friedelstraße
+housenumber: "54"
+phone: +49 30 68050610
+opening_hours: Mo-Sa 12:00-18:00
 website: ""

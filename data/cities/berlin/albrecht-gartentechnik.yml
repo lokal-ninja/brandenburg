@@ -1,11 +1,11 @@
 id: 276673749
-type: way
+type: node
 latitude: 52.4274
 longitude: 13.31075
 postcode: "12207"
 city: Berlin
-street: "Barnackufer"
-housenumber: 28
-phone: "+49 30 768 949 0"
+street: Barnackufer
+housenumber: "28"
+phone: +49 30 768 949 0
 opening_hours: ""
-website: "http://www.albrecht-garten.de/"
+website: http://www.albrecht-garten.de/

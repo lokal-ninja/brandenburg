@@ -1,11 +1,11 @@
 id: 50242456
-type: way
+type: node
 latitude: 52.51916
 longitude: 13.30936
 postcode: ""
 city: Berlin
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-22:00"
+opening_hours: Mo-Sa 08:00-22:00
 website: ""

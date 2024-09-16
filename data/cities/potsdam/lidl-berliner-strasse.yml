@@ -1,11 +1,11 @@
 id: 88570361
-type: way
+type: node
 latitude: 52.40817
 longitude: 13.07426
 postcode: "14467"
 city: Potsdam
-street: "Berliner Straße"
-housenumber: 121
+street: Berliner Straße
+housenumber: "121"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

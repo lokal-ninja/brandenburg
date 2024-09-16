@@ -4,8 +4,8 @@ latitude: 52.40772
 longitude: 12.54335
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Neuendorfer Straße"
-housenumber: 69
-phone: "+49 3381 2680040"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.whiskyzone.de"
+street: Neuendorfer Straße
+housenumber: "69"
+phone: +49 3381 2680040
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.whiskyzone.de

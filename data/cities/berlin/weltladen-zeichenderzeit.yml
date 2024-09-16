@@ -4,8 +4,8 @@ latitude: 52.53606
 longitude: 13.42088
 postcode: "10405"
 city: Berlin
-street: "Wörther Straße"
-housenumber: 28
+street: Wörther Straße
+housenumber: "28"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 10:00-18:00"
+opening_hours: Mo-Fr 11:00-19:00; Sa 10:00-18:00
 website: ""

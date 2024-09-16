@@ -4,8 +4,8 @@ latitude: 52.54208
 longitude: 13.61627
 postcode: "12627"
 city: Berlin
-street: "Oschatzer Ring"
-housenumber: 34
+street: Oschatzer Ring
+housenumber: "34"
 phone: "+4915730876693"
-opening_hours: "Mo-Fr 10:00-18:00; PH off"
-website: "http://www.tpg-prauss.de/"
+opening_hours: Mo-Fr 10:00-18:00; PH off
+website: http://www.tpg-prauss.de/

@@ -4,8 +4,8 @@ latitude: 52.58295
 longitude: 13.30971
 postcode: "13509"
 city: Berlin
-street: "Miraustraße"
-housenumber: 35
+street: Miraustraße
+housenumber: "35"
 phone: "+49304309403"
-opening_hours: "Mo-Fr 07:00-17:00"
-website: "https://www.dino-container.de/"
+opening_hours: Mo-Fr 07:00-17:00
+website: https://www.dino-container.de/

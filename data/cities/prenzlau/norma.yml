@@ -1,11 +1,11 @@
 id: 99902060
-type: way
+type: node
 latitude: 53.32041
 longitude: 13.8754
 postcode: "17291"
 city: Prenzlau
-street: "Robert-Schulz-Ring"
+street: Robert-Schulz-Ring
 housenumber: 37A
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -1,11 +1,11 @@
 id: 322574601
-type: way
+type: node
 latitude: 52.9602
 longitude: 11.95078
 postcode: "19336"
 city: Bad Wilsnack
-street: "Badstraße"
-housenumber: 1
+street: Badstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de/

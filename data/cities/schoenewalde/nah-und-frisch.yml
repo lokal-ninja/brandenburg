@@ -1,11 +1,11 @@
 id: 397797085
-type: way
+type: node
 latitude: 51.81506
 longitude: 13.22605
 postcode: "04916"
 city: Schönewalde
-street: "Markt"
-housenumber: 2
+street: Markt
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:00-12:00
 website: ""

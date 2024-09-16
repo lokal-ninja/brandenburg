@@ -4,8 +4,8 @@ latitude: 52.44564
 longitude: 13.32932
 postcode: "12167"
 city: Berlin
-street: "Birkbuschstraße"
-housenumber: 38
-phone: "+49 30 49088239"
-opening_hours: "Mo-Fr 10:00-16:00"
-website: "https://www.kubuk-moebel.de/"
+street: Birkbuschstraße
+housenumber: "38"
+phone: +49 30 49088239
+opening_hours: Mo-Fr 10:00-16:00
+website: https://www.kubuk-moebel.de/

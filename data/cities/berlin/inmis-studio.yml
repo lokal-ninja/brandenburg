@@ -4,8 +4,8 @@ latitude: 52.46489
 longitude: 13.32279
 postcode: "12163"
 city: Berlin
-street: "Markelstraße"
-housenumber: 15
+street: Markelstraße
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://inmis.de/"
+website: https://inmis.de/

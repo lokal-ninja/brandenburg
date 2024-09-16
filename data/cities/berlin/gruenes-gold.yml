@@ -4,8 +4,8 @@ latitude: 52.53787
 longitude: 13.42013
 postcode: "10435"
 city: Berlin
-street: "Kollwitzstraße"
-housenumber: 86
-phone: "+49 30 81478222"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 10:00-20:00"
-website: "https://gruenes.gold/cbd-berlin/"
+street: Kollwitzstraße
+housenumber: "86"
+phone: +49 30 81478222
+opening_hours: Mo-Fr 12:00-20:00; Sa 10:00-20:00
+website: https://gruenes.gold/cbd-berlin/

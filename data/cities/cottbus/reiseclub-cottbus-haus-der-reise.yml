@@ -1,11 +1,11 @@
 id: 151467175
-type: way
+type: node
 latitude: 51.7614
 longitude: 14.32563
 postcode: "03046"
 city: Cottbus
-street: "Berliner Straße"
+street: Berliner Straße
 housenumber: 140-141
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.reiseclub-cottbus.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.reiseclub-cottbus.de/

@@ -1,11 +1,11 @@
 id: 172452089
-type: way
+type: node
 latitude: 52.48533
 longitude: 13.33339
 postcode: "10715"
 city: Berlin
-street: "Prinzregentenstraße"
-housenumber: 72
+street: Prinzregentenstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00"
-website: "https://www.stolarsky.de/"
+opening_hours: Mo-Fr 07:00-18:00
+website: https://www.stolarsky.de/

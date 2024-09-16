@@ -4,8 +4,8 @@ latitude: 52.83406
 longitude: 13.79896
 postcode: "16225"
 city: Eberswalde
-street: "Bahnhofsring"
-housenumber: 22
-phone: "+49 3334 2055 22"
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "https://schorfheidetouren.de/"
+street: Bahnhofsring
+housenumber: "22"
+phone: +49 3334 2055 22
+opening_hours: Mo-Fr 08:00-18:00
+website: https://schorfheidetouren.de/

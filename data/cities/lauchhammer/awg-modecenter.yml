@@ -1,11 +1,11 @@
 id: 387706214
-type: way
+type: node
 latitude: 51.46999
 longitude: 13.75661
 postcode: "01979"
 city: Lauchhammer
-street: "An der Schwarzen Elster"
-housenumber: 3
+street: An der Schwarzen Elster
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

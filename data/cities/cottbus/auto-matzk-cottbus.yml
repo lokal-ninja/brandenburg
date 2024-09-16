@@ -1,11 +1,11 @@
 id: 26599583
-type: way
+type: node
 latitude: 51.75158
 longitude: 14.36748
 postcode: "03042"
 city: Cottbus
-street: "Liebermannstraße"
+street: Liebermannstraße
 housenumber: 1A
-phone: "+49 355 756550"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-12:00"
-website: "https://auto-matzk.de/"
+phone: +49 355 756550
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-12:00
+website: https://auto-matzk.de/

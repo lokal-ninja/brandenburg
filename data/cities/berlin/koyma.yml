@@ -4,8 +4,8 @@ latitude: 52.47588
 longitude: 13.4473
 postcode: "12055"
 city: Berlin
-street: "Hertzbergstraße"
-housenumber: 26
+street: Hertzbergstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.64958
 longitude: 13.19772
 postcode: "16761"
 city: Hennigsdorf
-street: "Marwitzer Straße"
-housenumber: 46
-phone: "+49 3302 2086044"
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "https://www.systemweg.de/"
+street: Marwitzer Straße
+housenumber: "46"
+phone: +49 3302 2086044
+opening_hours: Mo-Fr 09:00-19:00
+website: https://www.systemweg.de/

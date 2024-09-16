@@ -4,8 +4,8 @@ latitude: 52.48815
 longitude: 13.3539
 postcode: "10823"
 city: Berlin
-street: "Akazienstraße"
-housenumber: 21
+street: Akazienstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00"
-website: "https://www.acoté.com/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+website: https://www.acoté.com/

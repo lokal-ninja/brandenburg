@@ -1,11 +1,11 @@
 id: 112786524
-type: way
+type: node
 latitude: 52.78893
 longitude: 14.24088
 postcode: "16259"
 city: Oderaue
-street: "Zollbrücke"
-housenumber: 20
-phone: "+49 33457 5065"
+street: Zollbrücke
+housenumber: "20"
+phone: +49 33457 5065
 opening_hours: ""
-website: "http://www.ziegenhof-zollbruecke.de/"
+website: http://www.ziegenhof-zollbruecke.de/

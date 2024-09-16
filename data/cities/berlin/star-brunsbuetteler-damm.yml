@@ -1,11 +1,11 @@
 id: 105155009
-type: way
+type: node
 latitude: 52.53487
 longitude: 13.18388
 postcode: "13581"
 city: Berlin
-street: "Brunsbütteler Damm"
+street: Brunsbütteler Damm
 housenumber: 82-102
-phone: "+49 30 35133036"
-opening_hours: "24/7"
-website: "http://www.tank-einfach-star.de"
+phone: +49 30 35133036
+opening_hours: 24/7
+website: http://www.tank-einfach-star.de

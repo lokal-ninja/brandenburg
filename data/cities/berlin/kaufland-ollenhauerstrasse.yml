@@ -1,11 +1,11 @@
 id: 11622253
-type: way
+type: node
 latitude: 52.56814
 longitude: 13.32898
 postcode: "13403"
 city: Berlin
-street: "Ollenhauerstraße"
-housenumber: 122
-phone: "+49 30417056690"
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
+street: Ollenhauerstraße
+housenumber: "122"
+phone: +49 30417056690
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30
 website: ""

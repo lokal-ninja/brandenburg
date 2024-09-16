@@ -1,11 +1,11 @@
 id: 765694725
-type: way
+type: node
 latitude: 52.50605
 longitude: 13.17998
 postcode: "13595"
 city: Berlin
-street: "Gatower Straße"
+street: Gatower Straße
 housenumber: 157-167
 phone: ""
 opening_hours: ""
-website: "https://www.glücks-garten.de/"
+website: https://www.glücks-garten.de/

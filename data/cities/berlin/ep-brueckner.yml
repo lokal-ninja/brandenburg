@@ -1,11 +1,11 @@
 id: 218963854
-type: way
+type: node
 latitude: 52.41725
 longitude: 13.36693
 postcode: "12277"
 city: Berlin
-street: "Marienfelder Allee"
-housenumber: 103
-phone: "+49 30 7211515"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:00"
-website: "http://www.epbrueckner.de"
+street: Marienfelder Allee
+housenumber: "103"
+phone: +49 30 7211515
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+website: http://www.epbrueckner.de

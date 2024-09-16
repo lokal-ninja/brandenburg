@@ -4,8 +4,8 @@ latitude: 52.53219
 longitude: 13.8352
 postcode: "15344"
 city: Strausberg
-street: "Bahnhofstraße"
-housenumber: 26
-phone: "+49 3341 4455355"
-opening_hours: "Mo-Fr 05:00-18:00; PH,Sa,Su 07:00-13:00"
-website: "https://www.servicestoredb.de/sst-de/Standortfinder#!/l/strausberg/bahnhofstrasse-26/360828"
+street: Bahnhofstraße
+housenumber: "26"
+phone: +49 3341 4455355
+opening_hours: Mo-Fr 05:00-18:00; PH,Sa,Su 07:00-13:00
+website: https://www.servicestoredb.de/sst-de/Standortfinder#!/l/strausberg/bahnhofstrasse-26/360828

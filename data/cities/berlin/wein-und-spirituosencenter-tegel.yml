@@ -4,8 +4,8 @@ latitude: 52.58761
 longitude: 13.28307
 postcode: "13507"
 city: Berlin
-street: "Brunowstraße"
-housenumber: 17
+street: Brunowstraße
+housenumber: "17"
 phone: "+49304339004"
-opening_hours: "Mo-Fr 09:30-18:00, Sa 09:30-13:30"
-website: "https://www.berlinerweinwelt.de/"
+opening_hours: Mo-Fr 09:30-18:00, Sa 09:30-13:30
+website: https://www.berlinerweinwelt.de/

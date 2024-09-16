@@ -4,8 +4,8 @@ latitude: 52.54185
 longitude: 13.42213
 postcode: "10437"
 city: Berlin
-street: "Raumerstraße"
-housenumber: 32
+street: Raumerstraße
+housenumber: "32"
 phone: ""
 opening_hours: ""
-website: "https://schmuckschmiede.de/"
+website: https://schmuckschmiede.de/

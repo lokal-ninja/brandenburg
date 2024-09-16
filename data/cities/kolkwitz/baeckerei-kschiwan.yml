@@ -1,11 +1,11 @@
 id: 140890250
-type: way
+type: node
 latitude: 51.75005
 longitude: 14.24459
 postcode: "03099"
 city: Kolkwitz
-street: "Bahnhofstraße"
-housenumber: 45
-phone: "+49 355 28523"
+street: Bahnhofstraße
+housenumber: "45"
+phone: +49 355 28523
 opening_hours: ""
 website: ""

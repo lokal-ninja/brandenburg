@@ -1,11 +1,11 @@
 id: 292292400
-type: way
+type: node
 latitude: 51.7163
 longitude: 14.61455
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Döberner Straße"
-housenumber: 20
-phone: "+49 3562 666217"
-opening_hours: "24/7"
+street: Döberner Straße
+housenumber: "20"
+phone: +49 3562 666217
+opening_hours: 24/7
 website: ""

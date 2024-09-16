@@ -1,11 +1,11 @@
 id: 219537962
-type: way
+type: node
 latitude: 52.50519
 longitude: 13.59032
 postcode: "12621"
 city: Berlin
-street: "Alt-Kaulsdorf"
-housenumber: 59
+street: Alt-Kaulsdorf
+housenumber: "59"
 phone: ""
 opening_hours: ""
-website: "https://sonnenschutz.de/"
+website: https://sonnenschutz.de/

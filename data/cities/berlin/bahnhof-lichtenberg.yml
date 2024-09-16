@@ -1,11 +1,11 @@
 id: 18771934
-type: way
+type: node
 latitude: 52.50983
 longitude: 13.49773
 postcode: "10317"
 city: Berlin
-street: "Weitlingstraße"
-housenumber: 22
+street: Weitlingstraße
+housenumber: "22"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

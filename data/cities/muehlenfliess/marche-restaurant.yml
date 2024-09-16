@@ -1,11 +1,11 @@
 id: 120335915
-type: way
+type: node
 latitude: 52.13297
 longitude: 12.75161
 postcode: ""
 city: Mühlenfließ
-street: "An der A 9 West"
-housenumber: 9
+street: An der A 9 West
+housenumber: "9"
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -1,11 +1,11 @@
 id: 278007384
-type: way
+type: node
 latitude: 51.73988
 longitude: 14.64964
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Tagorestraße"
-housenumber: 2
+street: Tagorestraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

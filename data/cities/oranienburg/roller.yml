@@ -1,11 +1,11 @@
 id: 441407080
-type: way
+type: node
 latitude: 52.74947
 longitude: 13.2233
 postcode: "16515"
 city: Oranienburg
-street: "Friedensstraße"
-housenumber: 8
+street: Friedensstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00; PH,Su off"
+opening_hours: Mo-Sa 09:00-19:00; PH,Su off
 website: ""

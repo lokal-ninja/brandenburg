@@ -1,11 +1,11 @@
 id: 46549327
-type: way
+type: node
 latitude: 52.4228
 longitude: 13.31258
 postcode: "12207"
 city: Berlin
-street: "Ostpreußendamm"
-housenumber: 60
-phone: "+49 30 754447780"
-opening_hours: "Mo-Fr 07:00-24:00; Sa 07:00-23:30"
-website: "https://www.kaufland.de/"
+street: Ostpreußendamm
+housenumber: "60"
+phone: +49 30 754447780
+opening_hours: Mo-Fr 07:00-24:00; Sa 07:00-23:30
+website: https://www.kaufland.de/

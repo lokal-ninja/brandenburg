@@ -1,11 +1,11 @@
 id: 35630906
-type: way
+type: node
 latitude: 52.59273
 longitude: 13.28628
 postcode: "13507"
 city: Berlin
-street: "Buddestraße"
-housenumber: 36
+street: Buddestraße
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.42963
 longitude: 13.33259
 postcode: "12209"
 city: Berlin
-street: "Lankwitzer Straße"
-housenumber: 12
+street: Lankwitzer Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Behandlungen nur nach vorheriger telefonischer Vereinbarung"
+opening_hours: '"Behandlungen nur nach vorheriger telefonischer Vereinbarung"'
 website: ""

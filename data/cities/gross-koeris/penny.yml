@@ -1,11 +1,11 @@
 id: 33910881
-type: way
+type: node
 latitude: 52.16005
 longitude: 13.65146
 postcode: "15746"
 city: Groß Köris
-street: "Berliner Straße"
-housenumber: 20
+street: Berliner Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

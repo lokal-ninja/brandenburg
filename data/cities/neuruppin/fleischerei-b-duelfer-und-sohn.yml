@@ -4,8 +4,8 @@ latitude: 52.91521
 longitude: 12.78883
 postcode: "16816"
 city: Neuruppin
-street: "Junckerstraße"
-housenumber: 26
-phone: "+49 3391 505640"
-opening_hours: "Mo-Sa 07:00-21:00"
+street: Junckerstraße
+housenumber: "26"
+phone: +49 3391 505640
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

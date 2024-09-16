@@ -1,11 +1,11 @@
 id: 66113989
-type: way
+type: node
 latitude: 52.28736
 longitude: 13.00442
 postcode: "14554"
 city: Seddiner See
-street: "Pappelallee"
-housenumber: 42
+street: Pappelallee
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Fr 07:00-20:00; Sa 07:00-15:00; Su,PH off"
+opening_hours: Mo-Fr 07:00-20:00; Sa 07:00-15:00; Su,PH off
 website: ""

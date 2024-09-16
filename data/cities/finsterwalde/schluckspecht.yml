@@ -1,11 +1,11 @@
 id: 163738946
-type: way
+type: node
 latitude: 51.64189
 longitude: 13.69964
 postcode: "03238"
 city: Finsterwalde
-street: "Sonnewalder Straße"
-housenumber: 80
-phone: "+49 3531 2340"
+street: Sonnewalder Straße
+housenumber: "80"
+phone: +49 3531 2340
 opening_hours: ""
-website: "http://www.schluckspechtmarkt.de"
+website: http://www.schluckspechtmarkt.de

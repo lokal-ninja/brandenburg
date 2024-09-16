@@ -4,8 +4,9 @@ latitude: 52.45624
 longitude: 13.29984
 postcode: "14195"
 city: Berlin
-street: "Altensteinstraße"
+street: Altensteinstraße
 housenumber: 15A
 phone: ""
-opening_hours: "Apr-Sep Tu-Sa 10:00-19:00, Su,PH 10:00-16:00; Oct-Mar Tu-Sa 10:00-17:30, Su,PH 10:00-16:00"
-website: "https://www.manufactum.de/manufactum-koenigliche-gartenakademie-berlin-c-229/"
+opening_hours: Apr-Sep Tu-Sa 10:00-19:00, Su,PH 10:00-16:00; Oct-Mar Tu-Sa 10:00-17:30,
+    Su,PH 10:00-16:00
+website: https://www.manufactum.de/manufactum-koenigliche-gartenakademie-berlin-c-229/

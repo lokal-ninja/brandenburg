@@ -4,8 +4,9 @@ latitude: 52.50465
 longitude: 13.58264
 postcode: "12621"
 city: Berlin
-street: "Alt-Kaulsdorf"
-housenumber: 18
-phone: "+49 30 56589920"
-opening_hours: "Mo-Fr 09:00-20:00, Sa 09:00-16:00; Oct-Mar Mo-Fr 09:30-19:00; Oct-Mar Sa 09:00-16:00; PH off"
-website: "http://www.angelspezi-berlin.de"
+street: Alt-Kaulsdorf
+housenumber: "18"
+phone: +49 30 56589920
+opening_hours: Mo-Fr 09:00-20:00, Sa 09:00-16:00; Oct-Mar Mo-Fr 09:30-19:00; Oct-Mar
+    Sa 09:00-16:00; PH off
+website: http://www.angelspezi-berlin.de

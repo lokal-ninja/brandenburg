@@ -1,11 +1,11 @@
 id: 88811258
-type: way
+type: node
 latitude: 52.61047
 longitude: 12.33813
 postcode: "14712"
 city: Rathenow
-street: "Kleine Waldemarstraße"
+street: Kleine Waldemarstraße
 housenumber: 4 a
-phone: "+49 3385 498887"
-opening_hours: "Mo-Fr 09:00-16:00"
-website: "https://asb-rathenow.de/index.php/sozialkaufhaus"
+phone: +49 3385 498887
+opening_hours: Mo-Fr 09:00-16:00
+website: https://asb-rathenow.de/index.php/sozialkaufhaus

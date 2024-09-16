@@ -4,8 +4,8 @@ latitude: 52.45933
 longitude: 13.37659
 postcode: "12103"
 city: Berlin
-street: "Manteuffelstraße"
-housenumber: 45
+street: Manteuffelstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

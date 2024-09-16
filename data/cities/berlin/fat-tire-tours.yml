@@ -4,8 +4,9 @@ latitude: 52.52102
 longitude: 13.40916
 postcode: "10178"
 city: Berlin
-street: "Panoramastraße"
+street: Panoramastraße
 housenumber: 1a
 phone: ""
-opening_hours: "Dec-Feb: Mo,We,Sa 09:30-18:00; Mar-Apr: 09:30-18:00; May-Sep: 09:30-20:00; Oct-Nov: 09:30-18:00"
+opening_hours: 'Dec-Feb: Mo,We,Sa 09:30-18:00; Mar-Apr: 09:30-18:00; May-Sep: 09:30-20:00;
+    Oct-Nov: 09:30-18:00'
 website: ""

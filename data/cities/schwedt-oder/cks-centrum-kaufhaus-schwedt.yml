@@ -1,11 +1,11 @@
 id: 291053552
-type: way
+type: node
 latitude: 53.06129
 longitude: 14.28316
 postcode: "16303"
 city: Schwedt/Oder
-street: "Platz der Befreiung"
-housenumber: 1
+street: Platz der Befreiung
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-14:00"
-website: "https://centrum-kaufhaus.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-14:00
+website: https://centrum-kaufhaus.de/

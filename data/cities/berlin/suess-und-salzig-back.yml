@@ -4,8 +4,8 @@ latitude: 52.54431
 longitude: 13.20508
 postcode: "13585"
 city: Berlin
-street: "Schönwalder Straße"
-housenumber: 7
+street: Schönwalder Straße
+housenumber: "7"
 phone: "03091545854"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 07:00-14:00; Su 08:00-16:00"
-website: "https://suess-salzig-back.eatbu.com/"
+opening_hours: Mo-Fr 06:30-18:00; Sa 07:00-14:00; Su 08:00-16:00
+website: https://suess-salzig-back.eatbu.com/

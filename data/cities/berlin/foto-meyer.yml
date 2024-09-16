@@ -4,8 +4,8 @@ latitude: 52.49624
 longitude: 13.34161
 postcode: "10777"
 city: Berlin
-street: "Welserstraße"
-housenumber: 1
+street: Welserstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

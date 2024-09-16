@@ -1,11 +1,11 @@
 id: 418370196
-type: way
+type: node
 latitude: 52.509
 longitude: 13.56337
 postcode: "12683"
 city: Berlin
-street: "Walsheimer Straße"
-housenumber: 1
-phone: "+49 30 5470990"
-opening_hours: "Mo-Fr 07:30-18:30; Sa 08:00-15:00"
-website: "https://www.stopandgo.de/"
+street: Walsheimer Straße
+housenumber: "1"
+phone: +49 30 5470990
+opening_hours: Mo-Fr 07:30-18:30; Sa 08:00-15:00
+website: https://www.stopandgo.de/

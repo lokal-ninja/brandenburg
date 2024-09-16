@@ -1,11 +1,11 @@
 id: 134240309
-type: way
+type: node
 latitude: 51.78542
 longitude: 14.07799
 postcode: "03226"
 city: Vetschau/Spreewald
-street: "Bahnhofstraße"
-housenumber: 20
+street: Bahnhofstraße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 06:00-17:30; Sa 06:00-10:00"
+opening_hours: Mo-Fr 06:00-17:30; Sa 06:00-10:00
 website: ""

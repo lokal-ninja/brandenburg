@@ -1,11 +1,11 @@
 id: 1013024510
-type: way
+type: node
 latitude: 52.51388
 longitude: 13.61082
 postcode: "12623"
 city: Berlin
-street: "Hönower Straße"
-housenumber: 99
+street: Hönower Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/

@@ -4,8 +4,8 @@ latitude: 52.4752
 longitude: 13.60044
 postcode: "12623"
 city: Berlin
-street: "Hultschiner Damm"
-housenumber: 10
-phone: "+49 30 65262628"
-opening_hours: "Mo-Sa 10:00-20:00; PH off"
+street: Hultschiner Damm
+housenumber: "10"
+phone: +49 30 65262628
+opening_hours: Mo-Sa 10:00-20:00; PH off
 website: ""

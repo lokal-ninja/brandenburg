@@ -4,8 +4,8 @@ latitude: 52.43743
 longitude: 13.2615
 postcode: "14169"
 city: Berlin
-street: "Clayallee"
-housenumber: 333
-phone: "+49 30 76 23 20 80"
-opening_hours: "Mo-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "https://www.weichardt.de/"
+street: Clayallee
+housenumber: "333"
+phone: +49 30 76 23 20 80
+opening_hours: Mo-Fr 08:00-18:30; Sa 08:00-13:00
+website: https://www.weichardt.de/

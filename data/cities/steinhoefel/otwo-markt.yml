@@ -4,8 +4,8 @@ latitude: 52.45405
 longitude: 14.21504
 postcode: "15518"
 city: Steinhöfel
-street: "Hauptstraße"
-housenumber: 1
+street: Hauptstraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 07:00-11:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 07:00-11:00
 website: ""

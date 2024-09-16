@@ -4,8 +4,8 @@ latitude: 52.48095
 longitude: 13.31321
 postcode: "10713"
 city: Berlin
-street: "Mecklenburgische Straße"
-housenumber: 20
+street: Mecklenburgische Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 09:30-18:00"
-website: "http://kosmetik-mahna.de/"
+opening_hours: Mo-Fr 09:30-18:00
+website: http://kosmetik-mahna.de/

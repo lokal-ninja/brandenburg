@@ -1,11 +1,11 @@
 id: 111537678
-type: way
+type: node
 latitude: 51.52631
 longitude: 14.33715
 postcode: "03130"
 city: Spremberg
-street: "Dresdener Chaussee"
-housenumber: 88
+street: Dresdener Chaussee
+housenumber: "88"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "http://www.norma-online.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: http://www.norma-online.de/

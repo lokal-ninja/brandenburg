@@ -1,11 +1,11 @@
 id: 47282925
-type: way
+type: node
 latitude: 52.52307
 longitude: 13.58708
 postcode: "12619"
 city: Berlin
-street: "Hellersdorfer Straße"
+street: Hellersdorfer Straße
 housenumber: 77-83
-phone: "+49 30 5688080"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-16:00"
-website: "https://spree-center-berlin.de/"
+phone: +49 30 5688080
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-16:00
+website: https://spree-center-berlin.de/

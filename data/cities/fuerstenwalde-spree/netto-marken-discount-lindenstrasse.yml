@@ -1,11 +1,11 @@
 id: 319318995
-type: way
+type: node
 latitude: 52.35623
 longitude: 14.07752
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Lindenstraße"
-housenumber: 65
+street: Lindenstraße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

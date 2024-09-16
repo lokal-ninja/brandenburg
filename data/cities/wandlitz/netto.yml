@@ -1,11 +1,11 @@
 id: 38163856
-type: way
+type: node
 latitude: 52.71665
 longitude: 13.43774
 postcode: "16348"
 city: Wandlitz
-street: "Fontanestraße"
-housenumber: 4
+street: Fontanestraße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.netto.de/

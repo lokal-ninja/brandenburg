@@ -4,8 +4,8 @@ latitude: 52.52205
 longitude: 13.4011
 postcode: "10178"
 city: Berlin
-street: "Henriette-Herz-Platz"
-housenumber: 1
+street: Henriette-Herz-Platz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "http://www.asia-mekong.de/"
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: http://www.asia-mekong.de/

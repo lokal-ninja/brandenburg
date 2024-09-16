@@ -4,8 +4,8 @@ latitude: 52.49212
 longitude: 13.4148
 postcode: "10967"
 city: Berlin
-street: "Müllenhoffstraße"
-housenumber: 4
-phone: "+49 30 68822329"
-opening_hours: "10:00-17:00"
-website: "https://www.eisreklame.de/"
+street: Müllenhoffstraße
+housenumber: "4"
+phone: +49 30 68822329
+opening_hours: 10:00-17:00
+website: https://www.eisreklame.de/

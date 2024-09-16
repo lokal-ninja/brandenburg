@@ -1,11 +1,11 @@
 id: 208457008
-type: way
+type: node
 latitude: 52.41418
 longitude: 12.52276
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Friedrich-Franz-Straße"
-housenumber: 3
-phone: "+49 3381 7938 20"
-opening_hours: "Mo-Do 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.pft-stendal.de/standorte/filiale-nowaweser.html"
+street: Friedrich-Franz-Straße
+housenumber: "3"
+phone: +49 3381 7938 20
+opening_hours: Mo-Do 07:00-17:00; Fr 07:00-16:00
+website: https://www.pft-stendal.de/standorte/filiale-nowaweser.html

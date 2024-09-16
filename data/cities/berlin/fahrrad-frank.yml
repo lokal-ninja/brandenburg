@@ -4,8 +4,8 @@ latitude: 52.5273
 longitude: 13.38899
 postcode: "10115"
 city: Berlin
-street: "Torstraße"
-housenumber: 220
-phone: "+49 30 28599750"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "http://www.fahrradfrank.de/"
+street: Torstraße
+housenumber: "220"
+phone: +49 30 28599750
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: http://www.fahrradfrank.de/

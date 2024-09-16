@@ -4,8 +4,8 @@ latitude: 52.53008
 longitude: 13.38339
 postcode: "10115"
 city: Berlin
-street: "Chausseestraße"
-housenumber: 116
+street: Chausseestraße
+housenumber: "116"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00"
-website: "https://www.jewelryberlin.com/"
+opening_hours: Mo-Fr 11:00-18:00
+website: https://www.jewelryberlin.com/

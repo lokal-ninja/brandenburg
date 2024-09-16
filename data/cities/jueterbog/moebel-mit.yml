@@ -1,11 +1,11 @@
 id: 26487163
-type: way
+type: node
 latitude: 52.00331
 longitude: 13.0802
 postcode: "14913"
 city: Jüterbog
-street: "Neuheimer Weg"
-housenumber: 2
+street: Neuheimer Weg
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

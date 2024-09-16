@@ -4,8 +4,8 @@ latitude: 52.49162
 longitude: 13.4146
 postcode: "10967"
 city: Berlin
-street: "Urbanstraße"
-housenumber: 132
+street: Urbanstraße
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.tisch-stuhl-schrank-antik.de"
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.tisch-stuhl-schrank-antik.de

@@ -1,11 +1,11 @@
 id: 105639757
-type: way
+type: node
 latitude: 53.31721
 longitude: 13.85534
 postcode: "17291"
 city: Prenzlau
-street: "Neubrandenburger Straße"
-housenumber: 85
+street: Neubrandenburger Straße
+housenumber: "85"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

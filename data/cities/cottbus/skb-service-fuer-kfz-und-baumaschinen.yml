@@ -1,11 +1,11 @@
 id: 256886685
-type: way
+type: node
 latitude: 51.78498
 longitude: 14.33147
 postcode: "03044"
 city: Cottbus
-street: "Walther-Rathenau-Straße"
-housenumber: 36
+street: Walther-Rathenau-Straße
+housenumber: "36"
 phone: ""
 opening_hours: ""
-website: "www.skb-cottbus.de"
+website: www.skb-cottbus.de

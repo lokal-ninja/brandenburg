@@ -1,11 +1,11 @@
 id: 362762077
-type: way
+type: node
 latitude: 52.77908
 longitude: 13.23962
 postcode: "16515"
 city: Oranienburg
-street: "Granseer Straße"
-housenumber: 12
+street: Granseer Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

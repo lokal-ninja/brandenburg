@@ -4,8 +4,8 @@ latitude: 52.45689
 longitude: 13.51064
 postcode: "12439"
 city: Berlin
-street: "Brückenstraße"
-housenumber: 2
-phone: "+49 30 63902050"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-16:00"
-website: "https://www.haarkuenste.de/"
+street: Brückenstraße
+housenumber: "2"
+phone: +49 30 63902050
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+website: https://www.haarkuenste.de/

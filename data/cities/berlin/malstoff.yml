@@ -4,8 +4,8 @@ latitude: 52.51164
 longitude: 13.4518
 postcode: "10243"
 city: Berlin
-street: "Warschauer Straße"
-housenumber: 20
-phone: "+49 30 212 38 996"
-opening_hours: "Mo-Fr 12:00-20:00; Sa 11:00-18:00"
-website: "https://www.malstoff.de/"
+street: Warschauer Straße
+housenumber: "20"
+phone: +49 30 212 38 996
+opening_hours: Mo-Fr 12:00-20:00; Sa 11:00-18:00
+website: https://www.malstoff.de/

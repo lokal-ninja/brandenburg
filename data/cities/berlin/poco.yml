@@ -1,11 +1,11 @@
 id: 26425348
-type: way
+type: node
 latitude: 52.53231
 longitude: 13.53581
 postcode: "12681"
 city: Berlin
-street: "Märkische Allee"
-housenumber: 161
+street: Märkische Allee
+housenumber: "161"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-20:00; Su,PH off
 website: ""

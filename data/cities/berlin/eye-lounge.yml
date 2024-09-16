@@ -4,8 +4,8 @@ latitude: 52.49701
 longitude: 13.3527
 postcode: "10781"
 city: Berlin
-street: "Winterfeldtstraße"
-housenumber: 52
+street: Winterfeldtstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-16:00; Su off"
-website: "https://eyelounge.berlin/"
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-16:00; Su off
+website: https://eyelounge.berlin/

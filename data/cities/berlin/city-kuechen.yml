@@ -4,8 +4,8 @@ latitude: 52.49163
 longitude: 13.31879
 postcode: "10713"
 city: Berlin
-street: "Hohenzollerndamm"
-housenumber: 187
+street: Hohenzollerndamm
+housenumber: "187"
 phone: ""
 opening_hours: ""
-website: "https://www.city-kuechen.de/"
+website: https://www.city-kuechen.de/

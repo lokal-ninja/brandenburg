@@ -4,8 +4,8 @@ latitude: 52.51575
 longitude: 13.30572
 postcode: "10585"
 city: Berlin
-street: "Haubachstraße"
-housenumber: 6
+street: Haubachstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 12:00-19:00"
+opening_hours: Mo-Sa 12:00-19:00
 website: ""

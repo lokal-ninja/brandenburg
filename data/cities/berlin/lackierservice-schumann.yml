@@ -1,11 +1,11 @@
 id: 44028018
-type: way
+type: node
 latitude: 52.47778
 longitude: 13.30759
 postcode: "14197"
 city: Berlin
-street: "Mecklenburgische Straße"
-housenumber: 31
+street: Mecklenburgische Straße
+housenumber: "31"
 phone: ""
-opening_hours: "Mo-Fr 08:00-17:00"
-website: "https://www.lackierservice-schumann.de/"
+opening_hours: Mo-Fr 08:00-17:00
+website: https://www.lackierservice-schumann.de/

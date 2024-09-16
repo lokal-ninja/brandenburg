@@ -1,11 +1,11 @@
 id: 75054795
-type: way
+type: node
 latitude: 52.14867
 longitude: 14.62215
 postcode: "15890"
 city: Eisenhüttenstadt
-street: "Diehloer Straße"
-housenumber: 56
+street: Diehloer Straße
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

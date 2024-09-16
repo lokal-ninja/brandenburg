@@ -4,8 +4,8 @@ latitude: 52.50513
 longitude: 13.39259
 postcode: "10969"
 city: Berlin
-street: "Charlottenstraße"
-housenumber: 95
+street: Charlottenstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30"
-website: "https://www.dimu.de"
+opening_hours: Mo-Fr 07:30-16:30
+website: https://www.dimu.de

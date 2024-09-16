@@ -4,8 +4,8 @@ latitude: 52.52679
 longitude: 13.33301
 postcode: "10551"
 city: Berlin
-street: "Turmstraße"
-housenumber: 74
+street: Turmstraße
+housenumber: "74"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.krueger-orthotec.de/"
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.krueger-orthotec.de/

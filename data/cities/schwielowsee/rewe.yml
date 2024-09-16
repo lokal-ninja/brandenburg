@@ -1,11 +1,11 @@
 id: 286664431
-type: way
+type: node
 latitude: 52.34681
 longitude: 12.99775
 postcode: "14548"
 city: Schwielowsee
-street: "Kirschanger"
-housenumber: 5
+street: Kirschanger
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00"
-website: "https://www.rewe.de/marktseite/schwielowsee-caputh/4040442/rewe-markt-kirschanger-5/"
+opening_hours: Mo-Sa 06:00-22:00
+website: https://www.rewe.de/marktseite/schwielowsee-caputh/4040442/rewe-markt-kirschanger-5/

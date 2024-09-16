@@ -4,8 +4,8 @@ latitude: 52.41754
 longitude: 13.52866
 postcode: "12524"
 city: Berlin
-street: "Wegedornstraße"
-housenumber: 105
+street: Wegedornstraße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-14:00"
-website: "http://www.tom-friseur.de"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-14:00
+website: http://www.tom-friseur.de

@@ -4,8 +4,8 @@ latitude: 52.54508
 longitude: 13.36195
 postcode: "13353"
 city: Berlin
-street: "Müllerstraße"
-housenumber: 22
+street: Müllerstraße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Fr 11:00-16:00; Sa 11:00-14:00"
+opening_hours: Mo-Fr 11:00-16:00; Sa 11:00-14:00
 website: ""

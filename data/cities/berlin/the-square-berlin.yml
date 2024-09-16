@@ -4,8 +4,8 @@ latitude: 52.50058
 longitude: 13.31695
 postcode: "10707"
 city: Berlin
-street: "Schlüterstraße"
-housenumber: 45
+street: Schlüterstraße
+housenumber: "45"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:00"
+opening_hours: Mo-Sa 10:30-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.35207
 longitude: 14.54998
 postcode: "15230"
 city: Frankfurt (Oder)
-street: "Ziegelstraße"
-housenumber: 43
-phone: "+49 335 86950917"
-opening_hours: "Mo-Fr 15:00-19:00"
+street: Ziegelstraße
+housenumber: "43"
+phone: +49 335 86950917
+opening_hours: Mo-Fr 15:00-19:00
 website: ""

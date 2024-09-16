@@ -1,11 +1,11 @@
 id: 1308606316
-type: way
+type: node
 latitude: 52.11871
 longitude: 13.68246
 postcode: "15757"
 city: Halbe
-street: "Sonnenallee"
-housenumber: 7
+street: Sonnenallee
+housenumber: "7"
 phone: "+4933765949748"
-opening_hours: "Mo-Fr 08:30-17:30"
-website: "https://dross-boote.com"
+opening_hours: Mo-Fr 08:30-17:30
+website: https://dross-boote.com

@@ -4,8 +4,8 @@ latitude: 52.48424
 longitude: 13.31989
 postcode: "10713"
 city: Berlin
-street: "Blissestraße"
+street: Blissestraße
 housenumber: 20a
 phone: ""
-opening_hours: "Tu-Fr 09:30-18:00; Sa 09:00-13:00"
-website: "https://www.schaefers-soehne.de/"
+opening_hours: Tu-Fr 09:30-18:00; Sa 09:00-13:00
+website: https://www.schaefers-soehne.de/

@@ -1,11 +1,11 @@
 id: 1064294300
-type: way
+type: node
 latitude: 52.50741
 longitude: 13.56095
 postcode: "12683"
 city: Berlin
-street: "Weißenhöher Straße"
-housenumber: 91
+street: Weißenhöher Straße
+housenumber: "91"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 08:00-18:00; PH off"
-website: "https://frostkauf.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 08:00-18:00; PH off
+website: https://frostkauf.de/

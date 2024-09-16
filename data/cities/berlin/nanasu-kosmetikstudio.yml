@@ -4,8 +4,8 @@ latitude: 52.42427
 longitude: 13.43659
 postcode: "12349"
 city: Berlin
-street: "Buckower Damm"
+street: Buckower Damm
 housenumber: 219b
-phone: "+49 30 66 70 99 81"
-opening_hours: "Mo-Fr 09:00-18:00"
-website: "https://www.nanasu.de/"
+phone: +49 30 66 70 99 81
+opening_hours: Mo-Fr 09:00-18:00
+website: https://www.nanasu.de/

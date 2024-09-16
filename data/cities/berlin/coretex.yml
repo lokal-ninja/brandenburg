@@ -4,8 +4,8 @@ latitude: 52.49966
 longitude: 13.42563
 postcode: "10997"
 city: Berlin
-street: "Oranienstraße"
-housenumber: 3
+street: Oranienstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 11:00-20:00"
+opening_hours: Mo-Sa 11:00-20:00
 website: ""

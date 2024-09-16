@@ -1,11 +1,11 @@
 id: 26309073
-type: way
+type: node
 latitude: 52.36442
 longitude: 13.09547
 postcode: "14478"
 city: Potsdam
-street: "Erich-Weinert-Straße"
+street: Erich-Weinert-Straße
 housenumber: 1a
 phone: ""
-opening_hours: "PH,Su off; Mo-Sa 07:00-20:00"
+opening_hours: PH,Su off; Mo-Sa 07:00-20:00
 website: ""

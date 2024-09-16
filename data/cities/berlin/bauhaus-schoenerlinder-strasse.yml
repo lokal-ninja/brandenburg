@@ -1,11 +1,11 @@
 id: 80858331
-type: way
+type: node
 latitude: 52.61548
 longitude: 13.43306
 postcode: "13127"
 city: Berlin
-street: "Schönerlinder Straße"
-housenumber: 53
-phone: "+49 30 475971 0"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.bauhaus.info/"
+street: Schönerlinder Straße
+housenumber: "53"
+phone: +49 30 475971 0
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.bauhaus.info/

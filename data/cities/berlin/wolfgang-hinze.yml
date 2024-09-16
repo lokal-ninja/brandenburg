@@ -4,8 +4,8 @@ latitude: 52.52143
 longitude: 13.33421
 postcode: "10555"
 city: Berlin
-street: "Levetzowstraße"
-housenumber: 
+street: Levetzowstraße
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; PH,Sa,Su off"
+opening_hours: Mo-Fr 09:00-17:00; PH,Sa,Su off
 website: ""

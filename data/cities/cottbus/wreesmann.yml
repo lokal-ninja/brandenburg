@@ -4,8 +4,8 @@ latitude: 51.73382
 longitude: 14.33508
 postcode: "03050"
 city: Cottbus
-street: "Hardenbergstraße"
-housenumber: 6
+street: Hardenbergstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.aktionshaus-wreesmann.de/"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.aktionshaus-wreesmann.de/

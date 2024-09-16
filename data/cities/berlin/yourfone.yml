@@ -4,8 +4,8 @@ latitude: 52.46613
 longitude: 13.48743
 postcode: "12437"
 city: Berlin
-street: "Baumschulenstraße"
-housenumber: 92
-phone: "+49 30 31569674"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-13:00"
-website: "https://www.yourfone.de"
+street: Baumschulenstraße
+housenumber: "92"
+phone: +49 30 31569674
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-13:00
+website: https://www.yourfone.de

@@ -4,8 +4,8 @@ latitude: 52.5344
 longitude: 13.42511
 postcode: "10405"
 city: Berlin
-street: "Marienburger Straße"
-housenumber: 11
-phone: "+49 30 44718050"
-opening_hours: "We-Sa 12:00-18:00"
-website: "https://lunettes-selection.de/"
+street: Marienburger Straße
+housenumber: "11"
+phone: +49 30 44718050
+opening_hours: We-Sa 12:00-18:00
+website: https://lunettes-selection.de/

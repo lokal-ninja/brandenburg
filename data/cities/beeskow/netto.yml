@@ -1,11 +1,11 @@
 id: 127479166
-type: way
+type: node
 latitude: 52.17488
 longitude: 14.24276
 postcode: "15848"
 city: Beeskow
-street: "Luchstraße"
-housenumber: 32
+street: Luchstraße
+housenumber: "32"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.51558
 longitude: 13.49833
 postcode: "10365"
 city: Berlin
-street: "Siegfriedstraße"
-housenumber: 199
+street: Siegfriedstraße
+housenumber: "199"
 phone: ""
-opening_hours: "Mo-Fr 06:30-17:00, Sa 06:30-11:30"
+opening_hours: Mo-Fr 06:30-17:00, Sa 06:30-11:30
 website: ""

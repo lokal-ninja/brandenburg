@@ -1,11 +1,11 @@
-id: 40645036
-type: way
-latitude: 52.49131
-longitude: 13.37561
-postcode: "10965"
+id: 39375025
+type: node
+latitude: 52.53378
+longitude: 13.45391
+postcode: "10407"
 city: Berlin
-street: "Yorckstraße"
-housenumber: 57
+street: Storkower Straße
+housenumber: "135"
 phone: ""
-opening_hours: "Mo-Fr 07:30-20:00; Sa 08:00-16:00"
+opening_hours: Mo-Fr 07:30-20:00; Sa 08:00-14:00
 website: ""

@@ -1,11 +1,11 @@
 id: 356651540
-type: way
+type: node
 latitude: 52.4688
 longitude: 13.79589
 postcode: ""
 city: Rüdersdorf bei Berlin
-street: "Bergstraße"
-housenumber: 3
+street: Bergstraße
+housenumber: "3"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

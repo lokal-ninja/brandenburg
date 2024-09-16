@@ -1,11 +1,11 @@
 id: 606589040
-type: way
+type: node
 latitude: 53.06528
 longitude: 14.27327
 postcode: "16303"
 city: Schwedt/Oder
-street: "Landgrabenpark"
-housenumber: 1
+street: Landgrabenpark
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; PH closed"
+opening_hours: Mo-Sa 09:30-19:00; PH closed
 website: ""

@@ -4,8 +4,8 @@ latitude: 52.50396
 longitude: 13.30342
 postcode: "10629"
 city: Berlin
-street: "Gervinusstraße"
-housenumber: 40
+street: Gervinusstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00;Sa nach Vereinbarung"
+opening_hours: Mo-Fr 08:00-18:00;Sa "nach Vereinbarung"
 website: ""

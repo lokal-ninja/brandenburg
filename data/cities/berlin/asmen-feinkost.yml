@@ -4,8 +4,8 @@ latitude: 52.54071
 longitude: 13.416
 postcode: "10435"
 city: Berlin
-street: "Danziger Straße"
-housenumber: 19
-phone: "+49 30 25741996"
-opening_hours: "closed Geschlossen bis Juni 2023 wegen Haussanierung"
-website: "https://www.asmen-feinkost.de/"
+street: Danziger Straße
+housenumber: "19"
+phone: +49 30 25741996
+opening_hours: closed "Geschlossen bis Juni 2023 wegen Haussanierung"
+website: https://www.asmen-feinkost.de/

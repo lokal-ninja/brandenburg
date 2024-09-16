@@ -1,11 +1,11 @@
 id: 13886477
-type: way
+type: node
 latitude: 52.67708
 longitude: 13.544
 postcode: "16321"
 city: Bernau bei Berlin
-street: "Bernauer Allee"
-housenumber: 18
+street: Bernauer Allee
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/rewe-markt-bernau%20ot%20sch%C3%B6now-birkholzaue-bernauer-allee-18/"
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/rewe-markt-bernau%20ot%20sch%C3%B6now-birkholzaue-bernauer-allee-18/

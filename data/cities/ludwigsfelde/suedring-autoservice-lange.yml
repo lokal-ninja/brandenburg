@@ -1,11 +1,11 @@
 id: 39932429
-type: way
+type: node
 latitude: 52.31493
 longitude: 13.28231
 postcode: "14974"
 city: Ludwigsfelde
-street: "Am Birkengrund"
-housenumber: 21
+street: Am Birkengrund
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 07:00-18:00; Sa 09:00-13:00"
-website: "http://www.suedring.com"
+opening_hours: Mo-Fr 07:00-18:00; Sa 09:00-13:00
+website: http://www.suedring.com

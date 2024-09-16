@@ -4,8 +4,8 @@ latitude: 52.46278
 longitude: 13.33741
 postcode: "12157"
 city: Berlin
-street: "Lauenburger Straße"
-housenumber: 11
+street: Lauenburger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
-website: "http://www.med-massage-wienold.de/"
+opening_hours: '"Termine nach Vereinbarung"'
+website: http://www.med-massage-wienold.de/

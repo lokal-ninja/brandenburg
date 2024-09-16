@@ -4,8 +4,8 @@ latitude: 52.51268
 longitude: 13.38933
 postcode: "10117"
 city: Berlin
-street: "Friedrichstraße"
-housenumber: 181
+street: Friedrichstraße
+housenumber: "181"
 phone: ""
-opening_hours: "Mo-Sa 10:00-12:30,13:00-18:00"
+opening_hours: Mo-Sa 10:00-12:30,13:00-18:00
 website: ""

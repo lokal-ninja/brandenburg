@@ -4,8 +4,8 @@ latitude: 52.48045
 longitude: 13.34695
 postcode: "10827"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 106
-phone: "+49 30 7815102"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-12:00"
-website: "https://www.kluth-bestattungen.de/"
+street: Hauptstraße
+housenumber: "106"
+phone: +49 30 7815102
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-12:00
+website: https://www.kluth-bestattungen.de/

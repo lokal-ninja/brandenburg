@@ -4,8 +4,8 @@ latitude: 52.54033
 longitude: 13.40419
 postcode: "10435"
 city: Berlin
-street: "Bernauer Straße"
-housenumber: 50
+street: Bernauer Straße
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:30-21:00; Su 08:00-16:00"
-website: "https://www.denns-biomarkt.de/34524_Berlin_Mitte.html"
+opening_hours: Mo-Sa 07:30-21:00; Su 08:00-16:00
+website: https://www.denns-biomarkt.de/34524_Berlin_Mitte.html

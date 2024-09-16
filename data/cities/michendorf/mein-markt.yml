@@ -1,11 +1,11 @@
 id: 29145938
-type: way
+type: node
 latitude: 52.31345
 longitude: 13.06181
 postcode: "14552"
 city: Michendorf
-street: "Straße des Friedens"
-housenumber: 74
-phone: "+49 1511 2824705"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 07:00-20:00"
+street: Straße des Friedens
+housenumber: "74"
+phone: +49 1511 2824705
+opening_hours: Mo-Fr 08:00-20:00; Sa 07:00-20:00
 website: ""

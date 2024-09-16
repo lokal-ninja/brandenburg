@@ -1,11 +1,11 @@
 id: 214684922
-type: way
+type: node
 latitude: 52.60538
 longitude: 12.28545
 postcode: "14712"
 city: Rathenow
-street: "Hauptstraße"
-housenumber: 23
-phone: "+49 162 74 30 618"
+street: Hauptstraße
+housenumber: "23"
+phone: +49 162 74 30 618
 opening_hours: ""
-website: "https://www.deko-goldau.de/"
+website: https://www.deko-goldau.de/

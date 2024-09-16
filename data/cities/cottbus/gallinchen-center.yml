@@ -1,11 +1,11 @@
 id: 1043551160
-type: way
+type: node
 latitude: 51.70775
 longitude: 14.35142
 postcode: "03051"
 city: Cottbus
-street: "Am Gewerbepark"
-housenumber: 14
+street: Am Gewerbepark
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

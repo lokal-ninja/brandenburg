@@ -1,11 +1,11 @@
 id: 260052166
-type: way
+type: node
 latitude: 53.15929
 longitude: 12.46813
 postcode: "16909"
 city: Wittstock/Dosse
-street: "Perleberger Straße"
-housenumber: 42
+street: Perleberger Straße
+housenumber: "42"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

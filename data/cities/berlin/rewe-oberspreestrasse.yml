@@ -4,8 +4,8 @@ latitude: 52.44609
 longitude: 13.56413
 postcode: "12555"
 city: Berlin
-street: "Oberspreestraße"
-housenumber: 145
-phone: "+49 30 34354364"
-opening_hours: "Mo-Fr 06:00-24:00; Sa 06:00-23:30; PH off"
-website: "https://www.rewe.de/marktseite/berlin-koepenick/1931108/rewe-markt-oberspreestr-145/"
+street: Oberspreestraße
+housenumber: "145"
+phone: +49 30 34354364
+opening_hours: Mo-Fr 06:00-24:00; Sa 06:00-23:30; PH off
+website: https://www.rewe.de/marktseite/berlin-koepenick/1931108/rewe-markt-oberspreestr-145/

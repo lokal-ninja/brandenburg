@@ -4,8 +4,8 @@ latitude: 52.5007
 longitude: 13.42947
 postcode: "10997"
 city: Berlin
-street: "Lausitzer Platz"
-housenumber: 1
-phone: "+49 170 9599742"
-opening_hours: "Mo-Fr 09:00-17:00"
-website: "https://www.system-ritus.com"
+street: Lausitzer Platz
+housenumber: "1"
+phone: +49 170 9599742
+opening_hours: Mo-Fr 09:00-17:00
+website: https://www.system-ritus.com

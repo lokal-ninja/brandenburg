@@ -4,8 +4,9 @@ latitude: 52.78437
 longitude: 14.03364
 postcode: "16259"
 city: Bad Freienwalde (Oder)
-street: "Gesundbrunnenstraße"
-housenumber: 49
+street: Gesundbrunnenstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo 11:00-19:00; Tu 08:00-19:00; We 08:00-18:30; Tu 10:00-20:00; Fr 08:00-18:00"
+opening_hours: Mo 11:00-19:00; Tu 08:00-19:00; We 08:00-18:30; Tu 10:00-20:00; Fr
+    08:00-18:00
 website: ""

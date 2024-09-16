@@ -4,8 +4,8 @@ latitude: 52.47274
 longitude: 13.33723
 postcode: "12159"
 city: Berlin
-street: "Fregestraße"
-housenumber: 1
+street: Fregestraße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-We 10:00-17:00; Fr 10:00-17:00; Sa 09:00-19:00"
+opening_hours: Mo-We 10:00-17:00; Fr 10:00-17:00; Sa 09:00-19:00
 website: ""

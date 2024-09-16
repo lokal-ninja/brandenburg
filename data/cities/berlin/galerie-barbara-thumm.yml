@@ -4,8 +4,8 @@ latitude: 52.50515
 longitude: 13.39359
 postcode: "10969"
 city: Berlin
-street: "Markgrafenstraße"
-housenumber: 68
-phone: "+ 49 30 283 903 47"
-opening_hours: "We-Sa 12:00-18:00"
-website: "https://bthumm.de"
+street: Markgrafenstraße
+housenumber: "68"
+phone: + 49 30 283 903 47
+opening_hours: We-Sa 12:00-18:00
+website: https://bthumm.de

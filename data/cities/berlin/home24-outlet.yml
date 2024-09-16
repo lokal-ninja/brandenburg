@@ -1,11 +1,11 @@
 id: 47009314
-type: way
+type: node
 latitude: 52.52542
 longitude: 13.45742
 postcode: "10249"
 city: Berlin
-street: "Hermann-Blankenstein-Straße"
-housenumber: 20
+street: Hermann-Blankenstein-Straße
+housenumber: "20"
 phone: ""
 opening_hours: ""
 website: ""

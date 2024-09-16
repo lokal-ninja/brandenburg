@@ -4,8 +4,8 @@ latitude: 52.48391
 longitude: 13.35261
 postcode: "10827"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 128
+street: Hauptstraße
+housenumber: "128"
 phone: ""
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:00"
-website: "https://www.horst-lehmann.de/"
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:00
+website: https://www.horst-lehmann.de/

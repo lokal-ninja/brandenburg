@@ -4,8 +4,8 @@ latitude: 52.50155
 longitude: 13.33307
 postcode: "10789"
 city: Berlin
-street: "Rankestraße"
-housenumber: 24
+street: Rankestraße
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "http://www.quentinauktionen.de/"
+website: http://www.quentinauktionen.de/

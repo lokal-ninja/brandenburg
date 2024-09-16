@@ -4,8 +4,8 @@ latitude: 52.54913
 longitude: 13.44921
 postcode: "13086"
 city: Berlin
-street: "Langhansstraße"
-housenumber: 6
-phone: "+49 30 91554095"
-opening_hours: "Tu,We,Fr,Sa 11:00-18:00"
-website: "http://www.velostat.de/"
+street: Langhansstraße
+housenumber: "6"
+phone: +49 30 91554095
+opening_hours: Tu,We,Fr,Sa 11:00-18:00
+website: http://www.velostat.de/

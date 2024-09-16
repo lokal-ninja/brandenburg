@@ -4,8 +4,8 @@ latitude: 52.55776
 longitude: 13.86983
 postcode: "15344"
 city: Strausberg
-street: "Herrenseeallee"
-housenumber: 15
-phone: "+49 3341 3901422"
-opening_hours: "09:30-20:00"
-website: "https://www.mac-geiz.de/"
+street: Herrenseeallee
+housenumber: "15"
+phone: +49 3341 3901422
+opening_hours: 09:30-20:00
+website: https://www.mac-geiz.de/

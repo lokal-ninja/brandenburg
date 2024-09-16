@@ -4,8 +4,8 @@ latitude: 52.5037
 longitude: 13.34648
 postcode: "10787"
 city: Berlin
-street: "Kurfürstenstraße"
-housenumber: 112
+street: Kurfürstenstraße
+housenumber: "112"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa-Su,PH off"
+opening_hours: Mo-Fr 09:00-18:30; Sa-Su,PH off
 website: ""

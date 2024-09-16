@@ -4,8 +4,8 @@ latitude: 52.53213
 longitude: 13.34952
 postcode: "10559"
 city: Berlin
-street: "Perleberger Straße"
-housenumber: 26
+street: Perleberger Straße
+housenumber: "26"
 phone: ""
-opening_hours: "Mo-Su 11:00-20:00"
-website: "http://www.khonkan.de/"
+opening_hours: Mo-Su 11:00-20:00
+website: http://www.khonkan.de/

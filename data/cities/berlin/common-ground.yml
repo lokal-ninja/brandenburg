@@ -4,8 +4,8 @@ latitude: 52.4753
 longitude: 13.42439
 postcode: "12049"
 city: Berlin
-street: "Weisestraße"
-housenumber: 24
+street: Weisestraße
+housenumber: "24"
 phone: ""
-opening_hours: "Th, Fr 14:00-18:00"
-website: "https://commonground.community"
+opening_hours: Th, Fr 14:00-18:00
+website: https://commonground.community

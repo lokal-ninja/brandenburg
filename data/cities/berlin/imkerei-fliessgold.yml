@@ -4,8 +4,8 @@ latitude: 52.61861
 longitude: 13.31946
 postcode: "13467"
 city: Berlin
-street: "Bertramstraße"
-housenumber: 36
-phone: "+49160/977 113 27"
+street: Bertramstraße
+housenumber: "36"
+phone: +49160/977 113 27
 opening_hours: ""
-website: "http://wikipost.de/index.php?id=98&tx_ttnews[tt_news]=6794"
+website: http://wikipost.de/index.php?id=98&tx_ttnews[tt_news]=6794

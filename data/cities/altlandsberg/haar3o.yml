@@ -4,8 +4,8 @@ latitude: 52.56163
 longitude: 13.72323
 postcode: "15345"
 city: Altlandsberg
-street: "Berliner Allee"
-housenumber: 12
-phone: "+49 33438 16695"
-opening_hours: "Tu-Fr 08:00-18:30; Sa 08:00-13:00"
-website: "http://www.haar3o.de/salons"
+street: Berliner Allee
+housenumber: "12"
+phone: +49 33438 16695
+opening_hours: Tu-Fr 08:00-18:30; Sa 08:00-13:00
+website: http://www.haar3o.de/salons

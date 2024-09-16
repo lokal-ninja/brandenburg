@@ -1,11 +1,11 @@
 id: 298989259
-type: way
+type: node
 latitude: 52.76601
 longitude: 13.64194
 postcode: "16359"
 city: Biesenthal
-street: "Bahnhofstraße"
-housenumber: 14
+street: Bahnhofstraße
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

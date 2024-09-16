@@ -4,8 +4,8 @@ latitude: 52.49936
 longitude: 13.34831
 postcode: "10777"
 city: Berlin
-street: "Kalckreuthstraße"
-housenumber: 16
-phone: "+49 30 6124181"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "https://brezel-company-berlin.de/"
+street: Kalckreuthstraße
+housenumber: "16"
+phone: +49 30 6124181
+opening_hours: Mo-Su 07:00-20:00
+website: https://brezel-company-berlin.de/

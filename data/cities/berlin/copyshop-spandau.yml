@@ -4,8 +4,8 @@ latitude: 52.53173
 longitude: 13.19789
 postcode: "13581"
 city: Berlin
-street: "Sedanstr."
-housenumber: 8
-phone: "030 - 332 66 16"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: Sedanstr.
+housenumber: "8"
+phone: 030 - 332 66 16
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

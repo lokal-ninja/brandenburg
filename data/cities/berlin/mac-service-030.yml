@@ -4,8 +4,8 @@ latitude: 52.48413
 longitude: 13.38392
 postcode: "12101"
 city: Berlin
-street: "Manfred-von-Richthofen-Straße"
-housenumber: 8
-phone: "+49 30 355 13 826"
-opening_hours: "Mo-Fr 10:00-19:00"
-website: "https://www.macservice030.de"
+street: Manfred-von-Richthofen-Straße
+housenumber: "8"
+phone: +49 30 355 13 826
+opening_hours: Mo-Fr 10:00-19:00
+website: https://www.macservice030.de

@@ -1,11 +1,11 @@
 id: 725698238
-type: way
+type: node
 latitude: 52.4643
 longitude: 13.36666
 postcode: "12103"
 city: Berlin
-street: "Bessemerstraße"
+street: Bessemerstraße
 housenumber: 28;30;32;34;36
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00, Sa 09:00-15:00"
-website: "https://www.ka-de-a.de/"
+opening_hours: Mo-Fr 08:00-19:00, Sa 09:00-15:00
+website: https://www.ka-de-a.de/

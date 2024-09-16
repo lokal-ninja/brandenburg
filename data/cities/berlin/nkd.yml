@@ -4,8 +4,8 @@ latitude: 52.5534
 longitude: 13.41403
 postcode: "10439"
 city: Berlin
-street: "Schönhauser Allee"
-housenumber: 101
+street: Schönhauser Allee
+housenumber: "101"
 phone: ""
-opening_hours: "Mo-Fr 09:30-20:00; Sa 09:30-18:00"
-website: "https://www.nkd.com/"
+opening_hours: Mo-Fr 09:30-20:00; Sa 09:30-18:00
+website: https://www.nkd.com/

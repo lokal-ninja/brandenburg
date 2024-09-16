@@ -4,8 +4,8 @@ latitude: 52.44504
 longitude: 13.37498
 postcode: "12105"
 city: Berlin
-street: "Kaiserstraße"
-housenumber: 6
+street: Kaiserstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

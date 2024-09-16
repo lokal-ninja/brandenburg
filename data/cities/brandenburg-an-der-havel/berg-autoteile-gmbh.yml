@@ -1,11 +1,11 @@
 id: 390558200
-type: way
+type: node
 latitude: 52.43462
 longitude: 12.54403
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Friedrichshafener Straße"
-housenumber: 46
+street: Friedrichshafener Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Fr 07:30-18:00; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-18:00; Sa 08:00-12:00
 website: ""

@@ -1,11 +1,11 @@
 id: 106049386
-type: way
+type: node
 latitude: 52.33361
 longitude: 14.53951
 postcode: "15232"
 city: Frankfurt (Oder)
-street: "Spartakusring"
-housenumber: 20
+street: Spartakusring
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

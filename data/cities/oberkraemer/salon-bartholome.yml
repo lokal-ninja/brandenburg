@@ -1,11 +1,11 @@
 id: 53350864
-type: way
+type: node
 latitude: 52.72176
 longitude: 13.09755
 postcode: "16727"
 city: Oberkrämer
-street: "Lindenallee"
-housenumber: 66
-phone: "+49 3304 502256"
-opening_hours: "Tu-Fr 09:00-20:00; Sa 09:00-14:00"
-website: "salon-bartholome.de"
+street: Lindenallee
+housenumber: "66"
+phone: +49 3304 502256
+opening_hours: Tu-Fr 09:00-20:00; Sa 09:00-14:00
+website: salon-bartholome.de

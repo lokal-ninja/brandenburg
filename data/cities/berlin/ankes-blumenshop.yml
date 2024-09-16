@@ -4,8 +4,8 @@ latitude: 52.49036
 longitude: 13.44843
 postcode: "12435"
 city: Berlin
-street: "Karl-Kunger-Straße"
-housenumber: 20
+street: Karl-Kunger-Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Sa 08:00-19:00; Su 08:30-16:00"
+opening_hours: Mo-Sa 08:00-19:00; Su 08:30-16:00
 website: ""

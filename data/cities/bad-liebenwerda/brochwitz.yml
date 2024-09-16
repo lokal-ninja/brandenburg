@@ -1,11 +1,11 @@
 id: 764466600
-type: way
+type: node
 latitude: 51.5161
 longitude: 13.39188
 postcode: "04924"
 city: Bad Liebenwerda
-street: "Breite Straße"
-housenumber: 2
+street: Breite Straße
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

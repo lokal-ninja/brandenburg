@@ -4,8 +4,8 @@ latitude: 52.47898
 longitude: 13.34263
 postcode: "10825"
 city: Berlin
-street: "Wexstraße"
-housenumber: 2
+street: Wexstraße
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://aurofix.de/"
+website: https://aurofix.de/

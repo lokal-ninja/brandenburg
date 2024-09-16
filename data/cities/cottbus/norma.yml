@@ -1,11 +1,11 @@
 id: 25421478
-type: way
+type: node
 latitude: 51.72209
 longitude: 14.32512
 postcode: "03050"
 city: Cottbus
-street: "Schopenhauerstraße"
-housenumber: 5
+street: Schopenhauerstraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

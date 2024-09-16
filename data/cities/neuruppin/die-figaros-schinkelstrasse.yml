@@ -4,8 +4,8 @@ latitude: 52.92629
 longitude: 12.80671
 postcode: "16816"
 city: Neuruppin
-street: "Schinkelstraße"
-housenumber: 8
-phone: "+49 3391 27 87"
-opening_hours: "Tu-We,Fr 08:00-18:00; Th 08:00-19:00; Sa 08:00-13:00"
-website: "https://www.friseurgenossenschaft-neuruppin.de"
+street: Schinkelstraße
+housenumber: "8"
+phone: +49 3391 27 87
+opening_hours: Tu-We,Fr 08:00-18:00; Th 08:00-19:00; Sa 08:00-13:00
+website: https://www.friseurgenossenschaft-neuruppin.de

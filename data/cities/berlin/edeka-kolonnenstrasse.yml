@@ -4,8 +4,8 @@ latitude: 52.48569
 longitude: 13.36176
 postcode: "10829"
 city: Berlin
-street: "Kolonnenstraße"
-housenumber: 10
+street: Kolonnenstraße
+housenumber: "10"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 08:00-18:00"
-website: "https://nah-und-gut-fischer.de/"
+opening_hours: Mo-Fr 08:00-20:00, Sa 08:00-18:00
+website: https://nah-und-gut-fischer.de/

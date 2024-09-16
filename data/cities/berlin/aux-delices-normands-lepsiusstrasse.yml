@@ -4,8 +4,8 @@ latitude: 52.45881
 longitude: 13.31595
 postcode: "12163"
 city: Berlin
-street: "Lepsiusstraße"
-housenumber: 83
-phone: "+49 30 80100110"
-opening_hours: "Mo-Fr 07:00-18:00; Sa,Su 07:30-17:00"
-website: "http://www.auxdelicesnormands.de/lepsiusstr"
+street: Lepsiusstraße
+housenumber: "83"
+phone: +49 30 80100110
+opening_hours: Mo-Fr 07:00-18:00; Sa,Su 07:30-17:00
+website: http://www.auxdelicesnormands.de/lepsiusstr

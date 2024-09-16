@@ -1,11 +1,12 @@
 id: 27515539
-type: way
+type: node
 latitude: 52.55983
 longitude: 13.09421
 postcode: "14612"
 city: Falkensee
-street: "Bahnhofstraße"
-housenumber: 72
+street: Bahnhofstraße
+housenumber: "72"
 phone: ""
-opening_hours: "Mo-Sa 06:00-22:00; PH off; 2024 Jan 06-2024 Mar 20 off; 2024 Mar 21 09:00-22:00"
+opening_hours: Mo-Sa 06:00-22:00; PH off; 2024 Jan 06-2024 Mar 20 off; 2024 Mar 21
+    09:00-22:00
 website: ""

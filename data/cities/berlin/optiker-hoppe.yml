@@ -4,8 +4,8 @@ latitude: 52.4462
 longitude: 13.3859
 postcode: "12109"
 city: Berlin
-street: "Mariendorfer Damm"
-housenumber: 73
-phone: "+49 30 7062921"
-opening_hours: "Mo-Fr 09:00-18:30, Sa 09:00-13:30"
-website: "https://www.leichtbrille.com/"
+street: Mariendorfer Damm
+housenumber: "73"
+phone: +49 30 7062921
+opening_hours: Mo-Fr 09:00-18:30, Sa 09:00-13:30
+website: https://www.leichtbrille.com/

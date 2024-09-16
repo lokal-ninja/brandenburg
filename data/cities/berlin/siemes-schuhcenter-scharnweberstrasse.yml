@@ -1,11 +1,11 @@
 id: 24921792
-type: way
+type: node
 latitude: 52.56421
 longitude: 13.32463
 postcode: "13405"
 city: Berlin
-street: "Scharnweberstraße"
-housenumber: 129
-phone: "+4930 41709965"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:00"
-website: "https://www.schuhcenter.de/siemes-schuhcenter-berlin-reinickendorf-scharnweberstrasse-128-129.html"
+street: Scharnweberstraße
+housenumber: "129"
+phone: +4930 41709965
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:00
+website: https://www.schuhcenter.de/siemes-schuhcenter-berlin-reinickendorf-scharnweberstrasse-128-129.html

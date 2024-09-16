@@ -4,8 +4,8 @@ latitude: 52.4556
 longitude: 13.58634
 postcode: "12555"
 city: Berlin
-street: "Seelenbinderstraße"
-housenumber: 81
-phone: "+49 30 65 71 773"
-opening_hours: "Mo-Fr 06:30-18:00; Sa 06:30-11:30; Su,PH off"
-website: "http://www.baeckerei-sommerwerk.de/Filialen"
+street: Seelenbinderstraße
+housenumber: "81"
+phone: +49 30 65 71 773
+opening_hours: Mo-Fr 06:30-18:00; Sa 06:30-11:30; Su,PH off
+website: http://www.baeckerei-sommerwerk.de/Filialen

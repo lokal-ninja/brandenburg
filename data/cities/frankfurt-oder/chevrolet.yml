@@ -1,11 +1,11 @@
 id: 135961413
-type: way
+type: node
 latitude: 52.35362
 longitude: 14.50495
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Georg-Richter-Straße"
-housenumber: 12
+street: Georg-Richter-Straße
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

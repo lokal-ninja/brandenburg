@@ -4,8 +4,8 @@ latitude: 52.52054
 longitude: 13.4594
 postcode: "10247"
 city: Berlin
-street: "Eldenaer Straße"
-housenumber: 55
+street: Eldenaer Straße
+housenumber: "55"
 phone: ""
-opening_hours: "Flexible Öffnungszeiten nach Vereinbarung"
+opening_hours: '"Flexible Öffnungszeiten nach Vereinbarung"'
 website: ""

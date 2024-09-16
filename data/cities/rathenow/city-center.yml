@@ -1,11 +1,11 @@
 id: 93693083
-type: way
+type: node
 latitude: 52.60655
 longitude: 12.34207
 postcode: "14712"
 city: Rathenow
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://www.citycenter-rathenow.de/"
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://www.citycenter-rathenow.de/

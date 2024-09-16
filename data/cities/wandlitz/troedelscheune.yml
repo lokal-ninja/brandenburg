@@ -1,11 +1,11 @@
 id: 984065131
-type: way
+type: node
 latitude: 52.79113
 longitude: 13.47875
 postcode: "16348"
 city: Wandlitz
-street: "Klosterfelder Hauptstraße"
-housenumber: 59
-phone: "+49 177 301 25 09"
-opening_hours: "Fr 14:00-18:00, Sa 09:00-15:00"
+street: Klosterfelder Hauptstraße
+housenumber: "59"
+phone: +49 177 301 25 09
+opening_hours: Fr 14:00-18:00, Sa 09:00-15:00
 website: ""

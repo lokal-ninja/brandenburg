@@ -1,11 +1,11 @@
 id: 92026789
-type: way
+type: node
 latitude: 52.4242
 longitude: 12.58332
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Krakauer Landstraße"
-housenumber: 52
+street: Krakauer Landstraße
+housenumber: "52"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 08:00-16:00; Su 10:00-12:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 08:00-16:00; Su 10:00-12:00
 website: ""

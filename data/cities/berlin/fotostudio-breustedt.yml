@@ -4,8 +4,8 @@ latitude: 52.50965
 longitude: 13.45041
 postcode: "10243"
 city: Berlin
-street: "Gubener Straße"
-housenumber: 35
-phone: "+49 171 215 70 08"
-opening_hours: "Termine nach Vereinbarung"
-website: "https://breustedt-fotografie.de/"
+street: Gubener Straße
+housenumber: "35"
+phone: +49 171 215 70 08
+opening_hours: '"Termine nach Vereinbarung"'
+website: https://breustedt-fotografie.de/

@@ -4,8 +4,8 @@ latitude: 52.60689
 longitude: 13.32548
 postcode: "13469"
 city: Berlin
-street: "Oraniendamm"
+street: Oraniendamm
 housenumber: 6-10
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.medimax.de"
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.medimax.de

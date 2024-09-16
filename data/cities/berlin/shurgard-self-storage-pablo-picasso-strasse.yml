@@ -1,11 +1,11 @@
 id: 1041950352
-type: way
+type: node
 latitude: 52.55932
 longitude: 13.52535
 postcode: "13057"
 city: Berlin
-street: "Pablo-Picasso-Straße"
-housenumber: 45
+street: Pablo-Picasso-Straße
+housenumber: "45"
 phone: ""
 opening_hours: ""
 website: ""

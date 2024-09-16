@@ -4,8 +4,8 @@ latitude: 52.523
 longitude: 13.34002
 postcode: "10555"
 city: Berlin
-street: "Bundesratufer"
-housenumber: 5
+street: Bundesratufer
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:00-14:00
 website: ""

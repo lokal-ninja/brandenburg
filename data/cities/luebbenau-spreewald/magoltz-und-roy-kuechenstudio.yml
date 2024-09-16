@@ -1,11 +1,11 @@
 id: 558299544
-type: way
+type: node
 latitude: 51.86498
 longitude: 13.92386
 postcode: "03222"
 city: Lübbenau/Spreewald
-street: "Chausseestraße"
-housenumber: 50
+street: Chausseestraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
 website: ""

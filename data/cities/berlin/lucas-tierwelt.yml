@@ -4,8 +4,8 @@ latitude: 52.47888
 longitude: 13.30844
 postcode: "14199"
 city: Berlin
-street: "Forckenbeckstraße"
-housenumber: 95
+street: Forckenbeckstraße
+housenumber: "95"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.lucas-tierwelt.de/"
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.lucas-tierwelt.de/

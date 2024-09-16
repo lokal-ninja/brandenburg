@@ -1,11 +1,11 @@
 id: 121950467
-type: way
+type: node
 latitude: 52.45125
 longitude: 13.53941
 postcode: "12439"
 city: Berlin
-street: "Oberspreestraße"
-housenumber: 37
-phone: "+49 30 678 20 755"
-opening_hours: "Mo-Fr 10:00-18:00"
+street: Oberspreestraße
+housenumber: "37"
+phone: +49 30 678 20 755
+opening_hours: Mo-Fr 10:00-18:00
 website: ""

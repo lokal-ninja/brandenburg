@@ -4,8 +4,8 @@ latitude: 52.50803
 longitude: 13.30602
 postcode: "10627"
 city: Berlin
-street: "Wilmersdorfer Straße"
-housenumber: 55
-phone: "+49 30 31991828"
-opening_hours: "Mo-Sa 10:00-19:00; Su,PH off"
-website: "https://shopseite.telekom.de/nord-ost/berlin/wilmersdorfer-str-55"
+street: Wilmersdorfer Straße
+housenumber: "55"
+phone: +49 30 31991828
+opening_hours: Mo-Sa 10:00-19:00; Su,PH off
+website: https://shopseite.telekom.de/nord-ost/berlin/wilmersdorfer-str-55

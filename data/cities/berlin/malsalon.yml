@@ -4,8 +4,8 @@ latitude: 52.53894
 longitude: 13.41512
 postcode: "10435"
 city: Berlin
-street: "Knaackstraße"
-housenumber: 80
+street: Knaackstraße
+housenumber: "80"
 phone: ""
 opening_hours: ""
-website: "https://www.malsalon.de"
+website: https://www.malsalon.de

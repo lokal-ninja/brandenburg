@@ -1,11 +1,11 @@
 id: 166567564
-type: way
+type: node
 latitude: 52.78389
 longitude: 14.0379
 postcode: "16259"
 city: Bad Freienwalde (Oder)
-street: "Alte Scheunenstraße"
-housenumber: 9
+street: Alte Scheunenstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

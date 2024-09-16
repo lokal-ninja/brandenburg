@@ -1,11 +1,11 @@
 id: 314629600
-type: way
+type: node
 latitude: 52.45858
 longitude: 13.50913
 postcode: "12439"
 city: Berlin
-street: "Schnellerstraße"
-housenumber: 133
-phone: "+49 30 419516310"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off"
-website: "https://www.decathlon.de/de/store?store_id=PS_1068"
+street: Schnellerstraße
+housenumber: "133"
+phone: +49 30 419516310
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-20:00; PH off
+website: https://www.decathlon.de/de/store?store_id=PS_1068

@@ -4,8 +4,8 @@ latitude: 52.53491
 longitude: 13.42605
 postcode: "10405"
 city: Berlin
-street: "Winsstraße"
-housenumber: 51
+street: Winsstraße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-18:00"
-website: "https://vinh-greengrocery.metro.bar"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-18:00
+website: https://vinh-greengrocery.metro.bar

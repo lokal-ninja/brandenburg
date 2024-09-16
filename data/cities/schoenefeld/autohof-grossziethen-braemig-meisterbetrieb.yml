@@ -1,11 +1,11 @@
 id: 288206988
-type: way
+type: node
 latitude: 52.3991
 longitude: 13.45084
 postcode: "12529"
 city: Schönefeld
-street: "Alt Großziethen"
-housenumber: 76
+street: Alt Großziethen
+housenumber: "76"
 phone: ""
-opening_hours: "Mo-Fr 07:00-17:00"
+opening_hours: Mo-Fr 07:00-17:00
 website: ""

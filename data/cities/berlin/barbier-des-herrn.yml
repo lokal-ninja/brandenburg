@@ -4,8 +4,8 @@ latitude: 52.46363
 longitude: 13.31888
 postcode: "12163"
 city: Berlin
-street: "Schildhornstraße"
-housenumber: 15
-phone: "+49 30 7911323"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off"
+street: Schildhornstraße
+housenumber: "15"
+phone: +49 30 7911323
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00; PH off
 website: ""

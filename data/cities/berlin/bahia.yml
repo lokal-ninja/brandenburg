@@ -4,8 +4,8 @@ latitude: 52.49894
 longitude: 13.44079
 postcode: "10997"
 city: Berlin
-street: "Wrangelstraße"
-housenumber: 49
+street: Wrangelstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Fr 12:00-19:00; Sa 12:00-16:00"
+opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-16:00
 website: ""

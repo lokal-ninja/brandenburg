@@ -1,11 +1,11 @@
 id: 49133355
-type: way
+type: node
 latitude: 52.44038
 longitude: 13.43353
 postcode: "12349"
 city: Berlin
-street: "Buckower Damm"
-housenumber: 50
+street: Buckower Damm
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-21:00; Su,PH off
 website: ""

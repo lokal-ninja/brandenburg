@@ -4,8 +4,8 @@ latitude: 52.4688
 longitude: 13.51287
 postcode: "12459"
 city: Berlin
-street: "Rummelsburger Straße"
-housenumber: 16
-phone: "+49 30 53010138"
-opening_hours: "Mo-Sa 08:30-20:00; PH off"
-website: "https://www.dm.de"
+street: Rummelsburger Straße
+housenumber: "16"
+phone: +49 30 53010138
+opening_hours: Mo-Sa 08:30-20:00; PH off
+website: https://www.dm.de

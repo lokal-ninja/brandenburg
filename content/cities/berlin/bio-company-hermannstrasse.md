@@ -1,5 +1,5 @@
 ---
-title: "Bio Company Hermannstraße"
+title: "Bio Company"
 url: /berlin/bio-company-hermannstrasse/
 shop: Supermarkt
 ---

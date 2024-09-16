@@ -4,8 +4,8 @@ latitude: 52.55559
 longitude: 13.5656
 postcode: "12687"
 city: Berlin
-street: "Mehrower Allee"
-housenumber: 50
+street: Mehrower Allee
+housenumber: "50"
 phone: ""
-opening_hours: "24/7"
-website: "https://www.yourstorebox.com/"
+opening_hours: 24/7
+website: https://www.yourstorebox.com/

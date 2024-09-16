@@ -4,8 +4,8 @@ latitude: 52.4333
 longitude: 13.2429
 postcode: "14163"
 city: Berlin
-street: "Potsdamer Straße"
-housenumber: 11
+street: Potsdamer Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-14:00
 website: ""

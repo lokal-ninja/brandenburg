@@ -4,8 +4,8 @@ latitude: 52.49523
 longitude: 13.34163
 postcode: "10777"
 city: Berlin
-street: "Viktoria-Luise-Platz"
-housenumber: 10
-phone: "+49 30 21018755"
-opening_hours: "Mo-Sa 07:00-21:00; Su,PH closed"
+street: Viktoria-Luise-Platz
+housenumber: "10"
+phone: +49 30 21018755
+opening_hours: Mo-Sa 07:00-21:00; Su,PH closed
 website: ""

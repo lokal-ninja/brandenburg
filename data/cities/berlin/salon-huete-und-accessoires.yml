@@ -4,8 +4,8 @@ latitude: 52.50277
 longitude: 13.32016
 postcode: "10629"
 city: Berlin
-street: "Mommsenstraße"
-housenumber: 69
+street: Mommsenstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:30; Sa 11:00-16:00; PH,Su off"
+opening_hours: Mo-Fr 11:00-18:30; Sa 11:00-16:00; PH,Su off
 website: ""

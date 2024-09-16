@@ -1,11 +1,11 @@
 id: 214787296
-type: way
+type: node
 latitude: 52.46387
 longitude: 13.36805
 postcode: "12103"
 city: Berlin
-street: "Bessemerstraße"
-housenumber: 23
+street: Bessemerstraße
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

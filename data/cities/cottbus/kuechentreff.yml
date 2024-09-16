@@ -1,11 +1,11 @@
 id: 131898718
-type: way
+type: node
 latitude: 51.73411
 longitude: 14.31645
 postcode: "03048"
 city: Cottbus
-street: "Sachsendorfer Hauptstraße"
-housenumber: 4
-phone: "+49 355 3573569"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00"
-website: "https://www.kuechentreff-arlt.de/"
+street: Sachsendorfer Hauptstraße
+housenumber: "4"
+phone: +49 355 3573569
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00
+website: https://www.kuechentreff-arlt.de/

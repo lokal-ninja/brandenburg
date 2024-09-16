@@ -4,8 +4,8 @@ latitude: 52.61149
 longitude: 13.43301
 postcode: "13127"
 city: Berlin
-street: "Hauptstraße"
-housenumber: 32
+street: Hauptstraße
+housenumber: "32"
 phone: "+49304742010"
 opening_hours: ""
-website: "https://www.gartencenter-brenke.de/"
+website: https://www.gartencenter-brenke.de/

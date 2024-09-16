@@ -1,11 +1,11 @@
 id: 272963955
-type: way
+type: node
 latitude: 52.52963
 longitude: 13.30837
 postcode: "10589"
 city: Berlin
-street: "Gaußstraße"
-housenumber: 15
+street: Gaußstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-13:00"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 237766085
-type: way
+type: node
 latitude: 53.32204
 longitude: 13.8633
 postcode: "17291"
 city: Prenzlau
-street: "Stettiner Straße"
-housenumber: 47
+street: Stettiner Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

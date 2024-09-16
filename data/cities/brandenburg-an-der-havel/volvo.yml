@@ -1,11 +1,11 @@
 id: 87678666
-type: way
+type: node
 latitude: 52.41453
 longitude: 12.50774
 postcode: "14770"
 city: Brandenburg an der Havel
-street: "Carl-Reichstein-Straße"
-housenumber: 27
+street: Carl-Reichstein-Straße
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

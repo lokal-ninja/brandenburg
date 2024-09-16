@@ -1,11 +1,11 @@
 id: 424510240
-type: way
+type: node
 latitude: 52.61256
 longitude: 12.88526
 postcode: "14641"
 city: Nauen
-street: "Zum Güterbahnhof"
-housenumber: 2
+street: Zum Güterbahnhof
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 07:00-11:30,12:30-17:00; Sa 09:00-14:00; PH,Su off"
+opening_hours: Mo-Fr 07:00-11:30,12:30-17:00; Sa 09:00-14:00; PH,Su off
 website: ""

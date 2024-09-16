@@ -1,11 +1,11 @@
 id: 1113475018
-type: way
+type: node
 latitude: 52.84944
 longitude: 13.69763
 postcode: "16244"
 city: Schorfheide
-street: "Finowfurter Ring"
-housenumber: 24
+street: Finowfurter Ring
+housenumber: "24"
 phone: ""
 opening_hours: ""
-website: "https://www.cubestore-barnim.de/"
+website: https://www.cubestore-barnim.de/

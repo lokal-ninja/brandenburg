@@ -1,11 +1,11 @@
 id: 204606368
-type: way
+type: node
 latitude: 51.45474
 longitude: 13.51766
 postcode: "04910"
 city: Elsterwerda
-street: "Weststraße"
+street: Weststraße
 housenumber: 32a
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

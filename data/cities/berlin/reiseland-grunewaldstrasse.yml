@@ -4,8 +4,8 @@ latitude: 52.48853
 longitude: 13.33871
 postcode: "10825"
 city: Berlin
-street: "Grunewaldstraße"
-housenumber: 47
-phone: "+4930 212806 0"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-14:00"
-website: "https://www.passat-reisen.de/"
+street: Grunewaldstraße
+housenumber: "47"
+phone: +4930 212806 0
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-14:00
+website: https://www.passat-reisen.de/

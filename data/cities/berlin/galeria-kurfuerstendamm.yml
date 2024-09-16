@@ -1,11 +1,11 @@
 id: 363532801
-type: way
+type: node
 latitude: 52.50296
 longitude: 13.33293
 postcode: "10719"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 231
+street: Kurfürstendamm
+housenumber: "231"
 phone: ""
 opening_hours: ""
 website: ""

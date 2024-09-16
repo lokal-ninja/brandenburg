@@ -1,11 +1,12 @@
 id: 261015540
-type: way
+type: node
 latitude: 51.85789
 longitude: 13.72102
 postcode: "15926"
 city: Luckau
-street: "Zaackoer Weg"
-housenumber: 34
-phone: "+49 3544 504060"
-opening_hours: "Mo-Fr 08:00-16:00 open Verkauf; Sa 09:00-14:00 open Verkauf || Mo-Fr 06:30-19:00 open Service || Sa 08:00-14:00 open Service"
-website: "http://www.auto-toepfer.de/"
+street: Zaackoer Weg
+housenumber: "34"
+phone: +49 3544 504060
+opening_hours: Mo-Fr 08:00-16:00 open "Verkauf"; Sa 09:00-14:00 open "Verkauf" ||
+    Mo-Fr 06:30-19:00 open "Service" || Sa 08:00-14:00 open "Service"
+website: http://www.auto-toepfer.de/

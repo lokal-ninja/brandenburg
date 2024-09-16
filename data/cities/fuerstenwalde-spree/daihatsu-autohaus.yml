@@ -1,11 +1,11 @@
 id: 331969971
-type: way
+type: node
 latitude: 52.36954
 longitude: 14.06368
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Wriezener Straße"
-housenumber: 55
-phone: "+49 3361 32008"
+street: Wriezener Straße
+housenumber: "55"
+phone: +49 3361 32008
 opening_hours: ""
 website: ""

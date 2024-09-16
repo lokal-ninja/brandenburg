@@ -1,11 +1,11 @@
 id: 264270531
-type: way
+type: node
 latitude: 51.71712
 longitude: 14.28982
 postcode: "03099"
 city: Kolkwitz
-street: "Annahofer Graben"
-housenumber: 8
+street: Annahofer Graben
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 07:30-16:30"
+opening_hours: Mo-Fr 07:30-16:30
 website: ""

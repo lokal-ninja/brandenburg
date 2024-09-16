@@ -1,11 +1,11 @@
 id: 238749885
-type: way
+type: node
 latitude: 52.49962
 longitude: 13.49495
 postcode: "10319"
 city: Berlin
-street: "Rummelsburger Straße"
-housenumber: 98
+street: Rummelsburger Straße
+housenumber: "98"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/berlin/rummelsburger-strasse-98/3181774"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/filialen-und-oeffnungszeiten.html/l/berlin/rummelsburger-strasse-98/3181774

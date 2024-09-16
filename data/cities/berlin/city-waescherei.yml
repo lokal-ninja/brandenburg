@@ -4,8 +4,8 @@ latitude: 52.47683
 longitude: 13.33251
 postcode: "12159"
 city: Berlin
-street: "Handjerystraße"
-housenumber: 2
-phone: "+49 30 68329725"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-14:00"
-website: "http://www.city-wäscherei.de/"
+street: Handjerystraße
+housenumber: "2"
+phone: +49 30 68329725
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-14:00
+website: http://www.city-wäscherei.de/

@@ -1,11 +1,12 @@
 id: 218520562
-type: way
+type: node
 latitude: 52.50129
 longitude: 13.66209
 postcode: "15366"
 city: Hoppegarten
-street: "Bollensdorfer Weg"
-housenumber: 2
+street: Bollensdorfer Weg
+housenumber: "2"
 phone: ""
-opening_hours: "Jan-May: Mo-Sa 08:00-20:00; Jan-May: Su 10:00-15:00; Jun-Dec: Mo-Sa 09:00-19:00; Jun-Dec: Su 10:00-15:00"
+opening_hours: 'Jan-May: Mo-Sa 08:00-20:00; Jan-May: Su 10:00-15:00; Jun-Dec: Mo-Sa
+    09:00-19:00; Jun-Dec: Su 10:00-15:00'
 website: ""

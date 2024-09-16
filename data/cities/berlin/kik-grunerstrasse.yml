@@ -4,8 +4,8 @@ latitude: 52.51912
 longitude: 13.41116
 postcode: "10179"
 city: Berlin
-street: "Grunerstraße"
-housenumber: 7
+street: Grunerstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Mo-Sa 9:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 09:00-20:00; Mo-Sa 9:00-20:00; Su,PH off
 website: ""

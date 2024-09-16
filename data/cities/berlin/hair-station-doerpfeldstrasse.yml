@@ -4,8 +4,8 @@ latitude: 52.44008
 longitude: 13.55372
 postcode: "12489"
 city: Berlin
-street: "Dörpfeldstraße"
-housenumber: 82
+street: Dörpfeldstraße
+housenumber: "82"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00"
-website: "http://hair-station.net/haarstudio1.html"
+opening_hours: Mo-Fr 09:00-19:00
+website: http://hair-station.net/haarstudio1.html

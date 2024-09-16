@@ -4,8 +4,8 @@ latitude: 52.46411
 longitude: 13.33098
 postcode: "12163"
 city: Berlin
-street: "Schöneberger Straße"
-housenumber: 11
+street: Schöneberger Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
-website: "https://www.urbanbarber.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
+website: https://www.urbanbarber.de/

@@ -4,8 +4,8 @@ latitude: 52.48797
 longitude: 13.36034
 postcode: "10827"
 city: Berlin
-street: "Crellestraße"
-housenumber: 38
-phone: "+49 30 7881530"
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-17:00"
-website: "http://www.biolino.net"
+street: Crellestraße
+housenumber: "38"
+phone: +49 30 7881530
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-17:00
+website: http://www.biolino.net

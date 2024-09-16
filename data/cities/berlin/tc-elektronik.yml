@@ -4,8 +4,8 @@ latitude: 52.49079
 longitude: 13.4218
 postcode: "10967"
 city: Berlin
-street: "Boppstraße"
-housenumber: 6
+street: Boppstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo,We,Fr 12:00-17:00; Tu,Th 14:00-19:00; Sa 11:00-15:00"
+opening_hours: Mo,We,Fr 12:00-17:00; Tu,Th 14:00-19:00; Sa 11:00-15:00
 website: ""

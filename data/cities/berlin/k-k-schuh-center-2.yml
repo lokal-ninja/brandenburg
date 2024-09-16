@@ -1,11 +1,11 @@
 id: 11642008
-type: way
+type: node
 latitude: 52.57066
 longitude: 13.32964
 postcode: ""
 city: Berlin
 street: ""
-housenumber: 
-phone: "+4930 23886794"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.k-und-k-schuhcenter.de/"
+housenumber: ""
+phone: +4930 23886794
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.k-und-k-schuhcenter.de/

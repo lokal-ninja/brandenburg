@@ -1,11 +1,11 @@
 id: 253858893
-type: way
+type: node
 latitude: 52.31527
 longitude: 13.03176
 postcode: "14552"
 city: Michendorf
-street: "Potsdamer Straße"
-housenumber: 14
-phone: "+49 3320 562336"
+street: Potsdamer Straße
+housenumber: "14"
+phone: +49 3320 562336
 opening_hours: ""
 website: ""

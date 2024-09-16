@@ -1,11 +1,11 @@
 id: 76995099
-type: way
+type: node
 latitude: 52.70003
 longitude: 13.43919
 postcode: "16348"
 city: Wandlitz
-street: "Sandweg"
-housenumber: 4
+street: Sandweg
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

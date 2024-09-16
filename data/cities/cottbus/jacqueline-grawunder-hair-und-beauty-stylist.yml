@@ -4,8 +4,8 @@ latitude: 51.76634
 longitude: 14.33265
 postcode: "03044"
 city: Cottbus
-street: "Deffkestraße"
-housenumber: 11
-phone: "+49 355 3830808"
-opening_hours: "Mo,We 09:00-17:00; Tu,Th 09:00-18:00"
-website: "https://www.jacqueline-grawunder.de/"
+street: Deffkestraße
+housenumber: "11"
+phone: +49 355 3830808
+opening_hours: Mo,We 09:00-17:00; Tu,Th 09:00-18:00
+website: https://www.jacqueline-grawunder.de/

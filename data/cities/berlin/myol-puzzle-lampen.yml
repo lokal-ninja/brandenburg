@@ -4,8 +4,8 @@ latitude: 52.5026
 longitude: 13.45416
 postcode: "10245"
 city: Berlin
-street: "Danneckerstraße"
-housenumber: 10
+street: Danneckerstraße
+housenumber: "10"
 phone: ""
-opening_hours: "nach Vereinbarung"
+opening_hours: '"nach Vereinbarung"'
 website: ""

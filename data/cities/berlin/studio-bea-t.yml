@@ -4,8 +4,8 @@ latitude: 52.47232
 longitude: 13.33115
 postcode: "12159"
 city: Berlin
-street: "Niedstraße"
-housenumber: 29
+street: Niedstraße
+housenumber: "29"
 phone: ""
-opening_hours: "Termine nach Vereinbarung"
+opening_hours: '"Termine nach Vereinbarung"'
 website: ""

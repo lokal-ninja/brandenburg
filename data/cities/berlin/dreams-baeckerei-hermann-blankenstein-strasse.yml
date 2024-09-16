@@ -4,8 +4,8 @@ latitude: 52.5225
 longitude: 13.46618
 postcode: "10249"
 city: Berlin
-street: "Hermann-Blankenstein-Straße"
-housenumber: 
+street: Hermann-Blankenstein-Straße
+housenumber: ""
 phone: ""
-opening_hours: "Sa 08:00-20:00; Mo-Fr 08:00-20:00"
+opening_hours: Mo-Th 06:00-19:00; Fr,Sa 06:00-20:00
 website: ""

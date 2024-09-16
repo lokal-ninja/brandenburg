@@ -4,8 +4,8 @@ latitude: 52.45989
 longitude: 13.32558
 postcode: "12163"
 city: Berlin
-street: "Hubertusstraße"
-housenumber: 5
-phone: "+4930 51588415"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-15:00"
+street: Hubertusstraße
+housenumber: "5"
+phone: +4930 51588415
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-15:00
 website: ""

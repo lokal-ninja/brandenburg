@@ -4,8 +4,8 @@ latitude: 52.55565
 longitude: 13.5591
 postcode: "12687"
 city: Berlin
-street: "Mehrower Allee"
-housenumber: 20
+street: Mehrower Allee
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 08:00-18:30"
-website: "https://www.dm.de/"
+opening_hours: Mo-Fr 08:00-20:00; Sa 08:00-18:30
+website: https://www.dm.de/

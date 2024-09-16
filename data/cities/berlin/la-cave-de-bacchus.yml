@@ -4,8 +4,8 @@ latitude: 52.49585
 longitude: 13.29703
 postcode: "10709"
 city: Berlin
-street: "Westfälische Straße"
-housenumber: 33
+street: Westfälische Straße
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
 website: ""

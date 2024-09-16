@@ -1,11 +1,11 @@
 id: 90810843
-type: way
+type: node
 latitude: 52.32899
 longitude: 14.06983
 postcode: "15526"
 city: Bad Saarow
-street: "Am Fuchsbau"
-housenumber: 2
+street: Am Fuchsbau
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

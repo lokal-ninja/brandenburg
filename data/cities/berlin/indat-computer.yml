@@ -4,8 +4,8 @@ latitude: 52.4985
 longitude: 13.30716
 postcode: "10707"
 city: Berlin
-street: "Brandenburgische Straße"
-housenumber: 37
+street: Brandenburgische Straße
+housenumber: "37"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa-Su,PH closed"
+opening_hours: Mo-Fr 09:00-17:00; Sa-Su,PH closed
 website: ""

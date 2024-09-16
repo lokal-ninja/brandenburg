@@ -4,8 +4,8 @@ latitude: 52.48731
 longitude: 13.34017
 postcode: "10825"
 city: Berlin
-street: "Innsbrucker Straße"
-housenumber: 4
+street: Innsbrucker Straße
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Fr 09:00-17:00; Sa 08:00-14:00"
+opening_hours: Mo-Fr 09:00-17:00; Sa 08:00-14:00
 website: ""

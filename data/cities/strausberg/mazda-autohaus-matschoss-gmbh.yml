@@ -1,11 +1,11 @@
 id: 38969256
-type: way
+type: node
 latitude: 52.58085
 longitude: 13.90524
 postcode: "15344"
 city: Strausberg
-street: "Lehmkuhlenring"
-housenumber: 7
+street: Lehmkuhlenring
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

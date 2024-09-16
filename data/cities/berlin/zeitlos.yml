@@ -4,8 +4,8 @@ latitude: 52.50982
 longitude: 13.29708
 postcode: "14057"
 city: Berlin
-street: "Suarezstraße"
-housenumber: 61
-phone: "+49 30 32769060"
-opening_hours: "Mo-Fr 13:00-18:00; Sa 11:00-16:00"
-website: "https://www.zeitlos-artd.de/"
+street: Suarezstraße
+housenumber: "61"
+phone: +49 30 32769060
+opening_hours: Mo-Fr 13:00-18:00; Sa 11:00-16:00
+website: https://www.zeitlos-artd.de/

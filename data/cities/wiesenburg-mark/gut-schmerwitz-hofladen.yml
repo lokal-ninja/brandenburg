@@ -4,8 +4,8 @@ latitude: 52.13992
 longitude: 12.48263
 postcode: "14827"
 city: Wiesenburg/Mark
-street: "Schmerwitz"
-housenumber: 8
-phone: "+49 33849 9080"
-opening_hours: "Mo-Fr 09:00-17:00; Sa 09:00-16:00"
-website: "https://www.gut-schmerwitz.de/hofladen/"
+street: Schmerwitz
+housenumber: "8"
+phone: +49 33849 9080
+opening_hours: Mo-Fr 09:00-17:00; Sa 09:00-16:00
+website: https://www.gut-schmerwitz.de/hofladen/

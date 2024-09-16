@@ -4,8 +4,8 @@ latitude: 52.47757
 longitude: 13.42518
 postcode: "12049"
 city: Berlin
-street: "Herrfurthstraße"
-housenumber: 3
-phone: "+49 173 9161437"
+street: Herrfurthstraße
+housenumber: "3"
+phone: +49 173 9161437
 opening_hours: ""
-website: "http://herrhollaender.de/"
+website: http://herrhollaender.de/

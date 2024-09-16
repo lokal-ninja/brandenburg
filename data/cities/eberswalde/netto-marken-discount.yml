@@ -1,11 +1,11 @@
 id: 221312832
-type: way
+type: node
 latitude: 52.84029
 longitude: 13.76578
 postcode: "16227"
 city: Eberswalde
-street: "Lichterfelder Straße"
-housenumber: 11
+street: Lichterfelder Straße
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

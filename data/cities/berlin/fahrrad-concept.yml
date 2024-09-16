@@ -4,8 +4,8 @@ latitude: 52.49001
 longitude: 13.52767
 postcode: "10318"
 city: Berlin
-street: "Treskowallee"
-housenumber: 26
-phone: "+49 30 50014107"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off"
-website: "http://www.fahrrad-concept.de"
+street: Treskowallee
+housenumber: "26"
+phone: +49 30 50014107
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-13:00; PH off
+website: http://www.fahrrad-concept.de

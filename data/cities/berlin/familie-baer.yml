@@ -4,8 +4,9 @@ latitude: 52.41888
 longitude: 13.32519
 postcode: "12209"
 city: Berlin
-street: "Heinersdorfer Straße"
-housenumber: 23
-phone: "+49 30 81052832"
-opening_hours: "Mo 10:00-18:00, Di 10:00-14:00, Mi 10:00-14:00, Do 10:00-14:00 Fr 10:00-18:00 Sa 10:00-16:00"
-website: "https://www.familiebaer.com/shop/"
+street: Heinersdorfer Straße
+housenumber: "23"
+phone: +49 30 81052832
+opening_hours: Mo 10:00-18:00, Di 10:00-14:00, Mi 10:00-14:00, Do 10:00-14:00 Fr 10:00-18:00
+    Sa 10:00-16:00
+website: https://www.familiebaer.com/shop/

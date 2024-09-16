@@ -1,11 +1,11 @@
 id: 305848145
-type: way
+type: node
 latitude: 51.73952
 longitude: 14.64598
 postcode: "03149"
 city: Forst (Lausitz)
-street: "Planckstraße"
-housenumber: 10
-phone: "+49 (0)3562 666382"
+street: Planckstraße
+housenumber: "10"
+phone: +49 (0)3562 666382
 opening_hours: ""
-website: "https://derno-forst.skoda-auto.de/"
+website: https://derno-forst.skoda-auto.de/

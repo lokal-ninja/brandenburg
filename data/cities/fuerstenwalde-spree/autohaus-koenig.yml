@@ -1,11 +1,11 @@
 id: 96271104
-type: way
+type: node
 latitude: 52.33685
 longitude: 14.07264
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Auto-Focus"
-housenumber: 1
-phone: "+493361 37641 0"
+street: Auto-Focus
+housenumber: "1"
+phone: +493361 37641 0
 opening_hours: ""
-website: "https://www.fiat-koenig.de/filialen/fuerstenwalde/"
+website: https://www.fiat-koenig.de/filialen/fuerstenwalde/

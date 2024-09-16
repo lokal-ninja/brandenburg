@@ -4,8 +4,8 @@ latitude: 52.46265
 longitude: 13.32335
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 15
-phone: "+49 800 6655900"
-opening_hours: "Mo-Sa 10:00-20:00; Su,PH off"
-website: "https://www2.hm.com/de_de/customer-service/shopping-at-hm/local-store.DE0072.html"
+street: Schloßstraße
+housenumber: "15"
+phone: +49 800 6655900
+opening_hours: Mo-Sa 10:00-20:00; Su,PH off
+website: https://www2.hm.com/de_de/customer-service/shopping-at-hm/local-store.DE0072.html

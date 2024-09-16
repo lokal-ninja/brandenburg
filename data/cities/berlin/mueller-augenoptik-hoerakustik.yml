@@ -4,8 +4,8 @@ latitude: 52.51767
 longitude: 13.3072
 postcode: "10585"
 city: Berlin
-street: "Otto-Suhr-Allee"
+street: Otto-Suhr-Allee
 housenumber: 106 b
 phone: ""
-opening_hours: "Sprechzeiten nach Vereinbarung"
+opening_hours: '"Sprechzeiten nach Vereinbarung"'
 website: ""

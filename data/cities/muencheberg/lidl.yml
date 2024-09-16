@@ -1,11 +1,11 @@
 id: 129340281
-type: way
+type: node
 latitude: 52.5022
 longitude: 14.14563
 postcode: "15374"
 city: Müncheberg
-street: "Ernst-Thälmann-Straße"
-housenumber: 22
+street: Ernst-Thälmann-Straße
+housenumber: "22"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
-website: "https://www.lidl.de/filialen/muencheberg/ernst-thaelmann-str-22.html"
+opening_hours: Mo-Sa 07:00-21:00
+website: https://www.lidl.de/filialen/muencheberg/ernst-thaelmann-str-22.html

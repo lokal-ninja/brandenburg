@@ -4,8 +4,8 @@ latitude: 52.51549
 longitude: 13.47201
 postcode: "10247"
 city: Berlin
-street: "Waldeyerstraße"
-housenumber: 8
+street: Waldeyerstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 10:00-20:00; Sa 10:00-17:00; PH off"
+opening_hours: Mo-Fr 10:00-20:00; Sa 10:00-17:00; PH off
 website: ""

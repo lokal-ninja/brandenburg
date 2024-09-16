@@ -4,8 +4,8 @@ latitude: 52.5104
 longitude: 13.28427
 postcode: "14057"
 city: Berlin
-street: "Kaiserdamm"
-housenumber: 21
-phone: "+49 30 3066971"
-opening_hours: "Mo-Fr 06:00-18:00; Sa 06:00-14:00"
-website: "http://thobens-backwaren.de/charlottenburg/charlottenburg_kaiserdamm_21.shtml"
+street: Kaiserdamm
+housenumber: "21"
+phone: +49 30 3066971
+opening_hours: Mo-Fr 06:00-18:00; Sa 06:00-14:00
+website: http://thobens-backwaren.de/charlottenburg/charlottenburg_kaiserdamm_21.shtml

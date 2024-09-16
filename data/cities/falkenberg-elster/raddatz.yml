@@ -4,8 +4,8 @@ latitude: 51.58985
 longitude: 13.23609
 postcode: "04895"
 city: Falkenberg/Elster
-street: "Lindenstraße"
-housenumber: 10
-phone: "+49 35365 386986"
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.baeckerei-raddatz.de/"
+street: Lindenstraße
+housenumber: "10"
+phone: +49 35365 386986
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.baeckerei-raddatz.de/

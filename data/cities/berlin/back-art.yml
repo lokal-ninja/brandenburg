@@ -4,8 +4,8 @@ latitude: 52.49286
 longitude: 13.41496
 postcode: "10967"
 city: Berlin
-street: "Dieffenbachstraße"
-housenumber: 12
+street: Dieffenbachstraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 08:30-17:00"
+opening_hours: Mo-Fr 06:00-19:00; Sa 06:00-17:00; Su 08:30-17:00
 website: ""

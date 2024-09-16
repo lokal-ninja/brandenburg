@@ -1,11 +1,11 @@
 id: 43513119
-type: way
+type: node
 latitude: 52.54624
 longitude: 13.50388
 postcode: "13055"
 city: Berlin
-street: "Gärtnerstraße"
-housenumber: 17
-phone: "+49 30 9819000"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 09:00-14:00"
-website: "https://oranke-berlin-hohenschoenhausen.haendler.nissan.de/de/startseite"
+street: Gärtnerstraße
+housenumber: "17"
+phone: +49 30 9819000
+opening_hours: Mo-Fr 07:00-19:00; Sa 09:00-14:00
+website: https://oranke-berlin-hohenschoenhausen.haendler.nissan.de/de/startseite

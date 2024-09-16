@@ -4,8 +4,8 @@ latitude: 52.53776
 longitude: 13.42088
 postcode: "10405"
 city: Berlin
-street: "Sredzkistraße"
-housenumber: 56
-phone: "+49 30 44038350"
-opening_hours: "Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su closed"
-website: "https://tomshot.com/"
+street: Sredzkistraße
+housenumber: "56"
+phone: +49 30 44038350
+opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00; Su closed
+website: https://tomshot.com/

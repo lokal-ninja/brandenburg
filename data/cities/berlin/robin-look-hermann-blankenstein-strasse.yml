@@ -4,8 +4,8 @@ latitude: 52.52401
 longitude: 13.46203
 postcode: "10249"
 city: Berlin
-street: "Hermann-Blankenstein-Straße"
-housenumber: 38
-phone: "+49 30 26349548"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.robinlook.de/"
+street: Hermann-Blankenstein-Straße
+housenumber: "38"
+phone: +49 30 26349548
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.robinlook.de/

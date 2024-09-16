@@ -1,11 +1,11 @@
 id: 382929723
-type: way
+type: node
 latitude: 52.8848
 longitude: 13.81385
 postcode: "16230"
 city: Britz
-street: "Joachimsthaler Straße"
-housenumber: 2
+street: Joachimsthaler Straße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

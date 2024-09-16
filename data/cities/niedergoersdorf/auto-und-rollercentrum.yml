@@ -1,11 +1,11 @@
 id: 253217192
-type: way
+type: node
 latitude: 52.00498
 longitude: 12.99388
 postcode: "14913"
 city: Niedergörsdorf
-street: "Kastanienallee"
-housenumber: 23
+street: Kastanienallee
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

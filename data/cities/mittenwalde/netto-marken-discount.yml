@@ -1,11 +1,11 @@
 id: 236587174
-type: way
+type: node
 latitude: 52.2606
 longitude: 13.54559
 postcode: "15749"
 city: Mittenwalde
-street: "Rathausstraße"
-housenumber: 15
+street: Rathausstraße
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

@@ -1,11 +1,11 @@
 id: 313268009
-type: way
+type: node
 latitude: 51.86813
 longitude: 13.43791
 postcode: "15936"
 city: Dahme/Mark
-street: "Bahnhofstraße"
-housenumber: 10
-phone: "+49 35451 989-0"
-opening_hours: "Mo-Fr 07:00-19:00; Sa 08:00-16:00"
+street: Bahnhofstraße
+housenumber: "10"
+phone: +49 35451 989-0
+opening_hours: Mo-Fr 07:00-19:00; Sa 08:00-16:00
 website: ""

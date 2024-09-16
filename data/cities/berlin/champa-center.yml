@@ -4,8 +4,8 @@ latitude: 52.4809
 longitude: 13.43441
 postcode: "12053"
 city: Berlin
-street: "Boddinstraße"
-housenumber: 65
+street: Boddinstraße
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 9:00-17:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 9:00-17:00
 website: ""

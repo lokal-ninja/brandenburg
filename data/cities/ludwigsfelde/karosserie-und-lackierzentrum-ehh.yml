@@ -1,11 +1,11 @@
 id: 169624675
-type: way
+type: node
 latitude: 52.30356
 longitude: 13.27321
 postcode: "14974"
 city: Ludwigsfelde
-street: "Ludwigsfelder Damm"
-housenumber: 13
+street: Ludwigsfelder Damm
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

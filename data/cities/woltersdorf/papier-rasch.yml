@@ -1,11 +1,11 @@
 id: 272424941
-type: way
+type: node
 latitude: 52.45004
 longitude: 13.75215
 postcode: "15569"
 city: Woltersdorf
-street: "Köpenicker Straße"
-housenumber: 74
+street: Köpenicker Straße
+housenumber: "74"
 phone: ""
 opening_hours: ""
 website: ""

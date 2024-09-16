@@ -1,11 +1,11 @@
 id: 127841529
-type: way
+type: node
 latitude: 51.77871
 longitude: 14.31932
 postcode: "03044"
 city: Cottbus
-street: "Heinrich-Hertz-Straße"
-housenumber: 1
+street: Heinrich-Hertz-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

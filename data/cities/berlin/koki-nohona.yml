@@ -4,8 +4,8 @@ latitude: 52.5148
 longitude: 13.30273
 postcode: "10585"
 city: Berlin
-street: "Gierkezeile"
-housenumber: 21
+street: Gierkezeile
+housenumber: "21"
 phone: ""
-opening_hours: "We-Fr 13:00-19:00; Sa 10:00-15:00; Mo-Th nach Vereinbarung"
-website: "http://www.koki-nohona.de/"
+opening_hours: We-Fr 13:00-19:00; Sa 10:00-15:00; Mo-Th "nach Vereinbarung"
+website: http://www.koki-nohona.de/

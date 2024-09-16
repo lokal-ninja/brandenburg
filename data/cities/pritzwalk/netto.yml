@@ -1,11 +1,11 @@
 id: 134514027
-type: way
+type: node
 latitude: 53.1486
 longitude: 12.15863
 postcode: "16928"
 city: Pritzwalk
-street: "Schwalbenweg"
-housenumber: 1
+street: Schwalbenweg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto.de/"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto.de/

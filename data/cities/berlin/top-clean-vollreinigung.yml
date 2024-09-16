@@ -4,8 +4,8 @@ latitude: 52.45616
 longitude: 13.32419
 postcode: "12165"
 city: Berlin
-street: "Albrechtstraße"
-housenumber: 127
+street: Albrechtstraße
+housenumber: "127"
 phone: "+4930220565711"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
-website: "https://topclean-textilreinigung.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
+website: https://topclean-textilreinigung.de/

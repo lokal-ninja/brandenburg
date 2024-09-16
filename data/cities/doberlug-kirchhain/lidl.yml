@@ -1,11 +1,11 @@
 id: 377141655
-type: way
+type: node
 latitude: 51.61905
 longitude: 13.5594
 postcode: "03253"
 city: Doberlug-Kirchhain
-street: "Bahnhofsallee"
-housenumber: 10
+street: Bahnhofsallee
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

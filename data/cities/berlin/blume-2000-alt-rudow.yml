@@ -4,8 +4,8 @@ latitude: 52.41771
 longitude: 13.49541
 postcode: "12357"
 city: Berlin
-street: "Alt-Rudow"
-housenumber: 58
+street: Alt-Rudow
+housenumber: "58"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-16:00; PH off
 website: ""

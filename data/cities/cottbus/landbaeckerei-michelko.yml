@@ -1,11 +1,11 @@
 id: 28924010
-type: way
+type: node
 latitude: 51.73941
 longitude: 14.36792
 postcode: "03042"
 city: Cottbus
-street: "Museumsweg"
-housenumber: 4
-phone: "+49 355 714692"
-opening_hours: "Tu-Fr 07:00-17:30; Su,Mo off; Sa 07:00-11:00"
-website: "https://baeckerei-michelko.edan.io/"
+street: Museumsweg
+housenumber: "4"
+phone: +49 355 714692
+opening_hours: Tu-Fr 07:00-17:30; Su,Mo off; Sa 07:00-11:00
+website: https://baeckerei-michelko.edan.io/

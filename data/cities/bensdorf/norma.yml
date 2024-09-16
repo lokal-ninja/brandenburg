@@ -1,11 +1,11 @@
 id: 77196931
-type: way
+type: node
 latitude: 52.40957
 longitude: 12.36379
 postcode: "14789"
 city: Bensdorf
-street: "Dorfstraße"
-housenumber: 55
+street: Dorfstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:00"
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

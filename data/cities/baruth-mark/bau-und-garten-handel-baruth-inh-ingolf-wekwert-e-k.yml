@@ -1,11 +1,11 @@
 id: 371135689
-type: way
+type: node
 latitude: 52.04556
 longitude: 13.50056
 postcode: "15837"
 city: Baruth/Mark
-street: "Luckenwalder Straße"
-housenumber: 4
+street: Luckenwalder Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

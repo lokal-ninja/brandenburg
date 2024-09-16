@@ -4,8 +4,8 @@ latitude: 52.6346
 longitude: 13.20651
 postcode: "16761"
 city: Hennigsdorf
-street: "Neuendorfstraße"
-housenumber: 6
-phone: "+49 3302 801941"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.havelland-optik.de/"
+street: Neuendorfstraße
+housenumber: "6"
+phone: +49 3302 801941
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.havelland-optik.de/

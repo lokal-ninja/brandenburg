@@ -1,11 +1,11 @@
 id: 525606861
-type: way
+type: node
 latitude: 51.62908
 longitude: 13.70331
 postcode: "03238"
 city: Finsterwalde
-street: "Weststraße"
-housenumber: 6
+street: Weststraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su,PH off"
+opening_hours: Mo-Fr 10:00-19:00; Sa 09:30-18:00; Su,PH off
 website: ""

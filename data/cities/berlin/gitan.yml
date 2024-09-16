@@ -4,8 +4,8 @@ latitude: 52.49699
 longitude: 13.35254
 postcode: "10781"
 city: Berlin
-street: "Winterfeldtstraße"
-housenumber: 52
-phone: "+49 30 2152394"
-opening_hours: "Mo-Sa 10:00-22:00"
-website: "http://www.gitan-wein.de"
+street: Winterfeldtstraße
+housenumber: "52"
+phone: +49 30 2152394
+opening_hours: Mo-Sa 10:00-22:00
+website: http://www.gitan-wein.de

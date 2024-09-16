@@ -4,8 +4,8 @@ latitude: 52.60201
 longitude: 13.75654
 postcode: "15345"
 city: Altlandsberg
-street: "Alte Dorfstraße"
-housenumber: 22
-phone: "+49 33438 151501"
-opening_hours: "Tu-Fr 08:00-15:00; Mo,Sa nach Vereinbarung"
-website: "http://www.salon-ivonne.de/"
+street: Alte Dorfstraße
+housenumber: "22"
+phone: +49 33438 151501
+opening_hours: Tu-Fr 08:00-15:00; Mo,Sa "nach Vereinbarung"
+website: http://www.salon-ivonne.de/

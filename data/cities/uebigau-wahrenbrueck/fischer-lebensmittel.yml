@@ -1,11 +1,11 @@
 id: 155944718
-type: way
+type: node
 latitude: 51.54817
 longitude: 13.29385
 postcode: "04924"
 city: Uebigau-Wahrenbrück
-street: "Dorfstraße"
-housenumber: 70
-phone: "+49 35365 2770"
+street: Dorfstraße
+housenumber: "70"
+phone: +49 35365 2770
 opening_hours: ""
 website: ""

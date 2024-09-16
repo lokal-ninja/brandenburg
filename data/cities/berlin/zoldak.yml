@@ -4,8 +4,8 @@ latitude: 52.51261
 longitude: 13.31818
 postcode: "10625"
 city: Berlin
-street: "Bismarckstraße"
-housenumber: 7
+street: Bismarckstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa-Su,PH off"
-website: "https://www.dellenentfernung-in-berlin.de"
+opening_hours: Mo-Fr 08:00-18:00; Sa-Su,PH off
+website: https://www.dellenentfernung-in-berlin.de

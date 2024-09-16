@@ -4,8 +4,9 @@ latitude: 52.39948
 longitude: 13.05032
 postcode: "14467"
 city: Potsdam
-street: "Hermann-Elflein-Straße"
-housenumber: 23
+street: Hermann-Elflein-Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Mo 14:00-18:30; Tu-Fr 10:00-13:00,14:00-18:30; Sa 09:30-13:00; PH,Su off"
+opening_hours: Mo 14:00-18:30; Tu-Fr 10:00-13:00,14:00-18:30; Sa 09:30-13:00; PH,Su
+    off
 website: ""

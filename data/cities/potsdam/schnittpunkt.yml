@@ -4,8 +4,8 @@ latitude: 52.40349
 longitude: 13.05879
 postcode: "14467"
 city: Potsdam
-street: "Kurfürstenstraße"
-housenumber: 2
+street: Kurfürstenstraße
+housenumber: "2"
 phone: "+493312009955"
-opening_hours: "Mo-We 09:00-18:00;Th-Fr 10:00-22:00;Sa 09:00-15:00"
-website: "https://www.potsdamfriseur.de/"
+opening_hours: Mo-We 09:00-18:00;Th-Fr 10:00-22:00;Sa 09:00-15:00
+website: https://www.potsdamfriseur.de/

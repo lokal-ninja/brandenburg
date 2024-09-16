@@ -4,8 +4,8 @@ latitude: 52.48625
 longitude: 13.32172
 postcode: "10715"
 city: Berlin
-street: "Berliner Straße"
-housenumber: 132
+street: Berliner Straße
+housenumber: "132"
 phone: ""
-opening_hours: "Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off"
+opening_hours: Mo-Fr 08:00-21:00; Sa 08:00-21:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 24923069
-type: way
+type: node
 latitude: 52.58296
 longitude: 13.3518
 postcode: "13407"
 city: Berlin
-street: "Montanstraße"
-housenumber: 25
+street: Montanstraße
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

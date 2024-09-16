@@ -4,8 +4,8 @@ latitude: 52.4695
 longitude: 13.33554
 postcode: "12159"
 city: Berlin
-street: "Dickhardtstraße"
-housenumber: 50
+street: Dickhardtstraße
+housenumber: "50"
 phone: ""
 opening_hours: ""
-website: "https://www.mediqdirekt.de/"
+website: https://www.mediqdirekt.de/

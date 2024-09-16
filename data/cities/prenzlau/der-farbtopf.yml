@@ -1,11 +1,11 @@
 id: 1017521487
-type: way
+type: node
 latitude: 53.31818
 longitude: 13.85101
 postcode: "17291"
 city: Prenzlau
-street: "Neubrandenburger Straße"
-housenumber: 76
+street: Neubrandenburger Straße
+housenumber: "76"
 phone: ""
 opening_hours: ""
-website: "https://www.erste-prenzlauer-maler.de/"
+website: https://www.erste-prenzlauer-maler.de/

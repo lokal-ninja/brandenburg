@@ -1,11 +1,11 @@
 id: 184302918
-type: way
+type: node
 latitude: 52.11076
 longitude: 12.36994
 postcode: "14827"
 city: Wiesenburg/Mark
-street: "Platz der Einheit"
-housenumber: 1
+street: Platz der Einheit
+housenumber: "1"
 phone: ""
 opening_hours: ""
-website: "https://lackiererei-bruening.de"
+website: https://lackiererei-bruening.de

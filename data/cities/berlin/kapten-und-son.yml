@@ -4,8 +4,8 @@ latitude: 52.52443
 longitude: 13.40313
 postcode: "10178"
 city: Berlin
-street: "Rosenthaler Straße"
-housenumber: 46
+street: Rosenthaler Straße
+housenumber: "46"
 phone: ""
-opening_hours: "Mo-Sa 10:30-19:30"
+opening_hours: Mo-Sa 10:30-19:30
 website: ""

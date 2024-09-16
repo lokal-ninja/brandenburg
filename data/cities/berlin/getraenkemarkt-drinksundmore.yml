@@ -4,8 +4,8 @@ latitude: 52.4815
 longitude: 13.36124
 postcode: "10829"
 city: Berlin
-street: "Leberstraße"
-housenumber: 60
+street: Leberstraße
+housenumber: "60"
 phone: "+493025048903"
-opening_hours: "Mo-Sa 10:00-21:00"
+opening_hours: Mo-Sa 10:00-21:00
 website: ""

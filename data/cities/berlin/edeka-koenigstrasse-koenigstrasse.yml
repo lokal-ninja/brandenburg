@@ -1,11 +1,11 @@
 id: 78622251
-type: way
+type: node
 latitude: 52.41999
 longitude: 13.15968
 postcode: "14109"
 city: Berlin
-street: "Königstraße"
-housenumber: 14
+street: Königstraße
+housenumber: "14"
 phone: "+49308052559"
 opening_hours: ""
 website: ""

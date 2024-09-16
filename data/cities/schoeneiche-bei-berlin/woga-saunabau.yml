@@ -1,11 +1,11 @@
 id: 48080587
-type: way
+type: node
 latitude: 52.46544
 longitude: 13.69263
 postcode: "15566"
 city: Schöneiche bei Berlin
-street: "Waldstraße"
-housenumber: 7
+street: Waldstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

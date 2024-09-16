@@ -1,11 +1,11 @@
 id: 488037612
-type: way
+type: node
 latitude: 52.86529
 longitude: 14.04041
 postcode: "16248"
 city: Oderberg
-street: "Berliner Straße"
-housenumber: 65
+street: Berliner Straße
+housenumber: "65"
 phone: ""
 opening_hours: ""
 website: ""

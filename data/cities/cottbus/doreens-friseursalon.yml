@@ -4,8 +4,8 @@ latitude: 51.76346
 longitude: 14.34696
 postcode: "03042"
 city: Cottbus
-street: "Hermannstraße"
-housenumber: 14
-phone: "+49 355 75211973"
-opening_hours: "Tu-Fr 10:00-18:00"
-website: "https://doreen-friseur.de"
+street: Hermannstraße
+housenumber: "14"
+phone: +49 355 75211973
+opening_hours: Tu-Fr 10:00-18:00
+website: https://doreen-friseur.de

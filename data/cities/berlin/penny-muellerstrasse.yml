@@ -4,8 +4,8 @@ latitude: 52.55009
 longitude: 13.35331
 postcode: "13353"
 city: Berlin
-street: "Müllerstraße"
-housenumber: 40
+street: Müllerstraße
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Sa 08:00-21:00"
-website: "https://www.penny.de/"
+opening_hours: Mo-Sa 08:00-21:00
+website: https://www.penny.de/

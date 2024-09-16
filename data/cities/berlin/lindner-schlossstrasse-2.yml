@@ -4,8 +4,8 @@ latitude: 52.46282
 longitude: 13.32472
 postcode: "12163"
 city: Berlin
-street: "Schloßstraße"
-housenumber: 15
-phone: "+49 30 31984493"
-opening_hours: "Mo-Sa 10:00-20:00; PH,Su off"
-website: "https://www.lindner-esskultur.de/standorte/berlin/boulevard-berlin/"
+street: Schloßstraße
+housenumber: "15"
+phone: +49 30 31984493
+opening_hours: Mo-Sa 10:00-20:00; PH,Su off
+website: https://www.lindner-esskultur.de/standorte/berlin/boulevard-berlin/

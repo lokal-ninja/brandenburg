@@ -4,8 +4,8 @@ latitude: 51.8667
 longitude: 13.43339
 postcode: "15936"
 city: Dahme/Mark
-street: "Schellstraße"
-housenumber: 12
-phone: "+49 35365 87455"
-opening_hours: "We 10:00-16:00; Th-Tu, PH off"
-website: "https://www.fisch-suhr.de/"
+street: Schellstraße
+housenumber: "12"
+phone: +49 35365 87455
+opening_hours: We 10:00-16:00; Th-Tu, PH off
+website: https://www.fisch-suhr.de/

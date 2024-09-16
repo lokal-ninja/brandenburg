@@ -1,11 +1,11 @@
 id: 42267803
-type: way
+type: node
 latitude: 52.63103
 longitude: 13.31673
 postcode: "16548"
 city: Glienicke/Nordbahn
-street: "Hauptstraße"
-housenumber: 16
-phone: "+49 33056 41599 0"
-opening_hours: "Mo-Sa 07:00-20:00; Su,PH off"
-website: "https://www.edeka.de/"
+street: Hauptstraße
+housenumber: "16"
+phone: +49 33056 41599 0
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
+website: https://www.edeka.de/

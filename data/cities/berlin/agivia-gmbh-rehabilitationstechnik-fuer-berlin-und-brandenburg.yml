@@ -4,8 +4,8 @@ latitude: 52.50499
 longitude: 13.62316
 postcode: "12623"
 city: Berlin
-street: "Landsberger Straße"
-housenumber: 250
-phone: "+49 30 2332939-30"
+street: Landsberger Straße
+housenumber: "250"
+phone: +49 30 2332939-30
 opening_hours: ""
-website: "https://www.agivia.de/"
+website: https://www.agivia.de/

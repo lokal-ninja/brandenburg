@@ -4,8 +4,8 @@ latitude: 52.48907
 longitude: 13.45446
 postcode: "12435"
 city: Berlin
-street: "Elsenstraße"
-housenumber: 101
-phone: "+49 30 75548482"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-15:00"
-website: "http://www.haireinspaziert.berlin/"
+street: Elsenstraße
+housenumber: "101"
+phone: +49 30 75548482
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-15:00
+website: http://www.haireinspaziert.berlin/

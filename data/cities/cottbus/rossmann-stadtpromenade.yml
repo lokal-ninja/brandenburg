@@ -1,11 +1,11 @@
 id: 731258390
-type: way
+type: node
 latitude: 51.75927
 longitude: 14.32995
 postcode: "03046"
 city: Cottbus
-street: "Stadtpromenade"
-housenumber: 11
+street: Stadtpromenade
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su off; PH off"
+opening_hours: Mo-Sa 09:00-20:00; Su off; PH off
 website: ""

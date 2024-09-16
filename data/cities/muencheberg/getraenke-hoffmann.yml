@@ -1,11 +1,11 @@
 id: 128569505
-type: way
+type: node
 latitude: 52.50183
 longitude: 14.14657
 postcode: "15374"
 city: Müncheberg
-street: "Ernst-Thälmann-Straße"
-housenumber: 20
-phone: "+49 33432 747147"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.getraenke-hoffmann.de/"
+street: Ernst-Thälmann-Straße
+housenumber: "20"
+phone: +49 33432 747147
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.getraenke-hoffmann.de/

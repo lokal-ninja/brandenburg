@@ -4,8 +4,9 @@ latitude: 52.4097
 longitude: 12.56372
 postcode: "14776"
 city: Brandenburg an der Havel
-street: "Molkenmarkt"
-housenumber: 33
+street: Molkenmarkt
+housenumber: "33"
 phone: ""
-opening_hours: "Mo-Th 09:30-18:00; Fr 08:30-20:00; We 08:30-20:00; Th 08:30-20:00; Fr 08:30-18:30; Sa 09:30-13:00"
-website: "https://www.belmondo-brb.de/"
+opening_hours: Mo-Th 09:30-18:00; Fr 08:30-20:00; We 08:30-20:00; Th 08:30-20:00;
+    Fr 08:30-18:30; Sa 09:30-13:00
+website: https://www.belmondo-brb.de/

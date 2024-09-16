@@ -1,11 +1,11 @@
 id: 31991160
-type: way
+type: node
 latitude: 52.54681
 longitude: 13.57558
 postcode: "12681"
 city: Berlin
-street: "Landsberger Allee"
-housenumber: 554
+street: Landsberger Allee
+housenumber: "554"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://www.junge-welten-gmbh.de/"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://www.junge-welten-gmbh.de/

@@ -4,8 +4,8 @@ latitude: 52.5025
 longitude: 13.32892
 postcode: "10719"
 city: Berlin
-street: "Meinekestraße"
-housenumber: 2
-phone: "+49 30 32593239"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.titus.de/shops/berlin-zoopreme/"
+street: Meinekestraße
+housenumber: "2"
+phone: +49 30 32593239
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.titus.de/shops/berlin-zoopreme/

@@ -1,11 +1,11 @@
 id: 1067852616
-type: way
+type: node
 latitude: 52.40157
 longitude: 12.90843
 postcode: "14542"
 city: Werder (Havel)
-street: "Otto-Lilienthal-Straße"
-housenumber: 4
+street: Otto-Lilienthal-Straße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

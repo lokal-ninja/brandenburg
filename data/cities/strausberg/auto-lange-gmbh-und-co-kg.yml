@@ -1,11 +1,11 @@
 id: 39625823
-type: way
+type: node
 latitude: 52.58311
 longitude: 13.8831
 postcode: "15344"
 city: Strausberg
-street: "Wriezener Straße"
-housenumber: 8
+street: Wriezener Straße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00, Sa 08:00-12:00"
+opening_hours: Mo-Fr 08:00-18:00, Sa 08:00-12:00
 website: ""

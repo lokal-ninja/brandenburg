@@ -4,8 +4,8 @@ latitude: 52.56408
 longitude: 13.40254
 postcode: "13187"
 city: Berlin
-street: "Heynstraße"
-housenumber: 9
+street: Heynstraße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00; Sa 09:00-16:00"
-website: "http://www.doppel-pack.de/"
+opening_hours: Mo-Fr 08:00-18:00; Sa 09:00-16:00
+website: http://www.doppel-pack.de/

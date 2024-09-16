@@ -4,8 +4,8 @@ latitude: 51.63412
 longitude: 13.70822
 postcode: "03238"
 city: Finsterwalde
-street: "Berliner Straße"
-housenumber: 30
-phone: "+49 3531 2271"
-opening_hours: "Mo-Fr 05:00-17:00; Sa 05:00-11:30"
-website: "https://www.dietrichs-backhaus.de/"
+street: Berliner Straße
+housenumber: "30"
+phone: +49 3531 2271
+opening_hours: Mo-Fr 05:00-17:00; Sa 05:00-11:30
+website: https://www.dietrichs-backhaus.de/

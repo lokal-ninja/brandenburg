@@ -4,8 +4,8 @@ latitude: 51.46468
 longitude: 13.54119
 postcode: "04910"
 city: Elsterwerda
-street: "Springhornweg"
-housenumber: 5
+street: Springhornweg
+housenumber: "5"
 phone: "+4935332347"
-opening_hours: "Mo-Fr 09:00-17:00; PH off"
-website: "https://weinplanet.com"
+opening_hours: Mo-Fr 09:00-17:00; PH off
+website: https://weinplanet.com

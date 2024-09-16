@@ -1,11 +1,11 @@
 id: 228959951
-type: way
+type: node
 latitude: 52.41586
 longitude: 13.40387
 postcode: "12349"
 city: Berlin
-street: "Marienfelder Chaussee"
-housenumber: 154
-phone: "+49 30 74302908"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.denns-biomarkt.de/39465_Berlin_Buckow_Lichtenrade.html"
+street: Marienfelder Chaussee
+housenumber: "154"
+phone: +49 30 74302908
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.denns-biomarkt.de/39465_Berlin_Buckow_Lichtenrade.html

@@ -1,11 +1,11 @@
 id: 144931279
-type: way
+type: node
 latitude: 51.63846
 longitude: 13.70307
 postcode: "03238"
 city: Finsterwalde
-street: "Sonnewalder Straße"
-housenumber: 49
+street: Sonnewalder Straße
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

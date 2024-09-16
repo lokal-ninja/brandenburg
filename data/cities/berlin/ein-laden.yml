@@ -4,8 +4,8 @@ latitude: 52.53167
 longitude: 13.42308
 postcode: "10405"
 city: Berlin
-street: "Winsstraße"
-housenumber: 69
+street: Winsstraße
+housenumber: "69"
 phone: ""
-opening_hours: "Tu-Fr 10:30-18:00"
+opening_hours: Tu-Fr 10:30-18:00
 website: ""

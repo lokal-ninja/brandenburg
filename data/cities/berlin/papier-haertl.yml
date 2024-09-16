@@ -4,8 +4,8 @@ latitude: 52.51598
 longitude: 13.26174
 postcode: "14052"
 city: Berlin
-street: "Reichsstraße"
-housenumber: 21
-phone: "+49 30 3041480"
-opening_hours: "Mo-Fr 08:30-18:30; Sa 08:30-13:00"
-website: "https://www.papier-haertl-berlin.de/"
+street: Reichsstraße
+housenumber: "21"
+phone: +49 30 3041480
+opening_hours: Mo-Fr 08:30-18:30; Sa 08:30-13:00
+website: https://www.papier-haertl-berlin.de/

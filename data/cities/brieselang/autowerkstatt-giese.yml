@@ -1,11 +1,11 @@
 id: 36002213
-type: way
+type: node
 latitude: 52.58287
 longitude: 12.99751
 postcode: "14656"
 city: Brieselang
-street: "Hans-Klakow-Straße"
-housenumber: 1
+street: Hans-Klakow-Straße
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Th 06:30-18:00; Fr 06:30-17:00"
+opening_hours: Mo-Th 06:30-18:00; Fr 06:30-17:00
 website: ""

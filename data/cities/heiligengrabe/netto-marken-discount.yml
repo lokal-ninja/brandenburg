@@ -1,11 +1,11 @@
 id: 596673214
-type: way
+type: node
 latitude: 53.14643
 longitude: 12.37147
 postcode: "16909"
 city: Heiligengrabe
-street: "Fahrenbacher Weg"
-housenumber: 1
+street: Fahrenbacher Weg
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

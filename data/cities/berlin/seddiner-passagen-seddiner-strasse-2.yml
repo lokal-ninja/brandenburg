@@ -1,11 +1,11 @@
 id: 594722016
-type: way
+type: node
 latitude: 52.51357
 longitude: 13.52182
 postcode: "10315"
 city: Berlin
-street: "Seddiner Straße"
-housenumber: 8
+street: Seddiner Straße
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

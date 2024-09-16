@@ -1,11 +1,11 @@
 id: 119046544
-type: way
+type: node
 latitude: 52.55565
 longitude: 13.51172
 postcode: "13053"
 city: Berlin
-street: "Wartenberger Straße"
-housenumber: 51
+street: Wartenberger Straße
+housenumber: "51"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

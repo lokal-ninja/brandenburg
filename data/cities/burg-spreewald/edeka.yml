@@ -1,11 +1,11 @@
 id: 123157258
-type: way
+type: node
 latitude: 51.83762
 longitude: 14.14624
 postcode: "03096"
 city: Burg (Spreewald)
-street: "Raiffeisenstraße"
-housenumber: 6
+street: Raiffeisenstraße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

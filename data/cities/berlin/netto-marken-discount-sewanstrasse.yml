@@ -1,11 +1,11 @@
 id: 39452274
-type: way
+type: node
 latitude: 52.4977
 longitude: 13.50293
 postcode: "10319"
 city: Berlin
-street: "Sewanstraße"
-housenumber: 44
+street: Sewanstraße
+housenumber: "44"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

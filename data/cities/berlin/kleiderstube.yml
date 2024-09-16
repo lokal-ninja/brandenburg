@@ -4,8 +4,8 @@ latitude: 52.519
 longitude: 13.46911
 postcode: "10247"
 city: Berlin
-street: "Voigtstraße"
-housenumber: 29
-phone: "+49 176 78 32 40 82"
-opening_hours: "Mo-Th 08:00-16:00; Fr 08:00-14:00"
+street: Voigtstraße
+housenumber: "29"
+phone: +49 176 78 32 40 82
+opening_hours: Mo-Th 08:00-16:00; Fr 08:00-14:00
 website: ""

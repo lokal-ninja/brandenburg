@@ -4,8 +4,8 @@ latitude: 52.14195
 longitude: 12.58847
 postcode: "14806"
 city: Bad Belzig
-street: "Straße der Einheit"
-housenumber: 40
-phone: "+49 33841 34252"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 09:00-12:00"
-website: "https://iris-optik.de/"
+street: Straße der Einheit
+housenumber: "40"
+phone: +49 33841 34252
+opening_hours: Mo-Fr 09:00-18:00, Sa 09:00-12:00
+website: https://iris-optik.de/

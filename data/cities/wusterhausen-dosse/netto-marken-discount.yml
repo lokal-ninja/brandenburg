@@ -1,11 +1,11 @@
 id: 156835089
-type: way
+type: node
 latitude: 52.88179
 longitude: 12.46408
 postcode: "16868"
 city: Wusterhausen/Dosse
-street: "Berliner Straße"
-housenumber: 47
+street: Berliner Straße
+housenumber: "47"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.netto-online.de

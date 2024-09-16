@@ -4,8 +4,8 @@ latitude: 52.50973
 longitude: 13.30317
 postcode: "10627"
 city: Berlin
-street: "Schillerstraße"
-housenumber: 70
+street: Schillerstraße
+housenumber: "70"
 phone: ""
-opening_hours: "Mo-Sa 11:00-19:00"
-website: "https://www.zirkusladen.de/"
+opening_hours: Mo-Sa 11:00-19:00
+website: https://www.zirkusladen.de/

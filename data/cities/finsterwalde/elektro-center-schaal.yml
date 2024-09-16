@@ -1,11 +1,11 @@
 id: 553187016
-type: way
+type: node
 latitude: 51.63192
 longitude: 13.70661
 postcode: "03238"
 city: Finsterwalde
-street: "Johannes-Knoche-Straße"
-housenumber: 5
-phone: "+49 3531 61808"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
+street: Johannes-Knoche-Straße
+housenumber: "5"
+phone: +49 3531 61808
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
 website: ""

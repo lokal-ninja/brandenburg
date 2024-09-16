@@ -1,11 +1,11 @@
 id: 289917691
-type: way
+type: node
 latitude: 53.06076
 longitude: 14.24988
 postcode: "16303"
 city: Schwedt/Oder
-street: "Dobberziner Straße"
-housenumber: 28
+street: Dobberziner Straße
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

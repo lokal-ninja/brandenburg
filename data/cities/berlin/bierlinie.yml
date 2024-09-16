@@ -4,8 +4,8 @@ latitude: 52.54076
 longitude: 13.41684
 postcode: "10437"
 city: Berlin
-street: "Schliemannstraße"
-housenumber: 2
+street: Schliemannstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 13:00-19:00; Sa 11:00-19:00"
+opening_hours: Mo-Fr 13:00-19:00; Sa 11:00-19:00
 website: ""

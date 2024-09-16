@@ -4,8 +4,8 @@ latitude: 52.51514
 longitude: 13.30462
 postcode: "10585"
 city: Berlin
-street: "Wilmersdorfer Straße"
-housenumber: 20
+street: Wilmersdorfer Straße
+housenumber: "20"
 phone: ""
-opening_hours: "Mo-We 09:00-15:00; Th-Fr,Su 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-We 09:00-15:00; Th-Fr,Su 09:00-18:00; Sa 09:00-14:00
 website: ""

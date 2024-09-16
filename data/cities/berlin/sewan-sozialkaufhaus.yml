@@ -1,11 +1,11 @@
 id: 41645698
-type: way
+type: node
 latitude: 52.49554
 longitude: 13.51287
 postcode: "10319"
 city: Berlin
-street: "Sewanstraße"
-housenumber: 186
-phone: "+49 30 50018788"
-opening_hours: "Mo,We,Fr 09:00-16:00, Tu,Th 09:00-18:00, Sa 09:00-15:00, Mo-Fr,PH 09:00-16:00"
+street: Sewanstraße
+housenumber: "186"
+phone: +49 30 50018788
+opening_hours: Mo,We,Fr 09:00-16:00, Tu,Th 09:00-18:00, Sa 09:00-15:00, Mo-Fr,PH 09:00-16:00
 website: ""

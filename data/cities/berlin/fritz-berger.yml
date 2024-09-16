@@ -4,8 +4,8 @@ latitude: 52.42089
 longitude: 13.31476
 postcode: "12207"
 city: Berlin
-street: "Heinrichstraße"
-housenumber: 7
+street: Heinrichstraße
+housenumber: "7"
 phone: ""
 opening_hours: ""
-website: "https://www.fritz-berger.de/branch/filiale-berlin-lichterfelde"
+website: https://www.fritz-berger.de/branch/filiale-berlin-lichterfelde

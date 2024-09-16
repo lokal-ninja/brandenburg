@@ -4,8 +4,8 @@ latitude: 52.55334
 longitude: 13.36282
 postcode: "13347"
 city: Berlin
-street: "Oudenarder Straße"
-housenumber: 23
+street: Oudenarder Straße
+housenumber: "23"
 phone: ""
-opening_hours: "Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-13:00; Su,Mo off"
+opening_hours: Tu,Th,Fr 09:00-18:00; We 09:00-13:00; Sa 09:00-13:00; Su,Mo off
 website: ""

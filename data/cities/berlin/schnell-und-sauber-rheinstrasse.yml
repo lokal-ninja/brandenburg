@@ -4,8 +4,8 @@ latitude: 52.47044
 longitude: 13.33449
 postcode: "12159"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 62
-phone: "+49 177 4649595"
-opening_hours: "Mo-Su 07:00-20:00"
-website: "http://www.friedenauer-waschsalon.de/"
+street: Rheinstraße
+housenumber: "62"
+phone: +49 177 4649595
+opening_hours: Mo-Su 07:00-20:00
+website: http://www.friedenauer-waschsalon.de/

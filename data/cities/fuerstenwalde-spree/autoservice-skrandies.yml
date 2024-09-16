@@ -1,11 +1,11 @@
 id: 1083313636
-type: way
+type: node
 latitude: 52.37739
 longitude: 14.06889
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Ernst-Laas-Straße"
-housenumber: 11
+street: Ernst-Laas-Straße
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 22999353
-type: way
+type: node
 latitude: 52.52783
 longitude: 13.56993
 postcode: "12683"
 city: Berlin
-street: "Cecilienstraße"
-housenumber: 164
+street: Cecilienstraße
+housenumber: "164"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

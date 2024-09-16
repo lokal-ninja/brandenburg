@@ -1,11 +1,11 @@
 id: 434685542
-type: way
+type: node
 latitude: 52.16092
 longitude: 12.78085
 postcode: "14822"
 city: Linthe
-street: "Westfalenstraße"
-housenumber: 4
+street: Westfalenstraße
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

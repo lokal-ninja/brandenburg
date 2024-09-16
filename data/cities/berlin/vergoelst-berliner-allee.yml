@@ -1,11 +1,11 @@
 id: 299817636
-type: way
+type: node
 latitude: 52.56487
 longitude: 13.46891
 postcode: "13088"
 city: Berlin
-street: "Berliner Allee"
-housenumber: 199
+street: Berliner Allee
+housenumber: "199"
 phone: ""
-opening_hours: "08:00-17:00"
-website: "https://vergoelst.de/"
+opening_hours: 08:00-17:00
+website: https://vergoelst.de/

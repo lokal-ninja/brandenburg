@@ -4,8 +4,8 @@ latitude: 51.76672
 longitude: 14.35959
 postcode: "03042"
 city: Cottbus
-street: "Merzdorfer Weg"
-housenumber: 36
+street: Merzdorfer Weg
+housenumber: "36"
 phone: ""
-opening_hours: "Mo-Fr 08:00-18:00"
-website: "http://www.autolinke.de/"
+opening_hours: Mo-Fr 08:00-18:00
+website: http://www.autolinke.de/

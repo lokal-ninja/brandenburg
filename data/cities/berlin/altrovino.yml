@@ -4,8 +4,8 @@ latitude: 52.49216
 longitude: 13.41379
 postcode: "10967"
 city: Berlin
-street: "Grimmstraße"
-housenumber: 17
+street: Grimmstraße
+housenumber: "17"
 phone: ""
-opening_hours: "Th-Sa 14:00-22:00+"
-website: "https://www.altrovino.de/"
+opening_hours: Th-Sa 14:00-22:00+
+website: https://www.altrovino.de/

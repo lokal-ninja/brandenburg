@@ -1,11 +1,11 @@
 id: 71404546
-type: way
+type: node
 latitude: 52.34463
 longitude: 14.5267
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "August-Bebel-Straße"
+street: August-Bebel-Straße
 housenumber: 1A
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/brandenburg/frankfurt-oder/august-bebel-str-1a.html"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.aldi-nord.de/tools/filialen-und-oeffnungszeiten/brandenburg/frankfurt-oder/august-bebel-str-1a.html

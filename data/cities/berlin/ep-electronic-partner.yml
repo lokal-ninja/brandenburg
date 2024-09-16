@@ -4,8 +4,8 @@ latitude: 52.54307
 longitude: 13.4406
 postcode: "10409"
 city: Berlin
-street: "Greifswalder Straße"
-housenumber: 158
+street: Greifswalder Straße
+housenumber: "158"
 phone: ""
-opening_hours: "Mo-Fr 09:30-17:30"
-website: "https://www.ep.de/urban-krueger"
+opening_hours: Mo-Fr 09:30-17:30
+website: https://www.ep.de/urban-krueger

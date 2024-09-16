@@ -4,8 +4,8 @@ latitude: 52.55068
 longitude: 13.40787
 postcode: "10439"
 city: Berlin
-street: "Schönfließer Straße"
-housenumber: 19
+street: Schönfließer Straße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 12:00-20:00; Sa 12:00-17:00"
-website: "http://www.cicli-berlinetta.de/"
+opening_hours: Mo-Fr 12:00-20:00; Sa 12:00-17:00
+website: http://www.cicli-berlinetta.de/

@@ -1,11 +1,11 @@
 id: 219096842
-type: way
+type: node
 latitude: 52.74779
 longitude: 13.46307
 postcode: "16348"
 city: Wandlitz
-street: "Prenzlauer Chaussee"
-housenumber: 116
+street: Prenzlauer Chaussee
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

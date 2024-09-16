@@ -1,11 +1,12 @@
 id: 755593175
-type: way
+type: node
 latitude: 52.39495
 longitude: 13.12853
 postcode: "14482"
 city: Potsdam
-street: "Rudolf-Breitscheid-Straße"
-housenumber: 201
+street: Rudolf-Breitscheid-Straße
+housenumber: "201"
 phone: ""
-opening_hours: "Apr-May,Sep-Oct Mo-Fr 09:00-18:30; Apr-May,Sep-Oct Sa,Su 09:00-19:00; Jun-Aug Mo-We,Fr 09:00-18:30; Jun-Aug Th 09:00-20:00; Jun-Aug Sa,Su 09:00-21:00"
-website: "https://potsdam-per-pedales.de/"
+opening_hours: Apr-May,Sep-Oct Mo-Fr 09:00-18:30; Apr-May,Sep-Oct Sa,Su 09:00-19:00;
+    Jun-Aug Mo-We,Fr 09:00-18:30; Jun-Aug Th 09:00-20:00; Jun-Aug Sa,Su 09:00-21:00
+website: https://potsdam-per-pedales.de/

@@ -4,8 +4,8 @@ latitude: 52.51835
 longitude: 13.38873
 postcode: "10117"
 city: Berlin
-street: "Friedrichstraße"
-housenumber: 90
+street: Friedrichstraße
+housenumber: "90"
 phone: ""
-opening_hours: "Mo-Fr 09:00-24:00; Sa 09:00-23:30"
-website: "https://www.kulturkaufhaus.de/"
+opening_hours: Mo-Fr 09:00-24:00; Sa 09:00-23:30
+website: https://www.kulturkaufhaus.de/

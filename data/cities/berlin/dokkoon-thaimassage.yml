@@ -4,8 +4,8 @@ latitude: 52.52854
 longitude: 13.39464
 postcode: "10115"
 city: Berlin
-street: "Torstraße"
-housenumber: 176
+street: Torstraße
+housenumber: "176"
 phone: ""
-opening_hours: "Mo-Sa 10:00-21:00; Su 12:00-20:00"
-website: "http://www.dokkoon-thaimassage-berlin.de/"
+opening_hours: Mo-Sa 10:00-21:00; Su 12:00-20:00
+website: http://www.dokkoon-thaimassage-berlin.de/

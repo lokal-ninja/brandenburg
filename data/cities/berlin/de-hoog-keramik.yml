@@ -4,8 +4,9 @@ latitude: 52.51324
 longitude: 13.46698
 postcode: "10247"
 city: Berlin
-street: "Jungstraße"
-housenumber: 8
+street: Jungstraße
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Tu nach Vereinbarung; We 14:00-20:00; Th-Fr 14:00-18:00; Sa-Su off"
-website: "https://www.dehoog-keramik.de/"
+opening_hours: Mo-Tu "nach Vereinbarung"; We 14:00-20:00; Th-Fr 14:00-18:00; Sa-Su
+    off
+website: https://www.dehoog-keramik.de/

@@ -4,8 +4,8 @@ latitude: 52.46164
 longitude: 13.51814
 postcode: "12459"
 city: Berlin
-street: "Wilhelminenhofstraße"
-housenumber: 31
-phone: "+49 176 624 53129"
-opening_hours: "Mo-Sa 07:30-19:00; PH,Su 08:00-16:00"
+street: Wilhelminenhofstraße
+housenumber: "31"
+phone: +49 176 624 53129
+opening_hours: Mo-Sa 07:30-19:00; PH,Su 08:00-16:00
 website: ""

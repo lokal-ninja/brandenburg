@@ -4,8 +4,8 @@ latitude: 52.45631
 longitude: 13.33875
 postcode: "12169"
 city: Berlin
-street: "Bismarckstraße"
-housenumber: 17
-phone: "+49 30 794 709 30"
-opening_hours: "Mo-Fr 09:00-18:00, Sa 10:00-13:30 open Verkauf; PH off"
-website: "https://www.autohaus-lochner.com/"
+street: Bismarckstraße
+housenumber: "17"
+phone: +49 30 794 709 30
+opening_hours: Mo-Fr 09:00-18:00, Sa 10:00-13:30 open "Verkauf"; PH off
+website: https://www.autohaus-lochner.com/

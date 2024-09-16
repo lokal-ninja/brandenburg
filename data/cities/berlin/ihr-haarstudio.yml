@@ -4,8 +4,8 @@ latitude: 52.43429
 longitude: 13.45455
 postcode: "12351"
 city: Berlin
-street: "Fritz-Erler-Allee"
-housenumber: 26
+street: Fritz-Erler-Allee
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

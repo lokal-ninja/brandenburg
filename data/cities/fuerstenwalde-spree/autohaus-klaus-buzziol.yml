@@ -1,11 +1,11 @@
 id: 313698015
-type: way
+type: node
 latitude: 52.3379
 longitude: 14.06987
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Auto-Focus"
-housenumber: 9
+street: Auto-Focus
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

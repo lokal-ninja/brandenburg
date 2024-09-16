@@ -1,11 +1,11 @@
 id: 42014501
-type: way
+type: node
 latitude: 51.71795
 longitude: 14.29045
 postcode: "03099"
 city: Kolkwitz
-street: "Annahofer Graben"
-housenumber: 9
-phone: "+49 355 485 4050"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://autoland.de/"
+street: Annahofer Graben
+housenumber: "9"
+phone: +49 355 485 4050
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://autoland.de/

@@ -4,8 +4,8 @@ latitude: 52.52934
 longitude: 13.31724
 postcode: "10553"
 city: Berlin
-street: "Ufnaustraße"
-housenumber: 
+street: Ufnaustraße
+housenumber: ""
 phone: ""
-opening_hours: "shop closed"
+opening_hours: '"shop closed"'
 website: ""

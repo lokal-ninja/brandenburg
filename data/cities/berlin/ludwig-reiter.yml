@@ -4,8 +4,8 @@ latitude: 52.5016
 longitude: 13.31781
 postcode: "10707"
 city: Berlin
-street: "Kurfürstendamm"
-housenumber: 50
+street: Kurfürstendamm
+housenumber: "50"
 phone: ""
-opening_hours: "Mo-Sa 11:00-18:00"
+opening_hours: Mo-Sa 11:00-18:00
 website: ""

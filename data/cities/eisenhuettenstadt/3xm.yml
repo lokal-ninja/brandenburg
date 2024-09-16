@@ -1,11 +1,11 @@
 id: 73259770
-type: way
+type: node
 latitude: 52.13388
 longitude: 14.59717
 postcode: "15890"
 city: Eisenhüttenstadt
-street: "Dorfstraße"
-housenumber: 70
-phone: "+49 3364 410741"
+street: Dorfstraße
+housenumber: "70"
+phone: +49 3364 410741
 opening_hours: ""
-website: "https://www.3xm-maschinenmarkt-ehst.de/"
+website: https://www.3xm-maschinenmarkt-ehst.de/

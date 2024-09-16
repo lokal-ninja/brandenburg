@@ -1,11 +1,11 @@
 id: 399361334
-type: way
+type: node
 latitude: 53.1175
 longitude: 13.50161
 postcode: "17268"
 city: Templin
-street: "Prokopiusstraße"
-housenumber: 10
+street: Prokopiusstraße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

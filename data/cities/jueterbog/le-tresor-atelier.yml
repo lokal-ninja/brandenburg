@@ -1,11 +1,11 @@
 id: 252517219
-type: way
+type: node
 latitude: 51.99526
 longitude: 13.05196
 postcode: "14913"
 city: Jüterbog
-street: "Am Bahnhof"
-housenumber: 6
+street: Am Bahnhof
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "http://www.le-tresor.de"
+website: http://www.le-tresor.de

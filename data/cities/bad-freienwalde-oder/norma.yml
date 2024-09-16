@@ -1,11 +1,11 @@
 id: 666926616
-type: way
+type: node
 latitude: 52.7892
 longitude: 14.03376
 postcode: "16259"
 city: Bad Freienwalde (Oder)
-street: "Bahnhofstraße"
-housenumber: 27
+street: Bahnhofstraße
+housenumber: "27"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

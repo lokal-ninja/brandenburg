@@ -4,8 +4,8 @@ latitude: 52.5043
 longitude: 13.31964
 postcode: "10623"
 city: Berlin
-street: "Bleibtreustraße"
-housenumber: 12
+street: Bleibtreustraße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 11:00-14:30,15:00-19:00"
+opening_hours: Mo-Sa 11:00-14:30,15:00-19:00
 website: ""

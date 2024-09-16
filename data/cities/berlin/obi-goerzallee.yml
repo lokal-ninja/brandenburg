@@ -1,11 +1,11 @@
 id: 122773414
-type: way
+type: node
 latitude: 52.41776
 longitude: 13.28894
 postcode: "14167"
 city: Berlin
-street: "Goerzallee"
+street: Goerzallee
 housenumber: 189-223
-phone: "+49 30 84717404"
-opening_hours: "Mo-Sa 08:00-20:00"
-website: "https://www.obi.de/de/maerkte/Berlin-Steglitz"
+phone: +49 30 84717404
+opening_hours: Mo-Sa 08:00-20:00
+website: https://www.obi.de/de/maerkte/Berlin-Steglitz

@@ -1,11 +1,11 @@
 id: 95202890
-type: way
+type: node
 latitude: 52.4634
 longitude: 13.36508
 postcode: "12103"
 city: Berlin
-street: "Bessemerstraße"
+street: Bessemerstraße
 housenumber: 42A
 phone: ""
 opening_hours: ""
-website: "http://www.autohaus-royal.de/"
+website: http://www.autohaus-royal.de/

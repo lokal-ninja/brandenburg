@@ -4,8 +4,8 @@ latitude: 52.39049
 longitude: 13.03036
 postcode: "14471"
 city: Potsdam
-street: "Zeppelinstraße"
-housenumber: 56
-phone: "+49 331 95130007"
-opening_hours: "Mo-Fr 08:00-16:00"
-website: "https://www.thonke.de/"
+street: Zeppelinstraße
+housenumber: "56"
+phone: +49 331 95130007
+opening_hours: Mo-Fr 08:00-16:00
+website: https://www.thonke.de/

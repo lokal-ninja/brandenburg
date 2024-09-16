@@ -1,11 +1,11 @@
 id: 245537893
-type: way
+type: node
 latitude: 52.43905
 longitude: 13.38333
 postcode: "12107"
 city: Berlin
-street: "Friedenstraße"
-housenumber: 26
+street: Friedenstraße
+housenumber: "26"
 phone: ""
-opening_hours: "Sa 08:00-15:00"
-website: "https://timinberlin.de"
+opening_hours: Sa 08:00-15:00
+website: https://timinberlin.de

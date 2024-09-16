@@ -1,11 +1,11 @@
 id: 183729960
-type: way
+type: node
 latitude: 52.37459
 longitude: 13.08596
 postcode: "14478"
 city: Potsdam
-street: "Heinrich-Mann-Allee"
-housenumber: 81
+street: Heinrich-Mann-Allee
+housenumber: "81"
 phone: ""
-opening_hours: "Mo-Th 09:00-12:00, Mo 12:30-15:00, Tu,Th 12:30-16:00; Fr-Su off"
+opening_hours: Mo-Th 09:00-12:00, Mo 12:30-15:00, Tu,Th 12:30-16:00; Fr-Su off
 website: ""

@@ -1,11 +1,11 @@
 id: 117981428
-type: way
+type: node
 latitude: 52.60621
 longitude: 13.24849
 postcode: "13503"
 city: Berlin
-street: "An der Schneise"
-housenumber: 57
-phone: "+4930 4 31 15 80"
-opening_hours: "Mo-Fr 09:00-13:00,15:00-18:00"
-website: "https://www.gardinenatelier-berlin.de/"
+street: An der Schneise
+housenumber: "57"
+phone: +4930 4 31 15 80
+opening_hours: Mo-Fr 09:00-13:00,15:00-18:00
+website: https://www.gardinenatelier-berlin.de/

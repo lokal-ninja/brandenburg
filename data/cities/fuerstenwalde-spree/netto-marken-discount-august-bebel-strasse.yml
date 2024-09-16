@@ -1,11 +1,11 @@
 id: 234577095
-type: way
+type: node
 latitude: 52.34834
 longitude: 14.07108
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "August-Bebel-Straße"
+street: August-Bebel-Straße
 housenumber: 115A
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
-website: "https://www.netto-online.de"
+opening_hours: Mo-Sa 07:00-20:00
+website: https://www.netto-online.de

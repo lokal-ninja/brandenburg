@@ -1,11 +1,11 @@
 id: 62125692
-type: way
+type: node
 latitude: 52.14814
 longitude: 14.63831
 postcode: "15890"
 city: Eisenhüttenstadt
-street: "Karl-Marx-Straße"
-housenumber: 33
+street: Karl-Marx-Straße
+housenumber: "33"
 phone: ""
 opening_hours: ""
 website: ""

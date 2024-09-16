@@ -4,8 +4,8 @@ latitude: 52.48718
 longitude: 13.34226
 postcode: "10825"
 city: Berlin
-street: "Salzburger Straße"
-housenumber: 9
+street: Salzburger Straße
+housenumber: "9"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00, Sa 09:00-16:00"
-website: "https://www.thoerner.de/"
+opening_hours: Mo-Fr 08:00-20:00, Sa 09:00-16:00
+website: https://www.thoerner.de/

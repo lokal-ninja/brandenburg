@@ -1,11 +1,11 @@
 id: 98356979
-type: way
+type: node
 latitude: 52.36623
 longitude: 14.06676
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Ehrenfried-Jopp-Straße"
-housenumber: 16
+street: Ehrenfried-Jopp-Straße
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

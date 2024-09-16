@@ -5,7 +5,7 @@ longitude: 13.39174
 postcode: "10117"
 city: Berlin
 street: ""
-housenumber: 190
+housenumber: "190"
 phone: ""
-opening_hours: "Mo-Fr 10:00-18:00"
-website: "https://www.sprintout.de/"
+opening_hours: Mo-Fr 10:00-18:00
+website: https://www.sprintout.de/

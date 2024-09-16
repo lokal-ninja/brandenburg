@@ -1,11 +1,11 @@
 id: 51679963
-type: way
+type: node
 latitude: 52.31024
 longitude: 14.48331
 postcode: "15236"
 city: Frankfurt (Oder)
-street: "Bertha-von-Suttner-Straße"
-housenumber: 2
-phone: "+49 335 521910"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off"
-website: "https://www.leymann-baustoffe.de/"
+street: Bertha-von-Suttner-Straße
+housenumber: "2"
+phone: +49 335 521910
+opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off
+website: https://www.leymann-baustoffe.de/

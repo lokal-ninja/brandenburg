@@ -4,8 +4,8 @@ latitude: 52.47384
 longitude: 13.44242
 postcode: "12043"
 city: Berlin
-street: "Karl-Marx-Platz"
-housenumber: 14
+street: Karl-Marx-Platz
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 10:00-20:00"
+opening_hours: Mo-Sa 10:00-20:00
 website: ""

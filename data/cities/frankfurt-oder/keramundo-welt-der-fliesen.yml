@@ -1,11 +1,11 @@
 id: 144784929
-type: way
+type: node
 latitude: 52.34837
 longitude: 14.52324
 postcode: "15234"
 city: Frankfurt (Oder)
-street: "Goethestraße"
+street: Goethestraße
 housenumber: 11C
-phone: "+49 335 4148715"
+phone: +49 335 4148715
 opening_hours: ""
-website: "https://www.keramundo.de/"
+website: https://www.keramundo.de/

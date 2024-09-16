@@ -1,11 +1,11 @@
 id: 355005074
-type: way
+type: node
 latitude: 52.49623
 longitude: 13.56274
 postcode: "12683"
 city: Berlin
-street: "Köpenicker Straße"
-housenumber: 108
-phone: "+49 30 51064070"
-opening_hours: "Mo-Fr 05:00-22:00; Sa 05:30-22:00; Su 06:00-22:00"
-website: "https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ05766/"
+street: Köpenicker Straße
+housenumber: "108"
+phone: +49 30 51064070
+opening_hours: Mo-Fr 05:00-22:00; Sa 05:30-22:00; Su 06:00-22:00
+website: https://www.jet-tankstellen.de/kraftstoff/filialfinder/XJ05766/

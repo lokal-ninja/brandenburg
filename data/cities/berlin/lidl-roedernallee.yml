@@ -1,11 +1,11 @@
 id: 28593025
-type: way
+type: node
 latitude: 52.58647
 longitude: 13.34254
 postcode: "13407"
 city: Berlin
-street: "Roedernallee"
+street: Roedernallee
 housenumber: 49;50
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00"
+opening_hours: Mo-Sa 07:00-21:00
 website: ""

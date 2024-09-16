@@ -4,8 +4,8 @@ latitude: 52.48191
 longitude: 13.32921
 postcode: "10715"
 city: Berlin
-street: "Bundesallee"
-housenumber: 54
+street: Bundesallee
+housenumber: "54"
 phone: ""
-opening_hours: "Sa 10:00-14:00; Mo,Tu,Th,Fr 10:00-18:00; We off"
-website: "https://www.wasserbetten-in-berlin.de/"
+opening_hours: Sa 10:00-14:00; Mo,Tu,Th,Fr 10:00-18:00; We off
+website: https://www.wasserbetten-in-berlin.de/

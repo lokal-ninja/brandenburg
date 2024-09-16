@@ -4,8 +4,8 @@ latitude: 52.51029
 longitude: 13.45341
 postcode: "10245"
 city: Berlin
-street: "Kopernikusstraße"
-housenumber: 10
-phone: "+49 30 23916772"
-opening_hours: "Mo-Sa 11:00-20:00"
-website: "https://shopp.berlin/"
+street: Kopernikusstraße
+housenumber: "10"
+phone: +49 30 23916772
+opening_hours: Mo-Sa 11:00-20:00
+website: https://shopp.berlin/

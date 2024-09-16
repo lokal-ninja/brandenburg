@@ -4,8 +4,8 @@ latitude: 52.44968
 longitude: 13.25294
 postcode: "14169"
 city: Berlin
-street: "Ladenstraße"
-housenumber: 7
+street: Ladenstraße
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-13:30"
-website: "http://www.elektro-schaeffler.de/"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:30
+website: http://www.elektro-schaeffler.de/

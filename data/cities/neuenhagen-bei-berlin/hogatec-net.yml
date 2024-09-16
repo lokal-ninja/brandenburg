@@ -1,11 +1,11 @@
 id: 178754235
-type: way
+type: node
 latitude: 52.52057
 longitude: 13.67526
 postcode: "15366"
 city: Neuenhagen bei Berlin
-street: "Virchowstraße"
-housenumber: 6
+street: Virchowstraße
+housenumber: "6"
 phone: ""
 opening_hours: ""
-website: "https://www.hogatec.net/"
+website: https://www.hogatec.net/

@@ -4,8 +4,8 @@ latitude: 52.45648
 longitude: 13.57788
 postcode: "12555"
 city: Berlin
-street: "Bahnhofstraße"
-housenumber: 16
-phone: "+49 30 41954455"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-19:30; PH off"
-website: "https://www.toner-dumping.de"
+street: Bahnhofstraße
+housenumber: "16"
+phone: +49 30 41954455
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-19:30; PH off
+website: https://www.toner-dumping.de

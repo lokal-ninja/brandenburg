@@ -4,8 +4,8 @@ latitude: 52.5097
 longitude: 13.37205
 postcode: "10785"
 city: Berlin
-street: "Potsdamer Straße"
-housenumber: 4
-phone: "+49 30 3010400"
-opening_hours: "10:00-19:00"
-website: "https://www.legolanddiscoverycentre.com/berlin/"
+street: Potsdamer Straße
+housenumber: "4"
+phone: +49 30 3010400
+opening_hours: 10:00-19:00
+website: https://www.legolanddiscoverycentre.com/berlin/

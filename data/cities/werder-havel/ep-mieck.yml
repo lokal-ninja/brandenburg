@@ -1,11 +1,11 @@
 id: 214351774
-type: way
+type: node
 latitude: 52.37823
 longitude: 12.93216
 postcode: "14542"
 city: Werder (Havel)
-street: "Hoher Weg"
-housenumber: 162
+street: Hoher Weg
+housenumber: "162"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-12:00"
-website: "https://www.ep.de/mieck"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00
+website: https://www.ep.de/mieck

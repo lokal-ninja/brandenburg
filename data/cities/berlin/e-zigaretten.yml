@@ -4,8 +4,8 @@ latitude: 52.50228
 longitude: 13.33818
 postcode: "10789"
 city: Berlin
-street: "Nürnberger Straße"
-housenumber: 17
-phone: "+49 30 550 65 356"
-opening_hours: "Mo-Sa 10:00-20:00"
-website: "https://www.e-zigarette-24.com/"
+street: Nürnberger Straße
+housenumber: "17"
+phone: +49 30 550 65 356
+opening_hours: Mo-Sa 10:00-20:00
+website: https://www.e-zigarette-24.com/

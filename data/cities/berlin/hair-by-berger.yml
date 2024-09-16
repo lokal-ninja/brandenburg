@@ -4,8 +4,8 @@ latitude: 52.45118
 longitude: 13.33901
 postcode: "12169"
 city: Berlin
-street: "Steglitzer Damm"
-housenumber: 15
+street: Steglitzer Damm
+housenumber: "15"
 phone: ""
-opening_hours: "Sa 09:00-13:00; Tu-Fr 09:00-18:00"
+opening_hours: Sa 09:00-13:00; Tu-Fr 09:00-18:00
 website: ""

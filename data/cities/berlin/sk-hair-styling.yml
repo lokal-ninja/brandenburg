@@ -4,8 +4,8 @@ latitude: 52.466
 longitude: 13.30802
 postcode: "14195"
 city: Berlin
-street: "Breitenbachplatz"
-housenumber: 17
+street: Breitenbachplatz
+housenumber: "17"
 phone: ""
-opening_hours: "Tu-Fr 08:30-18:00; Sa 08:30-14:00"
-website: "https://www.sk-styling.de/home.html"
+opening_hours: Tu-Fr 08:30-18:00; Sa 08:30-14:00
+website: https://www.sk-styling.de/home.html

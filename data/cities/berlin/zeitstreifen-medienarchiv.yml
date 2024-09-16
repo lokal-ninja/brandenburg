@@ -4,8 +4,8 @@ latitude: 52.45606
 longitude: 13.32644
 postcode: "12169"
 city: Berlin
-street: "Heesestraße"
-housenumber: 5
+street: Heesestraße
+housenumber: "5"
 phone: ""
 opening_hours: ""
-website: "https://zeitstreifen.de/"
+website: https://zeitstreifen.de/

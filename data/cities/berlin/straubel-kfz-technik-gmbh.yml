@@ -4,8 +4,8 @@ latitude: 52.41165
 longitude: 13.57402
 postcode: "12526"
 city: Berlin
-street: "Gründerstraße"
+street: Gründerstraße
 housenumber: 1A
-phone: "+49 30 6768659"
-opening_hours: "Mo-Th 08:00-18:00; Fr nach Vereinbarung; PH off"
-website: "https://www.straubel-kfz-technik.de"
+phone: +49 30 6768659
+opening_hours: Mo-Th 08:00-18:00; Fr "nach Vereinbarung"; PH off
+website: https://www.straubel-kfz-technik.de

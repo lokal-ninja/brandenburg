@@ -1,11 +1,11 @@
 id: 205317105
-type: way
+type: node
 latitude: 52.67778
 longitude: 13.18873
 postcode: "16727"
 city: Velten
-street: "Berliner Straße"
-housenumber: 6
+street: Berliner Straße
+housenumber: "6"
 phone: ""
-opening_hours: "Mo-Fr 05:00-22:00; Sa,Su 07:00-21:00"
-website: "http://www.star-tankstellen.de/tanken/tankstellenfinder.html?user_astfinder_pi1[tsid]=265"
+opening_hours: Mo-Fr 05:00-22:00; Sa,Su 07:00-21:00
+website: http://www.star-tankstellen.de/tanken/tankstellenfinder.html?user_astfinder_pi1[tsid]=265

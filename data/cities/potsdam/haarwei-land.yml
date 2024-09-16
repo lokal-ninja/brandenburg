@@ -4,8 +4,8 @@ latitude: 52.38703
 longitude: 13.0697
 postcode: "14473"
 city: Potsdam
-street: "Heinrich-Mann-Allee"
-housenumber: 23
+street: Heinrich-Mann-Allee
+housenumber: "23"
 phone: ""
-opening_hours: "Mo-Fr 08:00-20:00; Sa 09:00-13:00; PH,Su closed"
+opening_hours: Mo-Fr 08:00-20:00; Sa 09:00-13:00; PH,Su closed
 website: ""

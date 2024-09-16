@@ -4,8 +4,8 @@ latitude: 52.50126
 longitude: 13.33549
 postcode: "10789"
 city: Berlin
-street: "Augsburger Straße"
-housenumber: 25
+street: Augsburger Straße
+housenumber: "25"
 phone: ""
-opening_hours: "Mo-Fr 12:00-20:00"
-website: "https://www.bodylizerberlin.de/"
+opening_hours: Mo-Fr 12:00-20:00
+website: https://www.bodylizerberlin.de/

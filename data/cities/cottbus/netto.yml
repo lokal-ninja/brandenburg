@@ -1,11 +1,11 @@
 id: 28529922
-type: way
+type: node
 latitude: 51.7411
 longitude: 14.33347
 postcode: "03050"
 city: Cottbus
-street: "Leuthener Straße"
-housenumber: 7
+street: Leuthener Straße
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

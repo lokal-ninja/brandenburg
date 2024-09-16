@@ -4,8 +4,8 @@ latitude: 52.49752
 longitude: 13.32665
 postcode: "10719"
 city: Berlin
-street: "Fasanenstraße"
-housenumber: 42
+street: Fasanenstraße
+housenumber: "42"
 phone: ""
-opening_hours: "by appointment"
+opening_hours: '"by appointment"'
 website: ""

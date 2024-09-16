@@ -4,8 +4,8 @@ latitude: 52.49158
 longitude: 13.41686
 postcode: "10967"
 city: Berlin
-street: "Graefestraße"
-housenumber: 68
-phone: "+49 30 6936364"
-opening_hours: "Tu-Fr 09:00-18:00; Sa 09:00-14:00"
+street: Graefestraße
+housenumber: "68"
+phone: +49 30 6936364
+opening_hours: Tu-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

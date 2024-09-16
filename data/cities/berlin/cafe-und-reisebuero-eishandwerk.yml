@@ -4,8 +4,8 @@ latitude: 52.50891
 longitude: 13.27085
 postcode: "14052"
 city: Berlin
-street: "Heerstraße"
-housenumber: 1
+street: Heerstraße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

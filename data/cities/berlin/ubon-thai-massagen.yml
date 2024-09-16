@@ -4,8 +4,8 @@ latitude: 52.55592
 longitude: 13.37976
 postcode: "13359"
 city: Berlin
-street: "Osloer Straße"
-housenumber: 99
+street: Osloer Straße
+housenumber: "99"
 phone: ""
-opening_hours: "Mo-Fr 10:00-21:00; Sa,Su 10:00-20:00"
-website: "http://www.ubon-massagen.de/"
+opening_hours: Mo-Fr 10:00-21:00; Sa,Su 10:00-20:00
+website: http://www.ubon-massagen.de/

@@ -4,8 +4,8 @@ latitude: 52.42172
 longitude: 13.53268
 postcode: "12524"
 city: Berlin
-street: "Rudower Straße"
-housenumber: 43
+street: Rudower Straße
+housenumber: "43"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:00; Sa 08:00-12:00"
+opening_hours: Tu-Fr 09:00-18:00; Sa 08:00-12:00
 website: ""

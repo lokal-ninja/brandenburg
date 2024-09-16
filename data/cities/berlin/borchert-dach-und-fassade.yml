@@ -4,8 +4,8 @@ latitude: 52.42754
 longitude: 13.50364
 postcode: "12357"
 city: Berlin
-street: "Kanalstraße"
+street: Kanalstraße
 housenumber: 76-78
-phone: "+49 30 66623999"
-opening_hours: "Mo-Th 06:30-16:00; Fr 06:30-14:30"
-website: "https://www.borchert-berlin.de/"
+phone: +49 30 66623999
+opening_hours: Mo-Th 06:30-16:00; Fr 06:30-14:30
+website: https://www.borchert-berlin.de/

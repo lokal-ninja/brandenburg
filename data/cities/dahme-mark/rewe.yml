@@ -1,11 +1,11 @@
 id: 829194489
-type: way
+type: node
 latitude: 51.86673
 longitude: 13.43261
 postcode: "15936"
 city: Dahme/Mark
-street: "Schellstraße"
-housenumber: 12
-phone: "+49 35451-957960"
-opening_hours: "Mo-Sa 07:00-22:00; Su, PH off"
-website: "https://www.rewe.de/marktseite/dahme-mark/1931606/rewe-markt-schellstr-12-13/"
+street: Schellstraße
+housenumber: "12"
+phone: +49 35451-957960
+opening_hours: Mo-Sa 07:00-22:00; Su, PH off
+website: https://www.rewe.de/marktseite/dahme-mark/1931606/rewe-markt-schellstr-12-13/

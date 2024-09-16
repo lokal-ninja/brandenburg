@@ -4,8 +4,8 @@ latitude: 52.53584
 longitude: 13.20169
 postcode: "13597"
 city: Berlin
-street: "Carl-Schurz-Straße"
-housenumber: 12
+street: Carl-Schurz-Straße
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00;Su,PH off;2016 Jan 24 13:00-18:00; 2015 Dec 31 09:30-16:00"
+opening_hours: Mo-Sa 09:30-20:00;Su,PH off;2016 Jan 24 13:00-18:00; 2015 Dec 31 09:30-16:00
 website: ""

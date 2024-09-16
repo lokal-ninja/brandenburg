@@ -4,8 +4,8 @@ latitude: 52.47705
 longitude: 13.42078
 postcode: "12049"
 city: Berlin
-street: "Herrfurthstraße"
-housenumber: 10
+street: Herrfurthstraße
+housenumber: "10"
 phone: ""
-opening_hours: "We-Fr 14:00-19:00; Sa,Su 12:00-19:00"
+opening_hours: We-Fr 14:00-19:00; Sa,Su 12:00-19:00
 website: ""

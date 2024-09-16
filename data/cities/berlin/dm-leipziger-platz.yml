@@ -4,8 +4,8 @@ latitude: 52.51002
 longitude: 13.37976
 postcode: "10117"
 city: Berlin
-street: "Leipziger Platz"
-housenumber: 12
-phone: "+49 30 20626938"
-opening_hours: "Mo-Sa 09:30-20:00; PH,Su off"
+street: Leipziger Platz
+housenumber: "12"
+phone: +49 30 20626938
+opening_hours: Mo-Sa 09:30-20:00; PH,Su off
 website: ""

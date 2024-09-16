@@ -4,8 +4,8 @@ latitude: 52.48439
 longitude: 13.33032
 postcode: "10715"
 city: Berlin
-street: "Bundesallee"
-housenumber: 49
+street: Bundesallee
+housenumber: "49"
 phone: ""
 opening_hours: ""
 website: ""

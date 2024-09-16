@@ -1,11 +1,11 @@
 id: 61907900
-type: way
+type: node
 latitude: 52.48839
 longitude: 13.44853
 postcode: "12435"
 city: Berlin
-street: "Wildenbruchstraße"
-housenumber: 55
+street: Wildenbruchstraße
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00
 website: ""

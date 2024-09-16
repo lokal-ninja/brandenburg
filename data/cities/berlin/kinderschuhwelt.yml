@@ -4,8 +4,8 @@ latitude: 52.51079
 longitude: 13.29844
 postcode: "10627"
 city: Berlin
-street: "Bismarckstraße"
-housenumber: 69
+street: Bismarckstraße
+housenumber: "69"
 phone: "+493031805142"
-opening_hours: "Mo-Fr 10:00-18:00; Sa 10:00-15:00"
-website: "https://kinderschuhwelt.de/"
+opening_hours: Mo-Fr 10:00-18:00; Sa 10:00-15:00
+website: https://kinderschuhwelt.de/

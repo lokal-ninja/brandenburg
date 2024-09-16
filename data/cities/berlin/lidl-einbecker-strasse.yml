@@ -1,11 +1,11 @@
 id: 41440942
-type: way
+type: node
 latitude: 52.51003
 longitude: 13.50649
 postcode: "10315"
 city: Berlin
-street: "Einbecker Straße"
-housenumber: 57
+street: Einbecker Straße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH off"
-website: "https://www.lidl.de/filialen/berlin-lichtenberg/friedrichsfelde-einbecker-str-57.html"
+opening_hours: Mo-Sa 07:00-21:00; PH off
+website: https://www.lidl.de/filialen/berlin-lichtenberg/friedrichsfelde-einbecker-str-57.html

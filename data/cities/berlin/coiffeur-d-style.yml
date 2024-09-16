@@ -4,8 +4,8 @@ latitude: 52.45531
 longitude: 13.44647
 postcode: "12347"
 city: Berlin
-street: "Hannemannstraße"
-housenumber: 24
+street: Hannemannstraße
+housenumber: "24"
 phone: ""
-opening_hours: "Tu-Th 09:00-18:00; Fr 09:00-17:00"
+opening_hours: Tu-Th 09:00-18:00; Fr 09:00-17:00
 website: ""

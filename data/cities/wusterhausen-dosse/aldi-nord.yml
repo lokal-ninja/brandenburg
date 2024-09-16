@@ -1,11 +1,11 @@
 id: 137846005
-type: way
+type: node
 latitude: 52.89
 longitude: 12.45647
 postcode: "16868"
 city: Wusterhausen/Dosse
-street: "An der Klempnitz"
-housenumber: 17
+street: An der Klempnitz
+housenumber: "17"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

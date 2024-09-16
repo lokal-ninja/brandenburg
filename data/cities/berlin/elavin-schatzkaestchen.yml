@@ -4,8 +4,8 @@ latitude: 52.54497
 longitude: 13.26085
 postcode: "13629"
 city: Berlin
-street: "Rohrdamm"
-housenumber: 46
-phone: "+49 177 572 67 67"
-opening_hours: "Tu-Fr 12:00-19:00; Sa 12:00-16:00; Mo off; Su off"
-website: "https://www.elavin-geschenke.de"
+street: Rohrdamm
+housenumber: "46"
+phone: +49 177 572 67 67
+opening_hours: Tu-Fr 12:00-19:00; Sa 12:00-16:00; Mo off; Su off
+website: https://www.elavin-geschenke.de

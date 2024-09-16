@@ -4,8 +4,8 @@ latitude: 52.48149
 longitude: 13.43866
 postcode: "12043"
 city: Berlin
-street: "Erkstraße"
-housenumber: 19
+street: Erkstraße
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Fr 09:00-19:00; Sa 10:00-15:00; We,Fr,Su off"
+opening_hours: Mo-Fr 09:00-19:00; Sa 10:00-15:00; We,Fr,Su off
 website: ""

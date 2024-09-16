@@ -4,8 +4,8 @@ latitude: 52.50026
 longitude: 13.36357
 postcode: "10785"
 city: Berlin
-street: "Potsdamer Straße"
-housenumber: 105
+street: Potsdamer Straße
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:00; Sa 09:30-16:00"
+opening_hours: Mo-Fr 09:30-19:00; Sa 09:30-16:00
 website: ""

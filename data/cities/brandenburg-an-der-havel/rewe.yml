@@ -4,8 +4,8 @@ latitude: 52.42583
 longitude: 12.50377
 postcode: "14772"
 city: Brandenburg an der Havel
-street: "Veilchenweg"
-housenumber: 2
-phone: "+49 3381 7995818"
-opening_hours: "Mo-Sa 07:00-22:00"
-website: "https://www.rewe.de/marktseite/rewe-markt-brandenburg-veilchenweg-2"
+street: Veilchenweg
+housenumber: "2"
+phone: +49 3381 7995818
+opening_hours: Mo-Sa 07:00-22:00
+website: https://www.rewe.de/marktseite/rewe-markt-brandenburg-veilchenweg-2

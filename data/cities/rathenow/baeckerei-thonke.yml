@@ -4,8 +4,8 @@ latitude: 52.6059
 longitude: 12.34124
 postcode: "14712"
 city: Rathenow
-street: "Märkischer Platz"
-housenumber: 2
-phone: "+49 3385 511508"
-opening_hours: "Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 12:00-17:00"
-website: "https://www.thonke.de/filialen/rathenow.html"
+street: Märkischer Platz
+housenumber: "2"
+phone: +49 3385 511508
+opening_hours: Mo-Fr 07:00-18:00; Sa 07:00-14:00; Su 12:00-17:00
+website: https://www.thonke.de/filialen/rathenow.html

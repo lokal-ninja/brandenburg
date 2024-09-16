@@ -4,8 +4,8 @@ latitude: 52.496
 longitude: 13.5106
 postcode: "10319"
 city: Berlin
-street: "Sewanstraße"
-housenumber: 178
+street: Sewanstraße
+housenumber: "178"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:00; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-14:00
 website: ""

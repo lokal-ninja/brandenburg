@@ -4,8 +4,8 @@ latitude: 52.50543
 longitude: 13.32331
 postcode: "10623"
 city: Berlin
-street: "Kantstraße"
-housenumber: 146
-phone: "+49 (0)30 3137113"
+street: Kantstraße
+housenumber: "146"
+phone: +49 (0)30 3137113
 opening_hours: ""
-website: "https://www.ananda-berlin.de/"
+website: https://www.ananda-berlin.de/

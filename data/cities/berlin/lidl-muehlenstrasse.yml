@@ -4,8 +4,8 @@ latitude: 52.42948
 longitude: 13.2603
 postcode: "14167"
 city: Berlin
-street: "Mühlenstraße"
-housenumber: 2
+street: Mühlenstraße
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 07:00-21:00; PH,Su off"
+opening_hours: Mo-Sa 07:00-21:00; PH,Su off
 website: ""

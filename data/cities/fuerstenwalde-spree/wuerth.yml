@@ -1,11 +1,11 @@
 id: 395889535
-type: way
+type: node
 latitude: 52.35477
 longitude: 14.08728
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Thomas-Edison-Straße"
-housenumber: 1
+street: Thomas-Edison-Straße
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 116676560
-type: way
+type: node
 latitude: 52.40878
 longitude: 13.3578
 postcode: "12279"
 city: Berlin
-street: "Marienfelder Allee"
-housenumber: 202
-phone: "+49 800 4353361"
+street: Marienfelder Allee
+housenumber: "202"
+phone: +49 800 4353361
 opening_hours: ""
-website: "https://www.lidl.de/filialen/berlin-tempelhof-schoeneberg/marienfelde-marienfelder-allee-202.html"
+website: https://www.lidl.de/filialen/berlin-tempelhof-schoeneberg/marienfelde-marienfelder-allee-202.html

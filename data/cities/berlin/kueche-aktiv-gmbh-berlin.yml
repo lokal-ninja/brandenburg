@@ -1,11 +1,11 @@
 id: 219538265
-type: way
+type: node
 latitude: 52.50537
 longitude: 13.58997
 postcode: "12621"
 city: Berlin
-street: "Alt-Kaulsdorf"
+street: Alt-Kaulsdorf
 housenumber: 57A
 phone: ""
 opening_hours: ""
-website: "https://kueche-aktiv-berlin.de/"
+website: https://kueche-aktiv-berlin.de/

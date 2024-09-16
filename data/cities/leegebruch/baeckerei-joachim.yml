@@ -1,11 +1,11 @@
 id: 496945329
-type: way
+type: node
 latitude: 52.72359
 longitude: 13.19283
 postcode: "16767"
 city: Leegebruch
-street: "Eichenallee"
-housenumber: 20
-phone: "+49 3304 250222"
+street: Eichenallee
+housenumber: "20"
+phone: +49 3304 250222
 opening_hours: ""
 website: ""

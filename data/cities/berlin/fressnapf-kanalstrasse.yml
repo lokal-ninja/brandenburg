@@ -1,11 +1,11 @@
 id: 43080517
-type: way
+type: node
 latitude: 52.43039
 longitude: 13.4957
 postcode: "12357"
 city: Berlin
-street: "Kanalstraße"
-housenumber: 8
-phone: "+4930 60540223"
-opening_hours: "Mo-Fr 09:00-20:00; Sa 09:00-18:00"
-website: "https://www.fressnapf.de/maerkte/fressnapf-berlin-rudow"
+street: Kanalstraße
+housenumber: "8"
+phone: +4930 60540223
+opening_hours: Mo-Fr 09:00-20:00; Sa 09:00-18:00
+website: https://www.fressnapf.de/maerkte/fressnapf-berlin-rudow

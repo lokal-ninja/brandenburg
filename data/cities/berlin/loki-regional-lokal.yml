@@ -4,8 +4,8 @@ latitude: 52.43939
 longitude: 13.21517
 postcode: "14129"
 city: Berlin
-street: "Breisgauer Straße"
+street: Breisgauer Straße
 housenumber: 1a
-phone: "+49 30 68079188"
-opening_hours: "Mo-Fr 09:00-18:00; Sa 10:00-15:00"
-website: "https://loki.berlin"
+phone: +49 30 68079188
+opening_hours: Mo-Fr 09:00-18:00; Sa 10:00-15:00
+website: https://loki.berlin

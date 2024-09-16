@@ -4,8 +4,8 @@ latitude: 52.47107
 longitude: 13.33512
 postcode: "12159"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 65
-phone: "+49 30 8524005"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "http://nicolaische-buchhandlung.de/"
+street: Rheinstraße
+housenumber: "65"
+phone: +49 30 8524005
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: http://nicolaische-buchhandlung.de/

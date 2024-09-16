@@ -4,8 +4,8 @@ latitude: 52.47333
 longitude: 13.32769
 postcode: "12161"
 city: Berlin
-street: "Görresstraße"
-housenumber: 1
+street: Görresstraße
+housenumber: "1"
 phone: ""
-opening_hours: "We,Th 09:00-17:00; Tu,Fr 09:00-18:00; Sa 08:00-12:00; Mo off"
-website: "https://www.robert-franz-naturversand.de/"
+opening_hours: We,Th 09:00-17:00; Tu,Fr 09:00-18:00; Sa 08:00-12:00; Mo off
+website: https://www.robert-franz-naturversand.de/

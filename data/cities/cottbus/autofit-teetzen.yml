@@ -1,11 +1,11 @@
 id: 146296615
-type: way
+type: node
 latitude: 51.73899
 longitude: 14.33427
 postcode: "03050"
 city: Cottbus
-street: "Dresdener Straße"
-housenumber: 58
-phone: "+49 355 422834"
+street: Dresdener Straße
+housenumber: "58"
+phone: +49 355 422834
 opening_hours: ""
-website: "https://www.automobile-cottbus.de/"
+website: https://www.automobile-cottbus.de/

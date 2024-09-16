@@ -1,11 +1,11 @@
 id: 51679962
-type: way
+type: node
 latitude: 52.3094
 longitude: 14.48336
 postcode: "15236"
 city: Frankfurt (Oder)
-street: "Bertha-von-Suttner-Straße"
-housenumber: 10
+street: Bertha-von-Suttner-Straße
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

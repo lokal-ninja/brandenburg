@@ -4,8 +4,8 @@ latitude: 52.60472
 longitude: 12.35458
 postcode: "14712"
 city: Rathenow
-street: "Friedrich-Ebert-Ring"
-housenumber: 57
+street: Friedrich-Ebert-Ring
+housenumber: "57"
 phone: ""
-opening_hours: "Mo 08:00-16:00; Tu-Fr 08:00-18:30; Sa 08:00-12:00"
+opening_hours: Mo 08:00-16:00; Tu-Fr 08:00-18:30; Sa 08:00-12:00
 website: ""

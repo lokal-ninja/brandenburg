@@ -4,8 +4,8 @@ latitude: 52.5277
 longitude: 13.24395
 postcode: "13597"
 city: Berlin
-street: "Wiesendamm"
-housenumber: 27
+street: Wiesendamm
+housenumber: "27"
 phone: ""
 opening_hours: ""
 website: ""

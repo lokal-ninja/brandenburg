@@ -4,8 +4,8 @@ latitude: 52.52326
 longitude: 13.48086
 postcode: "10367"
 city: Berlin
-street: "Josef-Orlopp-Straße"
-housenumber: 7
-phone: "+49 30 89203251"
-opening_hours: "Mo-Su 10:00-20:30"
-website: "https://aromathaimassage-berlin.de/"
+street: Josef-Orlopp-Straße
+housenumber: "7"
+phone: +49 30 89203251
+opening_hours: Mo-Su 10:00-20:30
+website: https://aromathaimassage-berlin.de/

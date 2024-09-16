@@ -4,8 +4,8 @@ latitude: 51.76294
 longitude: 14.3467
 postcode: "03042"
 city: Cottbus
-street: "Hermannstraße"
-housenumber: 8
-phone: "+49 355 4935721"
-opening_hours: "Mo-Fr 06:30-12:00; Sa 06:30-11:00; Su,PH off"
-website: "https://www.baecker-lohse.de"
+street: Hermannstraße
+housenumber: "8"
+phone: +49 355 4935721
+opening_hours: Mo-Fr 06:30-12:00; Sa 06:30-11:00; Su,PH off
+website: https://www.baecker-lohse.de

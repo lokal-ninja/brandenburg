@@ -4,8 +4,8 @@ latitude: 52.49806
 longitude: 13.46897
 postcode: "10245"
 city: Berlin
-street: "Glasbläserallee"
-housenumber: 
-phone: "+49 30 50368214"
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-16:00"
-website: "https://radladen.berlin/"
+street: Glasbläserallee
+housenumber: ""
+phone: +49 30 50368214
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-16:00
+website: https://radladen.berlin/

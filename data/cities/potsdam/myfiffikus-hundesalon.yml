@@ -4,8 +4,8 @@ latitude: 52.39525
 longitude: 13.09096
 postcode: "14482"
 city: Potsdam
-street: "Tuchmacherstraße"
-housenumber: 49
+street: Tuchmacherstraße
+housenumber: "49"
 phone: ""
-opening_hours: "Mo-Sa nach Vereinbarung"
+opening_hours: Mo-Sa "nach Vereinbarung"
 website: ""

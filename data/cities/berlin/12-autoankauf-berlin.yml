@@ -4,8 +4,8 @@ latitude: 52.4587
 longitude: 13.44811
 postcode: "12359"
 city: Berlin
-street: "Buschkrugallee"
-housenumber: 55
+street: Buschkrugallee
+housenumber: "55"
 phone: ""
-opening_hours: "Mo-Fr 09:00-18:30; Sa 09:00-14:00"
+opening_hours: Mo-Fr 09:00-18:30; Sa 09:00-14:00
 website: ""

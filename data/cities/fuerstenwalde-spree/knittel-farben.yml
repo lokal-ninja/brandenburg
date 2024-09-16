@@ -1,11 +1,11 @@
 id: 179160025
-type: way
+type: node
 latitude: 52.37797
 longitude: 14.07778
 postcode: "15517"
 city: Fürstenwalde/Spree
-street: "Juri-Gagarin-Straße"
-housenumber: 36
-phone: "+49 3361 65100"
-opening_hours: "Mo-Fr 06:00-17:00"
-website: "https://www.knittel-farben.de/de/standort-knittel-fürstenwalde"
+street: Juri-Gagarin-Straße
+housenumber: "36"
+phone: +49 3361 65100
+opening_hours: Mo-Fr 06:00-17:00
+website: https://www.knittel-farben.de/de/standort-knittel-fürstenwalde

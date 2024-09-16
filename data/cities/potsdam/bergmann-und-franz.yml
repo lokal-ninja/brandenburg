@@ -1,11 +1,11 @@
 id: 173577793
-type: way
+type: node
 latitude: 52.36195
 longitude: 13.11543
 postcode: "14478"
 city: Potsdam
-street: "Am Buchhorst"
-housenumber: 40
+street: Am Buchhorst
+housenumber: "40"
 phone: ""
-opening_hours: "Mo-Th 06:00-16:30; Fr 06:00-14:00; PH,Sa,Su off"
+opening_hours: Mo-Th 06:00-16:30; Fr 06:00-14:00; PH,Sa,Su off
 website: ""

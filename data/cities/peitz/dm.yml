@@ -1,11 +1,11 @@
 id: 1050646481
-type: way
+type: node
 latitude: 51.85479
 longitude: 14.41204
 postcode: "03185"
 city: Peitz
-street: "Cottbuser Straße"
+street: Cottbuser Straße
 housenumber: 3B
 phone: "+4935601988990"
-opening_hours: "Mo-Sa 08:00-19:00"
-website: "https://www.dm.de/store/de-2913/peitz/cottbuser-strasse-3-b"
+opening_hours: Mo-Sa 08:00-19:00
+website: https://www.dm.de/store/de-2913/peitz/cottbuser-strasse-3-b

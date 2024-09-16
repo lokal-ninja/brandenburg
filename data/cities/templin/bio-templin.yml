@@ -4,8 +4,8 @@ latitude: 53.11865
 longitude: 13.49866
 postcode: "17268"
 city: Templin
-street: "Berliner Straße"
-housenumber: 8
-phone: "+49 3987 2000002"
-opening_hours: "Mo-Th 09:00-19:00; Fr 08:00-19:00; Sa 09:00-16:00"
-website: "https://bio-templin.de/"
+street: Berliner Straße
+housenumber: "8"
+phone: +49 3987 2000002
+opening_hours: Mo-Th 09:00-19:00; Fr 08:00-19:00; Sa 09:00-16:00
+website: https://bio-templin.de/

@@ -4,8 +4,8 @@ latitude: 52.54929
 longitude: 13.4158
 postcode: "10439"
 city: Berlin
-street: "Schönhauser Allee"
-housenumber: 80
-phone: "+49 30 44716510"
-opening_hours: "Mo-Sa 09:00-21:00"
+street: Schönhauser Allee
+housenumber: "80"
+phone: +49 30 44716510
+opening_hours: Mo-Sa 09:00-21:00
 website: ""

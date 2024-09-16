@@ -1,11 +1,11 @@
 id: 407320713
-type: way
+type: node
 latitude: 52.52463
 longitude: 13.37029
 postcode: "10557"
 city: Berlin
-street: "Europaplatz"
-housenumber: 1
+street: Europaplatz
+housenumber: "1"
 phone: ""
-opening_hours: "Mo-Sa 07:00-22:00; Su 08:00-22:00; PH 08:00-22:00"
+opening_hours: Mo-Sa 07:00-22:00; Su 08:00-22:00; PH 08:00-22:00
 website: ""

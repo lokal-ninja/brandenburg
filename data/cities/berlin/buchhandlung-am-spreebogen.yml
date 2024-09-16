@@ -4,8 +4,8 @@ latitude: 52.52341
 longitude: 13.34934
 postcode: "10557"
 city: Berlin
-street: "Kirchstraße"
-housenumber: 21
+street: Kirchstraße
+housenumber: "21"
 phone: ""
-opening_hours: "Mo-Fr 11:00-18:00; Sa 11:00-15:00"
+opening_hours: Mo-Fr 11:00-18:00; Sa 11:00-15:00
 website: ""

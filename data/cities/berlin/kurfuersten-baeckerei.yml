@@ -4,8 +4,8 @@ latitude: 52.42635
 longitude: 13.33521
 postcode: "12249"
 city: Berlin
-street: "Kurfürstenstraße"
-housenumber: 31
+street: Kurfürstenstraße
+housenumber: "31"
 phone: ""
-opening_hours: "Tu-Fr 07:00-17:00; Sa 06:30-12:00; Su 07:30-15:00 ; Mo closed"
+opening_hours: Tu-Fr 07:00-17:00; Sa 06:30-12:00; Su 07:30-15:00 ; Mo closed
 website: ""

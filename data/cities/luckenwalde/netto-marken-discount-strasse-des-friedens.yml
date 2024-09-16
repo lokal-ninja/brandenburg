@@ -1,11 +1,11 @@
 id: 702555987
-type: way
+type: node
 latitude: 52.09476
 longitude: 13.15262
 postcode: "14943"
 city: Luckenwalde
-street: "Straße des Friedens"
-housenumber: 13
+street: Straße des Friedens
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 07:00-20:00"
+opening_hours: Mo-Sa 07:00-20:00
 website: ""

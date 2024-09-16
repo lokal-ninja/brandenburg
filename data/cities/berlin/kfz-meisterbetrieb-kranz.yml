@@ -1,11 +1,11 @@
 id: 197671083
-type: way
+type: node
 latitude: 52.37777
 longitude: 13.64593
 postcode: "12527"
 city: Berlin
-street: "Adlergestell"
-housenumber: 762
+street: Adlergestell
+housenumber: "762"
 phone: ""
 opening_hours: ""
 website: ""

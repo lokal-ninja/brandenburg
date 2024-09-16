@@ -4,8 +4,8 @@ latitude: 52.46848
 longitude: 13.33172
 postcode: "12161"
 city: Berlin
-street: "Rheinstraße"
-housenumber: 22
-phone: "+49 30 85962501"
-opening_hours: "Mo-Th 10:00-18:00; Sa 10:00-14:00; Fr 14:00-18:00"
-website: "https://shops.oxfam.de/shops/berlin-schoeneberg"
+street: Rheinstraße
+housenumber: "22"
+phone: +49 30 85962501
+opening_hours: Mo-Th 10:00-18:00; Sa 10:00-14:00; Fr 14:00-18:00
+website: https://shops.oxfam.de/shops/berlin-schoeneberg

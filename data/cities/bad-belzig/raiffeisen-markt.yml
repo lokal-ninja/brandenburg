@@ -1,11 +1,11 @@
 id: 341815950
-type: way
+type: node
 latitude: 52.13874
 longitude: 12.59842
 postcode: "14806"
 city: Bad Belzig
-street: "Karl-Marx-Straße"
-housenumber: 18
-phone: "+49 3381 587 0"
-opening_hours: "Mo-Fr 08:00-18:00; Sa 08:00-12:00"
+street: Karl-Marx-Straße
+housenumber: "18"
+phone: +49 3381 587 0
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

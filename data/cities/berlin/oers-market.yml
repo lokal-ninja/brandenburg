@@ -4,8 +4,8 @@ latitude: 52.50656
 longitude: 13.38966
 postcode: "10969"
 city: Berlin
-street: "Kochstraße"
-housenumber: 14
-phone: "+49 172 3103485"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:30-18:00"
+street: Kochstraße
+housenumber: "14"
+phone: +49 172 3103485
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:30-18:00
 website: ""

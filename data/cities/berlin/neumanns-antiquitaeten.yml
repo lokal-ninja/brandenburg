@@ -4,8 +4,8 @@ latitude: 52.50919
 longitude: 13.29671
 postcode: ""
 city: Berlin
-street: "Suarezstraße"
-housenumber: 57
+street: Suarezstraße
+housenumber: "57"
 phone: ""
-opening_hours: "Mo-Fr 10:00-19:00; Sa 10:00-17:00"
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-17:00
 website: ""

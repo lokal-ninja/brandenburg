@@ -1,11 +1,11 @@
 id: 589639983
-type: way
+type: node
 latitude: 52.86012
 longitude: 12.43286
 postcode: "16845"
 city: Neustadt (Dosse)
-street: "Prinz-von-Homburg-Straße"
-housenumber: 13
+street: Prinz-von-Homburg-Straße
+housenumber: "13"
 phone: ""
 opening_hours: ""
-website: "https://www.netto-online.de"
+website: https://www.netto-online.de

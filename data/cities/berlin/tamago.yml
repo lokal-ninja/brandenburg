@@ -4,8 +4,8 @@ latitude: 52.49772
 longitude: 13.42391
 postcode: "10999"
 city: Berlin
-street: "Reichenberger Straße"
-housenumber: 155
+street: Reichenberger Straße
+housenumber: "155"
 phone: ""
 opening_hours: ""
-website: "https://tamago.run/"
+website: https://tamago.run/

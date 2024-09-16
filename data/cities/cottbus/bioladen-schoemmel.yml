@@ -4,8 +4,8 @@ latitude: 51.75755
 longitude: 14.33797
 postcode: "03046"
 city: Cottbus
-street: "Franz-Mehring-Straße"
-housenumber: 62
-phone: "+49 355 782 799 87"
-opening_hours: "Mo-Fr 08:00-19:00; Sa 08:00-16:00"
-website: "https://bioladen-cottbus.de/bioladen-schoemmel/"
+street: Franz-Mehring-Straße
+housenumber: "62"
+phone: +49 355 782 799 87
+opening_hours: Mo-Fr 08:00-19:00; Sa 08:00-16:00
+website: https://bioladen-cottbus.de/bioladen-schoemmel/

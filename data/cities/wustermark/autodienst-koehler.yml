@@ -4,8 +4,8 @@ latitude: 52.54439
 longitude: 12.95415
 postcode: "14641"
 city: Wustermark
-street: "Kirchstraße"
-housenumber: 2
-phone: "+49 33234 88751"
-opening_hours: "Mo-Th 07:00-17:00; Fr 07:00-16:00"
-website: "https://www.ad-autodienst.net/"
+street: Kirchstraße
+housenumber: "2"
+phone: +49 33234 88751
+opening_hours: Mo-Th 07:00-17:00; Fr 07:00-16:00
+website: https://www.ad-autodienst.net/

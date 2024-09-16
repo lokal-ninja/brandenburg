@@ -1,11 +1,11 @@
 id: 182626828
-type: way
+type: node
 latitude: 52.6713
 longitude: 13.5695
 postcode: "16321"
 city: Bernau bei Berlin
-street: "Krokusstraße"
-housenumber: 14
-phone: "+49 3338 39990"
+street: Krokusstraße
+housenumber: "14"
+phone: +49 3338 39990
 opening_hours: ""
-website: "https://www.bmw-skjellet.de/"
+website: https://www.bmw-skjellet.de/
