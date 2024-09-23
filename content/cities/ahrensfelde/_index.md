@@ -1,6 +1,6 @@
 ---
 title: Ahrensfelde
 url: /ahrensfelde/
-latitude: 52.549
-longitude: 13.596
+latitude: 52.574
+longitude: 13.575
 ---
