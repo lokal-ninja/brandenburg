@@ -7,5 +7,6 @@ city: Ahrensfelde
 street: Dorfstraße
 housenumber: "18"
 phone: +49 1520 6499206
-opening_hours: ""
+opening_hours: Mo,Tu,Th 08:00-20:00 open "Termine nur nach Vereinbarung!", We,Fr 08:00-13:00
+    open "Termine nur nach Vereinbarung!"; PH off
 website: ""

@@ -1,5 +1,5 @@
 ---
 title: "Villa Gaia"
 url: /berlin/villa-gaia/
-shop: Modehaus
+shop: Kleidung
 ---

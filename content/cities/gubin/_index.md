@@ -1,6 +1,6 @@
 ---
 title: Gubin
 url: /gubin/
-latitude: 51.952
-longitude: 14.724
+latitude: 51.961
+longitude: 14.721
 ---
