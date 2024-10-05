@@ -1,5 +1,5 @@
 ---
 title: "Asatop"
 url: /berlin/asatop/
-shop: Hanf
+shop: Allgemein
 ---

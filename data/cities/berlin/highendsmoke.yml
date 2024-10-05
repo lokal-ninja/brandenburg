@@ -7,5 +7,5 @@ city: Berlin
 street: Marzahner Promenade
 housenumber: "26"
 phone: ""
-opening_hours: Mo-Sa 10:00-19:00
+opening_hours: Mo-Th 10:00-19:00; Fr 10:00-20:00; Sa 10:00-16:00
 website: ""

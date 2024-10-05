@@ -1,6 +1,6 @@
 ---
 title: Słubice
 url: /slubice/
-latitude: 52.352
-longitude: 14.56
+latitude: 52.35
+longitude: 14.557
 ---
