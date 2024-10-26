@@ -7,5 +7,5 @@ city: Berlin
 street: Pannierstraße
 housenumber: "10"
 phone: ""
-opening_hours: Mo-Sa 13:00-18:00
+opening_hours: Mo-Fr 13:00-18:00; Sa 13:00-19:00
 website: ""

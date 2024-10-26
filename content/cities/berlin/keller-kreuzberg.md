@@ -1,5 +1,5 @@
 ---
 title: "Keller Kreuzberg"
 url: /berlin/keller-kreuzberg/
-shop: Allgemein
+shop: Andenken
 ---
