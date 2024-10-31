@@ -7,5 +7,5 @@ city: Berlin
 street: Bahnhofstraße
 housenumber: "59"
 phone: +4930 3937176 1
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-13:00
+opening_hours: Mo-Fr 09:00-18:00; Sa[2] 09:00-13:00; Sa[4] 09:00-13:00
 website: https://www.flemming-klingbeil.de/filialen/lichtenrade
