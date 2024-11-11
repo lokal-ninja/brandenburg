@@ -1,5 +1,5 @@
 ---
-title: "meyburg"
+title: "Meyburg"
 url: /berlin/meyburg/
-shop: Kleidung
+shop: Taschen & Koffer
 ---

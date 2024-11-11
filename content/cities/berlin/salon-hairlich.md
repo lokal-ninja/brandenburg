@@ -1,5 +1,5 @@
 ---
-title: "salon Hairlich"
+title: "Salon Hairlich"
 url: /berlin/salon-hairlich/
 shop: Friseur
 ---
