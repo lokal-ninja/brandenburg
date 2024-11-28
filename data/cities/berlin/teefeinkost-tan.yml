@@ -7,5 +7,5 @@ city: Berlin
 street: Crellestraße
 housenumber: "7"
 phone: ""
-opening_hours: Mo-We,Fr 12:00-19:00; Sa 11:00-15:00; Th 14:00-19:00
+opening_hours: Mo,Tu,Fr 12:00-19:00; Sa 11:00-15:00; Th 14:00-19:00
 website: ""

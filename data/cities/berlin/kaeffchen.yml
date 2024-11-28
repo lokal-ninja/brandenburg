@@ -7,5 +7,5 @@ city: Berlin
 street: Kaulbachstraße
 housenumber: "71"
 phone: +49 174 3808292
-opening_hours: Mo off; Tu-Su 07:30-13:00
+opening_hours: Mo,Tu off; We-Fr 07:30-15:00; Sa,Su 07:30-13:00
 website: ""
