@@ -1,6 +1,6 @@
 ---
 title: Senftenberg
 url: /senftenberg/
-latitude: 51.517
-longitude: 14.003
+latitude: 51.511
+longitude: 13.981
 ---
