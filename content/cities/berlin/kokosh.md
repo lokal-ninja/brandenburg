@@ -1,5 +1,5 @@
 ---
 title: "Kokosh"
 url: /berlin/kokosh/
-shop: Friseur
+shop: Kosmetik
 ---
