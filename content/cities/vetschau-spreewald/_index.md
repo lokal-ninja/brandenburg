@@ -1,6 +1,6 @@
 ---
 title: Vetschau/Spreewald
 url: /vetschau-spreewald/
-latitude: 51.78
-longitude: 14.084
+latitude: 51.784
+longitude: 14.075
 ---

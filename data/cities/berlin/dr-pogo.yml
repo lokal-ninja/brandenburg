@@ -7,5 +7,5 @@ city: Berlin
 street: Karl-Marx-Platz
 housenumber: "24"
 phone: ""
-opening_hours: Mo-Fr 09:00-20:00; We 12:00-20:00; Sa 09:00-16:00
+opening_hours: Mo,Tu,Th,Fr 09:00-20:00; We 12:00-20:00; Sa 09:00-16:00; Su,PH off
 website: ""

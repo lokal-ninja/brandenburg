@@ -1,6 +1,6 @@
 ---
 title: Meyenburg
 url: /meyenburg/
-latitude: 53.315
-longitude: 12.241
+latitude: 53.306
+longitude: 12.235
 ---
