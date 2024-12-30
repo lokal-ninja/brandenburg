@@ -1,6 +1,6 @@
 ---
 title: Putlitz
 url: /putlitz/
-latitude: 53.251
+latitude: 53.25
 longitude: 12.045
 ---
