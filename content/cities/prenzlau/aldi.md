@@ -1,5 +1,5 @@
 ---
-title: "ALDI"
+title: "Aldi"
 url: /prenzlau/aldi/
 shop: Supermarkt
 ---

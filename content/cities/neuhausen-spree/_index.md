@@ -1,6 +1,6 @@
 ---
 title: Neuhausen/Spree
 url: /neuhausen-spree/
-latitude: 51.666
-longitude: 14.347
+latitude: 51.667
+longitude: 14.348
 ---

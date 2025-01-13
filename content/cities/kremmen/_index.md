@@ -1,6 +1,6 @@
 ---
 title: Kremmen
 url: /kremmen/
-latitude: 52.73
-longitude: 12.993
+latitude: 52.803
+longitude: 13.031
 ---
