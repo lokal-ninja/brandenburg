@@ -1,11 +1,11 @@
 id: 1359236127
 type: node
-latitude: 52.53682
+latitude: 52.53681
 longitude: 13.42825
 postcode: "10405"
 city: Berlin
 street: Winsstraße
 housenumber: "33"
 phone: "+49304421012"
-opening_hours: Mo-Th 12:00-18:00
+opening_hours: Mo-Th 12:00-18:00; Fr-Su off
 website: http://shop.alphabet-berlin.de/
