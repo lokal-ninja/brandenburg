@@ -1,5 +1,5 @@
 ---
-title: "GECO"
+title: "Geco"
 url: /teltow/geco/
-shop: Kiosk
+shop: Zeitungen
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Robinhood.store"
+title: "Robinhood Store"
 url: /berlin/robinhood-store/
-shop: Supermarkt
+shop: Lebensmittel
 ---

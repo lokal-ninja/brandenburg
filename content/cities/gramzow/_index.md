@@ -1,6 +1,6 @@
 ---
 title: Gramzow
 url: /gramzow/
-latitude: 53.21
-longitude: 14.003
+latitude: 53.213
+longitude: 14.011
 ---

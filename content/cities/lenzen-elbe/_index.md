@@ -1,6 +1,6 @@
 ---
 title: Lenzen (Elbe)
 url: /lenzen-elbe/
-latitude: 53.091
+latitude: 53.092
 longitude: 11.474
 ---
