@@ -7,5 +7,5 @@ city: Berlin
 street: Pichelsdorfer Straße
 housenumber: "129"
 phone: "+4903036504067"
-opening_hours: Mo-Sa 10:00-18:00
+opening_hours: Mo-Fr 10:00-18:00; Sa 12:00-18:00
 website: ""

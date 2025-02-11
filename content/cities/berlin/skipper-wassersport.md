@@ -1,5 +1,5 @@
 ---
 title: "Skipper Wassersport"
 url: /berlin/skipper-wassersport/
-shop: Allgemein
+shop: Sport
 ---

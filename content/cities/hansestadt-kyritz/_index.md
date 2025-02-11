@@ -1,6 +1,6 @@
 ---
 title: Hansestadt Kyritz
 url: /hansestadt-kyritz/
-latitude: 52.937
-longitude: 12.407
+latitude: 52.916
+longitude: 12.432
 ---
