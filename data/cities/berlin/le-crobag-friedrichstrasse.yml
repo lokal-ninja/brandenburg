@@ -7,5 +7,5 @@ city: Berlin
 street: Friedrichstraße
 housenumber: "142"
 phone: ""
-opening_hours: Mo-Th 04:00-22:00; Fr 04:00-22:00; Sa 04:00-21:00; PH,Su 04:00-21:00
+opening_hours: Mo-Th 04:00-23:00; Fr 04:00-23:00; Sa 04:00-23:00; Su,PH 04:00-23:00
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Geco"
+title: "GECO"
 url: /berlin/geco/
-shop: Kiosk
+shop: Zeitungen
 ---
