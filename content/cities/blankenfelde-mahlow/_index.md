@@ -1,6 +1,6 @@
 ---
 title: Blankenfelde-Mahlow
 url: /blankenfelde-mahlow/
-latitude: 52.357
-longitude: 13.432
+latitude: 52.332
+longitude: 13.394
 ---
