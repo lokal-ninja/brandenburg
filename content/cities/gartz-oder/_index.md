@@ -1,6 +1,6 @@
 ---
 title: Gartz (Oder)
 url: /gartz-oder/
-latitude: 53.211
-longitude: 14.372
+latitude: 53.208
+longitude: 14.389
 ---
