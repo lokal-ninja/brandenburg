@@ -1,11 +1,11 @@
 id: 237397329
 type: node
-latitude: 51.47511
-longitude: 13.5113
+latitude: 51.47512
+longitude: 13.51129
 postcode: "04910"
 city: Elsterwerda
 street: Berliner Straße
 housenumber: "63"
 phone: +49 3533 2929
-opening_hours: Mo-Fr 08:00-18:00 Sa 08:00-12:00
+opening_hours: Mo-Fr 08:00-18:00; Sa 08:00-12:00
 website: ""

@@ -7,5 +7,5 @@ city: Berlin
 street: Greifswalder Straße
 housenumber: "191"
 phone: ""
-opening_hours: Tu,Fr 09:30-18:30; We,Th 09:30-20:00; Sa 09:30-16:00; PH,Su,Mo off
+opening_hours: Tu,Fr 09:30-18:30; We,Th 09:30-20:00; Sa 09:30-16:00; Su,Mo,PH off
 website: ""

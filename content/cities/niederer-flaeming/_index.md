@@ -1,6 +1,6 @@
 ---
 title: Niederer Fläming
 url: /niederer-flaeming/
-latitude: 51.864
-longitude: 13.294
+latitude: 51.89
+longitude: 13.305
 ---
