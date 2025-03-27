@@ -1,6 +1,6 @@
 ---
 title: Mittenwalde
 url: /mittenwalde/
-latitude: 52.263
-longitude: 13.537
+latitude: 52.271
+longitude: 13.538
 ---

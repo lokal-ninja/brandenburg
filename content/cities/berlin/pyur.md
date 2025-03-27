@@ -1,5 +1,5 @@
 ---
-title: "PŸUR"
+title: "PYUR"
 url: /berlin/pyur/
 shop: Handy
 ---

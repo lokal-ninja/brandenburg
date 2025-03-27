@@ -1,5 +1,5 @@
 ---
 title: "Wundervino"
 url: /berlin/wundervino/
-shop: Wein
+shop: Leerstehend
 ---

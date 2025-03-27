@@ -7,5 +7,5 @@ city: Berlin
 street: Frankfurter Allee
 housenumber: 111A
 phone: +49 30 76583010
-opening_hours: PH,Mo-Su 05:00-20:00
+opening_hours: Mo-Su,PH 05:00-20:00, Sa 06:00-20:00, Su 06:00-20:00
 website: https://www.back-werk.de
