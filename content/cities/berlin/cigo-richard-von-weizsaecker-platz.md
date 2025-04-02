@@ -1,5 +1,5 @@
 ---
 title: "Cigo"
 url: /berlin/cigo-richard-von-weizsaecker-platz/
-shop: Kiosk
+shop: Zeitungen
 ---

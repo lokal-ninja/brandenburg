@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /berlin/norma-seelenbinderstrasse/
 shop: Supermarkt
 ---

@@ -7,5 +7,5 @@ city: Potsdam
 street: Neuendorfer Straße
 housenumber: "15"
 phone: ""
-opening_hours: Mo-Fr 09:00-18:00; Sa 09:00-12:00; PH,Su off
+opening_hours: Mo,Fr 12:00-16:00; Tu-Th 09:00-13:00; Sa,Su,PH off
 website: ""
