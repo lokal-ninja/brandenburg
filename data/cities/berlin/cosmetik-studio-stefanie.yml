@@ -6,6 +6,6 @@ postcode: "12459"
 city: Berlin
 street: Goethestraße
 housenumber: "35"
-phone: +49 30 5373039
-opening_hours: Mo-Fr 09:00-18:30
+phone: ""
+opening_hours: Mo-Fr 09:00-15:00 || "nach Vereinbarung"
 website: ""
