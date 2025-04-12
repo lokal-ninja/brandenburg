@@ -1,6 +1,6 @@
 ---
 title: Falkenberg/Elster
 url: /falkenberg-elster/
-latitude: 51.582
-longitude: 13.195
+latitude: 51.587
+longitude: 13.242
 ---
