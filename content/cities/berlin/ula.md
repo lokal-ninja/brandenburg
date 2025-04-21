@@ -1,5 +1,5 @@
 ---
-title: "Ula"
+title: "ULa"
 url: /berlin/ula/
 shop: Gebrauchtwaren
 ---
