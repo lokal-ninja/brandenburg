@@ -7,6 +7,5 @@ city: Berlin
 street: Britzer Damm
 housenumber: "2"
 phone: "+491747467355"
-opening_hours: Mo,Tu 09:00-17:00; Th 09:00-18:00; Fr 12:00-17:00; Sa 10:00-15:00;
-    We,Su, PH off
+opening_hours: Mo,Tu,Th 09:00-15:00; Fr 11:00-15:00; Sa 10:00-15:00; We off
 website: https://www.änderungsschneiderein-jinan.de
