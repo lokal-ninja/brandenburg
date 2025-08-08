@@ -1,5 +1,5 @@
 ---
 title: "Scania"
 url: /ludwigsfelde/scania/
-shop: Autohaus
+shop: Allgemein
 ---

@@ -7,5 +7,6 @@ city: Berlin
 street: Brunnenstraße
 housenumber: "13"
 phone: ""
-opening_hours: Mo-Fr 12:00-19:00; Sa 11:00-18:00
+opening_hours: Mo 12:01-18:59; Tu 11:59-19:01; We 12:02-18:56; Th 11:58-18:57; Fr
+    12:00-19:00; Sa 11:01-18:02
 website: https://civilistberlin.com

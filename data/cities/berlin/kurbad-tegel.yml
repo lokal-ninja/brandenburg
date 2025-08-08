@@ -1,11 +1,11 @@
 id: 1710144952
 type: node
-latitude: 52.58869
-longitude: 13.27968
+latitude: 52.58865
+longitude: 13.27975
 postcode: "13507"
 city: Berlin
 street: Alt-Tegel
 housenumber: "23"
 phone: "+49304339127"
-opening_hours: Mo-Fr 08:00-19:00, Sa 09:00-14:00
+opening_hours: Mo,We 11:00-18:00; Tu,Th 08:00-14:00; Fr 08:00-13:00
 website: ""

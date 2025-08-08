@@ -7,5 +7,5 @@ city: Hansestadt Kyritz
 street: Marktplatz
 housenumber: "16"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th 08:00-12:30,13:30-18:00; We,Fr 08:00-15:00
 website: ""

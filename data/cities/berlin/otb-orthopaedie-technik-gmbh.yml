@@ -7,6 +7,5 @@ city: Berlin
 street: Helene-Weigel-Platz
 housenumber: 11c
 phone: ""
-opening_hours: Mo 09:00-12:00,12:30-16:00; We 10:00-13:00,13:30-18:00; Fr 09:00-12:00,12:30-15:00;
-    Tu,Th,Sa,Su,PH off
+opening_hours: Mo,Tu,Th 09:00-12:00,12:30-16:00; We,Fr 09:00-14:00; Sa off
 website: ""

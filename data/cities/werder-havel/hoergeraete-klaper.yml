@@ -7,6 +7,6 @@ city: Werder (Havel)
 street: Unter den Linden
 housenumber: 1A
 phone: ""
-opening_hours: Mo 08:00-13:00,13:30-17:30; Tu,Th 08:00-13:00,13:30-18:00; We,Fr 08:00-13:00;
-    PH,Sa,Su off
+opening_hours: Mo 08:00-13:00,13:30-16:00; Tu,Th 08:00-13:00,13:30-18:00; We,Fr 08:00-13:00;
+    Sa,Su,PH off
 website: ""

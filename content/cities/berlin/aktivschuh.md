@@ -1,5 +1,5 @@
 ---
-title: "Aktivschuh"
+title: "aktivschuh"
 url: /berlin/aktivschuh/
 shop: Schuhe
 ---

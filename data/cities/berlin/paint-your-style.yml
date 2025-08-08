@@ -7,6 +7,5 @@ city: Berlin
 street: Simplonstraße
 housenumber: "8"
 phone: ""
-opening_hours: Jan-Oct Mo-Sa 12:00-20:00; Nov-Dec Su-Th 12:00-20:00; Nov-Dec Fr,Sa
-    12:00-21:00
+opening_hours: Jan-Oct Mo-Sa 11:30-20:00; Nov-Dec Mo-Su 11:30-20:00
 website: ""

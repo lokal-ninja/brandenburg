@@ -1,13 +1,11 @@
-id: 7709526506
+id: 2557705836
 type: node
-latitude: 52.50115
-longitude: 13.49173
-postcode: "10317"
+latitude: 52.52661
+longitude: 13.3397
+postcode: "10551"
 city: Berlin
-street: Lückstraße
-housenumber: "22"
+street: Turmstraße
+housenumber: "34"
 phone: ""
-opening_hours: 'Mar Su[-1]-Oct Su[-1] -1 day: Mo-Th,Sa 08:00-00:00; Mar Su[-1]-Oct
-    Su[-1] -1 day: Fr 08:00-02:00; Oct Su[-1]-Mar Su[-1] -1 day: Mo-Th 10:00-22:00;
-    Oct Su[-1]-Mar Su[-1] -1 day: Fr-Sa 10:00-00:00; Su,PH off'
+opening_hours: ""
 website: ""

@@ -1,6 +1,6 @@
 ---
 title: Märkisch Buchholz
 url: /maerkisch-buchholz/
-latitude: 52.11
-longitude: 13.762
+latitude: 52.078
+longitude: 13.807
 ---

@@ -7,5 +7,5 @@ city: Berlin
 street: Petersburger Straße
 housenumber: 74b
 phone: ""
-opening_hours: Mo-Fr 11:00-19:00; Sa 11:00-18:00
+opening_hours: Mo,Tu,Th,Fr 11:00-19:00; We 11:00-17:00
 website: ""

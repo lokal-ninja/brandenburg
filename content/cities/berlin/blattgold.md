@@ -1,5 +1,5 @@
 ---
 title: "Blattgold"
 url: /berlin/blattgold/
-shop: Blumen
+shop: Bücher
 ---

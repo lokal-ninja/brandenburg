@@ -7,6 +7,5 @@ city: Berlin
 street: Jungfernheideweg
 housenumber: "1"
 phone: +49 30 39888988
-opening_hours: 'Apr-Oct: Mo-Fr 09:00-18:30; Apr-Oct: Sa 09:00-14:30; Nov-Feb: Mo-Fr
-    10:00-18:30; Nov-Feb: Sa 10:00-14:30'
+opening_hours: Mo-Fr 10:00-18:30; Sa 10:00-14:30
 website: https://www.norm-radstation.de/

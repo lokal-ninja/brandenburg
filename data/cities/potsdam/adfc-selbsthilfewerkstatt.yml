@@ -7,5 +7,6 @@ city: Potsdam
 street: Gutenbergstraße
 housenumber: "76"
 phone: ""
-opening_hours: Mar 01-Oct 31 Tu 16:00-18:00; Nov 01-Feb 28 Tu[1] 16:00-18:00; PH off
+opening_hours: Mar 01-Oct 31 Tu[1,3] 16:00-18:00; Nov 01-Feb 28 Tu[1] 16:00-18:00;
+    PH off
 website: ""

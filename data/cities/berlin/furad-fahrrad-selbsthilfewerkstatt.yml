@@ -7,5 +7,6 @@ city: Berlin
 street: Fabeckstraße
 housenumber: "30"
 phone: ""
-opening_hours: Mo 16:00-19:00
+opening_hours: 'Mo 16:00-20:00; PH off "if not mentioned else"; We 15:00-19:00; Tu[-1]
+    15:00-19:00 open "FLINTA* only"; '
 website: https://www.furad.de/
