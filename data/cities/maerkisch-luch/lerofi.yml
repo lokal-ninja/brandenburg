@@ -7,5 +7,5 @@ city: Märkisch Luch
 street: Bahnhofstraße
 housenumber: "23"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,We,Fr,Su 17:00-20:00; Tu,Th,Sa off
 website: ""

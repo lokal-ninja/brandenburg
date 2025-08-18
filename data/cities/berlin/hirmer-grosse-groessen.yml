@@ -7,5 +7,5 @@ city: Berlin
 street: Schloßstraße
 housenumber: "130"
 phone: +49 30 7974230
-opening_hours: PH,Su off; Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00
+opening_hours: Su,PH off; Mo-Th 10:00-19:00; Fr,Sa 10:00-20:00
 website: https://www.hirmer-grosse-groessen.de/filialen/berlin/
