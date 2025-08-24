@@ -1,6 +1,6 @@
 ---
 title: Eichwalde
 url: /eichwalde/
-latitude: 52.373
-longitude: 13.617
+latitude: 52.372
+longitude: 13.616
 ---
