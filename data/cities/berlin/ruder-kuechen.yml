@@ -1,11 +1,11 @@
-id: 6481555289
+id: 1234641201
 type: node
-latitude: 52.53538
-longitude: 13.20324
-postcode: "13597"
+latitude: 52.45678
+longitude: 13.57757
+postcode: ""
 city: Berlin
-street: Breite Straße
-housenumber: "1"
+street: Bahnhofstraße
+housenumber: "42"
 phone: ""
-opening_hours: Tu-Sa 10:00-19:00; Su,Mo off
+opening_hours: Mo-Fr 10:00-19:00; Sa 10:00-18:00; PH off
 website: ""
