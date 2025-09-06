@@ -7,5 +7,5 @@ city: Berlin
 street: Weinmeisterstraße
 housenumber: "4"
 phone: ""
-opening_hours: Mo-Fr 14:00-20:00; Sa 13:00-20:00; PH,Su off
+opening_hours: Mo-Th 14:00-20:00; Fr 14:00-24:00; Sa 13:00-24:00; Su,PH off
 website: ""
