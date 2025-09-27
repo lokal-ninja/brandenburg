@@ -1,5 +1,5 @@
 ---
-title: "friedland & partner"
+title: "Friedland & Partner"
 url: /berlin/friedland-und-partner/
 shop: Kleidung
 ---

@@ -7,5 +7,6 @@ city: Lauchhammer
 street: Liebenwerdaer Straße
 housenumber: "46"
 phone: +49 3574 46690
-opening_hours: Mo-We 08:00-20:00; Th-Fr 08:00-21:00; Sa 08:00-20:00; PH off
+opening_hours: Mo-We 08:00-20:00, Th,Fr 08:00-21:00, Sa 08:00-20:00, Th,Fr 08:00-20:00;
+    PH off
 website: https://www.edeka.de/eh/minden-hannover/marktkauf-lauchhammer-liebenwerdaer-str.-46/index.jsp
