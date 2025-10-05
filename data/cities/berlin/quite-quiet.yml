@@ -7,5 +7,5 @@ city: Berlin
 street: Auguststraße
 housenumber: "74"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th-Sa 11:00-19:00; We off
 website: ""

@@ -1,5 +1,5 @@
 ---
-title: "Ragazzo's Wunderland"
+title: "Ragazzos Wunderland"
 url: /berlin/ragazzos-wunderland/
 shop: Lebensmittel
 ---
