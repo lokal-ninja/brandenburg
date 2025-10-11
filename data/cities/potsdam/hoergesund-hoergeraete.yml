@@ -7,6 +7,6 @@ city: Potsdam
 street: Garnstraße
 housenumber: "34"
 phone: ""
-opening_hours: Mo,We 08:00-17:00; Tu 08:00-14:00; Th 08:00-15:30; Fr 08:00-13:00;
-    Sa "on appointment"; PH,Su off
+opening_hours: Mo,We 08:00-17:00; Tu, Th 08:00-15:30; Fr 08:00-13:00; Sa "on appointment";
+    PH,Su off
 website: ""

@@ -7,5 +7,5 @@ city: Berlin
 street: Samariterstraße
 housenumber: "9"
 phone: ""
-opening_hours: Mo-Fr 08:00-18:30, Sa 08:00-16:00
+opening_hours: Mo-We,Fr,Sa 08:00-13:30, Th 13:00-18:30, Tu,We,Fr 14:00-18:30
 website: ""
