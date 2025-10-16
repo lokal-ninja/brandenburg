@@ -7,5 +7,5 @@ city: Berlin
 street: Dörpfeldstraße
 housenumber: "6"
 phone: +49 30 677 46 39
-opening_hours: Mo-Th 08:30-17:00, Fr 08:30-15:30; PH off
+opening_hours: Mo-Th 08:30-17:00; Fr 08:30-15:30 || "nach telefonischer Vereinbarung"
 website: ""

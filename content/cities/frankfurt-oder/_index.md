@@ -1,6 +1,6 @@
 ---
 title: Frankfurt (Oder)
 url: /frankfurt-oder/
-latitude: 52.34
-longitude: 14.501
+latitude: 52.313
+longitude: 14.548
 ---
