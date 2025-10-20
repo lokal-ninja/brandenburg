@@ -1,5 +1,5 @@
 ---
-title: "The 25 Hours Store"
+title: "The 25 hours STORE"
 url: /berlin/the-25-hours-store/
-shop: Lebensmittel
+shop: Kiosk
 ---

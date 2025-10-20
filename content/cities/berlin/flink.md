@@ -1,5 +1,5 @@
 ---
 title: "Flink"
 url: /berlin/flink/
-shop: Lebensmittel
+shop: Außenstelle
 ---

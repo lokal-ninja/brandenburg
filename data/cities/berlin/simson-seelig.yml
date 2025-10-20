@@ -7,6 +7,6 @@ city: Berlin
 street: Wederstraße
 housenumber: "91"
 phone: ""
-opening_hours: Apr-Oct Mo-Fr 10:00-18:00, Apr-Oct Sa 10:00-14:00; Nov-Mar Tu-Fr 12:00-18:00;
-    PH off
+opening_hours: 'Apr-Oct: Tu-Fr 10:00-18:00; Apr-Oct: Sa 10:00-14:00; Nov-Mar: Tu-Fr
+    12:00-18:00; Apr-Oct: Mo 14:00-18:00'
 website: ""
