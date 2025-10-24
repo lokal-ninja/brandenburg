@@ -1,5 +1,5 @@
 ---
-title: "See You Rent"
+title: "see you RENT"
 url: /berlin/see-you-rent/
-shop: Foto
+shop: Mieten
 ---
