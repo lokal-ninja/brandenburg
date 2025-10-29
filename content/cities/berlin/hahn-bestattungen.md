@@ -1,5 +1,5 @@
 ---
-title: "HAHN Bestattungen"
+title: "Hahn Bestattungen"
 url: /berlin/hahn-bestattungen/
 shop: Bestattungen
 ---

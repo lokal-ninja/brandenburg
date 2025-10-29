@@ -1,5 +1,5 @@
 ---
-title: "Pflanzen Kölle"
+title: "Pflanzen-Kölle"
 url: /wildau/pflanzen-koelle/
 shop: Garten-Center
 ---
