@@ -1,5 +1,5 @@
 ---
 title: "Humana"
 url: /berlin/humana-schlossstrasse/
-shop: Gebrauchtwaren
+shop: Kleidung
 ---
