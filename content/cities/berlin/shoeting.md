@@ -1,5 +1,5 @@
 ---
 title: "Shoeting"
 url: /berlin/shoeting/
-shop: Schuhe
+shop: Kleidung
 ---
