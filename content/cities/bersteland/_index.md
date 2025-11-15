@@ -1,6 +1,6 @@
 ---
 title: Bersteland
 url: /bersteland/
-latitude: 51.962
-longitude: 13.747
+latitude: 51.963
+longitude: 13.744
 ---
