@@ -1,5 +1,5 @@
 ---
 title: "Florentine"
 url: /berlin/florentine/
-shop: Raumausstattung
+shop: Kleidung
 ---
