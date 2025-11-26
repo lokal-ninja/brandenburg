@@ -1,5 +1,5 @@
 ---
-title: "NG Markt"
+title: "NG-Markt"
 url: /berlin/ng-markt/
 shop: Supermarkt
 ---
