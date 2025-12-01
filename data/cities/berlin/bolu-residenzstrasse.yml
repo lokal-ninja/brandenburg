@@ -7,5 +7,5 @@ city: Berlin
 street: Residenzstraße
 housenumber: "31"
 phone: "+493049851041"
-opening_hours: ""
-website: http://www.bolu-lebensmittel.de
+opening_hours: 'Mo-Fr: 07:00-20:00 ; Sa: 07:00-18:00; Su, PH off'
+website: https://www.bolu.de/filialen/

@@ -1,5 +1,5 @@
 ---
-title: "STEMPELHOF"
+title: "Stempelhof"
 url: /berlin/stempelhof/
-shop: Schreibwaren
+shop: Schlüsseldienst
 ---

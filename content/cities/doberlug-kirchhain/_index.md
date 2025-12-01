@@ -1,6 +1,6 @@
 ---
 title: Doberlug-Kirchhain
 url: /doberlug-kirchhain/
-latitude: 51.637
-longitude: 13.563
+latitude: 51.636
+longitude: 13.562
 ---

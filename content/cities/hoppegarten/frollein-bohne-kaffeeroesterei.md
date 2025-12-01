@@ -1,5 +1,5 @@
 ---
 title: "Frollein Bohne Kaffeerösterei"
 url: /hoppegarten/frollein-bohne-kaffeeroesterei/
-shop: Supermarkt
+shop: Kaffee
 ---
