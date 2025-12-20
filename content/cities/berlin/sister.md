@@ -1,5 +1,5 @@
 ---
 title: "Sister"
 url: /berlin/sister/
-shop: Kunst
+shop: Schmuck
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlantis"
 url: /berlin/atlantis/
-shop: Sport
+shop: Tauchen
 ---

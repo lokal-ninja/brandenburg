@@ -7,5 +7,5 @@ city: Berlin
 street: Rosenthaler Straße
 housenumber: "43"
 phone: ""
-opening_hours: Tu-Fr 12:00-18:00; PH,Su off; Sa 12:00-16:00
+opening_hours: Mo-Fr 12:00-18:00; Sa 12:00-16:00; Su,PH off
 website: ""

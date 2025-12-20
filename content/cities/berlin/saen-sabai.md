@@ -1,5 +1,5 @@
 ---
-title: "Saen Sabai"
+title: "Sän Sabai"
 url: /berlin/saen-sabai/
 shop: Massage
 ---
