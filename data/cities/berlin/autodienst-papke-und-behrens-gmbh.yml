@@ -7,5 +7,5 @@ city: Berlin
 street: Tabbertstraße
 housenumber: "14"
 phone: +49 30 535 11 40
-opening_hours: Mo-Su 07:30-18:00
+opening_hours: Mo-Th 07:30-18:00; Fr 07:30-16:30
 website: ""

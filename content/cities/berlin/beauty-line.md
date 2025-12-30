@@ -1,5 +1,5 @@
 ---
 title: "Beauty Line"
 url: /berlin/beauty-line/
-shop: Friseur
+shop: Kosmetik
 ---
