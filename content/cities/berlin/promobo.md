@@ -1,5 +1,5 @@
 ---
-title: "Promobo"
+title: "promobo"
 url: /berlin/promobo/
 shop: Andenken
 ---

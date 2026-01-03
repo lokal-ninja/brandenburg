@@ -7,5 +7,5 @@ city: Berlin
 street: Voltastraße
 housenumber: "35"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,Tu,Th-Sa 09:00-19:00; We 10:00-19:00
 website: ""
