@@ -1,6 +1,6 @@
 ---
 title: Temnitztal
 url: /temnitztal/
-latitude: 52.833
-longitude: 12.624
+latitude: 52.853
+longitude: 12.604
 ---
