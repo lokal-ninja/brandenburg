@@ -1,5 +1,5 @@
 ---
 title: "Aral"
 url: /potsdam/aral/
-shop: Lebensmittel
+shop: Kiosk
 ---

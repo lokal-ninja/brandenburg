@@ -7,5 +7,5 @@ city: Berlin
 street: Stargarder Straße
 housenumber: 12a
 phone: ""
-opening_hours: Mo-Fr 12:00-19:00; Sa 12:00-18:00
+opening_hours: Mo,We-Fr 12:00-19:00; Sa 12:00-18:00; Tu off
 website: ""

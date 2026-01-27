@@ -1,6 +1,6 @@
 ---
 title: Cottbus
 url: /cottbus/
-latitude: 51.758
-longitude: 14.334
+latitude: 51.761
+longitude: 14.333
 ---

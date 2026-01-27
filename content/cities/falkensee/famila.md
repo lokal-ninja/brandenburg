@@ -1,5 +1,5 @@
 ---
-title: "famila"
+title: "Famila"
 url: /falkensee/famila/
 shop: Supermarkt
 ---

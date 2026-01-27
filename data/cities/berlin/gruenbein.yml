@@ -7,5 +7,5 @@ city: Berlin
 street: Dircksenstraße
 housenumber: "46"
 phone: ""
-opening_hours: Mo-Th 11:00-19:00; Fr-Sa 11:00-19:30
+opening_hours: Mo,We,Th 11:00-19:00; Fr,Sa 11:00-19:30; Tu 12:00-19:00
 website: ""

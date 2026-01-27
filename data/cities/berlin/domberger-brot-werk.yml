@@ -7,6 +7,5 @@ city: Berlin
 street: Essener Straße
 housenumber: "11"
 phone: +49 30 235 60 471
-opening_hours: Mo 11:00-18:30; Tu-Th 08:00-18:30; Fr 08:00-18:00; Sa 08:00-13:00;
-    PH off
+opening_hours: Mo 11:00-18:30; Sa 08:00-13:00; PH off; Tu-Fr 08:00-18:00
 website: https://domberger-brot-werk.com/
