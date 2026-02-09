@@ -1,5 +1,5 @@
 ---
-title: "Jet"
+title: "JET"
 url: /potsdam/jet/
-shop: Allgemein
+shop: Lebensmittel
 ---
