@@ -7,5 +7,5 @@ city: Berlin
 street: Kopernikusstraße
 housenumber: "24"
 phone: +49 30 28034088
-opening_hours: Sa 15:00-24:00; Mo 18:00-23:00; Fr 18:00-24:00; Tu-Th,Su off
+opening_hours: Mo,We 18:00-23:00; Tu,Th,Su off; Fr 18:00-24:00; Sa 15:00-24:00
 website: https://www.team-spielwiese.de/

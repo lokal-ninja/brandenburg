@@ -1,6 +1,6 @@
 ---
 title: Nuthetal
 url: /nuthetal/
-latitude: 52.347
-longitude: 13.106
+latitude: 52.35
+longitude: 13.104
 ---
