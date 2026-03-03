@@ -1,5 +1,5 @@
 ---
-title: "Stana"
+title: "STANA"
 url: /berlin/stana/
 shop: Raumausstattung
 ---
