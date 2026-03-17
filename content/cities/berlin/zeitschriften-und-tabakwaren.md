@@ -1,5 +1,5 @@
 ---
-title: "Zeitschriften und Tabakwaren"
+title: "Zeitschriften & Tabakwaren"
 url: /berlin/zeitschriften-und-tabakwaren/
-shop: Kiosk
+shop: Zeitungen
 ---

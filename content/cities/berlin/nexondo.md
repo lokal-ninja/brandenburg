@@ -1,5 +1,5 @@
 ---
-title: "nexondo"
+title: "Nexondo"
 url: /berlin/nexondo/
 shop: Computer
 ---

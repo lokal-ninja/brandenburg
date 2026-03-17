@@ -1,11 +1,11 @@
-id: 439234893
+id: 443720898
 type: node
-latitude: 52.45039
-longitude: 13.62431
-postcode: "12587"
+latitude: 52.53674
+longitude: 13.20547
+postcode: "13597"
 city: Berlin
-street: Bölschestraße
-housenumber: "114"
-phone: "+49306418868"
-opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-16:00
+street: Breite Straße
+housenumber: "22"
+phone: ""
+opening_hours: Mo-Fr 09:00-19:00;Sa 09:00-18:00;Su,PH off
 website: ""
