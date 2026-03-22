@@ -7,5 +7,6 @@ city: Potsdam
 street: Fritz-Zubeil-Straße
 housenumber: "62"
 phone: +49 331 621448
-opening_hours: Mo-Fr 07:00-18:00; Sa 08:00-13:00; PH off
+opening_hours: 'Apr-Nov: Mo-Fr 07:00-18:00; Apr-Nov: Sa 08:00-13:00; Dec-Mar: Mo-Fr
+    08:00-17:00; Apr-Nov: PH off'
 website: https://www.gartentechnik-discher.net/
