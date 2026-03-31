@@ -1,5 +1,5 @@
 ---
 title: "Drynkspilot"
 url: /berlin/drynkspilot/
-shop: Spirituosen
+shop: Getränke
 ---
