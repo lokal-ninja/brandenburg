@@ -1,0 +1,5 @@
+---
+title: "Central Food & Getränkemarkt"
+url: /berlin/central-food-und-getraenkemarkt/
+shop: Lebensmittel
+---

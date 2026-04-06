@@ -1,5 +1,5 @@
 ---
-title: "Avec"
+title: "avec"
 url: /berlin/avec/
-shop: Kiosk
+shop: Lebensmittel
 ---
