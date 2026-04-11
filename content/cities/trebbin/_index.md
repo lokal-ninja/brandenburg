@@ -1,6 +1,6 @@
 ---
 title: Trebbin
 url: /trebbin/
-latitude: 52.24
-longitude: 13.125
+latitude: 52.223
+longitude: 13.218
 ---

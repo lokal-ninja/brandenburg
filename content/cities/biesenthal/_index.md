@@ -1,6 +1,6 @@
 ---
 title: Biesenthal
 url: /biesenthal/
-latitude: 52.766
-longitude: 13.636
+latitude: 52.758
+longitude: 13.66
 ---
