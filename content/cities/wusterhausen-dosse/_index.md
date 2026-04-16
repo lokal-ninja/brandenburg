@@ -1,6 +1,6 @@
 ---
 title: Wusterhausen/Dosse
 url: /wusterhausen-dosse/
-latitude: 52.883
-longitude: 12.462
+latitude: 52.89
+longitude: 12.456
 ---
