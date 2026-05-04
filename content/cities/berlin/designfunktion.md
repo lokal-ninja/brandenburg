@@ -1,5 +1,5 @@
 ---
-title: "designfunktion"
+title: "Designfunktion"
 url: /berlin/designfunktion/
 shop: Möbel
 ---
