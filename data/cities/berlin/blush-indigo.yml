@@ -7,5 +7,5 @@ city: Berlin
 street: Raumerstraße
 housenumber: "19"
 phone: ""
-opening_hours: Mo,We,Fr 12:00-18:00; Tu,Th,Su off; Sa 11:00-18:00
+opening_hours: Sa 11:00-18:00; Mo-Fr 11:00-19:00
 website: ""
