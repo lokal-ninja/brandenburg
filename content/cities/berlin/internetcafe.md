@@ -1,5 +1,5 @@
 ---
-title: "INTERNETCAFE"
+title: "Internetcafe"
 url: /berlin/internetcafe/
 shop: Lebensmittel
 ---

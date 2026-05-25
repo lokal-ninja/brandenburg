@@ -1,6 +1,6 @@
 ---
 title: Hoppegarten
 url: /hoppegarten/
-latitude: 52.516
-longitude: 13.67
+latitude: 52.542
+longitude: 13.649
 ---

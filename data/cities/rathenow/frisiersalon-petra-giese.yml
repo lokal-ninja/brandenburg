@@ -7,5 +7,5 @@ city: Rathenow
 street: Fehrbelliner Straße
 housenumber: 5 a
 phone: ""
-opening_hours: Tu,We 08:00-18:00; Th,Fr 08:00-19:00; Sa 08:00-12:00; Mo off
+opening_hours: Mo off; Tu-Fr 08:00-18:00; Sa[1],Sa[2] 08:00-12:00
 website: ""

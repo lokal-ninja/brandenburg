@@ -1,5 +1,5 @@
 ---
 title: "Wohnmobilvermietung Templin"
 url: /templin/wohnmobilvermietung-templin/
-shop: Mieten
+shop: Wohnwagen
 ---

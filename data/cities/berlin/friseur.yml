@@ -7,5 +7,5 @@ city: Berlin
 street: Weitlingstraße
 housenumber: "51"
 phone: +49 30 51488518
-opening_hours: Mo-Fr 09:00-18:00
+opening_hours: Mo,We,Fr 09:00-18:00; Tu 09:00-14:00; Th 14:00-18:00
 website: ""

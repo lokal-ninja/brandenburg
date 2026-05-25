@@ -1,5 +1,5 @@
 ---
-title: "Gentleman Barbershop"
+title: "Gentleman BarberShop"
 url: /cottbus/gentleman-barbershop/
 shop: Friseur
 ---

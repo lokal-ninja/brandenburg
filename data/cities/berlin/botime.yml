@@ -7,5 +7,5 @@ city: Berlin
 street: Hufelandstraße
 housenumber: "12"
 phone: ""
-opening_hours: nach vereinbarung
+opening_hours: '"nach Vereinbarung"'
 website: ""

@@ -7,5 +7,6 @@ city: Berlin
 street: Hönower Straße
 housenumber: "184"
 phone: +49 173 9719182
-opening_hours: Mo-Fr 07:00 Backsop+Frühstück, 12:00-21:00 Pizza / Sa+So ab 08:00
+opening_hours: Mo-Fr 07:00-12:00 "Backshop & Frühstück", 12:00-21:00 "Pizza"; Sa,Su
+    08:00+
 website: ""

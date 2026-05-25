@@ -7,5 +7,5 @@ city: Berlin
 street: Hönower Straße
 housenumber: "72"
 phone: ""
-opening_hours: ""
+opening_hours: Mo,We 08:00-14:00, Tu,Th 08:00-13:00, Tu,Th 14:00-19:00, Fr 08:00-12:00
 website: ""
