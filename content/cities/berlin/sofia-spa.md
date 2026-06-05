@@ -1,5 +1,5 @@
 ---
 title: "Sofia Spa"
 url: /berlin/sofia-spa/
-shop: Kosmetik
+shop: Leerstehend
 ---
