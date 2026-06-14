@@ -1,5 +1,5 @@
 ---
-title: "MoKambo"
+title: "Mokambo"
 url: /berlin/mokambo/
-shop: Allgemein
+shop: Haushaltsartikel
 ---

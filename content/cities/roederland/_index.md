@@ -1,6 +1,6 @@
 ---
 title: Röderland
 url: /roederland/
-latitude: 51.463
-longitude: 13.466
+latitude: 51.459
+longitude: 13.456
 ---
