@@ -1,5 +1,5 @@
 ---
-title: "Bauspezi"
+title: "BauSpezi"
 url: /elsterwerda/bauspezi/
 shop: Baumarkt
 ---
