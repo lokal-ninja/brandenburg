@@ -7,5 +7,5 @@ city: Berlin
 street: Lietzenburger Straße
 housenumber: "98"
 phone: +49 30 88676839
-opening_hours: Mo-Sa 10:00-22:00
+opening_hours: Mo-Sa 10:00-20:00; Su 12:00-19:00
 website: http://ayana-spa.de/#team
