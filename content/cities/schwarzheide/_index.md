@@ -1,6 +1,6 @@
 ---
 title: Schwarzheide
 url: /schwarzheide/
-latitude: 51.471
-longitude: 13.891
+latitude: 51.468
+longitude: 13.869
 ---
