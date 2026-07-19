@@ -1,6 +1,6 @@
 ---
 title: Dömitz
 url: /doemitz/
-latitude: 53.137
-longitude: 11.267
+latitude: 53.143
+longitude: 11.251
 ---

@@ -7,5 +7,6 @@ city: Berlin
 street: Mariendorfer Damm
 housenumber: "412"
 phone: +49 30 74 79 21 70
-opening_hours: Mo 12:00-20:00;Tu-We 9:00-18:00;Th 9:00-20:00;Fr 9:00-18:00;Sa 8:00-14:00
+opening_hours: Mo 12:00-20:00; Tu-We 09:00-18:00; Th 09:00-20:00; Fr 09:00-18:00;
+    Sa 08:00-14:00
 website: https://www.salon-selle.de/

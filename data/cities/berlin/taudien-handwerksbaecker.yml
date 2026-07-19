@@ -7,5 +7,5 @@ city: Berlin
 street: Invalidenstraße
 housenumber: "156"
 phone: "+49302829137"
-opening_hours: Mo,Tu,Fr,Sa,Su 08:0-18:00; PH,We,Th off
+opening_hours: Mo,Tu,Fr,Sa,Su 08:00-18:00; PH,We,Th off
 website: ""
