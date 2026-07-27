@@ -1,12 +1,11 @@
 id: 591020465
 type: node
-latitude: 51.99169
-longitude: 13.08857
+latitude: 51.99164
+longitude: 13.08848
 postcode: "14913"
 city: Jüterbog
 street: Oberhag
 housenumber: "67"
 phone: +49 3372 432290
-opening_hours: Mo-We 08:30-12:00,13:00-17:00; Th 08:30-12:00,13:00-18:00; Fr 08:30-12:00,13:00-15:00;
-    Sa 09:30-11:30
-website: ""
+opening_hours: ""
+website: http://www.reckter-reisen.de/
