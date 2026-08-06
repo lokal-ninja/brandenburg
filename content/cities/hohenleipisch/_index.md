@@ -1,6 +1,6 @@
 ---
 title: Hohenleipisch
 url: /hohenleipisch/
-latitude: 51.494
-longitude: 13.56
+latitude: 51.497
+longitude: 13.557
 ---

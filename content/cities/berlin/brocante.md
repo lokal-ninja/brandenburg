@@ -1,5 +1,5 @@
 ---
-title: "brocante"
+title: "Brocante"
 url: /berlin/brocante/
 shop: Möbel
 ---

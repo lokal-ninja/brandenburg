@@ -1,5 +1,5 @@
 ---
-title: "kadó"
+title: "Kado"
 url: /berlin/kado/
-shop: Süßwaren
+shop: Möbel
 ---

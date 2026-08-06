@@ -6,7 +6,7 @@ postcode: "15926"
 city: Luckau
 street: Nissanstraße
 housenumber: "14"
-phone: +49 3544 556699
-opening_hours: Mo-Fr 09:00-18:00 open "Verkauf";Sa 09:00-12:00 open "Verkauf" || Mo-Fr
-    07:00-18:00 open "Service" || Sa 09:-12:00 open "Service"
-website: https://www.awl-lieske.de/
+phone: ""
+opening_hours: Mo-Fr 08:30-18:00 open "Verkauf"; Sa 08:30-12:30 open "Verkauf" ||
+    Mo-Fr 07:30-12:00,12:30-18:00 open "Service" || Sa 09:00-12:00 open "Service"
+website: ""

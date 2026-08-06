@@ -7,5 +7,5 @@ city: Potsdam
 street: Johannes-R.-Becher-Straße
 housenumber: 65C
 phone: ""
-opening_hours: Mo-Fr 09:00-20:00 Sa 09:00-18:00
+opening_hours: Mo,We,Th 09:00-20:00; Tu 09:00-21:00; Fr 09:00-19:00; Sa,Su,PH off
 website: ""

@@ -7,5 +7,5 @@ city: Berlin
 street: Warnitzer Straße
 housenumber: "28"
 phone: ""
-opening_hours: Mo+Di 09:00-19:00, Mi-Fr 09:00-20:00, Sa 09:00-14:00
+opening_hours: Mo,Th 09:00-19:00, We-Fr 09:00-20:00, Sa 09:00-14:00
 website: ""
