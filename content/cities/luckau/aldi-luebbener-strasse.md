@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
-url: /cottbus/aldi-stadtring/
+url: /luckau/aldi-luebbener-strasse/
 shop: Supermarkt
 ---

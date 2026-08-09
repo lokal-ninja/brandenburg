@@ -1,5 +1,5 @@
 ---
 title: "OTB Sanitätsfachgeschäft"
-url: /berlin/otb-sanitaetsfachgeschaeft-berliner-allee/
+url: /berlin/otb-sanitaetsfachgeschaeft-frankfurter-allee/
 shop: Sanitätshaus
 ---

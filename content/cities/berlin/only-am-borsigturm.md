@@ -1,5 +1,5 @@
 ---
 title: "ONLY"
-url: /berlin/only-schlossstrasse/
+url: /berlin/only-am-borsigturm/
 shop: Kleidung
 ---
