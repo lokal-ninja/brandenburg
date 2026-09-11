@@ -1,5 +1,5 @@
 ---
-title: "AZZAM"
+title: "azzam"
 url: /berlin/azzam/
 shop: Supermarkt
 ---

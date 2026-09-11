@@ -7,5 +7,5 @@ city: Berlin
 street: Prenzlauer Allee
 housenumber: 45A
 phone: +49 30 55149443
-opening_hours: Mo-Fr 10:00-19:00
+opening_hours: Mo,We 10:00-15:00; Tu,Th 12:00-16:00
 website: https://reactberlin.de

@@ -7,5 +7,6 @@ city: Berlin
 street: Karl-Marx-Allee
 housenumber: "63"
 phone: +49 30 42085940
-opening_hours: Mo-Fr 10:00-19:00; PH off
+opening_hours: Mo,Fr 10:00-19:00; Tu 10:00-15:00; We 10:00-17:00; Th 10:00-16:00;
+    PH off
 website: https://www.marionwollik.de

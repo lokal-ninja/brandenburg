@@ -1,6 +1,6 @@
 ---
 title: Pritzwalk
 url: /pritzwalk/
-latitude: 53.153
-longitude: 12.179
+latitude: 53.16
+longitude: 12.174
 ---

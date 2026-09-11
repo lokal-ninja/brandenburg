@@ -7,5 +7,6 @@ city: Berlin
 street: Mahlsdorfer Straße
 housenumber: "1"
 phone: ""
-opening_hours: Mo 09:00-13:30,14:00-20:30, Tu-Th 09:30-13:30,14:00-18:00; PH off
+opening_hours: Mo 09:00-13:30,13:30-23:00; Tu-Th 09:00-13:00,13:30-18:30; Fr 09:00-15:00;
+    Sa 09:00-12:30; PH off; Su off
 website: https://www.bahngruppen.reisen/

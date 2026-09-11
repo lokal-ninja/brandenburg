@@ -7,5 +7,5 @@ city: Potsdam
 street: Erich-Weinert-Straße
 housenumber: 1a
 phone: ""
-opening_hours: PH,Su off; Mo-Sa 07:00-20:00
+opening_hours: Mo-Sa 07:00-20:00; Su,PH off
 website: ""

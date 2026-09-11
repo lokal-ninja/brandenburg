@@ -1,5 +1,5 @@
 ---
-title: "NORMA"
+title: "Norma"
 url: /forst-lausitz/norma/
 shop: Supermarkt
 ---

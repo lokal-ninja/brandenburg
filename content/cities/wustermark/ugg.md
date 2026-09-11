@@ -1,5 +1,5 @@
 ---
 title: "UGG"
 url: /wustermark/ugg/
-shop: Kleidung
+shop: Schuhe
 ---
