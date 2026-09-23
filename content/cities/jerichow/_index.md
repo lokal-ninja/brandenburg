@@ -1,6 +1,6 @@
 ---
 title: Jerichow
 url: /jerichow/
-latitude: 52.466
-longitude: 12.281
+latitude: 52.395
+longitude: 12.279
 ---

@@ -1,5 +1,5 @@
 ---
-title: "ALDI Nord"
+title: "Aldi Nord"
 url: /wusterhausen-dosse/aldi-nord/
 shop: Supermarkt
 ---
