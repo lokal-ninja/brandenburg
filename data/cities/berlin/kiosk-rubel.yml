@@ -7,5 +7,6 @@ city: Berlin
 street: Schwalbacher Straße
 housenumber: "6"
 phone: +49 30 64327779
-opening_hours: ""
+opening_hours: Mo 05:30-10:00,11:30-16:00; Tu-Fr 05:30-08:00,09:30-13:00,15:00-18:00;
+    Sa 06:30-13:00
 website: https://kiosk-rubel.metro.biz/?lang=de

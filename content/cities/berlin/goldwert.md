@@ -1,5 +1,5 @@
 ---
 title: "Goldwert"
 url: /berlin/goldwert/
-shop: Schmuck
+shop: Allgemein
 ---

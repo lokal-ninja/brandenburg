@@ -7,5 +7,5 @@ city: Teltow
 street: Kanada-Allee
 housenumber: "12"
 phone: ""
-opening_hours: Mo,Tu,Th,Sa 08:30-17:00; Fr 12:00-17:00; We,Su off
+opening_hours: Mo-Tu, Th, Sa 08:30-12:00; Fr 08:30-17:00
 website: ""

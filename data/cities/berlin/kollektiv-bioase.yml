@@ -7,5 +7,5 @@ city: Berlin
 street: Karl-Marx-Straße
 housenumber: "162"
 phone: +49 30 36461211
-opening_hours: Mo,Tu,Th,Fr 09:00-20:00, We 10:00-20:00, Sa 09:00-18:00
+opening_hours: Mo,Tu,Th,Fr 09:00-20:00; We 10:00-20:00; Sa 09:00-18:00
 website: https://bioase.berlin
