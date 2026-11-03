@@ -1,6 +1,6 @@
 ---
 title: Eisenhüttenstadt
 url: /eisenhuettenstadt/
-latitude: 52.129
-longitude: 14.636
+latitude: 52.162
+longitude: 14.624
 ---
