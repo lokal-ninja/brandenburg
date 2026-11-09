@@ -7,6 +7,6 @@ city: Werneuchen
 street: Bienengasse
 housenumber: "1"
 phone: +49 33398 912366
-opening_hours: 'Mo off;Tu,Th 09:00-13:00,15:00-18:00;We, Fr  9:00- 13:00, Sa  9 -
-    12; may-Aug Fr,Sa 15 - 18 '
+opening_hours: Mo off; Tu,Th 09:00-13:00,15:00-18:00; We,Fr 09:00-13:00, Sa 09:00-12:00;
+    May-Aug Fr,Sa 15:00-18:00
 website: http://www.imkereifachhandel-berlin.de
