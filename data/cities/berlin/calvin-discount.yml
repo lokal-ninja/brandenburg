@@ -7,5 +7,5 @@ city: Berlin
 street: Calvinstraße
 housenumber: "1"
 phone: ""
-opening_hours: Mo-Sa 07:30-20:30
+opening_hours: Mo-Sa 07:30-20:30; Su 07:30-20:30
 website: ""
